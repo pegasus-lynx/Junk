@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+int fac[26][2],k1;
+void factorize(long long n1) 
+{ 
+	k1=0;
+    int count = 0; 
+  	while (!(n1 % 2)) { 
+        n1 >>= 1;
+        count++; 
+    } 
+  	if (count) 
+        fac[k1][0]=2,fac[k1++][1]=count;
+ 	for (long long i = 3; i <= sqrt(n1); i += 2) { 
+        count = 0; 
+        while (n1 % i == 0) { 
+            count++; 
+            n1 = n1 / i; 
+        } 
+        if (count) 
+            fac[k1][0]=i,fac[k1++][1]=count;
+    } 
+ 	if (n1 > 2) 
+        fac[k1][0]=n1,fac[k1++][1]=1;
+} 
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>factor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

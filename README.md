@@ -1,18 +1,26 @@
-# General_Scripts
+# Miscellaneous Scripts and Small Projects
 
-  ### The current scripts under construction are:
-    + Attendance Script :
-      This script was started with the image in mind to make keeping attendance records easy.
-        -[] make a setup script for setting the information about the start date, subjects, etc.
-        -[] script for writing the date in the sheet.
-        -[] script for feeding the data in the excel sheet.
-        -[] script for automating the record inserting procedure.
-        
-    + Email Scripts :
-      The basic purpose of this script is to get the data of a group of emails from GMail.
-        -[] single script for reading the emails.
-        
-    + Basic Client-Server Script :
-      This consists of a pair of scripts one each for client and server part for some basic file transfer operation.
-      This script is highly specific.
-        -[] task is to make the script for more general purpose use.
+## Contents :
+
+1. Email Scripts:
+> - It consists of script to fetch data from G-Mail.
+> - Written in Python and uses imaplib, email and csv libraries.
+> - **NOTE :** Due to security constraint, Gmail does not allow the script to directly access the email.
+> You need to generate an app password for getting access to the mails.Follow the link to generate password.
+
+2. Basic Client-Server Scripts:
+> - It consists of scripts to stimulate a simple client server interaction for file transfer.
+> - Written in python.
+
+3. Attendance Scripts:
+> Basically tried to develop a simple CLI based attendance management program.
+
+4. OS Projects:
+> - One of the scripts deals with the producer consumer problem.
+> - Implementation of a shell with few basic command.
+> - Written in c.
+
+5. Sublime Snippets:
+> Consists of snippets commonly used in competitive programming.
+
+

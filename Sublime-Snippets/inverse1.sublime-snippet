@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+ull inverse1(ull a, ull m)
+{
+    ull m0 = m;
+    ull y = 0, x = 1;
+ 	if (m == 1)
+    	return 0;
+	while (a > 1)
+    {
+        ull q = a / m;
+        ull t = m;
+		m = a % m, a = t;
+        t = y;
+ 		y = x - q * y;
+        x = t;
+    }
+	while(x < 0)
+       x += m0;
+ 	return x;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inverse1</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

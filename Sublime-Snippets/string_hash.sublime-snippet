@@ -1,0 +1,50 @@
+<snippet>
+	<content><![CDATA[
+/*input
+
+*/
+#include<bits/stdc++.h>
+using namespace std;
+#define int         long long
+#define ull 		unsigned long long
+#define ll 			long long
+#define M 			444440583533
+#define pb 			emplace_back
+#define p_q 		priority_queue
+#define pii         pair<ll,ll>
+#define vi          vector<ll>
+#define vii         vector<pii>
+#define mi          map<ll,ll>
+#define mii         map<pii,ll>
+#define all(a)      (a).begin(),(a).end()
+#define sz(x)       (ll)x.size()
+#define endl        '\n'
+#define gcd(a,b)    __gcd((a),(b))
+#define lcm(a,b)    ((a)*(b)) / gcd((a),(b))
+#define ios	    	ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+#define mp 			make_pair
+#define lb 			lower_bound
+#define ub			upper_bound
+#define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
+#define ini(a,n,b)	for(ll int i=0;i<n;i++) a[i]=0;
+#define hell 		(ull)1e9
+#define DB(x) cerr << __LINE__ << ": " << #x << " = " << (x) << endl
+
+
+
+signed main(void)
+{
+	ios
+	int T;
+	cin>>T;
+	rep(t_T,1,T+1)
+	{
+		
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>string</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

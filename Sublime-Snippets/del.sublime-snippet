@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+if(root->key==val)
+			{
+				if(root->l==NULL)
+				{
+					struct node *temp=root->r;
+					free(root);
+					return temp;
+				}
+				else if(root->r==NULL)
+				{
+					struct node *temp=root->l;
+					free(root);
+					return temp;
+				}
+				struct node *temp=root->l;
+				while(temp->r!=NULL) temp=temp->r;
+				root->key=temp->key;
+				root->l=del(root->l,temp->key); 
+			}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>del</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

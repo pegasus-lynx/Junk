@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+for (int sub=${1:m}; ; sub=(sub-1)&${1:m})
+{
+	${2:you can use sub}
+	if (sub==0)  break;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>submask</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

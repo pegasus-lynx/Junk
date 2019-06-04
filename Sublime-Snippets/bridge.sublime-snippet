@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+map < pair<int,int> , bool > ed;
+bool vis3[(ll)1e5+1];
+int tin[(ll)1e5+1],low[(ll)1e5+1],timer;
+void dfs3(int s,int p=-1)
+{
+	vis3[s]=1;
+	tin[s]=low[s]=timer++;
+	for(int i:g[s])
+	{
+		if(i==p) continue;
+		if(vis3[i])
+			low[s]=min(low[s],tin[i]);
+		else
+		{
+			dfs3(i,s);
+			low[s]=min(low[s],low[to]);
+			if(low[i]>tin[s])
+				ed[{i,s}]=ed[{s,i}]=1;
+		}
+	}
+}
+void find_bridges()
+{
+	rep(i,0,n+1)
+	tin[i]=low[i]=-1;
+	rep(i,1,n+1)
+	if(!vis3[i])
+		dfs3(i);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bridge</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

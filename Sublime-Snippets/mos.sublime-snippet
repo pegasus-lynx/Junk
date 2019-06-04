@@ -1,0 +1,97 @@
+<snippet>
+	<content><![CDATA[
+/*input
+
+*/
+#include<bits/stdc++.h>
+#define ull 		unsigned long long
+#define ll 			long long
+#define M 			1000000007
+#define pb 			emplace_back
+#define p_q 		priority_queue
+#define pii         pair<ll,ll>
+#define vi          vector<ll>
+#define vii         vector<pii>
+#define mi          map<ll,ll>
+#define mii         map<pii,ll>
+#define all(a)      (a).begin(),(a).end()
+#define sz(x)       (ll)x.size()
+#define endl        '\n'
+#define gcd(a,b)    __gcd((a),(b))
+#define lcm(a,b)    ((a)*(b)) / gcd((a),(b))
+#define ios	    	ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+#define mp 			make_pair
+#define lb 			lower_bound
+#define ub			upper_bound
+#define rep(i, begin, end) for (__typeof(end) i = (begin) - ((begin) > (end)); i != (end) - ((begin) > (end)); i += 1 - 2 * ((begin) > (end)))
+#define ini(a,n,b)	for(ll int i=0;i<n;i++) a[i]=0;
+#define hell 		(ull)1e9
+#define DB(x) cerr << __LINE__ << ": " << #x << " = " << (x) << endl
+using namespace std;
+struct query{
+	ll l,r,id;
+}q[(ll)5e5+1];
+ll sq,n,q_n,cur=0;
+ll freq[(ll)5e5+1];
+bool cmp(struct query x,struct query y)
+{
+	if(x.l/sq==y.l/sq)
+		return (((x.l/sq)&1)?x.r<y.r:x.r>y.r);
+	return x.l/sq<y.l/sq;
+}
+inline add(int x)
+{
+
+}
+inline delet(int x)
+{
+
+}
+int main(void)
+{
+	ios
+
+	scanf("%d",&n);
+	int a[n];
+	rep(i,0,n)
+	scanf("%d",a+i);
+	sq=sqrt(n);
+	rep(i,0,q_n)
+	{
+		int l,r;
+		scanf("%d %d",&l,&r);
+		q[i].l=l-1;q[i].r=r-1;q[i].id=i;
+	}
+	sort(q,q+q_n,cmp);
+	ll ans[q_n];
+	int mo_l=0,mo_r=-1;
+	rep(i,0,q_n)
+	{
+		int l=q[i].l,r=q[i].r;
+		while(mo_r<r)
+		{
+			add(a[++mo_r]);
+		}
+		while(mo_r>r)
+		{
+			delet(a[mo_r--]);
+		}
+		while(mo_l<l)
+		{
+			delet(a[mo_l++]);
+		}
+		while(mo_l>l)
+		{
+			add(a[--mo_l]);
+		}
+		ans[q[i].id]=cur;
+	}
+	rep(i,0,n)
+	printf("%d\n",ans[i]);
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mos</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

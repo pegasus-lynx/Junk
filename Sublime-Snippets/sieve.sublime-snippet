@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+#define MAX  ${1:}
+bool prime[MAX];
+void sieve() 
+{          
+	ll i,j;          
+	for(i=0;i<MAX;i++) prime[i] = 1;          
+	for(i=2;i<=(int)sqrt(MAX);i++)            
+		if (prime[i])              
+			for(j=i;j*i<MAX;j++) prime[i*j] = 0;        
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sieve</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
