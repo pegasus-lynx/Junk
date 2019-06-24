@@ -1,0 +1,93 @@
+<snippet>
+	<content><![CDATA[
+class HashUtil{
+public:
+	ull hash_prime;
+	ull mod[2];
+	vector<ull> pp[2];
+
+	HashUtil(ull p=79,ull m1=1e9+9,ull m2=1e9+7){
+		hash_prime = p;
+		mod[0] = m1;
+		mod[1] = m2;
+	}
+
+	void make(ull n){
+		rep(k,0,2){
+			pp[k].pb(1);
+			rep(i,1,n+1) pp[k].pb((pp[k][i-1]*hash_prime) % mod[k]);			
+		}
+	}
+};
+
+class HashString{
+
+	public:
+		ull length;
+		string str;
+		ull hval[2];
+		vector<ull> hv[2];
+		bool both=false;
+		HashUtil& ht;
+
+		HashString(string s,HashUtil& ut): str(s), ht(ut){
+			length = s.size();
+		}
+
+		void makeset(ll k=0){
+			make(0ULL);
+			if(k==1){ 
+				make(1ULL);
+				both=true; 
+			}
+		}
+
+		bool compare(ull l, ull r, ull val);
+		bool compare(ull l, ull r, HashString &hs);
+		bool compare(ull l, ull r, ull lp, ull rp);
+
+	private:
+		void make(ull k=0) {
+			ull val=0,q;
+			hv[k].pb(val);
+			rep(i,0,length){
+				val = (val + (str[i]-'a'+1) * ht.pp[k][i]) % ht.mod[k];
+				hv[k].pb(val);
+			}
+			hval[k]=val;
+		}
+};
+
+inline bool HashString::compare(ull l,ull r,ull val){
+	if( (val*ht.pp[0][l-1]) % ht.mod[0] == (ht.mod[0]+hv[0][r]-hv[0][l-1]) % ht.mod[0]) return true;
+	return false;
+}
+
+inline bool HashString::compare(ull l,ull r,HashString &hs){
+	if( (hs.hval[0]*ht.pp[0][l-1]) % ht.mod[0] != (ht.mod[0]+hv[0][r]-hv[0][l-1]) % ht.mod[0]) return false;
+	if(hs.both) if( (hs.hval[1]*ht.pp[1][l-1]) % ht.mod[1] != (ht.mod[1]+hv[1][r]-hv[1][l-1]) % ht.mod[1]) return false;
+	return true;
+}
+
+inline bool HashString::compare(ull l,ull r,ull lp,ull rp){
+	ll valp,val;
+	
+	valp = ((hv[0][r]-hv[0][l-1])*(ht.pp[0][max(0ULL,l-lp)])) % ht.mod[0];
+	val  = ((hv[0][r]-hv[0][l-1])*(ht.pp[0][max(0ULL,l-lp)])) % ht.mod[0];
+
+	if(val!=valp) return false;
+	if(!both) return true;
+
+	valp = ((hv[1][r]-hv[1][l-1])*(ht.pp[1][max(0ULL,l-lp)])) % ht.mod[1];
+	val  = ((hv[1][r]-hv[1][l-1])*(ht.pp[1][max(0ULL,l-lp)])) % ht.mod[1];
+
+	if(val!=valp) return false;
+	return true;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hash_string</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
