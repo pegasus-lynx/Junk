@@ -15,8 +15,10 @@ with open(rollNumberFilePath, 'r') as file:
     for row in reader:
         rolls.extend(row)
 
-marked = file('rollsMarked.csv', 'w')
-unmarked = file('rollsUnmarked.csv', 'w')
+file.close()
+
+marked = open('rollsMarked.csv', 'w')
+unmarked = open('rollsUnmarked.csv', 'w')
 
 mrk = csv.writer(marked)
 unmrk = csv.writer(unmarked)
@@ -28,15 +30,22 @@ print("Enter the column of roll numbers (1,2,...) : ")
 colRoll = int(input())-1
 
 print("Enter the columns to be deleted (ex : 1 2 4 8 ) : ")
-delCol = map(int, input().split())
+delCol = list(map(int, input().split()))
 
-for c in delCol:
-    c -= 1
+for i in range(len(delCol)):
+    delCol[i] -= 1
+
+print(delCol)
 
 with open(sourceFilePath, 'r') as file:
     reader = csv.reader(file)
     for row in reader:
         if row[colRoll] in rolls:
-            mrk.writerow( [ x[i] for i in range(len(row)) if i not in delCol] )
+            mrk.writerow( [ row[i] for i in range(len(row)) if i not in delCol] )
         else:
-            unmrk.writerow( [ x[i] for i in range(len(row)) if i not in delCol] )
+            unmrk.writerow( [ row[i] for i in range(len(row)) if i not in delCol] )
+
+file.close()
+
+marked.close()
+unmarked.close()
