@@ -1,24 +1,8 @@
 # #! /usr/bin/env python3.1
 
-# suffixes = {
-    # 1: ["ो", "े", "ू", "ु", "ी", "ि", "ा"],
-    # 2: ["कर", "ाओ", "िए", "ाई", "ाए", "ने", "नी", "ना", "ते", "ीं", "ती", "ता", "ाँ", "ां", "ों", "ें"],
-    # 3: ["ाकर", "ाइए", "ाईं", "ाया", "ेगी", "ेगा", "ोगी", "ोगे", "ाने", "ाना", "ाते", "ाती", "ाता", "तीं", "ाओं", "ाएं", "ुओं", "ुएं", "ुआं"],
-    # 4: ["ाएगी", "ाएगा", "ाओगी", "ाओगे", "एंगी", "ेंगी", "एंगे", "ेंगे", "ूंगी", "ूंगा", "ातीं", "नाओं", "नाएं", "ताओं", "ताएं", "ियाँ", "ियों", "ियां"],
-    # 5: ["ाएंगी", "ाएंगे", "ाऊंगी", "ाऊंगा", "ाइयाँ", "ाइयों", "ाइयां"],
-# }
-
-# def hi_stem(word):
-#     for L in 5, 4, 3, 2, 1:
-#         if len(word) > L + 1:
-#             for suf in suffixes[L]:
-#                 if word.endswith(suf):
-#                     return word[:-L]
-#     return word
-
 class HindiStemmer:
     
-    prefixes = [ "अन", "अध","सम", "स्व", "वि", "अव","सु", "कु", "नि", "उत", "उन", "उप", "अप", "निस्‌", "निर्‌", "दुस्‌", "दुर्‌", "उत्", "उद्‌", "अति", "प्रति", "अधि", "निस", "परा","परि", "दुर", "अनु", "अभि"]
+    # prefixes = [ "अन", "अध","सम", "स्व", "वि", "अव","सु", "कु", "नि", "उत", "उन", "उप", "अप", "निस्‌", "निर्‌", "दुस्‌", "दुर्‌", "उत्", "उद्‌", "अति", "प्रति", "अधि", "निस", "परा","परि", "दुर", "अनु", "अभि"]
     
     suffixes = {
         1: ["ो", "े", "ू", "ु", "ी", "ि", "ा"],
@@ -73,19 +57,19 @@ class HindiStemmer:
 
     def _stem_word(self, r_word):
         ss_word = self._stem_suffixes(r_word)
-        word = self._stem_prefixes(ss_word)
-        return word
+        # word = self._stem_prefixes(ss_word)
+        return ss_word
 
-    def _stem_prefixes(self, word):
-        for pref in self.prefixes:
-            if word.startswith(pref) and self._measure(word) > self._measure(pref) +1:
-                temp = word[len(pref):]
-                # if temp[0] in self.matras:
-                #     return temp[1:]
-                while temp[0] in self.matras:
-                    temp = temp[1:]
-                return temp
-        return word
+    # def _stem_prefixes(self, word):
+    #     for pref in self.prefixes:
+    #         if word.startswith(pref) and self._measure(word) > self._measure(pref) +1:
+    #             temp = word[len(pref):]
+    #             # if temp[0] in self.matras:
+    #             #     return temp[1:]
+    #             while temp[0] in self.matras:
+    #                 temp = temp[1:]
+    #             return temp
+    #     return word
 
     def _stem_suffixes(self, word):
         for L in 5, 4, 3, 2, 1:

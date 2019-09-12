@@ -15,8 +15,8 @@ with open(rollNumberFilePath, 'r') as file:
     for row in reader:
         rolls.extend(row)
 
-print("Enter zip file name")
-zip_name=input()
+print("Enter resume zip file path : ")
+resumeZipName=input()
 
 with open(output_file,'w') as file:
     writer=csv.writer(file)
