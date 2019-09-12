@@ -30,24 +30,24 @@ class PorterStemmer:
                 return n
             if not self.cons(i):
                 break
-            i = i + 1
-        i = i + 1
+            i += 1
+        i += 1
         while 1:
             while 1:
                 if i > self.j:
                     return n
                 if self.cons(i):
                     break
-                i = i + 1
-            i = i + 1
+                i += 1
+            i += 1
             n = n + 1
             while 1:
                 if i > self.j:
                     return n
                 if not self.cons(i):
                     break
-                i = i + 1
-            i = i + 1
+                i += 1
+            i += 1
 
     def vowelinstem(self):
         for i in range(self.cur, self.j + 1):
@@ -315,26 +315,28 @@ class PorterStemmer:
 
 
 if __name__ == "__main__":
+
+    data_file = open("sample.txt", "r")
     output_file = open("output.txt", "w")
+
     p = PorterStemmer()
-    if len(sys.argv) > 1:
-        for f in sys.argv[1:]:
-            infile = open(f, "r")
-            while 1:
-                output = ""
-                word = ""
-                line = infile.readline()
-                if line == "":
-                    break
-                for c in line:
-                    if c.isalpha():
-                        word += c.lower()
-                    else:
-                        if word:
-                            output += p.stem(word, 0, len(word) - 1)
-                            word = ""
-                        output += c.lower()
-                # print(output)
-                output_file.write(output)
-            infile.close()
+    
+    while 1:
+        output = ""
+        word = ""
+        line = data_file.readline()
+        if line == "":
+            break
+        for c in line:
+            if c.isalpha():
+                word += c.lower()
+            else:
+                if word:
+                    output += p.stem(word, 0, len(word) - 1)
+                    word = ""
+                output += c.lower()
+        
+        output_file.write(output)
+    
     output_file.close()
+    data_file.close()
