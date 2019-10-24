@@ -19,21 +19,26 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Tried to develop a simple CLI based attendance management program.
 	- Tech Base : Python ( Libraries : __openpyxl__ )
 
-4. CSO231N-Operating_System:
+4. CSO231N : Operating_System:
 	- One of the scripts deals with the producer consumer problem.
 	- Implementation of a shell with few basic command.
 	- Written in c.
 
-5. CSE361-DBMS
+5. CSE361 : DBMS
 
 6. Sublime Snippets:
 - Consists of snippets commonly used in competitive programming.
 
-7. CSO221N-Algorithms:
+7. CSO221N : Algorithms:
 	- Karatsuba Algo, TSP using DP, Convex Hull
 	- Tech Base : C++
-8. Natural Langua
 
+8. CSE443 : Natural Language Processing
+	- Porter Stemmer for Hindi
+	- Tech Base : Python
+
+9. Scripts
+10. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NzAxNTY0XX0=
+eyJoaXN0b3J5IjpbLTE0NTk1MjY5MTVdfQ==
 -->
