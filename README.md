@@ -24,13 +24,16 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Implementation of a shell with few basic command.
 	- Written in c.
 
-5. DBMS
+5. CSE361-DBMS
 
 6. Sublime Snippets:
 - Consists of snippets commonly used in competitive programming.
 
-7. N
+7. CSO221N-Algorithms:
+	- Karatsuba Algo, TSP using DP, Convex Hull
+	- Tech Base : C++
+8. Natural Langua
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDU5NzUwXX0=
+eyJoaXN0b3J5IjpbMjM4NzAxNTY0XX0=
 -->
