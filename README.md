@@ -42,6 +42,10 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 9. Scripts
 	- Contains scripts in python for various purposes.
 	- Tech Base : Python 
+
+### Contribution Guidelines
+
+For making any contribution refer to [CONTRIBUTING.md](https://github.com/pegasus-lynx/Junk/CONTRIBUTING.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODA2NzM4Ml19
+eyJoaXN0b3J5IjpbMjEwNjYwMzZdfQ==
 -->
