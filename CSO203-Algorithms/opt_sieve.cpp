@@ -15,7 +15,7 @@ vector<ll> prime;
 vector<ll> SPF(MAX_SIZE); 
 
 // Function to generate all prime numbers less than N in O(n).
-void optimized_sieve(ll N) 
+void optimizedSieve(ll N) 
 { 
 	isprime[0] = isprime[1] = false ; 
 	
@@ -47,7 +47,7 @@ int main()
 { 
 	ll N = 1e4 ; // Must be less than MAX_SIZE 
 	//cin>>N;
-	optimized_sieve(N); 
+	optimizedSieve(N); 
 
 	// Print all prime number less then N.
 	for (ll i=0; i<prime.size() && prime[i] <= N ; i++) 

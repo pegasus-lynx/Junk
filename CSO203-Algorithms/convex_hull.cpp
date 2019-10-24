@@ -1,20 +1,10 @@
-/*
-6
-0 0
-0 4 
--4 0
-5 0
-0 -6
-1 0
-*/
-
 #include<iostream>
 #include<set>
 
 using namespace std; 
 
 #define iPair pair<int, int> 
-class convexhull{
+class ConvexHull{
     public:
         set<iPair> hull; 
         int findSide(iPair p1, iPair p2, iPair p) 
@@ -81,7 +71,7 @@ class convexhull{
 // Driver code 
 int main() 
 { 
-	convexhull ch;
+	ConvexHull ch;
 	int n,x,y;
 	cin>>n;
 	iPair a[n];
@@ -94,15 +84,3 @@ int main()
 	ch.printHull(a, n); 
 	return 0; 
 }
-/*
-8
-0 3
-1 1
-2 2
-4 4
-0 0
-1 2
-3 1
-3 3
-
-*/
