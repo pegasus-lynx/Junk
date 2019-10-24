@@ -1,4 +1,6 @@
-# Miscellaneous Scripts and Small Projects
+# Junks : Small Projects
+
+This repo is a collection of small projects , scripts  and assignments. Here is a list of all the directories(projects/sc
 
 ## Contents :
 
@@ -24,3 +26,6 @@
 > Consists of snippets commonly used in competitive programming.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY0MDcxOTg0MF19
+-->
