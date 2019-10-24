@@ -25,9 +25,11 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Written in c.
 
 5. CSE361 : DBMS
-
+	- Assignments : Extendible Hashing , B+ Trees
+	- Tech Base : C++
+	
 6. Sublime Snippets:
-- Consists of snippets commonly used in competitive programming.
+	- Consists of snippets commonly used in competitive programming.
 
 7. CSO221N : Algorithms:
 	- Karatsuba Algo, TSP using DP, Convex Hull
@@ -38,7 +40,8 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Tech Base : Python
 
 9. Scripts
-10. 
+	- Contains scripts in python for various purposes.
+	- Tech Base : Python 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk1MjY5MTVdfQ==
+eyJoaXN0b3J5IjpbLTUwODA2NzM4Ml19
 -->
