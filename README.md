@@ -7,7 +7,7 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 1. Email Scripts:
 - It consists of script to fetch data from G-Mail.
 - Written in Python and uses imaplib, email and csv libraries.
-- Tech Base : Python ( Libraries used : __imaplib__, __emai
+- Tech Base : Python ( Libraries : __imaplib__, __email__, __csv__)
 > **NOTE :** Due to security constraint, Gmail does not allow the script to directly access the email.
 > You need to generate an app password for getting access to the mails.Follow the link to generate password.
 
@@ -15,10 +15,11 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
  - It consists of scripts to stimulate a simple client server interaction for file transfer.
 - Tech Base : Python
 
-4. Attendance Scripts:
-> Basically tried to develop a simple CLI based attendance management program.
+3. Attendance Scripts:
+- Tried to develop a simple CLI based attendance management program.
+- Tech Base : Python ( Libraries : __openpyxl__ )
 
-5. OS Projects:
+4. OS Projects:
 > - One of the scripts deals with the producer consumer problem.
 > - Implementation of a shell with few basic command.
 > - Written in c.
@@ -28,5 +29,5 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzExMjA0XX0=
+eyJoaXN0b3J5IjpbLTEyNTgxMTA3NjZdfQ==
 -->
