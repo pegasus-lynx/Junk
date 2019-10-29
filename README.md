@@ -24,7 +24,7 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Implementation of a shell with few basic command.
 	- Written in c.
 
-5. CSE361 : DBMS
+5. CSE361 : DBMS:
 	- Assignments : Extendible Hashing , B+ Trees
 	- Tech Base : C++
 	
@@ -35,13 +35,17 @@ This repo is a collection of small projects , scripts  and assignments. Here is 
 	- Karatsuba Algo, TSP using DP, Convex Hull
 	- Tech Base : C++
 
-8. CSE443 : Natural Language Processing
+8. CSE443 : Natural Language Processing:
 	- Porter Stemmer for Hindi
 	- Tech Base : Python
 
-9. Scripts
+9. Scripts:
 	- Contains scripts in python for various purposes.
 	- Tech Base : Python 
+
+10. Computer Graphics:
+	- Conteains computer graphics lab assignments.
+	- Written in C, C++.
 
 ### Contribution Guidelines
 
