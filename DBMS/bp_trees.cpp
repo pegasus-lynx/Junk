@@ -37,8 +37,8 @@ class Node {
 
             rep(i,pos+1,ptrs.size()){
                 temp = ptrs[i];
-                ptrs[i] = chd;
-                chd = temp;
+                ptrs[i] = p;
+                p = temp;
             }
 
         }
@@ -54,7 +54,7 @@ class Node {
         }
 };
 
-class BPlusTree {
+class BPTree {
     public:
         Node* root;
 
@@ -73,6 +73,9 @@ class BPlusTree {
 
         void remove(int x){
             if(!search(x)) return ;
+
+            Node* chd;
+            _remove(x,root,chd);
         }
 
         bool search(int x){
@@ -93,6 +96,114 @@ class BPlusTree {
         }
 
     private:
+        void _remove(int x,Node* cur,Node* par){
+
+            vector<int>& cd = cur->data;
+            vector<Node*>& cp = cur->ptrs;
+
+            if(cur->leaf){
+                int p = find(all(cd),x)-cd.begin();
+                cd.erase(cd.begin()+p);
+                cp.erase(cp.begin()+p);
+
+
+                int k=INT_MIN;
+                if(cd.size()<((cur->n + 2)/2)-1){
+                    k = _redistribute(cur,par);
+                    if(k == INT_MIN ) _merge(cur,par,k);
+                }
+                return;
+            }
+
+            int p = lb(all(cd),x)-cd.begin();
+            _remove(x,cp[p],cur);            
+
+            int key=INT_MIN;
+            if(cd.size()<((cur->n + 2)/2)-1){
+                key = _redistribute(cur,par);
+                if(key == INT_MIN) _merge(cur,pak,key);
+            }
+
+        }
+
+        int _redistribute(Node* cur,Node* par){
+            
+            vector<int>& cd = cur->data;
+            vector<Node*>& cp = cur->ptrs;
+            vector<int>& pd = par->data;
+            vector<Node*>& pp = par->ptrs;
+
+            int p = find(all(pp),cur)-pp.begin();
+            int key;
+            Node* ss;
+
+            // Try with left child
+            ss = (p>0?pp[p-1]:NULL);
+            if(ss!=NULL){
+                
+                vector<int>& sd = ss->data;
+                vector<Node*>& sp = ss->ptrs;
+
+                if(sd.size()+cd.size()>=2*(((cur->n + 2)/2)-1)){
+                    vector<int> temp;
+                    rep(i,0,sd.size()) temp.pb(sd[i]);
+                    rep(i,0,cd.size()) temp.pb(cd[i]);
+
+                    sd.clear();
+                    cd.clear();
+
+                    int mid = (temp.size()+1)/2;
+                    rep(i,0,mid+1) sd.pb(temp[i]);
+                    rep(i,mid+1,temp.size()) cd.pb(temp[i]);
+
+                    key = temp[mid+1];
+
+                    pd[p-1] = key;
+                }
+
+                return key;
+            }
+
+            // Try with right child
+            ss = (p<pp.size()-1?pp[p+1]:NULL);
+            if(ss!=NULL){
+                
+                vector<int>& sd = ss->data;
+                vector<Node*>& sp = ss->ptrs;
+
+                if(sd.size()+cd.size()>=2*(((cur->n + 2)/2)-1)){
+                    vector<int> temp;
+                    rep(i,0,cd.size()) temp.pb(cd[i]);
+                    rep(i,0,sd.size()) temp.pb(sd[i]);
+
+                    sd.clear();
+                    cd.clear();
+
+                    int mid = (temp.size()+1)/2;
+                    rep(i,0,mid+1) cd.pb(temp[i]);
+                    rep(i,mid+1,temp.size()) cs.pb(temp[i]);
+
+                    key = temp[mid+1];
+
+                    pd[p+1] = key;
+                }
+
+                return key;
+            }
+
+            return INT_MIN;
+        }
+
+        int _merge(Node* cur, Node* par){
+            
+            int p = find(all(pp),cur)-pp.begin();
+            int key;
+            Node* ss = (p>0?pp[p-1]:NULL);
+            if(ss == NULL) return INT_MIN;
+
+
+        }
+
         int _insert(int x,Node * cur, Node* &chd){
 
             vector<int>& cd = cur->data;
@@ -129,9 +240,9 @@ class BPlusTree {
             cur->add(x,ptr);
 
             vector<int>& cd = cur->data;
-            vector<TreeNode*>& cp = cur->ptrs;
+            vector<Node*>& cp = cur->ptrs;
             vector<int>& nd = node->data;
-            vector<TreeNode*>& np = node->ptrs;
+            vector<Node*>& np = node->ptrs;
 
             int pos = cd.size()/2;
             int key = cd[pos];
@@ -146,7 +257,7 @@ class BPlusTree {
             chd=node;
             return key;
         }
-}
+};
 
 int main(){
         
@@ -161,7 +272,7 @@ int main(){
     Node* rt = new Node(n,true);
     rt->ptrs.pb(NULL);
     
-    BPlusTree* tree = new BPlusTree();
+    BPTree* tree = new BPTree();
     tree->root = rt;
     // ----------------------------------------- 
 
