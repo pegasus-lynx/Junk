@@ -211,21 +211,6 @@ void myDisplay()
   glFlush();
 }
 
-void mainMenu(int id)
-{
-	typeMode = id;
-	if (typeMode > 7) exit(0);
-	glutPostRedisplay();
-}
-
-void createMenu()
-{
-   glutCreateMenu(mainMenu);
-   glutAddMenuEntry("Control Polygon",1);
-   glutAddMenuEntry("Cubic Bezier Form (OpenGL)", 5);
-   glutAddMenuEntry("Exit",8);
-   glutAttachMenu(GLUT_RIGHT_BUTTON);
-}
 
 void init()
 {
@@ -291,6 +276,22 @@ void reshape(int w, int h)
 	ww = w;
 	wh = h;
 }
+void myKey(unsigned char key,int x,int y) {
+
+    if(key=='h') {
+        glFlush();
+        // CyrusBeck();
+        typeMode=1;
+        // bezier();
+        glutPostRedisplay();
+    }
+    if(key=='b'){
+    	glFlush();
+    	typeMode=2;
+    	// hermite();
+    	glutPostRedisplay();
+    }
+}
 
 
 int main(int argc, char **argv)
@@ -306,9 +307,11 @@ int main(int argc, char **argv)
    glutMouseFunc(myPick);
    glutMotionFunc(myMouseMove);
    glutReshapeFunc(reshape);
+   glutKeyboardFunc(myKey);
+
    init();
 
-   createMenu();
+//    createMenu();
 
 	glutMainLoop();
 	return 0;
