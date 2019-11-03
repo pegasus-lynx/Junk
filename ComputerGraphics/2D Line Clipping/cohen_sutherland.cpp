@@ -1,23 +1,11 @@
+#include<bits/stdc++.h>
 #include<GL/glut.h>
-#include<math.h>
-#include<stdio.h>
-#include<iostream>
 
 void display();
 using namespace std;
 
-float xmin=-100;
-float ymin=-100;
-float xmax=100;
-float ymax=100;
+float xmin,ymin,xmax,ymax;
 float xd1,yd1,xd2,yd2;
-
-
-void init() {
-    glClearColor(1.0,1.0,1.0,1.0);
-    glMatrixMode(GL_PROJECTION);
-    gluOrtho2D(-300,300,-300,300);
-}
 
 int code(float x,float y) {
     int c=0;
@@ -88,37 +76,62 @@ void mykey(unsigned char key,int x,int y)
         glFlush();
     }
 }
+
+void plotClipWindow(){
+    glColor3f(0.0,0.0,1.0);
+    glBegin(GL_LINE_LOOP);
+    glVertex2i(xmin,ymin);
+    glVertex2i(xmin,ymax);
+    glVertex2i(xmax,ymax);
+    glVertex2i(xmax,ymin);
+    glEnd();
+}
+
 void display() {
 
-   glClear(GL_COLOR_BUFFER_BIT);
-   glColor3f(0.0,1.0,0.0);
+    glClear(GL_COLOR_BUFFER_BIT);
+    
+    plotClipWindow();
 
-   glBegin(GL_LINE_LOOP);
-   glVertex2i(xmin,ymin);
-   glVertex2i(xmin,ymax);
-   glVertex2i(xmax,ymax);
-   glVertex2i(xmax,ymin);
-   glEnd();
-   glColor3f(1.0,0.0,0.0);
-   glBegin(GL_LINES);
-   glVertex2i(xd1,yd1);
-   glVertex2i(xd2,yd2);
-   glEnd();
-   glFlush();
+    glColor3f(1.0,0.0,0.0);
+    glBegin(GL_LINES);
+    glVertex2i(xd1,yd1);
+    glVertex2i(xd2,yd2);
+    glEnd();
+    glFlush();
+}
+
+void init() {
+    glClearColor(1.0,1.0,1.0,1.0);
+    glMatrixMode(GL_PROJECTION);
+    gluOrtho2D(-300,300,-300,300);
+}
+
+void createWin(int argc,char** argv, string name,int mode, int x, int y, int h,int w){
+    glutInit(&argc,argv);
+    glutInitDisplayMode(mode);
+    glutInitWindowSize(w,h);
+    glutInitWindowPosition(x,y);
+    glutCreateWindow(name);
 }
 
 
 int main(int argc,char** argv) {
-    printf("Enter line co-ordinates:");
-    cin>>xd1>>yd1>>xd2>>yd2;
-    glutInit(&argc,argv);
-    glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
-    glutInitWindowSize(600,600);
-    glutInitWindowPosition(0,0);
-    glutCreateWindow("Clipping");
+
+    cout<<"Enter the clipping window dimensions ( x_min, y_min, x_max, y_max ) : ";
+    cin>>xmin>>ymin>>xmax>>ymax;
+
+    // Creating Window 
+    int mode = GLUT_SINGLE|GLUT_RGB;
+    createWin(argc,argv,"Line Clipping", mode, 100, 100, 500, 500);
+
+    // Specifying Display and KeyBoard Callbacks
     glutDisplayFunc(display);
     glutKeyboardFunc(mykey);
+
+    // Initializing and Entering Main Loop
     init();
     glutMainLoop();
+
     return 0;
 }

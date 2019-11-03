@@ -69,7 +69,7 @@ void clippedLine(double u1,double u2) {
     // glFlush();
 }
 
-void LiangBarsky() {
+void PloyClip() {
     double delta_x = x_2 - x_1;
     double delta_y = y_2 - y_1;
     vector<double> p ;
@@ -120,7 +120,7 @@ void myKey(unsigned char key,int x,int y) {
         for(int i=0;i<4;i++) {
             x_1 = vertices[i].F; y_1 = vertices[i].S;
             x_2 = vertices[(i+1)%4].F; y_2 = vertices[(i+1)%4].S;
-            LiangBarsky();
+            PloyClip();
         }
         glFlush();
     }
@@ -149,7 +149,7 @@ int main(int argc, char **argv) {
     glutKeyboardFunc(myKey);
     // glutCreateWindow ("Liang Barsky's Line Clipping");
     // Init();
-    // glutDisplayFunc(LiangBarsky);
+    // glutDisplayFunc(PloyClip);
     glutMainLoop();
     return 0;
 }
