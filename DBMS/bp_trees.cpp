@@ -14,10 +14,12 @@ class Node {
         int n;
         vector<int> data;
         vector<Node*> ptrs;
+        int min_data;
 
         Node(int order, bool isLeaf){
             leaf = isLeaf;
             n = order;
+            min_data = ((n+1)/2) - 1;
         }
 
         void add(int x,Node* p){
@@ -72,10 +74,9 @@ class BPTree {
         }
 
         void remove(int x){
-            if(!search(x)) return ;
-
-            Node* chd;
-            _remove(x,root,chd);
+            if(search(x)){
+                _remove(x,root,NULL);
+            }
         }
 
         bool search(int x){
@@ -96,111 +97,222 @@ class BPTree {
         }
 
     private:
-        void _remove(int x,Node* cur,Node* par){
+        int _remove(int x,Node* cur,Node* par){
 
             vector<int>& cd = cur->data;
             vector<Node*>& cp = cur->ptrs;
-
+            
             if(cur->leaf){
+                // Removed data from the leaf
                 int p = find(all(cd),x)-cd.begin();
                 cd.erase(cd.begin()+p);
                 cp.erase(cp.begin()+p);
 
-
-                int k=INT_MIN;
-                if(cd.size()<((cur->n + 2)/2)-1){
-                    k = _redistribute(cur,par);
-                    if(k == INT_MIN ) _merge(cur,par,k);
+                // Redistribute data in the leaf
+                if(cd.size()<cur->min_data){
+                    if(!_redistribute(cur,par)){
+                        return _merge(cur,par);
+                    }
                 }
-                return;
+
+                return 0;
             }
 
-            int p = lb(all(cd),x)-cd.begin();
-            _remove(x,cp[p],cur);            
+            vector<int>& pd = par->data;
+            vector<Node*>& pp = par->ptrs;
 
-            int key=INT_MIN;
-            if(cd.size()<((cur->n + 2)/2)-1){
-                key = _redistribute(cur,par);
-                if(key == INT_MIN) _merge(cur,pak,key);
+            int p = lb(all(cd),x) - cd.begin();
+            int k = _remove(x,cp[p],cur);
+            
+            if(cd.size()<cur->min_data){
+                if(!_redistribute(cur,par)){
+                    return _merge(cur,par);
+                }
             }
 
         }
 
-        int _redistribute(Node* cur,Node* par){
+        bool _redistribute(Node* cur,Node* par){
             
             vector<int>& cd = cur->data;
             vector<Node*>& cp = cur->ptrs;
             vector<int>& pd = par->data;
             vector<Node*>& pp = par->ptrs;
 
-            int p = find(all(pp),cur)-pp.begin();
-            int key;
-            Node* ss;
+            int pc = find(all(pp),cur)-pp.begin();
 
-            // Try with left child
-            ss = (p>0?pp[p-1]:NULL);
-            if(ss!=NULL){
-                
-                vector<int>& sd = ss->data;
-                vector<Node*>& sp = ss->ptrs;
+            Node* ls=(pc>0?pp[pc-1]:NULL);
+            Node* rs=(pc+1<pp.size()?pp[pc+1]:NULL);
 
-                if(sd.size()+cd.size()>=2*(((cur->n + 2)/2)-1)){
-                    vector<int> temp;
-                    rep(i,0,sd.size()) temp.pb(sd[i]);
-                    rep(i,0,cd.size()) temp.pb(cd[i]);
+            if(cur->leaf){
+                if(ls!=NULL){
 
-                    sd.clear();
-                    cd.clear();
+                    vector<int>& ld = ls->data;
+                    vector<Node*>& lp = ls->ptrs;                    
 
-                    int mid = (temp.size()+1)/2;
-                    rep(i,0,mid+1) sd.pb(temp[i]);
-                    rep(i,mid+1,temp.size()) cd.pb(temp[i]);
-
-                    key = temp[mid+1];
-
-                    pd[p-1] = key;
+                    if(ld.size()>ls->min_data){
+                        int sh = ld[ld.size()-1];
+                        ld.erase(ld.end()-1);
+                        cd.insert(cd.begin(),sh);
+                        lp.erase(lp.begin());
+                        cp.insert(cp.begin(),NULL);
+                        pd[pc-1] = sh;
+                        return 1;
+                    }
                 }
 
-                return key;
+                if(rs!=NULL){
+                    
+                    vector<int>& rd = rs->data;
+                    vector<Node*>& rp = rs->ptrs;                    
+                    
+                    if(rd.size()>rs->min_data){
+                        int sh = rd[0];
+                        rd.erase(rd.begin());
+                        cd.pb(sh);
+                        rp.erase(rp.begin());
+                        cp.insert(cp.begin(),NULL);
+                        pd[pc+1] = sh;
+                        return 1;
+                    }
+                }
             }
+            else{
 
-            // Try with right child
-            ss = (p<pp.size()-1?pp[p+1]:NULL);
-            if(ss!=NULL){
-                
-                vector<int>& sd = ss->data;
-                vector<Node*>& sp = ss->ptrs;
+                if(ls!=NULL){
 
-                if(sd.size()+cd.size()>=2*(((cur->n + 2)/2)-1)){
-                    vector<int> temp;
-                    rep(i,0,cd.size()) temp.pb(cd[i]);
-                    rep(i,0,sd.size()) temp.pb(sd[i]);
+                    vector<int>& ld = ls->data;
+                    vector<Node*>& lp = ls->ptrs;                    
+                    
+                    if(ld.size()>ls->min_data){
+                        
+                        int sh = ld[ld.size()-1];
+                        int bg = pd[pc-1];
+                        ld.erase(ld.end()-1);
+                        cd.insert(cd.begin(),bg);
 
-                    sd.clear();
-                    cd.clear();
+                        cp.insert(cp.begin(),lp[lp.size()-1]);
+                        lp.erase(lp.end()-1);
+                        
+                        pd[pc-1] = sh;
+                        
+                        return 1;
+                    }
 
-                    int mid = (temp.size()+1)/2;
-                    rep(i,0,mid+1) cd.pb(temp[i]);
-                    rep(i,mid+1,temp.size()) cs.pb(temp[i]);
-
-                    key = temp[mid+1];
-
-                    pd[p+1] = key;
                 }
 
-                return key;
+                if(rs!=NULL){
+                    vector<int>& rd = rs->data;
+                    vector<Node*>& rp = rs->ptrs;                    
+                    
+                    if(rd.size()>rs->min_data){
+                        
+                        int sh = rd[0];
+                        int bg = pd[pc+1];
+
+                        rd.erase(rd.begin());
+                        cd.pb(bg);
+
+                        cp.insert(cp.end(),*rp.begin());
+                        rp.erase(rp.begin());
+                        
+                        pd[pc+1] = sh;
+                        
+                        return 1;
+                    }
+                }
+
             }
 
-            return INT_MIN;
+            return 0;
         }
 
         int _merge(Node* cur, Node* par){
-            
-            int p = find(all(pp),cur)-pp.begin();
-            int key;
-            Node* ss = (p>0?pp[p-1]:NULL);
-            if(ss == NULL) return INT_MIN;
 
+            vector<int>& cd = cur->data;
+            vector<Node*>& cp = cur->ptrs;
+
+            if(cur==root){
+                if(cd.size()==0){
+                    if(cp.size()==0){
+                        root=NULL;
+                        free(cur);
+                    }
+                    else{
+                        root = cp[0];
+                        free(cur);
+                    }
+                }
+                return 0;
+            }
+
+            vector<int>& pd = par->data;
+            vector<Node*>& pp = par->ptrs;
+
+            int pc = find(all(pp),cur)-pp.begin();
+
+            Node* ls=(pc>0?pp[pc-1]:NULL);
+            Node* rs=(pc+1<pp.size()?pp[pc+1]:NULL);
+
+            Node* temp = new Node(cur->n,cur->leaf);
+            vector<int>& td = temp->data;
+            vector<Node*>& tp = temp->ptrs;
+
+            if(cur->leaf){
+                if(ls!=NULL){
+
+                    vector<int>& ld = ls->data;
+                    vector<Node*>& lp = ls->ptrs;                    
+                    
+                    rep(i,0,ld.size()) td.pb(ld[i]);
+                    rep(i,0,cd.size()) td.pb(cd[i]);
+
+                    rep(i,0,lp.size()-1) tp.pb(lp[i]);
+                    rep(i,0,cp.size()) tp.pb(cp[i]);    
+
+                    pp[pc] = temp;
+                    pd.erase(pd.begin()+pc-1);
+                    pp.erase(pp.begin()+pc-1);
+
+                    return 1;
+                }
+
+                if(rs!=NULL){
+                    rep(i,0,cd.size()) td.pb(cd[i]);
+                    rep(i,0,rd.size()) td.pb(rd[i]);
+
+                    rep(i,0,cp.size()-1) tp.pb(cp[i]);
+                    rep(i,0,rp.size()) tp.pb(rp[i]);
+
+                    pp[pc+1]=temp;
+                    pd.erase(pd.begin()+pc);
+                    pp.erase(pp.begin()+pc);
+
+                    return 1;
+                }
+            }
+            else{
+                if(ls!=NULL){
+
+                    vector<int>& ld = ls->data;
+                    vector<Node*>& lp = ls->ptrs;                    
+
+                    if(!_mergable()
+
+                    rep(i,0,ld.size()) td.pb(ld[i]);
+                    rep(i,0,cd.size()) td.pb(cd[i]);
+
+                    rep(i,0,lp.size()) tp.pb(lp[i]);
+                    rep(i,0,cp.size()) tp.pb(cp[i]);
+                }
+                
+                if(rs!=NULL){
+
+                    vector<int>& rd = ls->data;
+                    vector<Node*>& rp = ls->ptrs;  
+
+                }
+            }
 
         }
 
