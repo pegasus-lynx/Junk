@@ -1,6 +1,8 @@
 #ifndef GLSHAPE_H
 #define GLSHAPE_H
 
+
+
 // Structs to hold informations about the primitives :
 class Color{
     public:
@@ -8,7 +10,7 @@ class Color{
 
         Color();
         Color(float red,float green,float blue,float alpha=1.0);
-        vector<float> vec();
+        float* vec();
 };
 
 class Primitive{
@@ -19,7 +21,7 @@ class Primitive{
         void setCol(float red,float green,float blue,float alpha=1.0);
 
         void plot();
-}
+};
 
 class Closed : public Primitive{
     public:
@@ -27,16 +29,17 @@ class Closed : public Primitive{
 
         void setFillCol(Color color);
         void setFillCol(float red,float green,float blue,float alpha=1.0);
-}
+        void plot();
+};
 
 class Point : public Primitive{
     public:
-        pair<double> pos;
+        pair<double,double> pos;
 
         Point();
         Point(double x,double y);
         double* getPos();
-
+        void plot();
 };
 
 class Line : public Primitive{
@@ -46,6 +49,7 @@ class Line : public Primitive{
         Line();
         Line(Point& a, Point& b);
         Line(double xa,double ya,double xb,double yb);
+        void plot();
         
 };
 
@@ -57,6 +61,7 @@ class Circle : public Closed{
         Circle();
         Circle(double rad, double xc, double yc);
         Circle(double rad, Point& center);
+        void plot();
 };
 
 class Polygon : public Closed{
@@ -68,6 +73,7 @@ class Polygon : public Closed{
         Polygon(int n);
         Polygon(vector<Point>& pts);
         Polygon(vector<pair<double, double> >& vec);
+        void plot();
 };
 
 #endif

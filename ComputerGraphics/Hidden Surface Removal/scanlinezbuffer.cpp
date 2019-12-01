@@ -87,7 +87,7 @@ void DrawCube()
 void SpecialKeys(int key, int x, int y)
 {
 	if(key == GLUT_KEY_UP)
-		xRot-= 5.0f;
+		xRot -= 5.0f;
 	else if(key == GLUT_KEY_DOWN)
 		xRot += 5.0f;
 	else if(key == GLUT_KEY_RIGHT)

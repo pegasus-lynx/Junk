@@ -2,6 +2,8 @@
 #include "glshape.h"
 #include <GL/glut.h>
 
+using namespace std;
+
 Color::Color(){
     r = g = b = 0;
     a = 1;
@@ -42,12 +44,12 @@ Point::Point(double x,double y){
 }
 
 double* Point::getPos(){
-    double position[2] = [pos.first, pos.second];
+    double position[2] = {this->pos.first, this->pos.second};
     return position;
 }
 
 void Point::plot(){
-    glColor4d(color.r,color.g,color.b,color.a)
+    glColor4d(color.r,color.g,color.b,color.a);
     glBegin(GL_POINTS);
         glVertex2d(pos.first, pos.second);
     glEnd();
@@ -72,10 +74,10 @@ Line::Line(double xa,double ya,double xb,double yb){
 }
 
 void Line::plot(){
-    glColor4d(color.r,color.g,color.b,color.a)
-    glbegin(GL_LINE)
-        glVertex2d(stPoint.F,stPoint.S);
-        glVertex2d(endPoint.F,endPoint.S);
+    glColor4d(color.r,color.g,color.b,color.a);
+    glBegin(GL_LINE);
+        glVertex2d(stPoint.pos.X,stPoint.pos.Y);
+        glVertex2d(endPoint.pos.X,endPoint.pos.Y);
     glEnd();
 }
 
@@ -127,7 +129,7 @@ Polygon::Polygon(vector<Point>& pts){
 
 Polygon::Polygon(vector<pair<double, double> >& vec){
     n_vt = vec.size();
-    rep(i,0,n_vt) vertices.pb(Point(vec[i]));
+    rep(i,0,n_vt) vertices.pb(Point(vec[i].X, vec[i].Y));
     color = Color();
     fillColor = Color(0.7,0.7,0.7);
 }
@@ -136,7 +138,7 @@ void Polygon::plot(){
     glColor4d(color.r,color.g,color.b,color.a);
     glBegin(GL_LINE_LOOP);
         rep(i,0,vertices.size()){
-            glVertex2d(vertices[i].F,vertices[i].S);
+            glVertex2d(vertices[i].pos.X,vertices[i].pos.Y);
         }
     glEnd();
 }

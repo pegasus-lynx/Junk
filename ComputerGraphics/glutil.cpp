@@ -1,6 +1,8 @@
 #include "macros.h"
 #include "glutil.h"
 
+using namespace std;
+
 void initGL() {
     glClearColor(1.0,1.0,1.0,1.0);
     glMatrixMode(GL_PROJECTION);
