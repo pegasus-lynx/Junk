@@ -1,43 +1,36 @@
-def wordToFeatures(sent,i):
-    word = sent[i][0]
-    tags = sent[i][1:-1]
+def wordToFeatures(sent, i):
+    obj = sent[i]
+    word = obj['word']
+    tags = obj['morph_features']
 
     features = {
-        'bias': 1.0,
         'word': word,
-        # 'word[-3:]': word[-3:],
-        # 'word[-2:]': word[-2:],
-        'word.isdigit()': word.isdigit(),
-        'postag': tags[0],
-        # 'postag[:1]': tags[1],
-        # 'postag[:2]': tags[2]
+        # 'chunk_postag': obj['chunk_category'],
+        'word_postag': obj['word_category'],
+        'word_feat5': tags[5],
+        'word_feat2': tags[2],
+        'word_feat3': tags[3],
     }
     if i > 0:
-        word1 = sent[i-1][0]
-        tags1 = sent[i-1][1:-1]
+        probj = sent[i-1]
+        word1 = probj['word']
+        tags1 = probj['morph_features']
         features.update({
-            '-1:postag': tags1[0],
-            # '-1:postag[:1]': tags1[1],
-            # '-1:postag[:1]': tags1[2],
+            '-1:postag': probj['word_category'],
         })
-    else:
-        features['BOS'] = True
 
-    if i < len(sent)-1:
-        word1 = sent[i+1][0]
-        tags1 = sent[i+1][1:-1]
+    if i < len(sent) - 1:
+        nobj = sent[i+1]
+        word1 = nobj['word']
+        tags1 = nobj['morph_features']
         features.update({
-            '+1:postag': tags1[0],
-            # '+1:postag[:1]': tags1[1],
-            # '+1:postag[:1]': tags1[2],
+            '+1:postag': nobj['word_category'],
         })
-    else:
-        features['EOS'] = True
 
-    return features    
+    return features
 
 def sentToFeatures(sent):
     return [wordToFeatures(sent,i) for i in range(len(sent))]
 
 def sentToLabels(sent):
-    return [r[-1] for r in sent]
+    return [r['chunk_category'] for r in sent]
