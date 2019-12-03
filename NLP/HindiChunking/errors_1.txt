@@ -1,0 +1,120 @@
+चिदंबरम ने बताया कि पिछले तीन वर्षो के दौरान सेंचुरियन बैंक , ग्लोबल ट्रस्ट बैंक और एसबीआई कमर्शियल एंड इंटरनेशनल बैंक को छोड़कर निजी क्षेत्र के किसी भी बैंक को घाटा नहीं हुआ है ।
+['NNP', 'PSP', 'VM', 'CC', 'JJ', 'QC', 'NN', 'PSP', 'NST', 'NNPC', 'NNP', 'SYM', 'NNPC', 'NNPC', 'NNP', 'CC', 'NNPC', 'NNPC', 'NNPC', 'NNPC', 'NNP', 'PSP', 'VM', 'JJ', 'NN', 'PSP', 'PRP', 'RP', 'NN', 'PSP', 'NN', 'NEG', 'VM', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+
+
+चिदंबरम ने बताया कि पिछले तीन वर्षो के दौरान सेंचुरियन बैंक , ग्लोबल ट्रस्ट बैंक और एसबीआई कमर्शियल एंड इंटरनेशनल बैंक को छोड़कर निजी क्षेत्र के किसी भी बैंक को घाटा नहीं हुआ है ।
+['NNP', 'PSP', 'VM', 'CC', 'JJ', 'QC', 'NN', 'PSP', 'NST', 'NNPC', 'NNP', 'SYM', 'NNPC', 'NNPC', 'NNP', 'CC', 'NNPC', 'NNPC', 'NNPC', 'NNPC', 'NNP', 'PSP', 'VM', 'JJ', 'NN', 'PSP', 'PRP', 'RP', 'NN', 'PSP', 'NN', 'NEG', 'VM', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+
+
+अफगानिस्तान में सड़क निर्माण के लिए भेजी जा रही सौ टन विस्फोटक की खेप गायब हो जाने से सुरक्षा एजेंसियों की नींद उड़ गई है ।
+['NNP', 'PSP', 'NNC', 'NN', 'PSP', 'PSP', 'VM', 'VAUX', 'VAUX', 'QC', 'NN', 'NN', 'PSP', 'NN', 'JJ', 'VM', 'VAUX', 'PSP', 'NNC', 'NN', 'PSP', 'NN', 'VM', 'VAUX', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'I-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'I-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+
+
+दक्षिणेश्वर माँ काली का मंदिर विश्व में सबसे प्रसिद्ध है ।
+['NNP', 'NN', 'NNP', 'PSP', 'NN', 'NN', 'PSP', 'INTF', 'JJ', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'I-JJP', 'B-VGF', 'B-BLK']
+['B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'I-JJP', 'B-VGF', 'B-BLK']
+
+
+दक्षिणेश्वर माँ काली का मंदिर विश्व में सबसे प्रसिद्ध है ।
+['NNP', 'NN', 'NNP', 'PSP', 'NN', 'NN', 'PSP', 'INTF', 'JJ', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'I-JJP', 'B-VGF', 'B-BLK']
+['B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'I-JJP', 'B-VGF', 'B-BLK']
+
+
+आधिकारिक सूत्रों ने बताया कि इसके पहले सुबह पौने नौ बजे पलहालन इलाके में बीएसएफ की एक टुकड़ी ने सड़क के किनारे दो आईईडी बरामद किए ।
+['JJ', 'NN', 'PSP', 'VM', 'CC', 'PRP', 'NST', 'NN', 'QCC', 'QC', 'NN', 'NNP', 'NN', 'PSP', 'NNP', 'PSP', 'QC', 'NN', 'PSP', 'NN', 'PSP', 'NN', 'QC', 'NNP', 'JJ', 'VM', 'SYM']
+['B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'B-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-JJP', 'B-VGF', 'B-BLK']
+
+
+भोजपुरी भाषा में अपनी परेशानियां बताते हुए गिरिजा ने कहा कि मैंने संबंधित अधिकारियों के पास पहुंचकर समय पर पासपोर्ट हासिल करने की कोशिश की , लेकिन मुझे सफलता नहीं मिली ।
+['NNP', 'NN', 'PSP', 'PRP', 'NN', 'VM', 'VAUX', 'NNP', 'PSP', 'VM', 'CC', 'PRP', 'JJ', 'NN', 'PSP', 'NST', 'VM', 'NN', 'PSP', 'NN', 'JJ', 'VM', 'PSP', 'NN', 'VM', 'SYM', 'CC', 'PRP', 'NN', 'NEG', 'VM', 'SYM']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-JJP', 'B-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+
+
+भोजपुरी भाषा में अपनी परेशानियां बताते हुए गिरिजा ने कहा कि मैंने संबंधित अधिकारियों के पास पहुंचकर समय पर पासपोर्ट हासिल करने की कोशिश की , लेकिन मुझे सफलता नहीं मिली ।
+['NNP', 'NN', 'PSP', 'PRP', 'NN', 'VM', 'VAUX', 'NNP', 'PSP', 'VM', 'CC', 'PRP', 'JJ', 'NN', 'PSP', 'NST', 'VM', 'NN', 'PSP', 'NN', 'JJ', 'VM', 'PSP', 'NN', 'VM', 'SYM', 'CC', 'PRP', 'NN', 'NEG', 'VM', 'SYM']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-JJP', 'B-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+
+
+भाजपा अध्यक्ष लालकृष्ण आडवाणी की अध्यक्षता में एनडीए नेताओं की सोमवार को हुई बैठक में कहा गया कि प्रस्तावित कानून सभी संस्थानों पर लागू होना चाहिए और हमारा सर्वसम्मत निर्णय है कि अल्पसंख्यक संस्थानों को इससे बाहर रखने वाले प्रावधान को विधेयक से निकाल दिया जाय अन्यथा संसद में हम इसका विरोध करेंगे ।
+['NNP', 'NN', 'NNPC', 'NNP', 'PSP', 'NN', 'PSP', 'NNP', 'NN', 'PSP', 'NNP', 'PSP', 'VM', 'NN', 'PSP', 'VM', 'VAUX', 'CC', 'JJ', 'NN', 'QF', 'NN', 'PSP', 'JJ', 'VM', 'VAUX', 'CC', 'PRP', 'JJ', 'NN', 'VM', 'CC', 'JJ', 'NN', 'PSP', 'PRP', 'NST', 'VM', 'PSP', 'NN', 'PSP', 'NN', 'PSP', 'VM', 'VAUX', 'VAUX', 'CC', 'NN', 'PSP', 'PRP', 'PRP', 'NN', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-JJP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+
+
+भाजपा अध्यक्ष लालकृष्ण आडवाणी की अध्यक्षता में एनडीए नेताओं की सोमवार को हुई बैठक में कहा गया कि प्रस्तावित कानून सभी संस्थानों पर लागू होना चाहिए और हमारा सर्वसम्मत निर्णय है कि अल्पसंख्यक संस्थानों को इससे बाहर रखने वाले प्रावधान को विधेयक से निकाल दिया जाय अन्यथा संसद में हम इसका विरोध करेंगे ।
+['NNP', 'NN', 'NNPC', 'NNP', 'PSP', 'NN', 'PSP', 'NNP', 'NN', 'PSP', 'NNP', 'PSP', 'VM', 'NN', 'PSP', 'VM', 'VAUX', 'CC', 'JJ', 'NN', 'QF', 'NN', 'PSP', 'JJ', 'VM', 'VAUX', 'CC', 'PRP', 'JJ', 'NN', 'VM', 'CC', 'JJ', 'NN', 'PSP', 'PRP', 'NST', 'VM', 'PSP', 'NN', 'PSP', 'NN', 'PSP', 'VM', 'VAUX', 'VAUX', 'CC', 'NN', 'PSP', 'PRP', 'PRP', 'NN', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-JJP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+
+
+भाजपा अध्यक्ष लालकृष्ण आडवाणी की अध्यक्षता में एनडीए नेताओं की सोमवार को हुई बैठक में कहा गया कि प्रस्तावित कानून सभी संस्थानों पर लागू होना चाहिए और हमारा सर्वसम्मत निर्णय है कि अल्पसंख्यक संस्थानों को इससे बाहर रखने वाले प्रावधान को विधेयक से निकाल दिया जाय अन्यथा संसद में हम इसका विरोध करेंगे ।
+['NNP', 'NN', 'NNPC', 'NNP', 'PSP', 'NN', 'PSP', 'NNP', 'NN', 'PSP', 'NNP', 'PSP', 'VM', 'NN', 'PSP', 'VM', 'VAUX', 'CC', 'JJ', 'NN', 'QF', 'NN', 'PSP', 'JJ', 'VM', 'VAUX', 'CC', 'PRP', 'JJ', 'NN', 'VM', 'CC', 'JJ', 'NN', 'PSP', 'PRP', 'NST', 'VM', 'PSP', 'NN', 'PSP', 'NN', 'PSP', 'VM', 'VAUX', 'VAUX', 'CC', 'NN', 'PSP', 'PRP', 'PRP', 'NN', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-JJP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+
+
+भाजपा अध्यक्ष लालकृष्ण आडवाणी की अध्यक्षता में एनडीए नेताओं की सोमवार को हुई बैठक में कहा गया कि प्रस्तावित कानून सभी संस्थानों पर लागू होना चाहिए और हमारा सर्वसम्मत निर्णय है कि अल्पसंख्यक संस्थानों को इससे बाहर रखने वाले प्रावधान को विधेयक से निकाल दिया जाय अन्यथा संसद में हम इसका विरोध करेंगे ।
+['NNP', 'NN', 'NNPC', 'NNP', 'PSP', 'NN', 'PSP', 'NNP', 'NN', 'PSP', 'NNP', 'PSP', 'VM', 'NN', 'PSP', 'VM', 'VAUX', 'CC', 'JJ', 'NN', 'QF', 'NN', 'PSP', 'JJ', 'VM', 'VAUX', 'CC', 'PRP', 'JJ', 'NN', 'VM', 'CC', 'JJ', 'NN', 'PSP', 'PRP', 'NST', 'VM', 'PSP', 'NN', 'PSP', 'NN', 'PSP', 'VM', 'VAUX', 'VAUX', 'CC', 'NN', 'PSP', 'PRP', 'PRP', 'NN', 'VM', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-JJP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'B-NP', 'B-VGF', 'B-BLK']
+
+
+इलाहाबाद के लिए ३०० करोड़ , लखनऊ के लिए ३७२ करोड़ , कानपुर के लिए ४६१ करोड़ तथा वाराणसी के लिए ४८५ करोड़ रुपये प्रस्तावित किए गए हैं ।
+['NNP', 'PSP', 'PSP', 'QCC', 'QC', 'SYM', 'NNP', 'PSP', 'PSP', 'QCC', 'QC', 'SYM', 'NNP', 'PSP', 'PSP', 'QCC', 'QC', 'CC', 'NNP', 'PSP', 'PSP', 'QCC', 'QC', 'NN', 'JJ', 'VM', 'VAUX', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-CCP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+
+
+खैर कर भी क्या सकते हैं ?
+['INJ', 'VM', 'RP', 'WQ', 'VAUX', 'VAUX', 'SYM']
+['B-BLK', 'B-VGNF', 'I-VGNF', 'B-NP', 'B-FRAGP', 'I-FRAGP', 'B-BLK']
+['B-BLK', 'B-VGF', 'I-VGF', 'B-NP', 'B-FRAGP', 'I-FRAGP', 'B-BLK']
+
+
+खैर कर भी क्या सकते हैं ?
+['INJ', 'VM', 'RP', 'WQ', 'VAUX', 'VAUX', 'SYM']
+['B-BLK', 'B-VGNF', 'I-VGNF', 'B-NP', 'B-FRAGP', 'I-FRAGP', 'B-BLK']
+['B-BLK', 'B-VGF', 'I-VGF', 'B-NP', 'B-FRAGP', 'I-FRAGP', 'B-BLK']
+
+
+मिश्र दूसरे रास्ते होकर हाईकोर्ट पहुंचे ।
+['NNP', 'QO', 'NN', 'VM', 'NN', 'VM', 'SYM']
+['B-NP', 'I-NP', 'I-NP', 'B-VGNF', 'B-NP', 'B-VGF', 'B-BLK']
+['B-NP', 'B-NP', 'I-NP', 'B-VGNF', 'B-NP', 'B-VGF', 'B-BLK']
+
+
+खास बात यह है कि अदालत का यह फैसला सीवान के सत्र न्यायाधीश आर. एस. राय द्वारा एक अन्य मामले में शहाबुद्दीन की जमानत अर्जी खारिज किए जाने के एक दिन बाद आया है ।
+['JJ', 'NN', 'PRP', 'VM', 'CC', 'NN', 'PSP', 'DEM', 'NN', 'NNP', 'PSP', 'NNC', 'NNC', 'NNPC', 'NNPC', 'NNP', 'PSP', 'QC', 'JJ', 'NN', 'PSP', 'NNP', 'PSP', 'NNC', 'NN', 'JJ', 'VM', 'VAUX', 'PSP', 'QC', 'NN', 'NST', 'VM', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-JJP', 'B-VGNN', 'I-VGNN', 'I-VGNN', 'B-NP', 'I-NP', 'I-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+
+
+रविवार को पासवान ने यह कहते हुए कांग्रेस को फ्रैंडली फाइट की दावत दी थी कि वह पूर्व विधायकों के खिलाफ अपने उम्मीदवार नहीं उतारेंगे , लेकिन कांग्रेस ने इस पेशकश को नामंजूर कर दिया है ।
+['NNP', 'PSP', 'NNP', 'PSP', 'PRP', 'VM', 'VAUX', 'NNP', 'PSP', 'JJ', 'NN', 'PSP', 'NN', 'VM', 'VAUX', 'CC', 'PRP', 'JJ', 'NN', 'PSP', 'PSP', 'PRP', 'NN', 'NEG', 'VM', 'SYM', 'CC', 'NNP', 'PSP', 'DEM', 'NN', 'PSP', 'JJ', 'VM', 'VAUX', 'VAUX', 'SYM']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+['B-NP', 'I-NP', 'B-NP', 'I-NP', 'B-NP', 'B-VGNF', 'I-VGNF', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'B-NP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-CCP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-JJP', 'B-VGF', 'I-VGF', 'I-VGF', 'B-BLK']
+
+
+हालांकि उन्होंने उम्मीद जताई कि सरकार अगले महीने दुर्गा पूजा से पहले इस बारे में फैसला ले लेगी ।
+['CC', 'PRP', 'NN', 'VM', 'CC', 'NN', 'JJ', 'NN', 'NNP', 'NN', 'PSP', 'NST', 'PRP', 'PSP', 'PSP', 'NN', 'VM', 'VAUX', 'SYM']
+['B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+['B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+
+
+हालांकि उन्होंने उम्मीद जताई कि सरकार अगले महीने दुर्गा पूजा से पहले इस बारे में फैसला ले लेगी ।
+['CC', 'PRP', 'NN', 'VM', 'CC', 'NN', 'JJ', 'NN', 'NNP', 'NN', 'PSP', 'NST', 'PRP', 'PSP', 'PSP', 'NN', 'VM', 'VAUX', 'SYM']
+['B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+['B-CCP', 'B-NP', 'B-NP', 'B-VGF', 'B-CCP', 'B-NP', 'B-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'I-NP', 'B-NP', 'I-NP', 'I-NP', 'B-NP', 'B-VGF', 'I-VGF', 'B-BLK']
+
+

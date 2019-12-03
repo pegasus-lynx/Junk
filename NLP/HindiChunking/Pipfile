@@ -9,6 +9,8 @@ verify_ssl = true
 matplotlib = "*"
 sklearn = "*"
 sklearn-crfsuite = "*"
+numpy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
