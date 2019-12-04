@@ -12,65 +12,13 @@ from sklearn_crfsuite import metrics, scorers
 
 import features as features
 import util as util
+import analysis as analysis
 
 plt.style.use('ggplot')
 warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
 
 def plot_learning_curve(estimator, title, X, y, ylim=None, cv=None,
                         n_jobs=None, train_sizes=np.linspace(.1, 1.0, 5)):
-    """
-    Generate a simple plot of the test and training learning curve.
-
-    Parameters
-    ----------
-    estimator : object type that implements the "fit" and "predict" methods
-        An object of that type which is cloned for each validation.
-
-    title : string
-        Title for the chart.
-
-    X : array-like, shape (n_samples, n_features)
-        Training vector, where n_samples is the number of samples and
-        n_features is the number of features.
-
-    y : array-like, shape (n_samples) or (n_samples, n_features), optional
-        Target relative to X for classification or regression;
-        None for unsupervised learning.
-
-    ylim : tuple, shape (ymin, ymax), optional
-        Defines minimum and maximum yvalues plotted.
-
-    cv : int, cross-validation generator or an iterable, optional
-        Determines the cross-validation splitting strategy.
-        Possible inputs for cv are:
-          - None, to use the default 3-fold cross-validation,
-          - integer, to specify the number of folds.
-          - :term:`CV splitter`,
-          - An iterable yielding (train, test) splits as arrays of indices.
-
-        For integer/None inputs, if ``y`` is binary or multiclass,
-        :class:`StratifiedKFold` used. If the estimator is not a classifier
-        or if ``y`` is neither binary nor multiclass, :class:`KFold` is used.
-
-        Refer :ref:`User Guide <cross_validation>` for the various
-        cross-validators that can be used here.
-
-    n_jobs : int or None, optional (default=None)
-        Number of jobs to run in parallel.
-        ``None`` means 1 unless in a :obj:`joblib.parallel_backend` context.
-        ``-1`` means using all processors. See :term:`Glossary <n_jobs>`
-        for more details.
-
-    train_sizes : array-like, shape (n_ticks,), dtype float or int
-        Relative or absolute numbers of training examples that will be used to
-        generate the learning curve. If the dtype is float, it is regarded as a
-        fraction of the maximum size of the training set (that is determined
-        by the selected validation method), i.e. it has to be within (0, 1].
-        Otherwise it is interpreted as absolute sizes of the training sets.
-        Note that for classification the number of samples usually have to
-        be big enough to contain at least one sample from each class.
-        (default: np.linspace(0.1, 1.0, 5))
-    """
     plt.figure()
     plt.title(title)
     if ylim is not None:
@@ -106,7 +54,7 @@ def count_and_print_errors(n, f=None, seq=None):
     for i, s_true_y in enumerate(test_y):
         if cnt == n:
             break
-        s_pred_y = y_pred[i]
+        s_pred_y = pred_y[i]
         s_x = zipped_test_x[i]
         for j, true_y in enumerate(s_true_y):
             if cnt == n:
@@ -150,8 +98,10 @@ def find_best_hyperparameters(estimator, data_x, data_y, labels):
     return rs.best_estimator_
 
 
-# This is for deciding on what features we need to do our analysis
-MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
+# This is for deciding on what features we need to do our analysis =================================================================
+
+MODE_LIST = [0]
+# MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
 ## Mode Bits
 # 0 - Gender
 # 1 - Number
@@ -159,58 +109,108 @@ MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
 # 3 - Case
 # 4 - Root Word & Whether same
 
-print('Loading data...')
+# ==================================================================================================================================
 
+# Loading Data =====================================================================================================================
+
+print('Loading data...')
 data = util.convertFromSSF('data_clean.txt')
 print(f'# of sentences = {len(data)}')
 data_x = [features.sentToFeatures(s, MODE_LIST) for s in data]
 data_y = [features.sentToLabels(s) for s in data]
 
-# Setting the training and testing data
+# ==================================================================================================================================
+
+
+# Setting the training and testing data ============================================================================================
+
 print('Splitting data at 70%:30%...')
 train_X, test_X, train_Y, test_y = train_test_split(data_x, data_y, test_size=0.3, random_state=123)
 
-# Finding classification labels
+# ==================================================================================================================================
+
+# Finding classification labels ====================================================================================================
+
 labels = set(chain(*data_y))
 sorted_labels = sorted(
     labels,
     key=lambda name: (name[1:], name[0])
 )
 
+# ==================================================================================================================================
+
+
 # Setting the model
 # c1 and c2 parameter values are obtained from randomized search in hyperparameters space
 # Best estimated F1 score = 0.9745285762169615
+
+# Setting the model ================================================================================================================
+
 crf = sklearn_crfsuite.CRF(algorithm="lbfgs", c1=0.2096570893088954, c2=0.038587807344039826, max_iterations=50, all_possible_transitions=True)
 
-# find_best_hyperparameters(crf, [s[1] for s in train_X], train_Y, sorted_labels)
+# ==================================================================================================================================
 
-# Cross validation with 100 iterations to get smoother mean test and train
-# score curves, each time with 20% data randomly selected as a validation set.
-# cv = ShuffleSplit(n_splits=2, test_size=0.2, random_state=0)
 
-## Working for each mode differently
+
+# Working for each mode seperately ================================================================================================
+
 for mode in MODE_LIST:
+
+    ## Getting data specific to the mode ==========================================================================================
+
     zipped_train_x = [s[mode] for s in train_X]
     zipped_test_x = [s[mode] for s in test_X]
     # plot_learning_curve(crf, f'Learning curve for MODE {mode}', [s[mode] for s in train_X], train_Y, ylim=(0.7, 1.01), cv=cv, n_jobs=6)
     # plt.show()
 
+    ## ============================================================================================================================
+    
+    ## Fitting the data and Predcting results =====================================================================================
+
     print('Fitting the model for MODE (' + str(mode) + ') ...')
     crf.fit(zipped_train_x, train_Y)
+    # print('Predicting labels...')
+    pred_y = crf.predict(zipped_test_x)
 
-    print('Predicting labels...')
-    y_pred = crf.predict(zipped_test_x)
+    ## ============================================================================================================================
 
-    print('F1 score: ', metrics.flat_f1_score(test_y, y_pred, average='weighted'))
+    ## Error Analysis 
 
-    print(metrics.flat_classification_report(
-        test_y, y_pred, labels=sorted_labels, digits=3
-    ))
+    ### POS Level Analysis ========================================================================================================
 
-    seq = {}
-    itms = seq.items()
-    print(f'# of Errors = {count_and_print_errors(-1, seq=seq)}')
-    for j in (1.0, 0.9, 0.8, 0.7, 0.6, 0.5):
-        print(f'# of Sequence-level combinations with accuracy < {j} = {len(dict(filter(lambda e: e[1] < j, itms)))}')
-    print('Sequence-level combinations with accuracy < 0.4', dict(filter(lambda e: e[1] < 0.4, itms)))
-    print()
+    # print('F1 score: ', metrics.flat_f1_score(test_y, pred_y, average='weighted'))
+
+    # print(metrics.flat_classification_report(
+    #     test_y, pred_y, labels=sorted_labels, digits=3
+    # ))
+
+    ### ============================================================================================================================
+    
+    ### Word/Chunk Level Analysis ==================================================================================================
+
+    seqCorrect = analysis.getChnkSeqCorr(test_y)
+    seqPredicted = analysis.getChnkSeqPred(test_y, pred_y)
+
+    errs = analysis.check(seqCorrect, seqPredicted)
+
+    with open("chnk_len_unmatch.txt", "w") as file:
+        file.write(errs)
+
+    # analysis.analyzeChnkSeqTags(seqCorrect, seqPredicted)
+    # analysis.analyzeChnkSeqBoundaries(seqCorrect, seqPredicted)
+
+    ### ============================================================================================================================
+
+    ### Sentence Level Analysis ====================================================================================================
+
+    # seq = {}
+    # itms = seq.items()
+    # print(f'# of Errors = {count_and_print_errors(-1, seq=seq)}')
+    # for j in (1.0, 0.9, 0.8, 0.7, 0.6, 0.5):
+    #     print(f'# of Sequence-level combinations with accuracy < {j} = {len(dict(filter(lambda e: e[1] < j, itms)))}')
+    # print('Sequence-level combinations with accuracy < 0.4', dict(filter(lambda e: e[1] < 0.4, itms)))
+    # print()
+
+    ### ============================================================================================================================
+
+    ## ============================================================================================================================
