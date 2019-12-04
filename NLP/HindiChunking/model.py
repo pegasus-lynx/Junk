@@ -100,8 +100,8 @@ def find_best_hyperparameters(estimator, data_x, data_y, labels):
 
 # This is for deciding on what features we need to do our analysis =================================================================
 
-MODE_LIST = [0]
-# MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
+# MODE_LIST = [0]
+MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
 ## Mode Bits
 # 0 - Gender
 # 1 - Number
@@ -137,6 +137,15 @@ sorted_labels = sorted(
     key=lambda name: (name[1:], name[0])
 )
 
+chunk_labels = set()
+for label in labels:
+    chunk_labels.add(label[2:])
+
+sorted_chunk_labels = sorted(
+    chunk_labels,
+    key=lambda name: (name[1:],name[0])
+)
+
 # ==================================================================================================================================
 
 
@@ -169,7 +178,7 @@ for mode in MODE_LIST:
 
     print('Fitting the model for MODE (' + str(mode) + ') ...')
     crf.fit(zipped_train_x, train_Y)
-    # print('Predicting labels...')
+    print('Predicting labels...')
     pred_y = crf.predict(zipped_test_x)
 
     ## ============================================================================================================================
@@ -178,11 +187,11 @@ for mode in MODE_LIST:
 
     ### POS Level Analysis ========================================================================================================
 
-    # print('F1 score: ', metrics.flat_f1_score(test_y, pred_y, average='weighted'))
+    print('F1 score: ', metrics.flat_f1_score(test_y, pred_y, average='weighted'))
 
-    # print(metrics.flat_classification_report(
-    #     test_y, pred_y, labels=sorted_labels, digits=3
-    # ))
+    print(metrics.flat_classification_report(
+        test_y, pred_y, labels=sorted_labels, digits=3
+    ))
 
     ### ============================================================================================================================
     
@@ -191,13 +200,18 @@ for mode in MODE_LIST:
     seqCorrect = analysis.getChnkSeqCorr(test_y)
     seqPredicted = analysis.getChnkSeqPred(test_y, pred_y)
 
-    errs = analysis.check(seqCorrect, seqPredicted)
+    print("Sentence Labelling Error :")
+    errLabelling = analysis.checkCorrectLabelling(seqCorrect, seqPredicted)
 
-    with open("chnk_len_unmatch.txt", "w") as file:
-        file.write(errs)
+    file_name = str(mode) + '_incorrectLabelled.txt'
+    with open(file_name, "w") as file:
+        file.write(errLabelling)
+    # analysis.analyseErrLabelling(file_name)
 
-    # analysis.analyzeChnkSeqTags(seqCorrect, seqPredicted)
-    # analysis.analyzeChnkSeqBoundaries(seqCorrect, seqPredicted)
+    tagSeqList = analysis.analyzeChnkTagSeq(seqCorrect, seqPredicted, sorted_chunk_labels)
+    
+    bndMeasures = analysis.analyzeChnkBoundaries(seqCorrect, seqPredicted, sorted_chunk_labels)
+
 
     ### ============================================================================================================================
 
