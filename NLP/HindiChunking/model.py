@@ -207,11 +207,10 @@ for mode in MODE_LIST:
         test_y, y_pred, labels=sorted_labels, digits=3
     ))
 
-    # with open(f'errors_{mode}.txt', 'w') as f:
     seq = {}
     itms = seq.items()
     print(f'# of Errors = {count_and_print_errors(-1, seq=seq)}')
     for j in (1.0, 0.9, 0.8, 0.7, 0.6, 0.5):
         print(f'# of Sequence-level combinations with accuracy < {j} = {len(dict(filter(lambda e: e[1] < j, itms)))}')
-    print(dict(filter(lambda e: e[1] < 0.4, itms)))
+    print('Sequence-level combinations with accuracy < 0.4', dict(filter(lambda e: e[1] < 0.4, itms)))
     print()
