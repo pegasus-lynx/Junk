@@ -25,6 +25,13 @@ def wordToFeatures(sent, i, mode):
         features['root'] = tags[0]
         features['same?'] = (tags[0] == word)
 
+    # Trigram features
+    if mode & (1 << 5):
+        if i > 1:
+            features['-2:postag'] = sent[i-2]['word_category']
+        if i < len(sent) - 2:
+            features['+2:postag'] = sent[i+2]['word_category']
+
     # Bigram features
     if i > 0:
         probj = sent[i-1]

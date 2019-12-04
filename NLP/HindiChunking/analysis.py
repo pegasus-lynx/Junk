@@ -146,33 +146,32 @@ def analyzeChnkTagSeq(seqCorrect, seqPredicted, chunk_labels):
         pSeq = seqPredicted[i]
 
         for p in range(1, len(pSeq)):
-            ind = getIndCorrSeq(cSeq, pSeq, p)
-            if ind == -1:
-                if pSeq[p][0][-1] == '^':
-                    curTag = pSeq[p][0][:-1]
+            # ind = getIndCorrSeq(cSeq, pSeq, p)
+            
+            if pSeq[p][0][-1] == '^':
+                curTag = pSeq[p][0][:-1]
 
-                    prevTag = pSeq[p-1][0]
-                    if prevTag[-1] == '*' or prevTag[-1] == '^':
-                        prevTag = prevTag[:-1]
+                prevTag = pSeq[p-1][0]
+                if prevTag[-1] == '*' or prevTag[-1] == '^':
+                    prevTag = prevTag[:-1]
 
-                    freq_pred[prevTag][curTag] += 1
+                freq_pred[prevTag][curTag] += 1
+            elif pSeq[p][0][-1] == '*':
+                pass
             else:
-                if pSeq[p][0][-1] == '*':
-                    pass
-                else:
-                    curTag = pSeq[p][0]
+                curTag = pSeq[p][0]
 
-                    prevTag = pSeq[p-1][0]
-                    if prevTag[-1] == '*' or prevTag[-1] == '^':
-                        prevTag = prevTag[:-1]
+                prevTag = pSeq[p-1][0]
+                if prevTag[-1] == '*' or prevTag[-1] == '^':
+                    prevTag = prevTag[:-1]
 
-                    freq_pred[prevTag][curTag] += 1
+                freq_pred[prevTag][curTag] += 1
 
         for p in range(1,len(cSeq)):
             freq_corr[cSeq[p-1][0]][cSeq[p][0]] += 1
 
-        return [freq_pred, freq_corr]
-            
+    return [freq_pred, freq_corr]
+
 def makeEmptyBndDict(chunk_labels):
     freq = {}
 
