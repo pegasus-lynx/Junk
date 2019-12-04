@@ -8,17 +8,22 @@ def wordToFeatures(sent, i, mode):
         'word_postag': obj['word_category'],
     }
 
-    # extra_features = {
-    #     'word_feat5': tags[5],
-    #     'word_feat2': tags[2],
-    #     'word_feat3': tags[3],
-    # }
-
     # Unigram features
-    for j in range(0, 6):
+    for j in range(0, 4):
         if mode & (1 << j):
             features['wf'+str(j)] = tags[j+2]
-    # print(features)
+    # Morph features per word
+    # 0 - Root
+    # 1 - Category
+    # 2 - Gender (0)
+    # 3 - Number (1)
+    # 4 - Person (2)
+    # 5 - Case (3)
+
+    # Root word check & same
+    if mode & (1 << 4):
+        features['root'] = tags[0]
+        features['same?'] = (tags[0] == word)
 
     # Bigram features
     if i > 0:

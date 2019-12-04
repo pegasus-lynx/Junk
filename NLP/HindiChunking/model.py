@@ -98,8 +98,11 @@ def plot_learning_curve(estimator, title, X, y, ylim=None, cv=None,
     plt.legend(loc="best")
     return plt
 
-def count_and_print_errors(n, f=None):
+def count_and_print_errors(n, f=None, seq=None):
     cnt = 0
+    if seq is not None:
+        cor_seq = {}
+        wrg_seq = {}
     for i, s_true_y in enumerate(test_y):
         if cnt == n:
             break
@@ -111,25 +114,50 @@ def count_and_print_errors(n, f=None):
             x = s_x[j]
             pred_y = s_pred_y[j]
             if true_y != pred_y:
+                cnt += 1
                 if f:
                     print(" ".join([w['word'] for w in s_x]), file=f)
                     print([w['word_postag'] for w in s_x], file=f)
                     print([w for w in s_pred_y], file=f)
                     print([w for w in s_true_y], file=f)
                     print('\n', file=f)
-                cnt += 1
+                if seq is not None and '-1:postag' in x:
+                    key = f'{x["-1:postag"]}-{x["word_postag"]}'
+                    wrg_seq[key] = wrg_seq.setdefault(key, 0) + 1
+            elif seq is not None and '-1:postag' in x:
+                key = f'{x["-1:postag"]}-{x["word_postag"]}'
+                cor_seq[key] = cor_seq.setdefault(key, 0) + 1
+    if seq is not None:
+        keys = set(cor_seq.keys()) | set(wrg_seq.keys())
+        for key in keys:
+            seq[key] = cor_seq.get(key, 0) / (cor_seq.get(key, 0) + wrg_seq.get(key, 0))
     return cnt
+
+def find_best_hyperparameters(estimator, data_x, data_y, labels):
+    # use the same metric for evaluation
+    f1_scorer = make_scorer(metrics.flat_f1_score, average='weighted', labels=labels)
+
+    # Searching in params_space for best results
+    params_space = {
+        'c1': scipy.stats.expon(scale=0.5),
+        'c2': scipy.stats.expon(scale=0.05),
+    }
+    rs = RandomizedSearchCV(estimator, params_space, cv=3, n_jobs=4, n_iter=50, scoring=f1_scorer)
+    rs.fit(data_x, data_y)
+    print('best params:', rs.best_params_)
+    print('best CV score:', rs.best_score_)
+    print('model size: {:0.2f}M'.format(rs.best_estimator_.size_ / 1000000))
+    return rs.best_estimator_
 
 
 # This is for deciding on what features we need to do our analysis
-MODE_LIST = [0, 1, 2, 3, 8, 11]
-# Morph features per word
-# 0 - Root
-# 1 - Category
-# 2 - Gender (0)
-# 3 - Number (1)
-# 4 - Person (2)
-# 5 - Case (3)
+MODE_LIST = [0, 1, 2, 3, 8, 11, 16, 24]
+## Mode Bits
+# 0 - Gender
+# 1 - Number
+# 2 - Person
+# 3 - Case
+# 4 - Root Word & Whether same
 
 print('Loading data...')
 
@@ -149,30 +177,16 @@ sorted_labels = sorted(
     key=lambda name: (name[1:], name[0])
 )
 
-# use the same metric for evaluation
-# f1_scorer = make_scorer(metrics.flat_f1_score,
-#                         average='weighted', labels=sorted_labels)
-
 # Setting the model
 # c1 and c2 parameter values are obtained from randomized search in hyperparameters space
 # Best estimated F1 score = 0.9745285762169615
 crf = sklearn_crfsuite.CRF(algorithm="lbfgs", c1=0.2096570893088954, c2=0.038587807344039826, max_iterations=50, all_possible_transitions=True)
 
+# find_best_hyperparameters(crf, [s[1] for s in train_X], train_Y, sorted_labels)
+
 # Cross validation with 100 iterations to get smoother mean test and train
 # score curves, each time with 20% data randomly selected as a validation set.
 # cv = ShuffleSplit(n_splits=2, test_size=0.2, random_state=0)
-
-## Searching in params_space for best results
-# params_space = {
-#     'c1': scipy.stats.expon(scale=0.5),
-#     'c2': scipy.stats.expon(scale=0.05),
-# }
-# rs = RandomizedSearchCV(crf, params_space, cv=3, n_jobs=4, n_iter=50, scoring=f1_scorer)
-# rs.fit([s[1] for s in train_X], train_Y)
-# crf = rs.best_estimator_
-# print('best params:', rs.best_params_)
-# print('best CV score:', rs.best_score_)
-# print('model size: {:0.2f}M'.format(rs.best_estimator_.size_ / 1000000))
 
 ## Working for each mode differently
 for mode in MODE_LIST:
@@ -193,5 +207,10 @@ for mode in MODE_LIST:
         test_y, y_pred, labels=sorted_labels, digits=3
     ))
 
-    # with open(f'errors_{mode}.txt', 'w') as f:
-    print(f'# of Errors = {count_and_print_errors(-1)}', end='\n')
+    seq = {}
+    itms = seq.items()
+    print(f'# of Errors = {count_and_print_errors(-1, seq=seq)}')
+    for j in (1.0, 0.9, 0.8, 0.7, 0.6, 0.5):
+        print(f'# of Sequence-level combinations with accuracy < {j} = {len(dict(filter(lambda e: e[1] < j, itms)))}')
+    print('Sequence-level combinations with accuracy < 0.4', dict(filter(lambda e: e[1] < 0.4, itms)))
+    print()
