@@ -1,0 +1,22 @@
+.grid {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-content: center;
+	height: 618px;
+	width: 618px;
+}
+
+.sq {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+}
+
+.mole {
+	background-image: url(blank.png);
+	background-size: cover; 
+}

@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/parzival/.virtualenvs/scripts/bin/python",
+    "python.formatting.provider": "yapf"
+}

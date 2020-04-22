@@ -1,0 +1,26 @@
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	height: 300px;
+	width: 300px;
+	border-style: solid;
+}
+
+.grid div {
+	height: 20px;
+	width: 20px;
+}
+
+.invader {
+	border-radius: 10px;
+	background-color: purple;
+}
+
+.player {
+	background-color: black;
+}
+
+.bullet {
+	background-color: #123123;
+}
