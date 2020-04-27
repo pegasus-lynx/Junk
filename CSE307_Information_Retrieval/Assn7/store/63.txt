@@ -1,0 +1,11 @@
+Title : Corona set
+
+In mathematics, the corona or corona set of a topological space X is the complement βX\X of the space in its Stone–Čech compactification βX.
+
+A topological space is said to be σ-compact if it is the union of countably many compact subspaces, and locally compact if every point has a neighbourhood with compact closure. The corona of a σ-compact and locally compact Hausdorff space is a sub-Stonean space, i.e., any two open σ-compact disjoint subsets have disjoint compact closures.
+
+See also[edit]
+Corona theorem
+Corona algebra, a non-commutative analogue of the corona set.
+References[edit]
+Grove, Karsten; Pedersen, Gert Kjærgård (1984), "Sub-Stonean spaces and corona sets", Journal of Functional Analysis, 56 (1): 124–143, doi:10.1016/0022-1236(84)90028-4, ISSN 0022-1236, MR 0735707

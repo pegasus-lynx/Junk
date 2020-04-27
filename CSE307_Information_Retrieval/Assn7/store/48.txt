@@ -1,0 +1,204 @@
+Title : Corona (software)
+
+Mac OS (creation and deployment)Windows (creation and deployment)iPhone/iPad (deployment)tvOS (deployment)Android (deployment)Kindle Fire (deployment)Android TV (deployment)
+Corona is a software development kit developed by Corona Labs Inc. in mid 2009, which allows software programmers to build 2D mobile applications for iOS, Android, and Kindle, desktop applications for Windows and OS X, and connected TV applications for Apple TV, Fire TV and Android TV.
+
+Corona uses integrated Lua layered on top of C++/OpenGL to build graphic applications. The software has two operational modes: the Corona Simulator and Corona Native. With the Corona Simulator, apps are built directly from the Corona Simulator. Corona Native allows you to integrate your Lua code and assets within an Xcode or Android Studio project to build your app and include native features.
+
+Contents
+
+1 History
+2 Major features
+3 Bibliography
+4 References
+5 External links
+
+History[edit]
+Walter Luh and Carlos Icaza started Ansca Mobile, later renamed Corona Labs, after departing from Adobe in 2007. At Adobe, Luh was the lead architect working on the Flash Lite team and Icaza was the engineering manager responsible for mobile Flash authoring. In June 2009, Ansca released the first Corona SDK beta free for early adopters.[1][2][3]
+
+In December 2009, Ansca launched Corona SDK 1.0 for iPhone. The following February, the Corona SDK 1.1 was released with additional features.[4][5]
+
+In September 2010, Ansca released version 2.0 of Corona SDK and added Corona Game Edition. Version 2.0 added cross-platform support for iPad and Android, while Game Edition added a physics engine and other advanced features aimed specifically at game development.[6][7]
+
+In January 2011, Corona SDK was released for Windows XP and newer, giving developers the opportunity to build Android applications on PC.[8]
+
+In April 2012, co-founder and CEO Icaza left Ansca, and CTO Luh took the CEO role.[9] Shortly after, in June 2012, Ansca changed its name to Corona Labs.[10] In August 2012, Corona Labs announced Enterprise Edition, which added native bindings for Objective-C.[11]
+
+In March 2015, during GDC 2015 announcement was made that Corona SDK is completely free and will support Windows and Mac OS X deployment targets.[12][13]
+
+In November 2015, Corona Labs Inc. announced support for tvOS development for Apple TV.
+
+In March 2017, Corona Labs was acquired by Appodeal and announced that the Enterprise version of Corona would also become free.[14]
+
+In June 2017, Corona Labs announced that Enterprise was renamed to Corona Native, is free for everyone and included as part of the core product."[15]
+
+Major features[edit]
+Corona's API suite features API calls for audio and graphics, cryptography, networking and device information such as accelerometer information, GPS, and user input as well as widgets, particle effects, and more.[16]
+
+Bibliography[edit]
+Zammetti, Frank (April 2013). Learn Game Development with Corona SDK (1st ed.). Apress. p. 288. ISBN 1430250682.
+Flanagan, Nevin (May 2013). Corona SDK Hotshot (1st ed.). Packt Publishing. p. 334. ISBN 1849694303.
+Whye, J.A. (June 2013). Mobile Game Development with Corona SDK Training Video (1st ed.). Infinite Skills.
+Burton, Ed.D., Brian (April 2012). Learning Mobile Application & Game Development with Corona SDK (1st ed.). Burtons Media Group.
+Fernandez, Michelle (April 2012). Corona SDK Mobile Game Development: Beginner's Guide (1st ed.). Packt Publishing. p. 408. ISBN 1849691886.
+Burton, Ed.D., Brian. Mobile App Development with Corona (1st ed.). Burtons Media Group. p. 436. ISBN 978-1-937336-00-4.
+References[edit]
+External links[edit]
+Corona Labs website
+vte
+Source port
+First-person shooter engine
+list
+Game engine recreation
+list
+Game creation system
+List of visual novel engines
+id Tech
+list
+list
+Filmation
+Freescape
+SCUMM
+Dark
+FaceGen
+GameMaker
+GameMaker Studio
+Genie
+GoldSrc
+iMUSE
+INSANE
+Jedi
+M.U.G.E.N
+Pie in the Sky
+Reality Lab
+RenderWare
+RPG Maker
+Sim RPG Maker
+Truevision3D
+Unreal
+Voxel Space
+Virtual Theatre
+XnGine
+Zero
+Zillions of Games
+AnvilNext
+C4
+Chrome
+CryEngine
+Crystal Tools
+Diesel
+Ego
+Essence
+Euphoria
+Flare3D
+Frostbite
+Gamebryo
+GameSalad
+Gamestudio
+Havok
+HeroEngine
+IW
+LithTech
+Marmalade
+MT Framework
+Q
+RAGE
+SAGE
+Shark 3D
+ShiVa
+Silent Storm
+Source
+SpeedTree
+Star
+Titan
+Unigine
+Unity
+Vicious
+Vision
+Visual3D
+4A
+Amazon Lumberyard
+Autodesk Gameware
+Bitsquid
+Construct
+Creation
+Decima
+Felgo (V-Play Engine)
+Fox
+id Tech 5
+id Tech 6
+Ignite
+Kynapse
+Luminous Studio
+Panta Rhei
+REDengine
+Snowdrop
+Source 2
+UbiArt Framework
+id Tech 7
+Xconq
+Adventure Game Studio
+Allegro
+Build
+Crystal Space
+Doom engine
+Game-Maker
+Genesis3D
+OHRRPGCE
+Quake
+Stratagus
+Away3D
+Blender
+Bork3D
+Cafu
+Cocos2d
+Corona
+dim3
+Game Editor
+id Tech 3
+id Tech 4
+Irrlicht
+JMonkey
+Lightweight Java Game Library
+LÖVE
+OGRE
+Open Wonderland
+Panda3D
+Papervision3D
+PhyreEngine
+Plasma
+Platinum Arts Sandbox
+Pygame
+Quake II
+Ren'Py
+Spring
+Thousand Parsec
+Torque
+Vassal
+Wintermute Engine
+Delta3D
+Godot
+Horde3D
+libGDX
+Moai
+Nvidia GameWorks
+OpenFL
+ORX
+PlayCanvas
+Stencyl
+Xenko
+vte
+Lua (reference implementation from PUC-Rio)
+LuaJIT
+Parrot
+LuaRocks
+Plua
+Lua Player
+Corona
+Decoda
+SciTE
+Comparison of Lua IDEs
+Prosody
+Torch
+Tarantool
+IUP

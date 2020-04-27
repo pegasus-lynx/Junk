@@ -1,0 +1,456 @@
+Title : Zoonosis
+
+
+
+/zoʊˈɒnəsɪs, ˌzoʊəˈnoʊsɪs/[1] 
+A zoonosis (plural zoonoses, or zoonotic diseases) is an infectious disease caused by a pathogen (an infectious agent, including bacteria, viruses, parasites, prions, etc) that has jumped from non-human animals (usually vertebrates) to humans.[1][2][3]
+
+Major modern diseases such as Ebola virus disease and salmonellosis are zoonoses. HIV was a zoonotic disease transmitted to humans in the early part of the 20th century, though it has now mutated to a separate human-only disease. Most strains of influenza that infect humans are human diseases, although many strains of bird flu and swine flu are zoonoses; these viruses occasionally recombine with human strains of the flu and can cause pandemics such as the 1918 Spanish flu or the 2009 swine flu.[citation needed] Taenia solium infection is one of the neglected tropical diseases with public health and veterinary concern in endemic regions.[4] Zoonoses can be caused by a range of disease pathogens such as viruses, bacteria, fungi and parasites; of 1,415 pathogens known to infect humans, 61% were zoonotic.[5] Most human diseases originated in other animals; however, only diseases that routinely involve non-human to human transmission, such as rabies, are considered direct zoonosis.[6]
+
+Zoonoses have different modes of transmission. In direct zoonosis the disease is directly transmitted from other animals to humans through media such as air (influenza) or through bites and saliva (rabies).[7] In contrast, transmission can also occur via an intermediate species (referred to as a vector), which carry the disease pathogen without getting sick. When humans infect other animals, it is called reverse zoonosis or anthroponosis.[8] The term is from Greek: ζῷον zoon "animal" and νόσος nosos "sickness".
+
+Contents
+
+1 Causes
+
+1.1 Contamination of food or water supply
+1.2 Farming, ranching and animal husbandry
+1.3 Wild animal attacks
+1.4 Insect vectors
+1.5 Pets
+1.6 Exhibition
+1.7 Hunting and bushmeat
+1.8 Deforestation
+1.9 Biodiversity loss and environmental degradation
+1.10 Secondary transmission
+
+
+2 Lists of diseases
+3 History
+4 Use in vaccines
+5 See also
+6 References
+7 Bibliography
+8 External links
+
+
+1.1 Contamination of food or water supply
+1.2 Farming, ranching and animal husbandry
+1.3 Wild animal attacks
+1.4 Insect vectors
+1.5 Pets
+1.6 Exhibition
+1.7 Hunting and bushmeat
+1.8 Deforestation
+1.9 Biodiversity loss and environmental degradation
+1.10 Secondary transmission
+
+Causes[edit]
+Zoonotic transmission can occur in any context in which there is contact with or consumption of non-human animals, animal products, or animal derivatives. This can occur in a companionistic (pets), economic (farming, trade, butchering, etc.), predatory (hunting, butchering or consuming wild game) or research context.
+
+Contamination of food or water supply[edit]
+The most significant zoonotic pathogens causing foodborne diseases are Escherichia coli O157:H7, Campylobacter, Caliciviridae, and Salmonella.[9][10][11]
+
+In 2006, a conference held in Berlin was focusing on the issue of zoonotic pathogen effects on food safety, urging governments to intervene, and the public to be vigilant towards the risks of catching food-borne diseases from farm-to-table dining.[12]
+
+Many food outbreaks can be linked to zoonotic pathogens. Many different types of food can be contaminated that have a non-human animal origin. Some common foods linked to zoonotic contaminations include eggs, seafood, meat, dairy, and even some vegetables.[13] Food outbreaks should be handled in preparedness plans to prevent widespread outbreaks and to efficiently and effectively contain outbreaks.
+
+Farming, ranching and animal husbandry[edit]
+Contact with farm animals can lead to disease in farmers or others that come into contact with infected farm animals.  Glanders primarily affects those who work closely with horses and donkeys. Close contact with cattle can lead to cutaneous anthrax infection, whereas inhalation anthrax infection is more common for workers in slaughterhouses, tanneries and wool mills.[14] Close contact with sheep who have recently given birth can lead to clamydiosis, or enzootic abortion, in pregnant women, as well as an increased risk of Q fever, toxoplasmosis, and listeriosis in pregnant or the otherwise immunocompromised. Echinococcosis is caused by a tapeworm which can be spread from infected sheep by food or water contaminated with feces or wool. Bird flu is common in chickens. While rare in humans, the main public health worry is that a strain of bird flu will recombine with a human flu virus and cause a pandemic like the 1918 Spanish flu. In 2017, free range chickens in the UK were temporarily ordered to remain inside due to the threat of bird flu.[15] Cattle are an important reservoir of cryptosporidiosis[16] and mainly affects the immunocompromised.
+
+Practicing veterinarians are exposed to unique occupational hazards and zoonotic diseases. In the US, studies have highlighted an increased risk to injuries and a lack of veterinary awareness for these hazards. Research has proved the importance for continued clinical veterinarian education on occupational risks associated with musculoskeletal injuries, animal bites, needle-sticks, and cuts.[17]
+
+Wild animal attacks[edit]
+Rabies
+Insect vectors[edit]
+African sleeping sickness
+Dirofilariasis
+Eastern equine encephalitis
+Japanese encephalitis
+Saint Louis encephalitis
+Tularemia
+Venezuelan equine encephalitis
+West Nile fever
+Western equine encephalitis
+Zika fever
+Pets[edit]
+Pets can transmit a number of diseases. Dogs and cats are routinely vaccinated against rabies. Pets can also transmit ringworm and Giardia, which are endemic in both non-human animal and human populations. Toxoplasmosis is a common infection of cats; in humans it is a mild disease although it can be dangerous to pregnant women.[18] Dirofilariasis is caused by Dirofilaria immitis through mosquitoes infected by mammals like dogs and cats. Cat-scratch disease is caused by Bartonella henselae and Bartonella quintana from fleas which are endemic in cats. Toxocariasis is infection of humans of any of species of roundworm, including species specific to the dog (Toxocara canis) or the cat (Toxocara cati). Cryptosporidiosis can be spread to humans from pet lizards, such as the leopard gecko. Encephalitozoon cuniculi is a microsporidial parasite carried by many mammals, including rabbits, and is an important opportunistic pathogen in people immunocompromised by HIV/AIDS, organ transplantation, or CD4+ T-lymphocyte deficiency.[19]
+
+Exhibition[edit]
+Outbreaks of zoonoses have been traced to human interaction with and exposure to other animals at fairs, live animal markets[20], petting zoos, and other settings. In 2005, the Centers for Disease Control and Prevention (CDC) issued an updated list of recommendations for preventing zoonosis transmission in public settings.[21] The recommendations, developed in conjunction with the National Association of State Public Health Veterinarians, include educational responsibilities of venue operators, limiting public and non-human animal contact, and non-human animal care and management.
+
+Hunting and bushmeat[edit]
+HIV
+COVID-19
+SARS
+Deforestation[edit]
+Kate Jones, chair of ecology and biodiversity at University College London, says zoonotic diseases are Increasingly linked to environmental change and human behaviour. The disruption of pristine forests driven by logging, mining, road building through remote places, rapid urbanisation and population growth is bringing people into closer contact with animal species they may never have been near before. The resulting transmission of disease from wildlife to humans, she says, is now “a hidden cost of human economic development".[22]
+
+Biodiversity loss and environmental degradation[edit]
+An April 2020 study published in the Proceedings of the Royal Society Part B found that increased virus spillover events from animals to humans can be linked to biodiversity loss and environmental degradation, as humans further encroach on wildlands to engage in agriculture, hunting and resource extraction they become exposed to pathogens which normally would remain in these areas. Such spillover events have been tripling every decade since 1980.[23]
+
+Secondary transmission[edit]
+Ebola and Marburg
+Lists of diseases[edit]
+History[edit]
+During most of human prehistory groups of hunter-gatherers were probably very small. Such groups probably made contact with other such bands only rarely. Such isolation would have caused epidemic diseases to be restricted to any given local population, because propagation and expansion of epidemics depend on frequent contact with other individuals who have not yet developed an adequate immune response. To persist in such a population, a pathogen either had to be a chronic infection, staying present and potentially infectious in the infected host for long periods, or it had to have other additional species as reservoir where it can maintain itself until further susceptible hosts are contacted and infected. In fact, for many 'human' diseases, the human is actually better viewed as an accidental or incidental victim and a dead-end host. Examples include rabies, anthrax, tularemia and West Nile virus. Thus, much of human exposure to infectious disease has been zoonotic.
+
+Many modern diseases, even epidemic diseases, started out as zoonotic diseases. It is hard to establish with certainty which diseases jumped from other animals to humans, but there is increasing evidence from DNA and RNA sequencing, that measles, smallpox, influenza, HIV, and diphtheria came to humans this way. Various forms of the common cold and tuberculosis also are adaptations of strains originating in other species.
+
+Zoonoses are of interest because they are often previously unrecognized diseases or have increased virulence in populations lacking immunity. The West Nile virus appeared in the United States in 1999 in the New York City area, and moved through the country in the summer of 2002, causing much distress. Bubonic plague is a zoonotic disease,[32] as are salmonellosis, Rocky Mountain spotted fever, and Lyme disease.
+
+A major factor contributing to the appearance of new zoonotic pathogens in human populations is increased contact between humans and wildlife.[33] This can be caused either by encroachment of human activity into wilderness areas or by movement of wild animals into areas of human activity. An example of this is the outbreak of Nipah virus in peninsular Malaysia in 1999, when intensive pig farming began on the habitat of infected fruit bats. Unidentified infection of the pigs amplified the force of infection, eventually transmitting the virus to farmers and causing 105 human deaths.[34]
+
+Similarly, in recent times avian influenza and West Nile virus have spilled over into human populations probably due to interactions between the carrier host and domestic animals. Highly mobile animals such as bats and birds may present a greater risk of zoonotic transmission than other animals due to the ease with which they can move into areas of human habitation.
+
+Because they depend on the human host for part of their life-cycle, diseases such as African schistosomiasis, river blindness, and elephantiasis are not defined as zoonotic, even though they may depend on transmission by insects or other vectors.
+
+Use in vaccines[edit]
+The first vaccine against smallpox by Edward Jenner in 1800 was by infection of a zoonotic bovine virus which caused a disease called cowpox.  Jenner had noticed that milkmaids were resistant to smallpox.  Milkmaids contracted a milder version of the disease from infected cows that conferred cross immunity to the human disease.  Jenner abstracted an infectious preparation of 'cowpox' and subsequently used it to inoculate persons against smallpox.  As a result, smallpox has been eradicated globally, and mass vaccination against this disease 
+ceased in 1981.
+
+See also[edit]
+Animal_welfare#Animal_welfare_organizations – The well-being of (non-human) animals
+Conservation medicine
+Cross-species transmission
+Emerging infectious disease – Infectious disease of emerging pathogen, often novel in its outbreak range or transmission mode
+Foodborne illness
+Spillover infection – Occurs when a reservoir population causes an epidemic in a novel host population
+Wildlife disease
+Veterinary medicine – Deals with the diseases of animals, animal welfare, etc.
+List of zoonotic primate viruses – Wikipedia list article
+Wildlife smuggling and zoonoses – Health risks associated with the trade in exotic wildlife
+References[edit]
+Bibliography[edit]
+Bardosh, K. One Health: Science, Politics and Zoonotic Disease in Africa. 2016. Routledge; London, UK. ISBN 978-1-138-96148-7.
+Crawford, Dorothy (2018). Deadly Companions: How Microbes Shaped our History. Oxford University Press. ISBN 9780198815440.
+Greger, Michael (2007). "The Human/Animal Interface: Emergence and resurgence of infectious diseases". Critical Reviews in Microbiology. 33 (4): 243–299. doi:10.1080/10408410701647594. PMID 18033595.
+H. Krauss, A. Weber, M. Appel, B. Enders, A. v. Graevenitz, H. D. Isenberg, H. G. Schiefer, W. Slenczka, H. Zahner: Zoonoses. Infectious Diseases Transmissible from Animals to Humans. 3rd Edition, 456 pages. ASM Press. American Society for Microbiology, Washington, D.C., 2003. ISBN 1-55581-236-8.
+Jorge Guerra González (2010), Infection Risk and Limitation of Fundamental Rights by Animal-To-Human Transplantations. EU, Spanish and German Law with Special Consideration of English Law (in German), Hamburg: Verlag Dr. Kovac, ISBN 978-3-8300-4712-4
+David Quammen (2013). Spillover: Animal Infections and the Next Human Pandemic. ISBN 978-0-393-34661-9.
+External links[edit]
+MeSH: D015047DiseasesDB: 28555
+AVMA Collections: Zoonosis Updates
+WHO tropical diseases and zoonoses
+Detection and Forensic Analysis of Wildlife and Zoonotic Disease
+Publications in Zoonotics and Wildlife Disease
+A message from nature: coronavirus. United Nations Environment Programme
+vte
+Cholera
+Diphtheria
+Leprosy
+Syphilis
+Tuberculosis
+AIDS
+COVID-19
+Influenza
+Measles
+Polio
+Smallpox
+Aspergillosis
+Candidiasis
+Tinea
+Amoebic dysentery
+Hookworm
+Malaria
+Schistosomiasis
+Lice
+Scabies
+Emil von Behring
+Carl Siegmund Franz Credé
+Paul Ehrlich
+Alexander Fleming
+Edward Jenner
+Robert Koch
+Joseph Lister
+Florence Nightingale
+Louis Pasteur
+Jonas Salk
+Ignaz Semmelweis
+Kitasato Shibasaburō
+John Snow
+Medication
+Antibiotics
+Antiviral drug
+Antimicrobial resistance
+Vaccination
+Transmission
+horizontal
+vertical
+Host
+Incubation period
+Latent period
+Infectious period
+Subclinical infection
+Basic reproduction number
+Serial interval
+Hospital-acquired
+Index case
+Super-spreader
+Cross-species
+Zoonosis
+Emerging infectious disease
+History
+Emergent virus
+Pandemic
+Eradication
+Mathematical modelling of infectious disease
+Antibiotics
+Antiviral drug
+Antimicrobial resistance
+Vaccination
+horizontal
+vertical
+Host
+Incubation period
+Latent period
+Infectious period
+Subclinical infection
+Basic reproduction number
+Serial interval
+Hospital-acquired
+Index case
+Super-spreader
+Cross-species
+Zoonosis
+History
+Emergent virus
+vte
+Arbovirus encephalitides: La Crosse encephalitis
+LACV
+Batai virus
+BATV
+Bwamba Fever
+BWAV
+California encephalitis
+CEV
+Jamestown Canyon encephalitis
+Tete virus
+Tahyna virus
+TAHV
+LACV
+BATV
+BWAV
+CEV
+TAHV
+Viral hemorrhagic fevers: Rift Valley fever
+RVFV
+Bunyamwera fever
+BUNV
+Ngari virus
+NRIV
+RVFV
+BUNV
+NRIV
+Arbovirus encephalitides: Japanese encephalitis
+JEV
+Australian encephalitis
+MVEV
+KUNV
+Saint Louis encephalitis
+SLEV
+Usutu virus
+West Nile fever
+WNV
+JEV
+MVEV
+KUNV
+SLEV
+WNV
+Viral hemorrhagic fevers: Dengue fever
+DENV-1-4
+Yellow fever
+YFV
+Zika fever
+Zika virus
+DENV-1-4
+YFV
+Zika virus
+Arbovirus encephalitides: Eastern equine encephalomyelitis
+EEEV
+Western equine encephalomyelitis
+WEEV
+Venezuelan equine encephalomyelitis
+VEEV
+Chikungunya
+CHIKV
+O'nyong'nyong fever
+ONNV
+Pogosta disease
+Sindbis virus
+Ross River fever
+RRV
+Semliki Forest virus
+EEEV
+WEEV
+VEEV
+CHIKV
+ONNV
+Sindbis virus
+RRV
+Banna virus encephalitis
+Viral hemorrhagic fevers: Bhanja virus
+Crimean–Congo hemorrhagic fever (CCHFV)
+Heartland virus
+Severe fever with thrombocytopenia syndrome (Huaiyangshan banyangvirus)
+Tete virus
+Arbovirus encephalitides: Tick-borne encephalitis
+TBEV
+Powassan encephalitis
+POWV
+Viral hemorrhagic fevers: Omsk hemorrhagic fever
+OHFV
+Kyasanur Forest disease
+KFDV
+AHFV
+Langat virus
+LGTV
+TBEV
+POWV
+OHFV
+KFDV
+AHFV
+LGTV
+Bourbon virus
+Colorado tick fever
+CTFV
+Kemerovo tickborne viral fever
+CTFV
+Adria virus (ADRV)
+Oropouche fever
+Oropouche virus
+Pappataci fever
+Toscana virus
+Sandfly fever Naples virus
+Oropouche virus
+Toscana virus
+Chandipura virus
+Viral hemorrhagic fevers: Lassa fever
+LASV
+Venezuelan hemorrhagic fever
+GTOV
+Argentine hemorrhagic fever
+JUNV
+Brazilian hemorrhagic fever
+SABV
+Bolivian hemorrhagic fever
+MACV
+LUJV
+CHPV
+LASV
+GTOV
+JUNV
+SABV
+MACV
+Hemorrhagic fever with renal syndrome
+DOBV
+HTNV
+PUUV
+SEOV
+AMRV
+Hantavirus pulmonary syndrome
+ANDV
+SNV
+DOBV
+HTNV
+PUUV
+SEOV
+AMRV
+ANDV
+SNV
+Murid gammaherpesvirus 4
+BDBV
+SUDV
+TAFV
+Marburg virus disease
+MARV
+RAVV
+Rabies
+ABLV
+MOKV
+DUVV
+LBV
+CHPV
+ABLV
+MOKV
+DUVV
+LBV
+Henipavirus encephalitis
+HeV
+NiV
+HeV
+NiV
+Macacine alphaherpesvirus 1
+Simian foamy virus
+HTLV-1
+HTLV-2
+Tanapox
+Yaba monkey tumor virus
+Rabies
+RABV
+Mokola virus
+RABV
+Monkeypox
+vte
+Anaplasmosis
+Boutonneuse fever
+Ehrlichiosis (Human granulocytic, Human monocytotropic, Human E. ewingii infection)
+Scrub typhus
+Spotted fever rickettsiosis (includes Pacific Coast tick fever, Rickettsia parkeri rickettsiosis, rickettsialpox, and Rocky Mountain spotted fever)
+Baggio–Yoshinari syndrome
+Lyme disease
+Relapsing fever borreliosis
+Tularemia
+Bhanja virus
+Bourbon virus
+Colorado tick fever
+Crimean-Congo hemorrhagic fever
+Heartland virus
+Kemerovo tickborne viral fever
+Kyasanur Forest disease
+Omsk hemorrhagic fever
+Powassan encephalitis
+Severe fever with thrombocytopenia syndrome (SFTS)
+Tete virus
+Tick-borne encephalitis
+Babesiosis
+Tick paralysis
+Alpha-gal allergy
+House dust mite allergy
+Oral mite anaphylaxis
+Southern tick-associated rash illness
+Tick infestation
+Acariasis
+Baker's itch
+Cheyletiellosis
+Demodicosis
+Feather pillow dermatitis
+Gamasoidosis
+Grain itch
+Grocer's itch
+Rodent mite dermatitis
+Scabies
+Trombiculosis
+Amblyomma: Amblyomma americanum
+Amblyomma cajennense
+Amblyomma triguttatum
+Dermacentor: Dermacentor andersoni
+Dermacentor variabilis
+Ixodes: Ixodes cornuatus
+Ixodes holocyclus
+Ixodes pacificus
+Ixodes ricinus
+Ixodes scapularis
+Ornithodoros: Ornithodoros gurneyi
+Ornithodoros hermsi
+Ornithodoros moubata
+other: Rhipicephalus sanguineus
+House dust mite
+Leptotrombidium deliense
+Liponyssoides sanguineus
+Mites associated with cutaneous reactions
+BNE: XX528485
+BNF: cb119626189 (data)
+GND: 4121949-1
+LCCN: sh85150001
+NDL: 00971020

@@ -1,0 +1,427 @@
+Title : Corona Australis
+
+Coronae Australis
+Sagittarius
+Scorpius
+Ara
+Telescopium
+Corona Australis is a constellation in the Southern Celestial Hemisphere. Its Latin name means "southern crown", and it is the southern counterpart of Corona Borealis, the northern crown. It is one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, and it remains one of the 88 modern constellations. The Ancient Greeks saw Corona Australis as a wreath rather than a crown and associated it with Sagittarius or Centaurus. Other cultures have likened the pattern to a turtle, ostrich nest, a tent, or even a hut belonging to a rock hyrax.
+
+Although fainter than its northern counterpart, the oval- or horseshoe-shaped pattern of its brighter stars renders it distinctive. Alpha and Beta Coronae Australis are the two brightest stars with an apparent magnitude of around 4.1. Epsilon Coronae Australis is the brightest example of a W Ursae Majoris variable in the southern sky. Lying alongside the Milky Way, Corona Australis contains one of the closest star-forming regions to the Solar System—a dusty dark nebula known as the Corona Australis Molecular Cloud, lying about 430 light years away. Within it are stars at the earliest stages of their lifespan. The variable stars R and TY Coronae Australis light up parts of the nebula, which varies in brightness accordingly.
+
+Contents
+
+1 Name
+2 Characteristics
+3 Features
+
+3.1 Stars
+3.2 Deep sky objects
+3.3 Meteor showers
+
+
+4 History
+5 References
+
+5.1 Citations
+5.2 Sources
+
+
+6 External links
+
+
+3.1 Stars
+3.2 Deep sky objects
+3.3 Meteor showers
+
+
+5.1 Citations
+5.2 Sources
+
+Name[edit]
+The name of the constellation was entered as "Corona Australis" when the International Astronomical Union (IAU) established the 88 modern constellations in 1922.[5][6]
+In 1932, the name was instead recorded as "Corona Austrina" when the IAU's commission on notation approved a list of four-letter abbreviations for the constellations.[7]
+The four-letter abbreviations were repealed in 1955.[8] The IAU presently uses "Corona Australis" exclusively.[4]
+
+Characteristics[edit]
+Corona Australis is a small constellation bordered by Sagittarius to the north, Scorpius to the west, Telescopium to the south, and Ara to the southwest. The three-letter abbreviation for the constellation, as adopted by the International Astronomical Union in 1922, is "CrA".[9] The official constellation boundaries, as set by Eugène Delporte in 1930, are defined by a polygon of four segments (illustrated in infobox). In the equatorial coordinate system, the right ascension coordinates of these borders lie between  17h 58.3m and  19h 19.0m, while the declination coordinates are between −36.77° and −45.52°.[4] Covering 128 square degrees, Corona Australis culminates at midnight around the 30th of June[10] and ranks 80th in area.[11] Only visible at latitudes south of 53° north,[11] Corona Australis cannot be seen from the British Isles as it lies too far south,[12] but it can be seen from southern Europe[13] and readily from the southern United States.[14]
+
+Features[edit]
+While not a bright constellation, Corona Australis is nonetheless distinctive due to its easily identifiable pattern of stars,[15] which has been described as horseshoe-[16] or oval-shaped.[10] Though it has no stars brighter than 4th magnitude, it still has 21 stars visible to the unaided eye (brighter than magnitude 5.5).[17] Nicolas Louis de Lacaille used the Greek letters Alpha through to Lambda to label the most prominent eleven stars in the constellation, designating two stars as Eta and omitting Iota altogether. Mu Coronae Australis, a yellow star of spectral type G5.5III and apparent magnitude 5.21,[18] was labelled by Johann Elert Bode and retained by Benjamin Gould, who deemed it bright enough to warrant naming.[19]
+
+Stars[edit]
+The only star in the constellation to have received a name is Alfecca Meridiana or Alpha CrA. The name combines the Arabic name of the constellation with the Latin for "southern".[20] In Arabic, Alfecca means "break", and refers to the shape of both Corona Australis and Corona Borealis.[21] Also called simply "Meridiana",[1] it is a white main sequence star located 125 light years away from Earth,[15] with an apparent magnitude of 4.10 and spectral type A2Va.[22] A rapidly rotating star, it spins at almost 200 km per second at its equator, making a complete revolution in around 14 hours.[23] Like the star Vega, it has excess infrared radiation, which indicates it may be ringed by a disk of dust.[21]  It is currently a main-sequence star, but will eventually evolve into a white dwarf; currently, it has a luminosity 31 times greater, and a radius and mass of 2.3 times that of the Sun.[21] Beta Coronae Australis is an orange giant 474 light years from Earth.[15] Its spectral type is K0II, and it is of apparent magnitude 4.11.[24] Since its formation, it has evolved from a B-type star to a K-type star. Its luminosity class places it as a bright giant; its luminosity is 730 times that of the Sun,[25] designating it one of the highest-luminosity K0-type stars visible to the naked eye.[1] 100 million years old, it has a radius of 43 solar radii (R☉) and a mass of between 4.5 and 5 solar masses (M☉). Alpha and Beta are so similar as to be indistinguishable in brightness to the naked eye.[25]
+
+Some of the more prominent double stars include Gamma Coronae Australis—a pair of yellowish white stars 58 light years away from Earth, which orbit each other every 122 years. Widening since 1990, the two stars can be seen as separate with a 100 mm aperture telescope;[15] they are separated by 1.3 arcseconds at an angle of 61 degrees.[26] They have a combined visual magnitude of 4.2;[27] each component is an F8V dwarf star with a magnitude of 5.01.[28][29] Epsilon Coronae Australis is an eclipsing binary belonging to a class of stars known as W Ursae Majoris variables. These star systems are known as contact binaries as the component stars are so close together they touch. Varying by a quarter of a magnitude around an average apparent magnitude of 4.83 every seven hours, the star system lies 98 light years away.[30] Its spectral type is F4VFe-0.8+.[31] At the southern end of the crown asterism are the stars Eta¹ and Eta² Coronae Australis, which form an optical double.[32] Of magnitude 5.1 and 5.5, they are separable with the naked eye and are both white.[33] Kappa Coronae Australis is an easily resolved optical double—the components are of apparent magnitudes 6.3 and 5.6 and are about 1000 and 150 light years away respectively.[15] They appear at an angle of 359 degrees, separated by 21.6 arcseconds.[26] Kappa² is actually the brighter of the pair and is more bluish white,[33] with a spectral type of B9V,[34] while Kappa¹ is of spectral type A0III.[35] Lying 202 light years away, Lambda Coronae Australis is a double splittable in small telescopes. The primary is a white star of spectral type A2Vn and magnitude of 5.1,[36] while the companion star has a magnitude of 9.7. The two components are separated by 29.2 arcseconds at an angle of 214 degrees.[26]
+
+Zeta Coronae Australis is a rapidly rotating main sequence star with an apparent magnitude of 4.8, 221.7 light years from Earth. The star has blurred lines in its hydrogen spectrum due to its rotation.[32] Its spectral type is B9V.[37] Theta Coronae Australis lies further to the west, a yellow giant of spectral type G8III and apparent magnitude 4.62.[38] Corona Australis harbours RX J1856.5-3754, an isolated neutron star that is thought to lie 140 (±40) parsecs, or 460 (±130) light years, away, with a diameter of 14 km.[39] It was once suspected to be a strange star,[40] but this has been discounted.[39]
+
+Deep sky objects[edit]
+In the north of the constellation is the Corona Australis Molecular Cloud, a dark molecular cloud with many embedded reflection nebulae,[25] including NGC 6729, NGC 6726–7, and IC 4812.[41] A star-forming region of around 7000 M☉,[25] it contains Herbig–Haro objects (protostars) and some very young stars.[41] About 430 light years (130 parsecs) away, it is one of the closest star-forming regions to the Solar System.[42] The related NGC 6726 and 6727, along with unrelated NGC 6729, were first recorded by Johann Friedrich Julius Schmidt in 1865.[43] The Coronet cluster, about 554 light years (170 parsecs) away at the edge of the Gould Belt, is also used in studying star and protoplanetary disk formation.[44]
+
+R Coronae Australis is an irregular variable star ranging from magnitudes 9.7 to 13.9.[45] Blue-white, it is of spectral type B5IIIpe.[46] A very young star, it is still accumulating interstellar material.[41] It is obscured by, and illuminates, the surrounding nebula, NGC 6729, which brightens and darkens with it.[45] The nebula is often compared to a comet for its appearance in a telescope, as its length is five times its width.[47] S Coronae Australis is a G-class dwarf in the same field as R and is a T Tauri star.[32] Nearby, another young variable star, TY Coronae Australis, illuminates another nebula: reflection nebula NGC 6726–7. TY Coronae Australis ranges irregularly between magnitudes 8.7 and 12.4, and the brightness of the nebula varies with it.[45] Blue-white, it is of spectral type B8e.[48] The largest young stars in the region, R, S, T, TY and VV Coronae Australis, are all ejecting jets of material which cause surrounding dust and gas to coalesce and form Herbig–Haro objects, many of which have been identified nearby.[49] Lying adjacent to the nebulosity is the globular cluster known as NGC 6723, which is actually in the neighbouring constellation of Sagittarius and is much much further away.[50]
+
+Near Epsilon and Gamma Coronae Australis is Bernes 157, a dark nebula and star forming region. It is a large nebula, 55 by 18 arcminutes, that possesses several stars around magnitude 13. These stars have been dimmed by up to 8 magnitudes by its dust clouds.[51]
+
+IC 1297 is a planetary nebula of apparent magnitude 10.7, which appears as a green-hued roundish object in higher-powered amateur instruments.[52] The nebula surrounds the variable star RU Coronae Australis, which has an average apparent magnitude of 12.9[53] and is a WC class Wolf–Rayet star.[54] IC 1297 is small, at only 7 arcseconds in diameter; it has been described as "a square with rounded edges" in the eyepiece, elongated in the north-south direction.[55] Descriptions of its color encompass blue, blue-tinged green, and green-tinged blue.[55]
+
+Corona Australis' location near the Milky Way means that galaxies are uncommonly seen. NGC 6768 is a magnitude 11.2 object 35′ south of IC 1297. It is made up of two galaxies merging,[33] one of which is an elongated elliptical galaxy of classification E4 and the other a lenticular galaxy of classification S0.[56] IC 4808 is a galaxy of apparent magnitude 12.9 located on the border of Corona Australis with the neighbouring constellation of Telescopium and 3.9 degrees west-southwest of Beta Sagittarii. However, amateur telescopes will only show a suggestion of its spiral structure. It is 1.9 arcminutes by 0.8 arcminutes. The central area of the galaxy does appear brighter in an amateur instrument, which shows it to be tilted northeast-southwest.[57]
+
+Southeast of Theta and southwest of Eta lies the open cluster ESO 281-SC24, which is composed of the yellow 9th magnitude star GSC 7914 178 1 and five 10th to 11th magnitude stars.[33] Halfway between Theta Coronae Australis and Theta Scorpii is the dense globular cluster NGC 6541. Described as between magnitude 6.3[45] and magnitude 6.6,[26] it is visible in binoculars and small telescopes. Around 22000 light years away, it is around 100 light years in diameter.[45] It is estimated to be around 14 billion years old.[58] NGC 6541 appears 13.1 arcminutes in diameter and is somewhat resolvable in large amateur instruments; a 12-inch telescope reveals approximately 100 stars but the core remains unresolved.[59]
+
+Meteor showers[edit]
+The Corona Australids are a meteor shower that takes place between 14 and 18 March each year, peaking around 16 March.[60] This meteor shower does not have a high peak hourly rate. In 1953 and 1956, observers noted a maximum of 6 meteors per hour and 4 meteors per hour respectively; in 1955 the shower was "barely resolved".[61] However, in 1992, astronomers detected a peak rate of 45 meteors per hour.[62] The Corona Australids' rate varies from year to year.[63][64] At only six days, the shower's duration is particularly short,[62] and its meteoroids are small; the stream is devoid of large meteoroids. The Corona Australids were first seen with the unaided eye in 1935 and first observed with radar in 1955.[64] Corona Australid meteors have an entry velocity of 45 kilometers per second.[65] In 2006, a shower originating near Beta Coronae Australis was designated as the Beta Coronae Australids. They appear in May, the same month as a nearby shower known as the May Microscopids, but the two showers have different trajectories and are unlikely to be related.[66]
+
+History[edit]
+Corona Australis may have been recorded by ancient Mesopotamians in the MUL.APIN, as a constellation called MA.GUR ("The Bark"). However, this constellation, adjacent to SUHUR.MASH ("The Goat-Fish", modern Capricornus), may instead have been modern Epsilon Sagittarii. As a part of the southern sky, MA.GUR was one of the fifteen "stars of Ea".[67]
+
+In the 3rd century BC, the Greek didactic poet Aratus wrote of, but did not name the constellation,[68] instead calling the two crowns Στεφάνοι (Stephanoi). The Greek astronomer Ptolemy described the constellation in the 2nd century AD, though with the inclusion of Alpha Telescopii, since transferred to Telescopium.[69] Ascribing 13 stars to the constellation,[10] he named it Στεφάνος νοτιος (Stephanos notios), "Southern Wreath", while other authors associated it with either Sagittarius (having fallen off his head) or Centaurus; with the former, it was called Corona Sagittarii.[70] Similarly, the Romans called Corona Australis the "Golden Crown of Sagittarius".[71] It was known as Parvum Coelum ("Canopy", "Little Sky") in the 5th century.[72] The 18th-century French astronomer Jérôme Lalande gave it the names Sertum Australe ("Southern Garland")[70][72] and Orbiculus Capitis, while German poet and author Philippus Caesius called it Corolla ("Little Crown") or Spira Australis ("Southern Coil"), and linked it with the Crown of Eternal Life from the New Testament. Seventeenth-century celestial cartographer Julius Schiller linked it to the Diadem of Solomon.[70] Sometimes, Corona Australis was not the wreath of Sagittarius but arrows held in his hand.[72]
+
+Corona Australis has been associated with the myth of Bacchus and Stimula. Jupiter had impregnated Stimula, causing Juno to become jealous. Juno convinced Stimula to ask Jupiter to appear in his full splendor, which the mortal woman could not handle, causing her to burn. After Bacchus, Stimula's unborn child, became an adult and the god of wine, he honored his deceased mother by placing a wreath in the sky.[73]
+
+In Chinese astronomy, the stars of Corona Australis are located within the Black Tortoise of the North (北方玄武, Běi Fāng Xuán Wǔ).[74] The constellation itself was known as ti'en pieh ("Heavenly Turtle") and during the Western Zhou period, marked the beginning of winter. However, precession over time has meant that the "Heavenly River" (Milky Way) became the more accurate marker to the ancient Chinese and hence supplanted the turtle in this role.[75] Arabic names for Corona Australis include Al Ķubbah "the Tortoise", Al Ĥibā "the Tent" or Al Udḥā al Na'ām "the Ostrich Nest".[70][72] It was later given the name Al Iklīl al Janūbiyyah, which the European authors Chilmead, Riccioli and Caesius transliterated as Alachil Elgenubi, Elkleil Elgenubi and Aladil Algenubi respectively.[70]
+
+The ǀXam speaking San people of South Africa knew the constellation as ≠nabbe ta !nu "house of branches"—owned originally by the Dassie (rock hyrax), and the star pattern depicting people sitting in a semicircle around a fire.[76]
+
+The indigenous Boorong people of northwestern Victoria saw it as Won, a boomerang thrown by Totyarguil (Altair).[77] The Aranda people of Central Australia saw Corona Australis as a coolamon carrying a baby, which was accidentally dropped to earth by a group of sky-women dancing in the Milky Way. The impact of the coolamon created Gosses Bluff crater, 175 km west of Alice Springs.[78] The Torres Strait Islanders saw Corona Australis as part of a larger constellation encompassing part of Sagittarius and the tip of Scorpius's tail; the Pleiades and Orion were also associated. This constellation was Tagai's canoe, crewed by the Pleiades, called the Usiam, and Orion, called the Seg. The myth of Tagai says that he was in charge of this canoe, but his crewmen consumed all of the supplies onboard without asking permission. Enraged, Tagai bound the Usiam with a rope and tied them to the side of the boat, then threw them overboard. Scorpius's tail represents a suckerfish, while Eta Sagittarii and Theta Coronae Australis mark the bottom of the canoe.[79] On the island of Futuna, the figure of Corona Australis was called Tanuma and in the Tuamotus, it was called Na Kaua-ki-Tonga.[80]
+
+References[edit]
+Citations[edit]
+Sources[edit]
+Allen, Richard Hinckley (1963) [1899]. Star Names: Their Lore and Meaning (reprint ed.). New York, NY: Dover Publications. ISBN 978-0-486-21079-7.CS1 maint: ref=harv (link)
+Bagnall, Philip M. (2012). The Star Atlas Companion : What you need to know about the Constellations. Springer New York. ISBN 978-1-4614-0830-7.CS1 maint: ref=harv (link)
+Bakich, Michael E. (1995). The Cambridge Guide to the Constellations. Cambridge University Press. ISBN 978-0-521-44921-2.CS1 maint: ref=harv (link)
+Bakich, Michael E. (2010). 1,001 Celestial Wonders to See Before You Die. Springer Science + Business Media. ISBN 978-1-4419-1777-5.CS1 maint: ref=harv (link)
+Coe, Steven R. (2007). Nebulae and how to observe them. Astronomers' observing guides. New York, New York: Springer. ISBN 978-1-84628-482-3.CS1 maint: ref=harv (link)
+Drake, Jeremy J.; Marshall, Herman L.; Dreizler, Stefan; Freeman, Peter E.; Fruscione, Antonella; Juda, Michael; Kashyap, Vinay; Nicastro, Fabrizio; Pease, Deron O.; Wargelin, Bradford J.; Werner, Klaus (June 2002). "Is RX J1856.5−3754 a Quark Star?". The Astrophysical Journal. 572 (2): 996–1001. arXiv:astro-ph/0204159. Bibcode:2002ApJ...572..996D. doi:10.1086/340368.
+Ellyett, C. D.; Keay, C. S. L. (1956). "Radio Echo Observations of Meteor Activity in the Southern Hemisphere". Australian Journal of Physics. 9 (4): 471–480. Bibcode:1956AuJPh...9..471E. doi:10.1071/PH560471.CS1 maint: ref=harv (link)
+Falkner, David E. (2011). The Mythology of the Night Sky: An Amateur Astronomer's Guide to the Ancient Greek and Roman Legends. New York, New York: Springer. ISBN 978-1-4614-0136-0.CS1 maint: ref=harv (link)
+Griffiths, Martin (2012). Planetary Nebulae and How to Observe Them. Springer. ISBN 978-1-4614-1781-1.CS1 maint: ref=harv (link)
+Hamacher, Duane W.; Frew, David J. (2010). "An Aboriginal Australian Record of the Great Eruption of Eta Carinae". Journal of Astronomical History & Heritage. 13 (3): 220–234. arXiv:1010.4610. Bibcode:2010JAHH...13..220H.CS1 maint: ref=harv (link)
+Ho, W. C. G.; Kaplan, D. L.; Chang, P.; Van Adelsberg, M.; Potekhin, A. Y. (March 2007). "Magnetic hydrogen atmosphere models and the neutron star RX J1856.5–3754". Monthly Notices of the Royal Astronomical Society. 375 (3): 821–830. arXiv:astro-ph/0612145v1. Bibcode:2007MNRAS.375..821H. doi:10.1111/j.1365-2966.2006.11376.x.
+Jenniskens, Peter (July 1994). "Meteor stream activity I. The annual streams". Astronomy and Astrophysics. 287: 990–1013. Bibcode:1994A&A...287..990J.CS1 maint: ref=harv (link)
+Jopek, T. J.; Koten, P.; Pecina, P. (May 2010). "Meteoroid streams identification amongst 231 Southern hemisphere video meteors". Monthly Notices of the Royal Astronomical Society. 404 (2): 867–875. Bibcode:2010MNRAS.404..867J. doi:10.1111/j.1365-2966.2010.16316.x.
+Makemson, Maud Worcester (1941). The Morning Star Rises: an account of Polynesian astronomy. Yale University Press.CS1 maint: ref=harv (link)
+Malin, David; Frew, David J. (1995). Hartung's Astronomical Objects for Southern Telescopes: A Handbook for Amateur Observers. Cambridge, United Kingdom: Cambridge University Press. ISBN 978-0-521-55491-6.CS1 maint: ref=harv (link)
+Malin, David (August 2010). "The Corona Australis nebula (NGC 6726-27-29)". Australian Astronomical Observatory. Archived from the original on 30 September 2012. Retrieved 4 July 2012.CS1 maint: ref=harv (link)
+Moore, Patrick; Tirion, Wil (1997). Cambridge Guide to Stars and Planets. Cambridge, United Kingdom: Cambridge University Press. ISBN 978-0-521-58582-8.CS1 maint: ref=harv (link)
+Moore, Patrick (2000). The Data Book of Astronomy. Institute of Physics Publishing. ISBN 978-0-7503-0620-1.
+Moore, Patrick (2000). Stargazing: Astronomy without a Telescope. Cambridge, United Kingdom: Cambridge University Press. ISBN 978-0-521-79445-9.
+Moore, Patrick (2005). The Observer's Year: 366 Nights of the Universe. Springer. ISBN 978-1-85233-884-8.CS1 maint: ref=harv (link)
+Moore, Patrick; Rees, Robin (2011). Patrick Moore's Data Book of Astronomy. Cambridge University Press. ISBN 978-1-139-04070-9.CS1 maint: ref=harv (link)
+Motz, Lloyd; Nathanson, Carol (1988). The Constellations. New York City: Doubleday. ISBN 978-0-385-17600-2.CS1 maint: ref=harv (link)
+Motz, Lloyd; Nathanson, Carol (1991). The Constellations: An Enthusiast's Guide to the Night Sky. London, United Kingdom: Aurum Press. ISBN 978-1-85410-088-7.CS1 maint: ref=harv (link)
+O'Meara, Stephen James (2002). The Caldwell Objects. Cambridge, United Kingdom: Cambridge University Press. ISBN 978-0-521-82796-6.CS1 maint: ref=harv (link)
+O'Meara, Stephen James (2011). Deep-Sky Companions: The Secret Deep. Cambridge, United Kingdom: Cambridge University Press. ISBN 978-0-521-19876-9.CS1 maint: ref=harv (link)
+Porter, Deborah Lynn (1996). From Deluge to Discourse: Myth, History, and the Generation of Chinese Fiction. Albany, New York: SUNY Press. ISBN 978-0-7914-3034-7.CS1 maint: ref=harv (link)
+Reipurth, Bo, ed. (2008). "The Corona Australis Star Forming Region". Handbook of Star Forming Regions. II: The Southern Sky. ASP Monograph Publications. Bibcode:2008hsf2.book..735N.CS1 maint: ref=harv (link)
+Ridpath, Ian; Tirion, Wil (2017). Stars and Planets Guide (5th ed.). Princeton, New Jersey: Princeton University Press. ISBN 978-0-69-117788-5.CS1 maint: ref=harv (link)
+Rogers, J. H. (1998). "Origins of the ancient constellations: I. The Mesopotamian traditions". Journal of the British Astronomical Association. 108 (1): 9–28. Bibcode:1998JBAA..108....9R.CS1 maint: ref=harv (link)
+Rogers, L. J.; Keay, C. S. L. (1993).  Stohl, J.; Williams, I.P. (eds.). "Observations of some southern hemisphere meteor showers". Meteoroids and Their Parent Bodies, Proceedings of the International Astronomical Symposium Held at Smolenice, Slovakia, July 6–12, 1992: 273–276. Bibcode:1993mtpb.conf..273R.CS1 maint: ref=harv (link)
+Royer, F.; Zorec, J.; Gómez, A.E. (February 2007). "Rotational velocities of A-type stars. III. Velocity distributions". Astronomy & Astrophysics. Astronomy and Astrophysics. 463 (2): 671–682. arXiv:astro-ph/0610785. Bibcode:2007A&A...463..671R. doi:10.1051/0004-6361:20065224.CS1 maint: ref=harv (link)
+Russell, Henry Norris (October 1922). "The new international symbols for the constellations". Popular Astronomy. 30: 469. Bibcode:1922PA.....30..469R.CS1 maint: ref=harv (link)
+Sherrod, P. Clay; Koed, Thomas L. (2003). A Complete Manual of Amateur Astronomy: Tools and Techniques for Astronomical Observations. Courier Dover Publications. ISBN 978-0-486-42820-8.CS1 maint: ref=harv (link)
+Simpson, Phil (2012). Guidebook to the Constellations : Telescopic Sights, Tales, and Myths. Springer New York. ISBN 978-1-4419-6940-8.CS1 maint: ref=harv (link)
+Staal, Julius D. W. (1988). The New Patterns in the Sky: Myths and Legends of the Stars. McDonald and Woodward Publishing Company. ISBN 978-0-939923-04-5.CS1 maint: ref=harv (link)
+Steinicke, Wolfgang (2010). Observing and Cataloging Nebulae and Star Clusters: From Herschel to Dreyer. Cambridge University Press. ISBN 978-0-521-19267-5.CS1 maint: ref=harv (link)
+Wagman, Morton (2003). Lost Stars: Lost, Missing and Troublesome Stars from the Catalogues of Johannes Bayer, Nicholas Louis de Lacaille, John Flamsteed, and Sundry Others. Blacksburg, VA: The McDonald & Woodward Publishing Company. ISBN 978-0-939923-78-6.CS1 maint: ref=harv (link)
+Wang, Hongchi; Mundt, Reinhard; Henning, Thomas; Apai, Dániel (20 December 2004). "Optical Outflows in the R Coronae Australis Molecular Cloud" (PDF). The Astrophysical Journal. 617 (2): 1191–1203. Bibcode:2004ApJ...617.1191W. doi:10.1086/425493. Archived from the original (PDF) on 28 October 2005.CS1 maint: ref=harv (link)
+Weiss, A. A. (1957). "Meteor Activity in the Southern Hemisphere". Australian Journal of Physics. 10 (2): 299–308. Bibcode:1957AuJPh..10..299W. doi:10.1071/PH570299.CS1 maint: ref=harv (link)
+"AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 2 日" (in Chinese). 2006. Retrieved 15 July 2012.
+Bakich, Michael E. (25 June 2009). "Podcast: Night-sky targets for June 26 – July 3, 2009". Astronomy. Retrieved 21 August 2012. (subscription required)
+Bakich, Michael E. (26 August 2010). "Observing podcast: Corona Australis, the Castaway Cluster, and the Red Spider Nebula". Retrieved 21 August 2012. (subscription required)
+Bakich, Michael E. (18 August 2011). "Open cluster M26, globular cluster M56, and spiral galaxy IC 4808". Astronomy. Retrieved 21 August 2012. (subscription required)
+Bakich, Michael E. (5 July 2012). "Globular cluster NGC 6541, planetary nebula NGC 6563, and irregular galaxy IC 4662". Astronomy. Retrieved 21 August 2012. (subscription required)
+Hamacher, Duane (28 March 2011). "Impact Craters in Aboriginal Dreamings, Part 2: Tnorala (Gosses Bluff)". Australian Aboriginal Astronomy. Aboriginal Astronomy Project. Retrieved 24 September 2012.
+"Corona Australis, constellation boundary". The Constellations. International Astronomical Union. Retrieved 3 July 2012.
+Kaler, Jim. "Alfecca Meridiana". Stars. University of Illinois. Retrieved 15 August 2012.
+Kaler, Jim. "Beta Coronae Australis". Stars. University of Illinois. Retrieved 5 July 2012.
+Kaler, Jim. "Epsilon Coronae Australis". Stars. University of Illinois. Retrieved 5 July 2012.
+Jet Propulsion Laboratory (2011). "Classifications for NGC 6768: 2 Classifications found in NED". NASA/IPAC Extragalactic Database. California Institute of Technology/National Aeronautics and Space Administration. Retrieved 20 August 2012.
+Lloyd, Lucy (11 October 1873). "Story: ≠nabbe ta !nu (Corona Australis)". The Digital Bleek & Lloyd. University of Cape Town. Retrieved 16 August 2012.CS1 maint: ref=harv (link)
+Ridpath, Ian. "Constellations". Retrieved 25 August 2012.
+Ridpath, Ian (1988). "Corona Australis". Star Tales. Retrieved 3 July 2012.
+Streicher, Magda (August 2008). "The Southern Queen's Crown" (PDF). Deepsky Delights. The Astronomical Society of Southern Africa. Retrieved 17 August 2012.CS1 maint: ref=harv (link)
+SIMBAD
+
+"Alpha Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 3 July 2012.
+"Beta Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 3 July 2012.
+"LTT 7565 (Gamma Coronae Australis)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 3 July 2012.
+"HR 7226 (Gamma Coronae Australis A)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 3 July 2012.
+"HR 7227 (Gamma Coronae Australis B)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 3 July 2012.
+"Epsilon Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 5 July 2012.
+"HR 6953 (Kappa² Coronae Australis)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 17 August 2012.
+"HR 6952 (Kappa¹ Coronae Australis)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 17 August 2012.
+"Lambda Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 21 July 2012.
+"HR 7050 (Mu Coronae Australis)". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 8 September 2012.
+"Zeta Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 9 July 2012.
+"Theta Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 15 August 2012.
+"R Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 4 July 2012.
+"TY Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 6 July 2012.
+"RU Coronae Australis". SIMBAD Astronomical Database. Centre de Données astronomiques de Strasbourg. Retrieved 11 July 2012.
+External links[edit]
+The Deep Photographic Guide to the Constellations: Corona Australis
+Corona Australis photo
+Warburg Institute Iconographic Database (over 30 medieval and early modern images of Corona Australis)
+vte
+List of stars in Corona Australis
+Corona Australis in Chinese astronomy
+α (Meridiana)
+β
+γ
+δ
+ε
+ζ
+η1
+η2
+θ
+κ1
+κ2
+λ
+μ
+σ Tel
+R
+S
+T
+V
+TY
+WX
+6749
+166724
+RX J1856.5−3754
+Coronet Cluster
+NGC 6541
+NGC 6729
+vte
+Andromeda
+Antlia
+Apus
+Aquarius
+Aquila
+Ara
+Aries
+Auriga
+Boötes
+Caelum
+Camelopardalis
+Cancer
+Canes Venatici
+Canis Major
+Canis Minor
+Capricornus
+Carina
+Cassiopeia
+Centaurus
+Cepheus
+Cetus
+Chamaeleon
+Circinus
+Columba
+Coma Berenices
+Corona Australis
+Corona Borealis
+Corvus
+Crater
+Crux
+Cygnus
+Delphinus
+Dorado
+Draco
+Equuleus
+Eridanus
+Fornax
+Gemini
+Grus
+Hercules
+Horologium
+Hydra
+Hydrus
+Indus
+Lacerta
+Leo
+Leo Minor
+Lepus
+Libra
+Lupus
+Lynx
+Lyra
+Mensa
+Microscopium
+Monoceros
+Musca
+Norma
+Octans
+Ophiuchus
+Orion
+Pavo
+Pegasus
+Perseus
+Phoenix
+Pictor
+Pisces
+Piscis Austrinus
+Puppis
+Pyxis
+Reticulum
+Sagitta
+Sagittarius
+Scorpius
+Sculptor
+Scutum
+Serpens
+Sextans
+Taurus
+Telescopium
+Triangulum
+Triangulum Australe
+Tucana
+Ursa Major
+Ursa Minor
+Vela
+Virgo
+Volans
+Vulpecula
+Lists of constellations
+vte
+vte
+Andromeda
+Aquarius
+Aquila
+Ara
+Argo Navis
+Aries
+Auriga
+Boötes
+Cancer
+Canis Major
+Canis Minor
+Capricornus
+Cassiopeia
+Centaurus
+Cepheus
+Cetus
+Corona Australis
+Corona Borealis
+Corvus
+Crater
+Cygnus
+Delphinus
+Draco
+Equuleus
+Eridanus
+Gemini
+Hercules
+Hydra
+Leo
+Lepus
+Libra
+Lupus
+Lyra
+Ophiuchus
+Orion
+Pegasus
+Perseus
+Pisces
+Piscis Austrinus
+Sagitta
+Sagittarius
+Scorpius
+Serpens
+Taurus
+Triangulum
+Ursa Major
+Ursa Minor
+Virgo
+vte
+Vespucci or Corsalius early 16c: Crux
+Triangulum Australe
+Vopel 1536: Coma Berenices
+Keyser & de Houtman 1596: Apus
+Chamaeleon
+Dorado
+Grus
+Hydrus
+Indus
+Musca
+Pavo
+Phoenix
+Tucana
+Volans
+Plancius 1613: Camelopardalis
+Columba
+Monoceros
+Habrecht 1621: Reticulum
+Hevelius 1683: Canes Venatici
+Lacerta
+Leo Minor
+Lynx
+Scutum
+Sextans
+Vulpecula
+de Lacaille 1763: Antlia
+Caelum
+Carina
+Circinus
+Fornax
+Horologium
+Mensa
+Microscopium
+Norma
+Octans
+Pictor
+Puppis
+Pyxis
+Sculptor
+Telescopium
+Vela
+vte
+Anser
+Antinous
+Apes
+Argo Navis
+Asterion
+Cancer Minor
+Cerberus
+Chara
+Custos Messium
+Felis
+Frederici Honores/Gloria Frederici
+Gallus
+Globus Aerostaticus
+Jordanus
+Lilium
+Lochium Funis
+Machina Electrica
+Malus
+Mons Maenalus
+Musca Borealis
+Noctua
+Officina Typographica
+Polophylax
+Psalterium Georgianum/Harpa Georgii
+Quadrans Muralis
+Ramus Pomifer
+Robur Carolinum
+Sceptrum Brandenburgicum
+Sceptrum et Manus Iustitiae
+Solarium
+Rangifer/Tarandus
+Taurus Poniatovii
+Telescopium Herschelii
+Testudo
+Tigris
+Triangulum Minus
+Turdus Solitarius
+Vespa
+Vultur cadens
+Vultur volans
+obsolete constellation names
+Apis
+Phoenicopterus
+Serpentarius
+Xiphias
+Coordinates:  19h 00m 00s, −40° 00′ 00″
+
+Stars portalAstronomy portalOuter Space portal
+GND: 1064603785
+

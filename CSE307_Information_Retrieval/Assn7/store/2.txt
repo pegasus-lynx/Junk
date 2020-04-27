@@ -1,0 +1,1590 @@
+Title : Coronavirus disease 2019
+
+
+
+Coronavirus
+COVID
+2019-nCoV acute respiratory disease
+Novel coronavirus pneumonia[1][2]
+/kəˈroʊnəˌvaɪrəs dɪˈziːz//ˌkoʊvɪdnaɪnˈtiːn, ˌkɒvɪd-/[3] 
+/kəˈroʊnəˌvaɪrəs dɪˈziːz//ˌkoʊvɪdnaɪnˈtiːn, ˌkɒvɪd-/[3]
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).[8] The disease was first identified in December 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic.[9][10] As of 27 April 2020,[update] more than 2.97 million cases have been reported across 185 countries and territories, resulting in more than 206,000 deaths. More than 865,000 people have recovered.[7]
+
+Common early symptoms include a high temperature – this means you feel hot to touch on your chest or back, a new, continuous cough – this means coughing a lot for more than an hour, or 3 or more coughing episodes in 24 hours and other flu-like ailments.[11] Further symptoms may include fatigue, shortness of breath and loss of smell.[5][12][13] While the majority of cases result in mild symptoms, some progress to viral pneumonia, multi-organ failure, or cytokine storm.[14][9][15] More concerning symptoms include difficulty breathing, persistent chest pain, confusion, difficulty waking, and bluish skin.[5] The time from exposure to onset of symptoms is typically around five days but may range from two to fourteen days.[5][16]
+
+The virus is primarily spread between people during close contact,[a] often via small droplets produced by coughing,[b] sneezing, or talking.[6][17][19] The droplets usually fall to the ground or onto surfaces rather than remaining in the air over long distances.[6][20][21] People may also become infected by touching a contaminated surface and then touching their face.[6][17] In experimental settings, the virus may survive on surfaces for up to 72 hours.[22][23][24] It is most contagious during the first three days after the onset of symptoms, although spread may be possible before symptoms appear and in later stages of the disease.[25] The standard method of diagnosis is by real-time reverse transcription polymerase chain reaction (rRT-PCR) from a nasopharyngeal swab.[26] Chest CT imaging may also be helpful for diagnosis in individuals where there is a high suspicion of infection based on symptoms and risk factors; however, guidelines do not recommend using it for routine screening.[27][28]
+
+Recommended measures to prevent infection include frequent hand washing, maintaining physical distance from others (especially from those with symptoms), covering coughs, and keeping unwashed hands away from the face.[29][30] In addition, the use of a face covering is recommended for those who suspect they have the virus and their caregivers.[31][32] Recommendations for face covering use by the general public vary, with some authorities recommending against their use, some recommending their use, and others requiring their use.[33][32][34] Currently, there is not enough evidence for or against the use of masks (medical or other) in healthy individuals in the wider community.[6] Also masks purchased by the public may impact availability for health care providers.
+
+Currently, there is no vaccine or specific antiviral treatment for COVID-19.[6] Management involves the treatment of symptoms, supportive care, isolation, and experimental measures.[35] The World Health Organization (WHO) declared the 2019–20 coronavirus outbreak a Public Health Emergency of International Concern (PHEIC)[36][37] on 30 January 2020 and a pandemic on 11 March 2020.[10] Local transmission of the disease has occurred in most countries across all six WHO regions.[38]
+
+Contents
+
+1 Signs and symptoms
+2 Cause
+
+2.1 Transmission
+2.2 Virology
+
+
+3 Pathophysiology
+
+3.1 Immunopathology
+
+
+4 Diagnosis
+
+4.1 Pathology
+
+
+5 Prevention
+6 Management
+
+6.1 Medications
+6.2 Protective equipment
+6.3 Mechanical ventilation
+6.4 Acute respiratory distress syndrome
+6.5 Experimental treatment
+6.6 Information technology
+6.7 Psychological support
+
+
+7 Prognosis
+
+7.1 Reinfection
+
+
+8 History
+9 Epidemiology
+
+9.1 Infection fatality rate
+9.2 Sex differences
+
+
+10 Society and culture
+
+10.1 Name
+10.2 Misinformation
+10.3 Protests
+
+
+11 Other animals
+12 Research
+
+12.1 Vaccine
+12.2 Medications
+12.3 Anti-cytokine storm
+12.4 Passive antibodies
+
+
+13 See also
+14 Notes
+15 References
+16 External links
+
+16.1 Health agencies
+16.2 Directories
+16.3 Medical journals
+
+
+
+
+2.1 Transmission
+2.2 Virology
+
+
+3.1 Immunopathology
+
+
+4.1 Pathology
+
+
+6.1 Medications
+6.2 Protective equipment
+6.3 Mechanical ventilation
+6.4 Acute respiratory distress syndrome
+6.5 Experimental treatment
+6.6 Information technology
+6.7 Psychological support
+
+
+7.1 Reinfection
+
+
+9.1 Infection fatality rate
+9.2 Sex differences
+
+
+10.1 Name
+10.2 Misinformation
+10.3 Protests
+
+
+12.1 Vaccine
+12.2 Medications
+12.3 Anti-cytokine storm
+12.4 Passive antibodies
+
+
+16.1 Health agencies
+16.2 Directories
+16.3 Medical journals
+
+Signs and symptoms
+Fever is the most common symptom, although some older people and those with other health problems experience fever later in the disease.[4][41] In one study, 44% of people had fever when they presented to the hospital, while 89% went on to develop fever at some point during their hospitalization.[4][42]
+
+Other common symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and muscle and joint pains.[4][5][43][44] Symptoms such as nausea, vomiting and diarrhoea have been observed in varying percentages.[45][46][47] Less common symptoms include sneezing, runny nose, or sore throat.[48]
+
+More serious symptoms include difficulty breathing, persistent chest pain or pressure, confusion, difficulty waking, and bluish face or lips. Immediate medical attention is advised if these symptoms are present.[5][49]
+
+In some, the disease may progress to pneumonia, multi-organ failure, and death.[9][15] In those who develop severe symptoms, time from symptom onset to needing mechanical ventilation is typically eight days.[4] Some cases in China initially presented with only chest tightness and palpitations.[50]
+
+Loss of smell was identified as a common symptom of COVID‑19 in March 2020,[13][40] although perhaps not as common as initially reported.[39] A decreased sense of smell and/or disturbances in taste have also been reported.[51] Estimates for loss of smell range from 15%[39] to 30%.[13][40]
+
+As is common with infections, there is a delay between the moment a person is first infected and the time he or she develops symptoms. This is called the incubation period. The incubation period for COVID‑19 is typically five to six days but may range from two to 14 days,[52][53] although 97.5% of people who develop symptoms will do so within 11.5 days of infection.[54]
+
+A minority of cases do not develop noticeable symptoms at any point in time.[55][56] These asymptomatic carriers tend not to get tested, and their role in transmission is not yet fully known.[57][58] However, preliminary evidence suggests they may contribute to the spread of the disease.[59][60] In March 2020, the Korea Centers for Disease Control and Prevention (KCDC) reported that 20% of confirmed cases remained asymptomatic during their hospital stay.[60][61]
+
+A number of neurological symptoms has been reported including seizures, stroke, encephalitis and Guillain-Barre syndrome.[62] Cardiovascular related complications may include heart failure, irregular electrical activity, blood clots, and heart inflammation.[63]
+
+Cause
+Transmission
+Some details about how the disease is spread are still being determined.[17][19] The WHO and the U.S. Centers for Disease Control and Prevention (CDC) say it is primarily spread during close contact and by small droplets produced when people cough, sneeze or talk;[6][17] with close contact being within approximately 1–2 m (3–7 ft).[6][64] Both sputum and saliva can carry large viral loads.[65] Loud talking releases more droplets than normal talking.[66] A study in Singapore found that an uncovered cough can lead to droplets travelling up to 4.5 metres (15 feet).[67] An article published in March 2020 argued that advice on droplet distance might be based on 1930s research which ignored the effects of warm moist exhaled air surrounding the droplets and that an uncovered cough or sneeze can travel up to 8.2 metres (27 feet).[18]
+
+These droplets may also be produced during breathing; however, they rapidly fall to the ground or surfaces and are not generally spread through the air over large distances.[6][20][68] The National Academy of Sciences (NAS) suggested on 1 April that bioaerosol transmission may be possible.[69]
+
+The infected droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.[17] Some medical procedures such as intubation and cardiopulmonary resuscitation (CPR) may cause respiratory secretions to be aerosolised and thus result in an airborne spread.[70] Initial studies suggested a doubling time of the number of infected persons of 6–7 days and a basic reproduction number (R0 ) of 2.2–2.7, but a study published on April 7, 2020, calculated a much higher median R0 value of 5.7 in Wuhan.[71]
+
+It may also spread when one touches a contaminated surface, known as fomite transmission, and then touches one's eyes, nose or mouth.[6] While there are concerns it may spread via faeces, this risk is believed to be low.[6][17]
+
+The virus is most contagious when people are symptomatic; though spread is possible before symptoms emerge and from those who never develop symptoms.[6][72] A portion of individuals with coronavirus lack symptoms.[73] The European Centre for Disease Prevention and Control (ECDC) says while it is not entirely clear how easily the disease spreads, one person generally infects two or three others.[19]
+
+The virus survives for hours to days on surfaces.[6][19] Specifically, the virus was found to be detectable for one day on cardboard, for up to three days on plastic (polypropylene) and stainless steel (AISI 304), and for up to four hours on 99% copper.[22][24] This, however, varies depending on the humidity and temperature.[74][75] Surfaces may be decontaminated with many solutions (with one minute of exposure to the product achieving a 4 or more log reduction (99.99% reduction)), including 78–95% ethanol (alcohol used in spirits), 70–100% 2-propanol (isopropyl alcohol), the combination of 45% 2-propanol with 30% 1-propanol, 0.21% sodium hypochlorite (bleach), 0.5% hydrogen peroxide, or 0.23–7.5% povidone-iodine. Soap and detergent are also effective if correctly used; soap products degrade the virus' fatty protective layer, deactivating it, as well as freeing them from the skin and other surfaces.[76] Other solutions, such as benzalkonium chloride and chlorhexidine gluconate (a surgical disinfectant), are less effective.[77]
+
+In a Hong Kong study, saliva samples were taken a median of two days after the start of hospitalization. In five of six patients, the first sample showed the highest viral load, and the sixth patient showed the highest viral load on the second day tested.[65]
+
+Virology
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a novel severe acute respiratory syndrome coronavirus, first isolated from three people with pneumonia connected to the cluster of acute respiratory illness cases in Wuhan.[78] All features of the novel SARS-CoV-2 virus occur in related coronaviruses in nature.[79]
+Outside the human body, the virus is killed by household soap, which bursts its protective bubble.[27]
+
+SARS-CoV-2 is closely related to the original SARS-CoV.[80] It is thought to have a zoonotic origin. Genetic analysis has revealed that the coronavirus genetically clusters with the genus Betacoronavirus, in subgenus Sarbecovirus (lineage B) together with two bat-derived strains. It is 96% identical at the whole genome level to other bat coronavirus samples (BatCov RaTG13).[48] In February 2020, Chinese researchers found that there is only one amino acid difference in the binding domain of the S protein between the coronaviruses from pangolins and those from humans; however, whole-genome comparison to date found that at most 92% of genetic material was shared between pangolin coronavirus and SARS-CoV-2, which is insufficient to prove pangolins to be the intermediate host.[81]
+
+Pathophysiology
+The lungs are the organs most affected by COVID‑19 because the virus accesses host cells via the enzyme angiotensin-converting enzyme 2 (ACE2), which is most abundant in type II alveolar cells of the lungs. The virus uses a special surface glycoprotein called a "spike" (peplomer) to connect to ACE2 and enter the host cell.[82] The density of ACE2 in each tissue correlates with the severity of the disease in that tissue and some have suggested that decreasing ACE2 activity might be protective,[83][84] though another view is that increasing ACE2 using angiotensin II receptor blocker medications could be protective and these hypotheses need to be tested.[85] As the alveolar disease progresses, respiratory failure might develop and death may follow.[84]
+
+The virus also affects gastrointestinal organs as ACE2 is abundantly expressed in the glandular cells of gastric, duodenal and rectal epithelium[86] as well as endothelial cells and enterocytes of the small intestine.[87]
+
+ACE2 is present in the brain, and there is growing evidence of neurological manifestations in people with COVID‑19. It is not certain if the virus can directly infect the brain by crossing the barriers that separate the circulation of the brain and the general circulation. Other coronaviruses are able to infect the brain via a synaptic route to the respiratory centre in the medulla, through mechanoreceptors like pulmonary stretch receptors and chemoreceptors (primarily central chemoreceptors) within the lungs.[88] It is possible that dysfunction within the respiratory centre further worsens the ARDS seen in COVID‑19 patients. Common neurological presentations include a loss of smell, headaches, nausea, and vomiting. Encephalopathy has been noted to occur in some patients (and confirmed with imaging), with some reports of detection of the virus after cerebrospinal fluid assays although the presence of oligoclonal bands seems to be a common denominator in these patients.[89]
+
+The virus can cause acute myocardial injury and chronic damage to the cardiovascular system.[90] An acute cardiac injury was found in 12% of infected people admitted to the hospital in Wuhan, China,[91] and is more frequent in severe disease.[92] Rates of cardiovascular symptoms are high, owing to the systemic inflammatory response and immune system disorders during disease progression, but acute myocardial injuries may also be related to ACE2 receptors in the heart.[90] ACE2 receptors are highly expressed in the heart and are involved in heart function.[90][93] A high incidence of thrombosis (31%) and venous thromboembolism (25%) have been found in ICU patients with COVID‑19 infections and may be related to poor prognosis.[94][95] Blood vessel dysfunction and clot formation (as suggested by high D-dimer levels) are thought to play a significant role in mortality, incidences of clots leading to pulmonary embolisms, and ischaemic events within the brain have been noted as complications leading to death in patients infected with SARS-CoV-2. Infection appears to set off a chain of vasoconstrictive responses within the body, constriction of blood vessels within the pulmonary circulation has also been posited as a mechanism in which oxygenation decreases alongside the presentation of viral pneumonia.[96]
+
+Another common cause of death is complications related to the kidneys[96]—SARS-CoV-2 directly infects kidney cells, as confirmed in post-mortem studies. Acute kidney injury is a common complication and cause of death; this is more significant in patients with already compromised kidney function, especially in people with pre-existing chronic conditions such as hypertension and diabetes which specifically cause nephropathy in the long run.[97]
+
+Autopsies of people who died of COVID‑19 have found diffuse alveolar damage (DAD), and lymphocyte-containing inflammatory infiltrates within the lung.[98]
+
+Immunopathology
+Although SARS-COV-2 has a tropism for ACE2-expressing epithelial cells of the respiratory tract, patients with severe COVID‑19 have symptoms of systemic hyperinflammation. Clinical laboratory findings of elevated IL-2, IL-7, IL-6, granulocyte-macrophage colony-stimulating factor (GM-CSF), interferon-γ inducible protein 10 (IP-10), monocyte chemoattractant protein 1 (MCP-1), macrophage inflammatory protein 1-α (MIP-1α), and tumour necrosis factor-α (TNF-α) indicative of cytokine release syndrome (CRS) suggest an underlying immunopathology.[99]
+
+Additionally, people with COVID‑19 and acute respiratory distress syndrome (ARDS) have classical serum biomarkers of CRS, including elevated C-reactive protein (CRP), lactate dehydrogenase (LDH), D-dimer, and ferritin.[100]
+
+Systemic inflammation results in vasodilation, allowing inflammatory lymphocytic and monocytic infiltration of the lung and the heart. In particular, pathogenic GM-CSF-secreting T-cells were shown to correlate with the recruitment of inflammatory IL-6-secreting monocytes and severe lung pathology in COVID‑19 patients.[101] Lymphocytic infiltrates have also been reported at autopsy.[98]
+
+Diagnosis
+The WHO has published several testing protocols for the disease.[103] The standard method of testing is real-time reverse transcription polymerase chain reaction (rRT-PCR).[104] The test is typically done on respiratory samples obtained by a nasopharyngeal swab; however, a nasal swab or sputum sample may also be used.[26][105] Results are generally available within a few hours to two days.[106][107] Blood tests can be used, but these require two blood samples taken two weeks apart, and the results have little immediate value.[108] Chinese scientists were able to isolate a strain of the coronavirus and publish the genetic sequence so laboratories across the world could independently develop polymerase chain reaction (PCR) tests to detect infection by the virus.[9][109][110] As of 4 April 2020[update], antibody tests (which may detect active infections and whether a person had been infected in the past) were in development, but not yet widely used.[111][112][113] The Chinese experience with testing has shown the accuracy is only 60 to 70%.[114] The FDA in the United States approved the first point-of-care test on 21 March 2020 for use at the end of that month.[115]
+
+Diagnostic guidelines released by Zhongnan Hospital of Wuhan University suggested methods for detecting infections based upon clinical features and epidemiological risk. These involved identifying people who had at least two of the following symptoms in addition to a history of travel to Wuhan or contact with other infected people: fever, imaging features of pneumonia, normal or reduced white blood cell count, or reduced lymphocyte count.[116]
+
+A study asked hospitalised COVID‑19 patients to cough into a sterile container, thus producing a saliva sample, and detected the virus in eleven of twelve patients using RT-PCR. This technique has the potential of being quicker than a swab and involving less risk to health care workers (collection at home or in the car).[65]
+
+Along with laboratory testing, chest CT scans may be helpful to diagnose COVID-19 in individuals with a high clinical suspicion of infection but are not recommended for routine screening.[27][28] Bilateral multilobar ground-glass opacities with a peripheral, asymmetric, and posterior distribution are common in early infection.[27] Subpleural dominance, crazy paving (lobular septal thickening with variable alveolar filling), and consolidation may appear as the disease progresses.[27][117]
+
+In late 2019, WHO assigned the emergency ICD-10 disease codes U07.1 for deaths from lab-confirmed SARS-CoV-2 infection and U07.2 for deaths from clinically or epidemiologically diagnosed COVID‑19 without lab-confirmed SARS-CoV-2 infection.[118]
+
+Pathology
+Few data are available about microscopic lesions and the pathophysiology of COVID‑19.[119][120] The main pathological findings at autopsy are: 
+
+Macroscopy: pleurisy, pericarditis, lung consolidation and pulmonary oedema
+Four types of severity of viral pneumonia can be observed:
+minor pneumonia: minor serous exudation, minor fibrin exudation
+mild pneumonia: pulmonary oedema, pneumocyte hyperplasia, large atypical pneumocytes, interstitial inflammation with lymphocytic infiltration and multinucleated giant cell formation
+severe pneumonia: diffuse alveolar damage (DAD) with diffuse alveolar exudates. DAD is the cause of acute respiratory distress syndrome (ARDS) and severe hypoxemia.
+healing pneumonia: organisation of exudates in alveolar cavities and pulmonary interstitial fibrosis
+plasmocytosis in BAL[121]
+Blood: disseminated intravascular coagulation (DIC);[122] leukoerythroblastic reaction[123]
+Liver: microvesicular steatosis
+minor pneumonia: minor serous exudation, minor fibrin exudation
+mild pneumonia: pulmonary oedema, pneumocyte hyperplasia, large atypical pneumocytes, interstitial inflammation with lymphocytic infiltration and multinucleated giant cell formation
+severe pneumonia: diffuse alveolar damage (DAD) with diffuse alveolar exudates. DAD is the cause of acute respiratory distress syndrome (ARDS) and severe hypoxemia.
+healing pneumonia: organisation of exudates in alveolar cavities and pulmonary interstitial fibrosis
+plasmocytosis in BAL[121]
+Prevention
+Preventive measures to reduce the chances of infection include staying at home, avoiding crowded places, keeping distance from others, washing hands with soap and water often and for at least 20 seconds, practising good respiratory hygiene, and avoiding touching the eyes, nose, or mouth with unwashed hands.[129][130][131] The CDC recommends covering the mouth and nose with a tissue when coughing or sneezing and recommends using the inside of the elbow if no tissue is available.[129] Proper hand hygiene after any cough or sneeze is encouraged.[129] The CDC has recommended the use of cloth face coverings in public settings where other social distancing measures are difficult to maintain, in part to limit transmission by asymptomatic individuals.[132] The U.S. National Institutes of Health guidelines do not recommend any medication for prevention of COVID‑19, before or after exposure to the SARS-CoV-2 virus, outside of the setting of a clinical trial.[133]
+
+Social distancing strategies aim to reduce contact of infected persons with large groups by closing schools and workplaces, restricting travel, and cancelling large public gatherings.[134] Distancing guidelines also include that people stay at least 6 feet (1.8 m) apart.[135] There is no medication known to be effective at preventing COVID‑19.[136] After the implementation of social distancing and stay-at-home orders, many regions have been able to sustain an effective transmission rate ("Rt") of less than one, meaning the disease is in remission in those areas.[137] In a simple model 
+
+
+
+l
+o
+g
+(
+
+R
+
+t
+
+
+)
+≈
+
+R
+
+t
+
+
+−
+1
+
+
+{\textstyle log(R_{t})\approx R_{t}-1}
+
+ needs on average over time be kept at or below zero to avoid exponential growth.
+
+As a vaccine is not expected until 2021 at the earliest,[138] a key part of managing COVID‑19 is trying to decrease the epidemic peak, known as "flattening the curve".[125] This is done by slowing the infection rate to decrease the risk of health services being overwhelmed, allowing for better treatment of current cases, and delaying additional cases until effective treatments or a vaccine become available.[125][128]
+
+According to the WHO, the use of masks is recommended only if a person is coughing or sneezing or when one is taking care of someone with a suspected infection.[139] For the European Centre for Disease Prevention and Control (ECDC) face masks "... could be considered especially when visiting busy closed spaces ..." but "... only as a complementary measure ..."[140] Several countries have recommended that healthy individuals wear face masks or cloth face coverings (like scarves or bandanas) at least in certain public settings, including China,[141] Hong Kong,[142] Spain,[143] Italy (Lombardy region),[144] and the United States.[132]
+
+Those diagnosed with COVID‑19 or who believe they may be infected are advised by the CDC to stay home except to get medical care, call ahead before visiting a healthcare provider, wear a face mask before entering the healthcare provider's office and when in any room or vehicle with another person, cover coughs and sneezes with a tissue, regularly wash hands with soap and water and avoid sharing personal household items.[31][145] The CDC also recommends that individuals wash hands often with soap and water for at least 20 seconds, especially after going to the toilet or when hands are visibly dirty, before eating and after blowing one's nose, coughing or sneezing. It further recommends using an alcohol-based hand sanitiser with at least 60% alcohol, but only when soap and water are not readily available.[129]
+
+For areas where commercial hand sanitisers are not readily available, the WHO provides two formulations for local production. In these formulations, the antimicrobial activity arises from ethanol or isopropanol. Hydrogen peroxide is used to help eliminate bacterial spores in the alcohol; it is "not an active substance for hand antisepsis". Glycerol is added as a humectant.[146]
+
+
+
+
+
+Prevention efforts are multiplicative, with effects far beyond that of a single spread. Each avoided case leads to more avoided cases down the line, which in turn can stop the outbreak in its tracks.
+
+
+
+
+Play media
+
+Handwashing instructions
+
+
+
+
+Prevention efforts are multiplicative, with effects far beyond that of a single spread. Each avoided case leads to more avoided cases down the line, which in turn can stop the outbreak in its tracks.
+
+Handwashing instructions
+
+Management
+People are managed with supportive care, which may include fluid therapy, oxygen support, and supporting other affected vital organs.[147][148][149] The CDC recommends that those who suspect they carry the virus wear a simple face mask.[31] Extracorporeal membrane oxygenation (ECMO) has been used to address the issue of respiratory failure, but its benefits are still under consideration.[42][150] Personal hygiene and a healthy lifestyle and diet have been recommended to improve immunity.[151] Supportive treatments may be useful in those with mild symptoms at the early stage of infection.[152]
+
+The WHO, the Chinese National Health Commission, and the United States' National Institutes of Health have published recommendations for taking care of people who are hospitalised with COVID‑19.[133][153][154] Intensivists and pulmonologists in the U.S. have compiled treatment recommendations from various agencies into a free resource, the IBCC.[155][156]
+
+Medications
+As of April 2020, there is no specific treatment for COVID‑19.[6][136] Research is, however, ongoing. For symptoms, some medical professionals recommend paracetamol (acetaminophen) over ibuprofen for first-line use.[157][158][159] The WHO and NIH do not oppose the use of non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen for symptoms,[133][160] and the FDA says currently there is no evidence that NSAIDs worsen COVID‑19 symptoms.[161]
+
+While theoretical concerns have been raised about ACE inhibitors and angiotensin receptor blockers, as of 19 March 2020, these are not sufficient to justify stopping these medications.[133][162][163][164]
+Steroids, such as methylprednisolone, are not recommended unless the disease is complicated by acute respiratory distress syndrome.[165][166]
+
+Medications to prevent blood clotting have been suggested for treatment,[94] and anticoagulant therapy with low molecular weight heparin appears to be associated with better outcomes in severe COVID‐19 showing signs of coagulopathy (elevated D-dimer).[167]
+
+Protective equipment
+Precautions must be taken to minimise the risk of virus transmission, especially in healthcare settings when performing procedures that can generate aerosols, such as intubation or hand ventilation.[169] For healthcare professionals caring for people with COVID‑19, the CDC recommends placing the person in an Airborne Infection Isolation Room (AIIR) in addition to using standard precautions, contact precautions, and airborne precautions.[170]
+
+The CDC outlines the guidelines for the use of personal protective equipment (PPE) during the pandemic. The recommended gear is a PPE gown, respirator or facemask, eye protection, and medical gloves.[171][172]
+
+When available, respirators (instead of facemasks) are preferred.[173] N95 respirators are approved for industrial settings but the FDA has authorised the masks for use under an Emergency Use Authorisation (EUA). They are designed to protect from airborne particles like dust but effectiveness against a specific biological agent is not guaranteed for off-label uses.[174] When masks are not available, the CDC recommends using face shields or, as a last resort, homemade masks.[175]
+
+Mechanical ventilation
+Most cases of COVID‑19 are not severe enough to require mechanical ventilation or alternatives, but a percentage of cases are.[176][177] The type of respiratory support for individuals with COVID‑19 related respiratory failure is being actively studied for people in the hospital, with some evidence that intubation can be avoided with a high flow nasal cannula or bi-level positive airway pressure.[178] Whether either of these two leads to the same benefit for people who are critically ill is not known.[179] Some doctors prefer staying with invasive mechanical ventilation when available because this technique limits the spread of aerosol particles compared to a high flow nasal cannula.[176]
+
+Severe cases are most common in older adults (those older than 60 years,[176] and especially those older than 80 years).[180] Many developed countries do not have enough hospital beds per capita, which limits a health system's capacity to handle a sudden spike in the number of COVID‑19 cases severe enough to require hospitalisation.[181] This limited capacity is a significant driver behind calls to flatten the curve.[181] One study in China found 5% were admitted to intensive care units, 2.3% needed mechanical support of ventilation, and 1.4% died.[42] In China, approximately 30% of people in hospital with COVID‑19 are eventually admitted to ICU.[4]
+
+Acute respiratory distress syndrome
+Mechanical ventilation becomes more complex as acute respiratory distress syndrome (ARDS) develops in COVID‑19 and oxygenation becomes increasingly difficult.[182] Ventilators capable of pressure control modes and high PEEP[183] are needed to maximise oxygen delivery while minimising the risk of ventilator-associated lung injury and pneumothorax.[184] High PEEP may not be available on older ventilators.
+
+Experimental treatment
+Research into potential treatments started in January 2020,[185] and several antiviral drugs are in clinical trials.[186][187] Remdesivir appears to be the most promising.[136] Although new medications may take until 2021 to develop,[188] several of the medications being tested are already approved for other uses or are already in advanced testing.[189] Antiviral medication may be tried in people with severe disease.[147] The WHO recommended volunteers take part in trials of the effectiveness and safety of potential treatments.[190]
+
+The FDA has granted temporary authorisation to convalescent plasma as an experimental treatment in cases where the person's life is seriously or immediately threatened. It has not undergone the clinical studies needed to show it is safe and effective for the disease.[191][192][193]
+
+Information technology
+In February 2020, China launched a mobile app to deal with the disease outbreak.[194] Users are asked to enter their name and ID number. The app can detect 'close contact' using surveillance data and therefore a potential risk of infection. Every user can also check the status of three other users. If a potential risk is detected, the app not only recommends self-quarantine, it also alerts local health officials.[195]
+
+Big data analytics on cellphone data, facial recognition technology, mobile phone tracking, and artificial intelligence are used to track infected people and people whom they contacted in South Korea, Taiwan, and Singapore.[196][197] In March 2020, the Israeli government enabled security agencies to track mobile phone data of people supposed to have coronavirus. The measure was taken to enforce quarantine and protect those who may come into contact with infected citizens.[198] Also in March 2020, Deutsche Telekom shared aggregated phone location data with the German federal government agency, Robert Koch Institute, to research and prevent the spread of the virus.[199] Russia deployed facial recognition technology to detect quarantine breakers.[200] Italian regional health commissioner Giulio Gallera said he has been informed by mobile phone operators that "40% of people are continuing to move around anyway".[201] German government conducted a 48 hours weekend hackathon with more than 42.000 participants.[202][203] Two million people in the UK used an app developed in March 2020 by King's College London and Zoe to track people with COVID‑19 symptoms.[204] Also, the president of Estonia, Kersti Kaljulaid, made a global call for creative solutions against the spread of coronavirus.[205]
+
+Psychological support
+Individuals may experience distress from quarantine, travel restrictions, side effects of treatment, or fear of the infection itself. To address these concerns, the National Health Commission of China published a national guideline for psychological crisis intervention on 27 January 2020.[206][207]
+
+The Lancet published a 14-page call for action focusing on the UK and stated conditions were such that a range of mental health issues was likely to become more common. BBC quoted Rory O'Connor in saying, "Increased social isolation, loneliness, health anxiety, stress and an economic downturn are a perfect storm to harm people's mental health and wellbeing."[208][209]
+
+Prognosis
+The severity of COVID‑19 varies. The disease may take a mild course with few or no symptoms, resembling other common upper respiratory diseases such as the common cold. Mild cases typically recover within two weeks, while those with severe or critical diseases may take three to six weeks to recover. Among those who have died, the time from symptom onset to death has ranged from two to eight weeks.[48]
+
+Children make up a small proportion of reported cases, with about 1% of cases being under 10 years and 4% aged 10–19 years.[23] They are likely to have milder symptoms and a lower chance of severe disease than adults; in those younger than 50 years the risk of death is less than 0.5%, while in those older than 70 it is more than 8%.[216][217][218] Pregnant women may be at higher risk for severe infection with COVID-19 based on data from other similar viruses, like SARS and MERS, but data for COVID-19 is lacking.[219][220] In China, children acquired infections mainly through close contact with their parents or other family members who lived in Wuhan or had traveled there.[216]
+
+In some people, COVID‑19 may affect the lungs causing pneumonia. In those most severely affected, COVID-19 may rapidly progress to acute respiratory distress syndrome (ARDS) causing respiratory failure, septic shock, or multi-organ failure.[221][222] Complications associated with COVID‑19 include sepsis, abnormal clotting, and damage to the heart, kidneys, and liver. Clotting abnormalities, specifically an increase in prothrombin time, have been described in 6% of those admitted to hospital with COVID-19, while abnormal kidney function is seen in 4% of this group.[223] Approximately 20-30% of people who present with COVID‑19 demonstrate elevated liver enzymes (transaminases).[136] Liver injury as shown by blood markers of liver damage is frequently seen in severe cases.[224]
+
+Some studies have found that the neutrophil to lymphocyte ratio (NLR) may be helpful in early screening for severe illness.[225]
+
+Most of those who die of COVID‑19 have pre-existing (underlying) conditions, including hypertension, diabetes mellitus, and cardiovascular disease.[226] The Istituto Superiore di Sanità reported that out of 8.8% of deaths where medical charts were available for review, 97.2% of sampled patients had at least one comorbidity with the average patient having 2.7 diseases.[227] According to the same report, the median time between the onset of symptoms and death was ten days, with five being spent hospitalised. However, patients transferred to an ICU had a median time of seven days between hospitalisation and death.[227] In a study of early cases, the median time from exhibiting initial symptoms to death was 14 days, with a full range of six to 41 days.[228] In a study by the National Health Commission (NHC) of China, men had a death rate of 2.8% while women had a death rate of 1.7%.[229] Histopathological examinations of post-mortem lung samples show diffuse alveolar damage with cellular fibromyxoid exudates in both lungs. Viral cytopathic changes were observed in the pneumocytes. The lung picture resembled acute respiratory distress syndrome (ARDS).[48] In 11.8% of the deaths reported by the National Health Commission of China, heart damage was noted by elevated levels of troponin or cardiac arrest.[50] According to March data from the United States, 89% of those hospitalised had preexisting conditions.[230]
+
+The availability of medical resources and the socioeconomics of a region may also affect mortality.[231] Estimates of the mortality from the condition vary because of those regional differences,[232] but also because of methodological difficulties. The under-counting of mild cases can cause the mortality rate to be overestimated.[233] However, the fact that deaths are the result of cases contracted in the past can mean the current mortality rate is underestimated.[234][235] Smokers were 1.4 times more likely to have severe symptoms of COVID‑19 and approximately 2.4 times more likely to require intensive care or die compared to non-smokers.[236]
+
+Concerns have been raised about long-term sequelae of the disease. The Hong Kong Hospital Authority found a drop of 20% to 30% in lung capacity in some people who recovered from the disease, and lung scans suggested organ damage.[237] This may also lead to post-intensive care syndrome following recovery.[238]
+
+Reinfection
+As of April 2020, it was unknown if past infection provides effective and long-term immunity in people who recover from the disease.[248][249] Immunity is seen as likely, based on the behaviour of other coronaviruses,[250] but cases in which recovery from COVID‑19 have been followed by positive tests for coronavirus at a later date have been reported.[251][252][253][254] These cases are believed to be worsening of a lingering infection rather than re-infection.[254]
+
+History
+The virus is thought to be natural and has an animal origin,[79] through spillover infection.[255] The actual origin is unknown, but by December 2019 the spread of infection was almost entirely driven by human-to-human transmission.[211][256] A study of the first 41 cases of confirmed COVID‑19, published in January 2020 in The Lancet, revealed the earliest date of onset of symptoms as 1 December 2019.[257][258][259] Official publications from the WHO reported the earliest onset of symptoms as 8 December 2019.[260] Human-to-human transmission was confirmed by the WHO and Chinese authorities by 20 January 2020.[261][262]
+
+Epidemiology
+Several measures are commonly used to quantify mortality.[263] These numbers vary by region and over time and are influenced by the volume of testing, healthcare system quality, treatment options, time since the initial outbreak, and population characteristics such as age, sex, and overall health.[264]
+
+The death-to-case ratio reflects the number of deaths divided by the number of diagnosed cases within a given time interval. Based on Johns Hopkins University statistics, the global death-to-case ratio is 7.0% (206,544/2,971,669) as of 27 April 2020.[7] The number varies by region.[265]
+
+Other measures include the case fatality rate (CFR), which reflects the percent of diagnosed individuals who die from a disease, and the infection fatality rate (IFR), which reflects the percent of infected individuals (diagnosed and undiagnosed) who die from a disease. These statistics are not time-bound and follow a specific population from infection through case resolution. Many academics have attempted to calculate these numbers for specific populations.[266]
+
+Infection fatality rate
+Our World in Data states that as of March 25, 2020, the infection fatality rate (IFR) cannot be accurately calculated.[269] In February, the World Health Organization estimated the IFR at 0.94%, with a confidence interval between 0.37 percent to 2.9 percent.[270] The University of Oxford Centre for Evidence-Based Medicine (CEBM) estimated a global CFR of 0.72 percent and IFR of 0.1 percent to 0.36 percent.[271] According to CEBM, random antibody testing in Germany suggested an IFR of 0.37% (0.12% to 0.87%) there.[271][272] Firm lower limits to local infection fatality rates were established, such as in Bergamo province, where 0.57% of the population has died, leading to a minimum IFR of 0.57% in the province. This population fatality rate (PFR) minimum increases as more people get infected and run through their disease.[273][274] Similarly, as of April 22 in the New York City area, there were 15,411 deaths confirmed from COVID-19, and 19,200 excess deaths.[275] Initial antibody testing has been carried out, but there are no valid scientific reports based on them available yet.[276][277]
+
+Sex differences
+The impact of the pandemic and its mortality rate are different for men and women.[278] Mortality is higher in men in studies conducted in China and Italy.[279][280][281] The highest risk for men is in their 50s, with the gap between men and women closing only at 90.[281] In China, the death rate was 2.8 percent for men and 1.7 percent for women.[281] The exact reasons for this sex-difference are not known, but genetic and behavioural factors could be a reason.[278] Sex-based immunological differences, a lower prevalence of smoking in women, and men developing co-morbid conditions such as hypertension at a younger age than women could have contributed to the higher mortality in men.[281] In Europe, of those infected with COVID‑19, 57% were men; of those infected with COVID‑19 who also died, 72% were men.[282] As of April 2020, the U.S. government is not tracking sex-related data of COVID‑19 infections.[283] Research has shown that viral illnesses like Ebola, HIV, influenza, and SARS affect men and women differently.[283] A higher percentage of health workers, particularly nurses, are women, and they have a higher chance of being exposed to the virus.[284] School closures, lockdowns, and reduced access to healthcare following the 2019–20 coronavirus pandemic may differentially affect the genders and possibly exaggerate existing gender disparity.[278][285]
+
+Society and culture
+Name
+During the initial outbreak in Wuhan, China, the virus and disease were commonly referred to as "coronavirus" and "Wuhan coronavirus",[286][287][288] with the disease sometimes called "Wuhan pneumonia".[289][290] In the past, many diseases have been named after geographical locations, such as the Spanish flu,[291] Middle East Respiratory Syndrome, and Zika virus.[292]
+
+In January 2020, the World Health Organisation recommended 2019-nCov[293] and 2019-nCoV acute respiratory disease[294] as interim names for the virus and disease per 2015 guidance and international guidelines against using geographical locations (e.g. Wuhan, China), animal species or groups of people in disease and virus names to prevent social stigma.[295][296][297]
+
+The official names COVID‑19 and SARS-CoV-2 were issued by the WHO on 11 February 2020.[298] WHO chief Tedros Adhanom Ghebreyesus explained: CO for corona, VI for virus, D for disease and 19 for when the outbreak was first identified (31 December 2019).[299] The WHO additionally uses "the COVID‑19 virus" and "the virus responsible for COVID‑19" in public communications.[298] Both the disease and virus are commonly referred to as "coronavirus" in the media and public discourse.
+
+Misinformation
+After the initial outbreak of COVID‑19, conspiracy theories, misinformation, and disinformation emerged regarding the origin, scale, prevention, treatment, and other aspects of the disease and rapidly spread online.[300][301][302][303]
+
+Protests
+Beginning April 17, 2020, news media began reporting on a wave of demonstrations protesting against state-mandated quarantine restrictions in in Michigan, Ohio, and Kentucky.[304][305]
+
+Other animals
+Humans appear to be capable of spreading the virus to some other animals. A domestic cat in Liège, Belgium, tested positive after it started showing symptoms (diarrhoea, vomiting, shortness of breath) a week later than its owner, who was also positive.[306] Tigers at the Bronx Zoo in New York, United States, tested positive for the virus and showed symptoms of COVID‑19, including a dry cough and loss of appetite.[307] Minks at two farms in the Netherlands also tested positive for COVID-19.[308]
+
+A study on domesticated animals inoculated with the virus found that cats and ferrets appear to be "highly susceptible" to the disease, while dogs appear to be less susceptible, with lower levels of viral replication. The study failed to find evidence of viral replication in pigs, ducks, and chickens.[309]
+
+Research
+No medication or vaccine is approved to treat the disease.[189] International research on vaccines and medicines in COVID‑19 is underway by government organisations, academic groups, and industry researchers.[310][311] In March, the World Health Organisation initiated the "SOLIDARITY Trial" to assess the treatment effects of four existing antiviral compounds with the most promise of efficacy.[312]
+
+Vaccine
+There is no available vaccine, but various agencies are actively developing vaccine candidates. Previous work on SARS-CoV is being used because both SARS-CoV and SARS-CoV-2 use the ACE2 receptor to enter human cells.[313] Three vaccination strategies are being investigated. First, researchers aim to build a whole virus vaccine. The use of such a virus, be it inactive or dead, aims to elicit a prompt immune response of the human body to a new infection with COVID‑19. A second strategy, subunit vaccines, aims to create a vaccine that sensitises the immune system to certain subunits of the virus. In the case of SARS-CoV-2, such research focuses on the S-spike protein that helps the virus intrude the ACE2 enzyme receptor. A third strategy is that of the nucleic acid vaccines (DNA or RNA vaccines, a novel technique for creating a vaccination). Experimental vaccines from any of these strategies would have to be tested for safety and efficacy.[314]
+
+On 16 March 2020, the first clinical trial of a vaccine started with four volunteers in Seattle, United States. The vaccine contains a harmless genetic code copied from the virus that causes the disease.[315]
+
+Antibody-dependent enhancement has been suggested as a potential challenge for vaccine development for SARS-COV-2, but this is controversial.[316]
+
+Medications
+At least 29 phase II–IV efficacy trials in COVID‑19 were concluded in March 2020 or scheduled to provide results in April from hospitals in China.[317][318] There are more than 300 active clinical trials underway as of April 2020.[136] Seven trials were evaluating already approved treatments, including four studies on hydroxychloroquine or chloroquine.[318] Repurposed antiviral drugs make up most of the Chinese research, with nine phase III trials on remdesivir across several countries due to report by the end of April.[317][318] Other candidates in trials include vasodilators, corticosteroids, immune therapies, lipoic acid, bevacizumab, and recombinant angiotensin-converting enzyme 2.[318]
+
+The COVID‑19 Clinical Research Coalition has goals to 1) facilitate rapid reviews of clinical trial proposals by ethics committees and national regulatory agencies, 2) fast-track approvals for the candidate therapeutic compounds, 3) ensure standardised and rapid analysis of emerging efficacy and safety data and 4) facilitate sharing of clinical trial outcomes before publication.[319][320]
+
+Several existing medications are being evaluated for the treatment of COVID‑19,[189] including remdesivir, chloroquine, hydroxychloroquine, lopinavir/ritonavir, and lopinavir/ritonavir combined with interferon beta.[312][321] There is tentative evidence for efficacy by remdesivir, as of March 2020.[322][323] Clinical improvement was observed in patients treated with compassionate-use remdesivir.[324] Remdesivir inhibits SARS-CoV-2 in vitro.[325] Phase III clinical trials are underway in the U.S., China, and Italy.[189][317][326]
+
+In 2020, a trial found that lopinavir/ritonavir was ineffective in the treatment of severe illness.[327] Nitazoxanide has been recommended for further in vivo study after demonstrating low concentration inhibition of SARS-CoV-2.[325]
+
+There are mixed results as of 3 April 2020 as to the effectiveness of hydroxychloroquine as a treatment for COVID‑19, with some studies showing little or no improvement.[328][329] The studies of chloroquine and hydroxychloroquine with or without azithromycin have major limitations that have prevented the medical community from embracing these therapies without further study.[136]
+
+Oseltamivir does not inhibit SARS-CoV-2 in vitro and has no known role in COVID‑19 treatment.[136]
+
+Anti-cytokine storm
+Cytokine release syndrome (CRS) can be a complication in the later stages of severe COVID‑19. There is preliminary evidence that hydroxychloroquine may have anti-cytokine storm properties.[330]
+
+Tocilizumab has been included in treatment guidelines by China's National Health Commission after a small study was completed.[331][332] It is undergoing a phase 2 non-randomised trial at the national level in Italy after showing positive results in people with severe disease.[333][334] Combined with a serum ferritin blood test to identify cytokine storms, it is meant to counter such developments, which are thought to be the cause of death in some affected people.[335][336][337] The interleukin-6 receptor antagonist was approved by the FDA to undergo a phase III clinical trial assessing the medication's impact on COVID‑19 based on retrospective case studies for the treatment of steroid-refractory cytokine release syndrome induced by a different cause, CAR T cell therapy, in 2017.[338] To date, there is no randomised, controlled evidence that tocilizumab is an efficacious treatment for CRS. Prophylactic tocilizumab has been shown to increase serum IL-6 levels by saturating the IL-6R, driving IL-6 across the blood-brain barrier, and exacerbating neurotoxicity while having no impact on the incidence of CRS.[339]
+
+Lenzilumab, an anti-GM-CSF monoclonal antibody, is protective in murine models for CAR T cell-induced CRS and neurotoxicity and is a viable therapeutic option due to the observed increase of pathogenic GM-CSF secreting T-cells in hospitalised patients with COVID‑19.[340]
+
+The Feinstein Institute of Northwell Health announced in March a study on "a human antibody that may prevent the activity" of IL-6.[341]
+
+Passive antibodies
+Transferring purified and concentrated antibodies produced by the immune systems of those who have recovered from COVID‑19 to people who need them is being investigated as a non-vaccine method of passive immunisation.[342] This strategy was tried for SARS with inconclusive results.[342] Viral neutralisation is the anticipated mechanism of action by which passive antibody therapy can mediate defence against SARS-CoV-2. Other mechanisms, however, such as antibody-dependent cellular cytotoxicity and/or phagocytosis, may be possible.[342] Other forms of passive antibody therapy, for example, using manufactured monoclonal antibodies, are in development.[342] Production of convalescent serum, which consists of the liquid portion of the blood from recovered patients and contains antibodies specific to this virus, could be increased for quicker deployment.[343]
+
+See also
+Coronavirus diseases, a group of closely related syndromes
+Coronavirus recession
+Disease X, a WHO term
+Li Wenliang, a doctor at Central Hospital of Wuhan who died of COVID-19 after raising awareness of its spread
+List of unproven methods against COVID-19
+Coronavirus disease 2019 portalMedicine portalViruses portal
+Notes
+References
+External links
+Definitions from Wiktionary
+Media from Wikimedia Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Travel guide from Wikivoyage
+Resources from Wikiversity
+
+Health agencies
+Coronavirus disease (COVID-19) by the World Health Organization
+Coronavirus 2019 (COVID-19) by the U.S. Centers for Disease Control and Prevention
+Directories
+COVID-19 at Curlie
+COVID-19 Resource Directory on OpenMD
+Medical journals
+Coronavirus Disease 2019 (COVID-19) by JAMA
+Coronavirus: News and Resources by the BMJ Publishing Group
+Novel Coronavirus Information Center by Elsevier
+COVID-19 Resource Centre by The Lancet
+SARS-CoV-2 and COVID-19 by Nature
+Coronavirus (Covid-19) by the New England Journal of Medicine
+Covid-19: Novel Coronavirus by Wiley Publishing
+ICD-10: U07.1, U07.2MeSH: C000657245SNOMED CT: 840539006
+vte
+ARDS
+Combined pulmonary fibrosis and emphysema
+Pulmonary edema
+Löffler's syndrome/Eosinophilic pneumonia
+Respiratory hypersensitivity
+Allergic bronchopulmonary aspergillosis
+Hamman-Rich syndrome
+Idiopathic pulmonary fibrosis
+Sarcoidosis
+Vaping-associated pulmonary injury
+Allergic bronchopulmonary aspergillosis
+Viral
+Bacterial
+Pneumococcal
+Klebsiella
+Atypical bacterial
+Mycoplasma
+Legionnaires' disease
+Chlamydiae
+Fungal
+Pneumocystis
+Parasitic
+noninfectious
+Chemical/Mendelson's syndrome
+Aspiration/Lipid
+Pneumococcal
+Klebsiella
+Mycoplasma
+Legionnaires' disease
+Chlamydiae
+Pneumocystis
+Chemical/Mendelson's syndrome
+Aspiration/Lipid
+Community-acquired
+Healthcare-associated
+Hospital-acquired
+Broncho-
+Lobar
+UIP
+DIP
+BOOP-COP
+NSIP
+RB
+Atelectasis
+circulatory
+Pulmonary hypertension
+Pulmonary embolism
+Lung abscess
+Pulmonary hypertension
+Pulmonary embolism
+Pleuritis/pleurisy
+Pneumothorax/Hemopneumothorax
+Mediastinitis
+Mediastinal emphysema
+Respiratory failure
+Influenza
+SARS
+Coronavirus disease 2019
+Idiopathic pulmonary haemosiderosis
+Pulmonary alveolar proteinosis
+vte
+HIV
+AIDS
+AIDS
+Poliovirus
+Poliomyelitis
+Post-polio syndrome
+HTLV-I
+Tropical spastic paraparesis
+Poliomyelitis
+Post-polio syndrome
+Tropical spastic paraparesis
+Cytomegalovirus
+Cytomegalovirus retinitis
+HSV
+Herpes of the eye
+Cytomegalovirus retinitis
+Herpes of the eye
+CBV
+Pericarditis
+Myocarditis
+Pericarditis
+Myocarditis
+Epstein–Barr virus
+EBV infection/Infectious mononucleosis
+Cytomegalovirus
+EBV infection/Infectious mononucleosis
+IV: SARS coronavirus
+Severe acute respiratory syndrome
+MERS coronavirus
+Middle East respiratory syndrome
+SARS coronavirus 2
+Coronavirus disease 2019
+Severe acute respiratory syndrome
+Middle East respiratory syndrome
+Coronavirus disease 2019
+V: Orthomyxoviridae: Influenza virus A/B/C/D
+Influenza/Avian influenza
+Influenza/Avian influenza
+V, Paramyxoviridae: Human parainfluenza viruses
+Parainfluenza
+Human orthopneumovirus
+hMPV
+Parainfluenza
+MuV
+Mumps
+Cytomegalovirus
+Cytomegalovirus esophagitis
+Mumps
+Cytomegalovirus esophagitis
+CBV
+BK virus
+MuV
+Mumps
+Mumps
+vte
+SARS-CoV-2 (virus)
+COVID-19 (disease)
+2019
+November–December
+2020
+January
+February
+March
+Pandemic chronology
+Responses
+April
+Pandemic chronology
+Responses
+November–December
+January
+February
+March
+Pandemic chronology
+Responses
+April
+Pandemic chronology
+Responses
+Pandemic chronology
+Responses
+Pandemic chronology
+Responses
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Canary Islands
+Cape Verde
+Central African Republic
+Ceuta
+Chad
+Democratic Republic of the Congo
+Republic of the Congo
+Djibouti
+Egypt
+Equatorial Guinea
+Eritrea
+Eswatini
+Ethiopia
+Gabon
+Gambia
+Ghana
+Guinea
+Guinea-Bissau
+Ivory Coast
+Kenya
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Mayotte
+Melilla
+Morocco
+Mozambique
+Namibia
+Niger
+Nigeria
+Réunion
+Rwanda
+São Tomé and Príncipe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+Somaliland
+South Africa
+South Sudan
+Sudan
+Tanzania
+Togo
+Tunisia
+Uganda
+Western Sahara
+Zambia
+Zimbabwe
+Somaliland
+Kazakhstan
+Kyrgyzstan
+Russia
+North Asia
+Tajikistan
+Turkmenistan
+Uzbekistan
+North Asia
+Hong Kong
+Japan
+North Korea
+South Korea
+Macau
+Mongolia
+Taiwan
+Henan
+Hubei
+Inner Mongolia
+Liaoning
+Shanghai
+Sichuan
+Tibet
+ Xinjiang
+Afghanistan
+timeline
+Bangladesh
+Bhutan
+Maldives
+Nepal
+Pakistan
+timeline
+Sri Lanka
+timeline
+timeline
+Brunei
+Cambodia
+East Timor
+Indonesia
+timeline
+Laos
+Malaysia
+Sabah
+Sarawak
+Myanmar
+Singapore
+Thailand
+Nonthaburi
+Vietnam
+timeline
+Sabah
+Sarawak
+Nonthaburi
+Armenia
+Azerbaijan (Artsakh)
+Bahrain
+Georgia (Abkhazia)
+Iran
+Iraq
+timeline
+Israel
+Jordan
+Kuwait
+Lebanon
+Northern Cyprus
+Oman
+Palestine
+Qatar
+Saudi Arabia
+Syria
+Turkey
+timeline
+United Arab Emirates
+Yemen
+timeline
+timeline
+Albania
+Andorra
+Azerbaijan
+Belarus
+Bosnia and Herzegovina
+timeline
+Faroe Islands
+Georgia
+Guernsey
+Iceland
+Isle of Man
+Jersey
+Kazakhstan
+Kosovo
+Liechtenstein
+North Macedonia
+Moldova
+Transnistria
+Monaco
+Montenegro
+Norway
+Russia
+Crimea
+Sevastopol
+San Marino
+Serbia
+Switzerland
+Turkey
+timeline
+Ukraine
+Crimea
+Sevastopol
+Donetsk
+Luhansk
+Vatican City
+timeline
+Transnistria
+Crimea
+Sevastopol
+timeline
+Crimea
+Sevastopol
+Donetsk
+Luhansk
+(timeline)
+England
+London
+Northern Ireland
+Scotland
+Wales
+Overseas territories
+Akrotiri and Dhekelia
+Gibraltar
+London
+Akrotiri and Dhekelia
+Gibraltar
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+Åland Islands
+France
+Guadeloupe
+French Guiana
+Réunion
+Martinique
+Mayotte
+Saint Martin
+Germany
+North Rhine-Westphalia
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+timeline
+Asturias
+Canary Islands
+Ceuta
+Community of Madrid
+Melilla
+Sweden
+timeline
+Åland Islands
+Guadeloupe
+French Guiana
+Réunion
+Martinique
+Mayotte
+Saint Martin
+North Rhine-Westphalia
+timeline
+Asturias
+Canary Islands
+Ceuta
+Community of Madrid
+Melilla
+timeline
+Belize
+Bermuda
+Costa Rica
+El Salvador
+Guatemala
+Greenland
+Honduras
+Mexico
+Nicaragua
+Panama
+Saint Pierre and Miquelon
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Nova Scotia
+Ontario
+Prince Edward Island
+Quebec
+Montreal
+Saskatchewan
+Montreal
+Anguilla
+Antigua and Barbuda
+Aruba
+Bahamas
+Barbados
+British Virgin Islands
+Cayman Islands
+Cuba
+Curaçao
+Dominica
+Dominican Republic
+Grenada
+Guadeloupe
+Haiti
+Jamaica
+Martinique
+Montserrat
+Caribbean Netherlands
+Bonaire
+Saba
+Sint Eustatius
+Puerto Rico
+Saint Barthélemy
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Sint Maarten
+Saint Vincent and the Grenadines
+Trinidad and Tobago
+Turks and Caicos Islands
+U.S. Virgin Islands
+Bonaire
+Saba
+Sint Eustatius
+timeline
+local government response
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+Nassau County
+New York City
+Suffolk County
+Westchester County
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Columbus
+Oklahoma
+Oregon
+Portland
+Pennsylvania
+Philadelphia
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+U.S. Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+Washington, D.C.
+West Virginia
+Wisconsin
+Wyoming
+timeline
+local government response
+Nassau County
+New York City
+Suffolk County
+Westchester County
+Columbus
+Portland
+Philadelphia
+Australia
+Easter Island
+Fiji
+French Polynesia
+Guam
+Hawaii
+New Caledonia
+New Zealand
+Northern Mariana Islands
+Papua New Guinea
+Argentina
+Brazil
+Bolivia
+Chile
+Easter Island
+Colombia
+Ecuador
+Falkland Islands
+French Guiana
+Guyana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela
+Easter Island
+Antarctica
+Cruise ships
+Diamond Princess
+Naval ships
+Charles de Gaulle
+USS Theodore Roosevelt
+Diamond Princess
+Charles de Gaulle
+USS Theodore Roosevelt
+Arts and cultural heritage
+Cinema
+Disney
+Education
+Events affected
+Music industry
+Performing arts
+Public venues and institutions closed
+Sports
+Television
+Video games
+Gender
+Hospitals
+Human rights
+Legal
+Abortion in the United States
+Crime
+Domestic violence
+Prisons
+LGBT community
+Long-term care facilities
+Public transport
+Religion
+Social media
+Social stigma
+Strikes
+Xenophobia and racism
+Abortion in the United States
+Crime
+Domestic violence
+Prisons
+Aviation
+Cannabis industry
+Coronavirus recession
+Financial markets
+Food industry
+Meat industry in the United States
+Restaurant industry in the United States
+Global stock market crash
+Oil price war
+Tourism
+Travel restrictions
+Meat industry in the United States
+Restaurant industry in the United States
+Journalism
+Media coverage
+Misinformation
+Wikipedia's response
+Politics
+Domestic responses
+Criticism of response
+Legislation
+United States protests
+Environment
+International relations
+European Union
+Military
+Science and technology
+Charitable activity
+Domestic responses
+Criticism of response
+Legislation
+United States protests
+European Union
+Evacuations
+Falsified medical products
+Mental health
+Shortages
+Ventilator
+Open-source ventilator
+Extracorporeal membrane oxygenation
+Raise the line
+Ventilator
+Open-source ventilator
+Extracorporeal membrane oxygenation
+Pandemic Severity Assessment Framework
+Public Health Emergency of International Concern
+Non-pharmaceutical interventions
+Social distancing
+Measures
+Face masks
+Flatten the curve
+Disease testing
+Coronavirus apps
+Workplace hazard controls
+Surveillance
+Curfews and lockdowns
+Measures
+Gender
+Pregnancy
+Treatment research
+Drug repurposing research
+Drug development
+Vaccine research
+Hospital ships
+Central Hospital of Wuhan
+Dabie Mountain Regional Medical Centre
+Fangcang Hospitals
+Huoshenshan Hospital
+Wuhan Jinyintan Hospital
+Leishenshan Hospital
+Xinjia Express Hotel
+Kemayoran Athletes Village
+Malaysia Agro Exposition Park Serdang
+Canberra Coronavirus Field Hospital
+Coalition for Epidemic Preparedness Innovations
+World Health Organization
+Wuhan Institute of Virology (China)
+Coronavirus Disease Mitigation Acceleration Task Force (Indonesia)
+White House Coronavirus Task Force (United States)
+Coronavirus Tech Handbook
+Inter-Agency Task Force on Emerging Infectious Diseases (Philippines)
+PM CARES Fund (India)
+SAARC COVID-19 Emergency Fund (India)
+COVID-19 Solidarity Response Fund
+MusiCares COVID-19 Relief Fund
+Imperial College COVID-19 Response Team (UK)
+SAGE (UK)
+National Cabinet of Australia
+National COVID-19 Coordination Commission (Australia)
+UN COVID-19 Supply Chain Task Force (WHO)
+PREPARE (European Union)
+Ai Fen
+Li Wenliang
+Liu Wen
+Corona Rintawan
+Xie Linka
+Zhang Wenhong
+ Roberto Burioni
+Christian Drosten
+Neil Ferguson
+George F. Gao
+Guan Yi
+Kentaro Iwata
+Li Lanjuan
+W. Ian Lipkin
+Ma Xiaowei
+Shi Zhengli
+Wang Chen
+Wang Guangfa
+Yuen Kwok-yung
+Zeng Guang
+Zhong Nanshan
+Tedros Adhanom (Director-General of the World Health Organization)
+Bruce Aylward (Team lead of WHO-China COVID-19 mission)
+Maria Van Kerkhove (Technical Lead for COVID-19 response)
+Michael J. Ryan (Executive Director of the WHO Health Emergencies Programme)
+Deborah Birx (United States)
+Ashley Bloomfield (New Zealand)
+Angelo Borrelli (Italy)
+Jaap van Dissel (the Netherlands)
+Chen Shih-chung (Taiwan)
+Francisco Duque III (Philippines)
+Anthony Fauci (United States)
+Jung Eun-kyeong (South Korea)
+Fahrettin Koca (Turkey)
+Li Keqiang (China)
+Doni Monardo (Indonesia)
+Noor Hisham Abdullah (Malaysia)
+Fernando Simón (Spain)
+Anders Tegnell (Sweden)
+Theresa Tam (Canada)
+Chen Qiushi
+Brett Crozier
+Fang Fang
+Li Zehua
+Qiu Menghuang
+Ren Zhiqiang
+Cases, deaths, recoveries by country
+Daily data by country
+Case fatality rate by country
+WHO situation report
+World map by countries: confirmed per capita
+China
+Hospital beds by country
+Lockdowns
+Mainland China
+Worldwide
+China
+Mainland China
+Worldwide
+Algeria
+chart
+Burkina Faso
+chart
+Burundi
+chart
+Cameroon
+chart
+Egypt
+chart
+Eswatini
+chart
+Ethiopia
+chart
+Ghana
+chart
+Ivory Coast
+chart
+Kenya
+chart
+Malawi
+chart
+Mali
+chart
+Mauritania
+chart
+Mauritius
+chart
+Morocco
+chart
+Nigeria
+chart
+Senegal
+chart
+South Africa
+chart
+Tanzania
+chart
+Togo
+chart
+Tunisia
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+Argentina
+chart
+Bolivia
+chart
+Brazil
+chart
+Canada
+by province
+chart
+Chile
+chart
+Colombia
+chart
+Costa Rica
+chart
+Dominican Republic
+chart
+Ecuador
+chart
+El Salvador
+chart
+Mexico
+chart
+Nicaragua
+chart
+Panama
+chart
+Paraguay
+chart
+United States
+by state
+chart
+Venezuela
+chart
+chart
+chart
+chart
+by province
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by state
+chart
+chart
+Afghanistan
+chart
+Azerbaijan
+chart
+Bangladesh
+chart
+Brunei
+chart
+Cambodia
+chart
+summary
+Mainland China
+aggregate
+chart
+Georgia
+chart
+Hong Kong
+chart
+India
+chart
+summary
+testing
+Indonesia
+chart
+Iran
+chart
+Iraq
+chart
+Israel
+chart
+Japan
+chart
+ship
+Jordan
+chart
+South Korea
+chart
+Kuwait
+chart
+Kyrgyzstan
+chart
+Laos
+chart
+Lebanon
+chart
+Malaysia
+chart
+Myanmar
+chart
+Oman
+chart
+Pakistan
+chart
+Palestine
+chart
+Philippines
+chart
+summary
+areas of quarantine
+Qatar
+chart
+Russia/North Asia
+chart
+Saudi Arabia
+chart
+Singapore
+chart
+Sri Lanka
+chart
+Syria
+chart
+Taiwan
+chart
+Thailand
+chart
+Turkey
+by province
+chart
+United Arab Emirates
+chart
+Vietnam
+chart
+Yemen
+chart
+chart
+chart
+chart
+chart
+chart
+summary
+aggregate
+chart
+chart
+chart
+chart
+summary
+testing
+chart
+chart
+chart
+chart
+chart
+ship
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+summary
+areas of quarantine
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by province
+chart
+chart
+chart
+chart
+Albania
+chart
+Armenia
+chart
+Austria
+chart
+Belarus
+chart
+Belgium
+chart
+Bosnia and Herzegovina
+chart
+Bulgaria
+chart
+Croatia
+chart
+Cyprus
+chart
+Czech Republic
+chart
+Denmark
+chart
+Estonia
+chart
+Finland
+chart
+France
+chart
+Germany
+chart
+Greece
+chart
+Hungary
+chart
+Iceland
+chart
+Ireland
+chart
+Italy
+chart
+Kosovo
+chart
+Latvia
+chart
+Lithuania
+chart
+Luxembourg
+chart
+Malta
+chart
+Moldova
+chart
+Montenegro
+chart
+Netherlands
+chart
+Norway
+chart
+Poland
+chart
+Portugal
+chart
+Romania
+chart
+Russia
+chart
+San Marino
+chart
+Serbia
+chart
+Slovakia
+by region
+chart
+Slovenia
+chart
+Spain
+chart
+Asturias
+Community of Madrid
+Sweden
+chart
+Switzerland
+chart
+Turkey
+by province
+chart
+Ukraine
+chart
+United Kingdom
+Scotland
+chart
+Vatican City
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by region
+chart
+chart
+chart
+Asturias
+Community of Madrid
+Asturias
+Community of Madrid
+chart
+chart
+by province
+chart
+chart
+Scotland
+chart
+chart
+Australia
+chart
+by state/territory
+Fiji
+chart
+French Polynesia
+chart
+New Caledonia
+chart
+New Zealand
+chart
+chart
+by state/territory
+chart
+chart
+chart
+chart
+ Category
+ Portal
+ WikiProject
+GND: 1206347392

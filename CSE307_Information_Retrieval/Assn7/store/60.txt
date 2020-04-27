@@ -1,0 +1,28 @@
+Title : Corona theorem
+
+In mathematics, the corona theorem is a result about the spectrum of the bounded holomorphic functions on the open unit disc,  conjectured by Kakutani (1941) harvtxt error: no target: CITEREFKakutani1941 (help) and proved by  Lennart Carleson (1962).
+
+The commutative Banach algebra and Hardy space H∞ consists of the bounded holomorphic functions on the open unit disc D. Its spectrum S (the closed maximal ideals) contains D as an open subspace because for each z in D there is a  maximal ideal consisting of functions f with
+
+The subspace D cannot make up the entire spectrum S, essentially because the spectrum is a compact space and D is not. The complement of the closure of D in S was called the corona by Newman (1959), and the corona theorem states that the corona is empty, or in other words the open unit disc D is dense in the spectrum. A more elementary formulation is that elements f1,...,fn generate the unit ideal of H∞ if and only if there is some δ>0 such that 
+
+Newman showed that the corona theorem can be reduced to an interpolation problem, which was then proved by Carleson.
+
+In 1979 Thomas Wolff gave a simplified (but unpublished) proof of the corona theorem, described in (Koosis 1980) and (Gamelin 1980).
+
+Cole later showed that this result cannot be extended to all open Riemann surfaces (Gamelin 1978).
+
+As a by-product, of Carleson's work, the Carleson measure was invented which itself is a very useful tool in modern function theory.  It remains an open question whether there are versions of the corona theorem for every planar domain or for higher-dimensional domains.
+
+Note that if one assume the continuity up to the boundary in Corona's theorem, then the conclusion follows easily from the theory of Commutative Banach algebra (Rudin) harv error: no target: CITEREFRudin (help).
+
+See also[edit]
+Corona set
+References[edit]
+Carleson, Lennart (1962), "Interpolations by bounded analytic functions and the corona problem", Annals of Mathematics, 76 (3): 547–559, doi:10.2307/1970375, JSTOR 1970375, MR 0141789, Zbl 0112.29702
+Gamelin, T. W. (1978), Uniform algebras and Jensen measures., London Mathematical Society Lecture Note Series, 32, Cambridge-New York: Cambridge University Press, pp. iii+162, ISBN 978-0-521-22280-8, MR 0521440, Zbl 0418.46042
+Gamelin, T. W. (1980), "Wolff's proof of the corona theorem", Israel Journal of Mathematics, 37 (1–2): 113–119, doi:10.1007/BF02762872, MR 0599306, Zbl 0466.46050 External link in |journal= (help)
+Koosis, Paul (1980), Introduction to Hp-spaces. With an appendix on Wolff's proof of the corona theorem, London Mathematical Society Lecture Note Series, 40, Cambridge-New York: Cambridge University Press, pp. xv+376, ISBN 0-521-23159-0, MR 0565451, Zbl 0435.30001
+Newman, D. J. (1959), "Some remarks on the maximal ideal structure of H∞", Annals of Mathematics, 70 (2): 438–445, doi:10.2307/1970324, JSTOR 1970324, MR 0106290, Zbl 0092.11802
+Rudin, Walter (1991), Functional Analysis, p. 279.
+Schark, I. J. (1961), "Maximal ideals in an algebra of bounded analytic functions", Journal of Mathematics and Mechanics, 10: 735–746, MR 0125442, Zbl 0139.30402.

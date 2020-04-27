@@ -1,0 +1,345 @@
+Title : Taxonomy (biology)
+
+
+
+
+
+Introduction to evolution
+Evidence of evolution
+Common descent
+Evidence of common descent
+Population genetics
+Variation
+Diversity
+Mutation
+Natural selection
+Adaptation
+Polymorphism
+Genetic drift
+Gene flow
+Speciation
+Adaptive radiation
+Co-operation
+Coevolution
+Coextinction
+Divergence
+Convergence
+Parallel evolution
+Extinction
+Origin of life
+History of life
+Timeline of evolution
+Human evolution
+Phylogeny
+Biodiversity
+Biogeography
+Classification
+Evolutionary taxonomy
+Cladistics
+Transitional fossil
+Extinction event
+Overview
+Renaissance
+Before Darwin
+Darwin
+Origin of Species
+Before synthesis
+Modern synthesis
+Molecular evolution
+Evo-devo
+Current research
+History of speciation
+History of paleontology (timeline)
+Applications of evolution
+Biosocial criminology
+Ecological genetics
+Evolutionary aesthetics
+Evolutionary anthropology
+Evolutionary computation
+Evolutionary ecology
+Evolutionary economics
+Evolutionary epistemology
+Evolutionary ethics
+Evolutionary game theory
+Evolutionary linguistics
+Evolutionary medicine
+Evolutionary neuroscience
+Evolutionary physiology
+Evolutionary psychology
+Experimental evolution
+Phylogenetics
+Paleontology
+Selective breeding
+Speciation experiments
+Sociobiology
+Systematics
+Universal Darwinism
+Evolution as fact and theory
+Social effects
+Creation–evolution controversy
+Objections to evolution
+Level of support
+ Evolutionary biology portal
+ Category
+
+Related topics
+vte
+In biology, taxonomy (from Ancient Greek  τάξις (taxis), meaning 'arrangement', and  -νομία (-nomia), meaning 'method') is the science of naming, defining (circumscribing) and classifying groups of biological organisms on the basis of shared characteristics. Organisms are grouped together into taxa (singular: taxon) and these groups are given a taxonomic rank; groups of a given rank can be aggregated to form a super-group of higher rank, thus creating a taxonomic hierarchy. The principal ranks in modern use are domain, kingdom, phylum (division is sometimes used in botany in place of phylum), class, order, family, genus, and species. The Swedish botanist Carl Linnaeus is regarded as the founder of the current system of taxonomy, as he developed a system known as Linnaean taxonomy for categorizing organisms and binomial nomenclature for naming organisms.
+
+With the advent of such fields of study as phylogenetics, cladistics, and systematics, the Linnaean system has progressed to a system of modern biological classification based on the evolutionary relationships between organisms, both living and extinct.
+
+Contents
+
+1 Definition
+
+1.1 Monograph and taxonomic revision
+1.2 Alpha and beta taxonomy
+1.3 Microtaxonomy and macrotaxonomy
+
+
+2 History
+
+2.1 Pre-Linnaean
+
+2.1.1 Early taxonomists
+2.1.2 Ancient times
+2.1.3 Medieval
+2.1.4 Renaissance and Early Modern
+
+
+2.2 The Linnaean era
+
+
+3 Modern system of classification
+
+3.1 Kingdoms and domains
+3.2 Recent comprehensive classifications
+
+
+4 Application
+
+4.1 Classifying organisms
+4.2 Taxonomic descriptions
+4.3 Author citation
+
+
+5 Phenetics
+6 Databases
+7 See also
+8 Notes
+9 References
+10 Bibliography
+11 External links
+
+
+1.1 Monograph and taxonomic revision
+1.2 Alpha and beta taxonomy
+1.3 Microtaxonomy and macrotaxonomy
+
+
+2.1 Pre-Linnaean
+
+2.1.1 Early taxonomists
+2.1.2 Ancient times
+2.1.3 Medieval
+2.1.4 Renaissance and Early Modern
+
+
+2.2 The Linnaean era
+
+
+2.1.1 Early taxonomists
+2.1.2 Ancient times
+2.1.3 Medieval
+2.1.4 Renaissance and Early Modern
+
+
+3.1 Kingdoms and domains
+3.2 Recent comprehensive classifications
+
+
+4.1 Classifying organisms
+4.2 Taxonomic descriptions
+4.3 Author citation
+
+Definition[edit]
+The exact definition of taxonomy varies from source to source, but the core of the discipline remains: the conception, naming, and classification of groups of organisms.[1] As points of reference, recent definitions of taxonomy are presented below:
+
+The varied definitions either place taxonomy as a sub-area of systematics (definition 2), invert that relationship (definition 6), or appear to consider the two terms synonymous. There is some disagreement as to whether biological nomenclature is considered a part of taxonomy (definitions 1 and 2), or a part of systematics outside taxonomy.[8] For example, definition 6 is paired with the following definition of systematics that places nomenclature outside taxonomy:[6]
+
+Systematics: "The study of the identification, taxonomy, and nomenclature of organisms, including the classification of living things with regard to their natural relationships and the study of variation and the evolution of taxa".
+A whole set of terms including taxonomy, systematic biology, systematics, biosystematics, scientific classification, biological classification, and phylogenetics have at times had overlapping meanings – sometimes the same, sometimes slightly different, but always related and intersecting.[1][9] The broadest meaning of "taxonomy" is used here. The term itself was introduced in 1813 by de Candolle, in his Théorie élémentaire de la botanique.[10]
+
+Monograph and taxonomic revision[edit]
+A taxonomic revision or taxonomic review is a novel analysis of the variation patterns in a particular taxon. This analysis may be executed on the basis of any combination of the various available kinds of characters, such as morphological, anatomical, palynological, biochemical and genetic. A monograph or complete revision is a revision that is comprehensive for a taxon for the information given at a particular time, and for the entire world. Other (partial) revisions may be restricted in the sense that they may only use some of the available character sets or have a limited spatial scope. A revision results in a conformation of or new insights in the relationships between the subtaxa within the taxon under study, which may result in a change in the classification of these subtaxa, the identification of new subtaxa, or the merger of previous subtaxa.[11]
+
+Alpha and beta taxonomy[edit]
+The term "alpha taxonomy" is primarily used today to refer to the discipline of finding, describing, and naming taxa, particularly species.[12] In earlier literature, the term had a different meaning, referring to morphological taxonomy, and the products of research through the end of the 19th century.[13]
+
+William Bertram Turrill introduced the term "alpha taxonomy" in a series of papers published in 1935 and 1937 in which he discussed the philosophy and possible future directions of the discipline of taxonomy.[14]
+ … there is an increasing desire amongst taxonomists to consider their problems from wider viewpoints, to investigate the possibilities of closer co-operation with their cytological, ecological and genetics colleagues and to acknowledge that some revision or expansion, perhaps of a drastic nature, of their aims and methods, may be desirable … Turrill (1935) has suggested that while accepting the older invaluable taxonomy, based on structure, and conveniently designated "alpha", it is possible to glimpse a far-distant taxonomy built upon as wide a basis of morphological and physiological facts as possible, and one in which "place is found for all observational and experimental data relating, even if indirectly, to the constitution, subdivision, origin, and behaviour of species and other taxonomic groups". Ideals can, it may be said, never be completely realized. They have, however, a great value of acting as permanent stimulants, and if we have some, even vague, ideal of an "omega" taxonomy we may progress a little way down the Greek alphabet. Some of us please ourselves by thinking we are now groping in a "beta" taxonomy.[14]
+Turrill thus explicitly excludes from alpha taxonomy various areas of study that he includes within taxonomy as a whole, such as ecology, physiology, genetics, and cytology. He further excludes phylogenetic reconstruction from alpha taxonomy (pp. 365–366).
+
+
+Later authors have used the term in a different sense, to mean the delimitation of species (not subspecies or taxa of other ranks), using whatever investigative techniques are available, and including sophisticated computational or laboratory techniques.[15][12] Thus, Ernst Mayr in 1968 defined "beta taxonomy" as the classification of ranks higher than species.[16]
+An understanding of the biological meaning of variation and of the evolutionary origin of groups of related species is even more important for the second stage of taxonomic activity, the sorting of species into groups of relatives ("taxa") and their arrangement in a hierarchy of higher categories. This activity is what the term classification denotes; it is also referred to as "beta taxonomy".
+Microtaxonomy and macrotaxonomy[edit]
+How species should be defined in a particular group of organisms gives rise to practical and theoretical problems that are referred to as the species problem. The scientific work of deciding how to define species has been called microtaxonomy.[17][18][12] By extension, macrotaxonomy is the study of groups at higher taxonomic ranks, from subgenus and above only, than species.[12]
+
+History[edit]
+While some descriptions of taxonomic history attempt to date taxonomy to ancient civilizations, a truly scientific attempt to classify organisms did not occur until the 18th century. Earlier works were primarily descriptive and focused on plants that were useful in agriculture or medicine. There are a number of stages in this scientific thinking. Early taxonomy was based on arbitrary criteria, the so-called "artificial systems", including Linnaeus's system of sexual classification. Later came systems based on a more complete consideration of the characteristics of taxa, referred to as "natural systems", such as those of de Jussieu (1789), de Candolle (1813) and Bentham and Hooker (1862–1863). These were pre-evolutionary in thinking. The publication of Charles Darwin's On the Origin of Species (1859) led to new ways of thinking about classification based on evolutionary relationships. This was the concept of phyletic systems, from 1883 onwards. This approach was typified by those of Eichler (1883) and Engler (1886–1892). The advent of molecular genetics and statistical methodology allowed the creation of the modern era of "phylogenetic systems" based on cladistics, rather than morphology alone.[19][page needed][20][page needed][21][page needed]
+
+Pre-Linnaean[edit]
+Early taxonomists[edit]
+Naming and classifying our surroundings has probably been taking place as long as mankind has been able to communicate. It would always have been important to know the names of poisonous and edible plants and animals in order to communicate this information to other members of the family or group. Medicinal plant illustrations show up in Egyptian wall paintings from c. 1500 BC, indicating that the uses of different species were understood and that a basic taxonomy was in place.[22]
+
+Ancient times[edit]
+Organisms were first classified by Aristotle (Greece, 384–322 BC) during his stay on the Island of Lesbos.[23][24][25] He classified beings by their parts, or in modern terms attributes, such as having live birth, having four legs, laying eggs, having blood, or being warm-bodied.[26] He divided all living things into two groups: plants and animals.[24] Some of his groups of animals, such as Anhaima (animals without blood, translated as invertebrates) and Enhaima (animals with blood, roughly the vertebrates), as well as groups like the sharks and cetaceans, are still commonly used today.[27] His student Theophrastus (Greece, 370–285 BC) carried on this tradition, mentioning some 500 plants and their uses in his Historia Plantarum. Again, several plant groups currently still recognized can be traced back to Theophrastus, such as Cornus, Crocus, and Narcissus.[24]
+
+Medieval[edit]
+Taxonomy in the Middle Ages was largely based on the Aristotelian system,[26] with additions concerning the philosophical and existential order of creatures. This included concepts such as the Great chain of being in the Western scholastic tradition,[26] again deriving ultimately from Aristotle. Aristotelian system did not classify plants or fungi, due to the lack of microscope at the time,[25] as his ideas were based on arranging the complete world in a single continuum, as per the scala naturae (the Natural Ladder).[24] This, as well, was taken into consideration in the Great chain of being.[24] Advances were made by scholars such as Procopius, Timotheos of Gaza, Demetrios Pepagomenos, and Thomas Aquinas. Medieval thinkers used abstract philosophical and logical categorizations more suited to abstract philosophy than to pragmatic taxonomy.[24]
+
+Renaissance and Early Modern[edit]
+During the Renaissance, the Age of Reason, and the Enlightenment, categorizing organisms became more prevalent,[24]
+and taxonomic works became ambitious enough to replace the ancient texts. This is sometimes credited to the development of sophisticated optical lenses, which allowed the morphology of organisms to be studied in much greater detail. One of the earliest authors to take advantage of this leap in technology was the Italian physician Andrea Cesalpino (1519–1603), who has been called "the first taxonomist".[28] His magnum opus De Plantis came out in 1583, and described more than 1500 plant species.[29][30] Two large plant families that he first recognized are still in use today: the Asteraceae and Brassicaceae.[31] Then in the 17th century John Ray (England, 1627–1705) wrote many important taxonomic works.[25] Arguably his greatest accomplishment was Methodus Plantarum Nova (1682),[32] in which he published details of over 18,000 plant species. At the time, his classifications were perhaps the most complex yet produced by any taxonomist, as he based his taxa on many combined characters. The next major taxonomic works were produced by Joseph Pitton de Tournefort (France, 1656–1708).[33] His work from 1700, Institutiones Rei Herbariae, included more than 9000 species in 698 genera, which directly influenced Linnaeus, as it was the text he used as a young student.[22]
+
+The Linnaean era[edit]
+The Swedish botanist Carl Linnaeus (1707–1778)[26] ushered in a new era of taxonomy. With his major works Systema Naturae 1st Edition in 1735,[34] Species Plantarum in 1753,[35] and Systema Naturae 10th Edition,[36] he revolutionized modern taxonomy. His works implemented a standardized binomial naming system for animal and plant species,[37] which proved to be an elegant solution to a chaotic and disorganized taxonomic literature. He not only introduced the standard of class, order, genus, and species, but also made it possible to identify plants and animals from his book, by using the smaller parts of the flower.[37] Thus the Linnaean system was born, and is still used in essentially the same way today as it was in the 18th century.[37] Currently, plant and animal taxonomists regard Linnaeus' work as the "starting point" for valid names (at 1753 and 1758 respectively).[38] Names published before these dates are referred to as "pre-Linnaean", and not considered valid (with the exception of spiders published in Svenska Spindlar[39]). Even taxonomic names published by Linnaeus himself before these dates are considered pre-Linnaean.[22]
+
+Modern system of classification[edit]
+Whereas Linnaeus aimed simply to create readily identifiable taxa, the idea of the Linnaean taxonomy as translating into a sort of dendrogram of the animal and plant kingdoms was formulated toward the end of the 18th century, well before On the Origin of Species was published.[25] Among early works exploring the idea of a transmutation of species were Erasmus Darwin's 1796 Zoönomia and Jean-Baptiste Lamarck's Philosophie Zoologique of 1809.[12] The idea was popularized in the Anglophone world by the speculative but widely read Vestiges of the Natural History of Creation, published anonymously by Robert Chambers in 1844.[40]
+
+With Darwin's theory, a general acceptance quickly appeared that a classification should reflect the Darwinian principle of common descent.[41] Tree of life representations became popular in scientific works, with known fossil groups incorporated. One of the first modern groups tied to fossil ancestors was birds.[42] Using the then newly discovered fossils of Archaeopteryx and Hesperornis, Thomas Henry Huxley pronounced that they had evolved from dinosaurs, a group formally named by Richard Owen in 1842.[43][44] The resulting description, that of dinosaurs "giving rise to" or being "the ancestors of" birds, is the essential hallmark of evolutionary taxonomic thinking. As more and more fossil groups were found and recognized in the late 19th and early 20th centuries, palaeontologists worked to understand the history of animals through the ages by linking together known groups.[45] With the modern evolutionary synthesis of the early 1940s, an essentially modern understanding of the evolution of the major groups was in place. As evolutionary taxonomy is based on Linnaean taxonomic ranks, the two terms are largely interchangeable in modern use.[46]
+
+The cladistic method has emerged since the 1960s.[41] In 1958, Julian Huxley used the term clade.[12] Later, in 1960, Cain and Harrison introduced the term cladistic.[12] The salient feature is arranging taxa in a hierarchical evolutionary tree, ignoring ranks.[41] A taxon is called monophyletic, if it includes all the descendants of an ancestral form.[47][48] Groups that have descendant groups removed from them are termed paraphyletic,[47] while groups representing more than one branch from the tree of life are called polyphyletic.[47][48] The International Code of Phylogenetic Nomenclature or PhyloCode is intended to regulate the formal naming of clades.[49][50] Linnaean ranks will be optional under the PhyloCode, which is intended to coexist with the current, rank-based codes.[50]
+
+Kingdoms and domains[edit]
+Well before Linnaeus, plants and animals were considered separate Kingdoms.[51] Linnaeus used this as the top rank, dividing the physical world into the plant, animal and mineral kingdoms. As advances in microscopy made classification of microorganisms possible, the number of kingdoms increased, five and six-kingdom systems being the most common.
+
+Domains are a relatively new grouping. First proposed in 1977, Carl Woese's three-domain system was not generally accepted until later.[52] One main characteristic of the three-domain method is the separation of Archaea and Bacteria, previously grouped into the single kingdom Bacteria (a kingdom also sometimes called Monera),[51] with the Eukaryota for all organisms whose cells contain a nucleus.[53] A small number of scientists include a sixth kingdom, Archaea, but do not accept the domain method.[51]
+
+Thomas Cavalier-Smith, who has published extensively on the classification of protists, has recently proposed that the Neomura, the clade that groups together the Archaea and Eucarya, would have evolved from Bacteria, more precisely from Actinobacteria. His 2004 classification treated the archaeobacteria as part of a subkingdom of the kingdom Bacteria, i.e. he rejected the three-domain system entirely.[54] Stefan Luketa in 2012 proposed a five "dominion" system, adding Prionobiota (acellular and without nucleic acid) and Virusobiota (acellular but with nucleic acid) to the traditional three domains.[55]
+
+Recent comprehensive classifications[edit]
+Partial classifications exist for many individual groups of organisms and are revised and replaced as new information becomes available; however, comprehensive, published treatments of most or all life are rarer; recent examples are that of Adl et al., 2012 and 2019,[63][64] which covers eukaryotes only with an emphasis on protists, and Ruggiero et al., 2015,[65] covering both eukaryotes and prokaryotes to the rank of Order, although both exclude fossil representatives.[65] A separate compilation (Ruggiero, 2014)[66] covers extant taxa to the rank of family. Other, database-driven treatments include the Encyclopedia of Life, the Global Biodiversity Information Facility, the NCBI taxonomy database, the Interim Register of Marine and Nonmarine Genera, the Open Tree of Life, and the Catalogue of Life. The Paleobiology Database is a resource for fossils.
+
+Application[edit]
+Biological taxonomy is a sub-discipline of biology, and is generally practiced by biologists known as "taxonomists", though enthusiastic naturalists are also frequently involved in the publication of new taxa.[67] Because taxonomy aims to describe and organize life, the work conducted by taxonomists is essential for the study of biodiversity and the resulting field of conservation biology.[68][69]
+
+Classifying organisms[edit]
+Biological classification is a critical component of the taxonomic process. As a result, it informs the user as to what the relatives of the taxon are hypothesized to be. Biological classification uses taxonomic ranks, including among others (in order from most inclusive to least inclusive): Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species, and Strain.[70][note 1]
+
+Taxonomic descriptions[edit]
+The "definition" of a taxon is encapsulated by its description or its diagnosis or by both combined. There are no set rules governing the definition of taxa, but the naming and publication of new taxa is governed by sets of rules.[8] In zoology, the nomenclature for the more commonly used ranks (superfamily to subspecies), is regulated by the International Code of Zoological Nomenclature (ICZN Code).[71] In the fields of phycology, mycology, and botany, the naming of taxa is governed by the International Code of Nomenclature for algae, fungi, and plants (ICN).[72]
+
+The initial description of a taxon involves five main requirements:[73]
+
+However, often much more information is included, like the geographic range of the taxon, ecological notes, chemistry, behavior, etc. How researchers arrive at their taxa varies: depending on the available data, and resources, methods vary from simple quantitative or qualitative comparisons of striking features, to elaborate computer analyses of large amounts of DNA sequence data.[74]
+
+Author citation[edit]
+An "authority" may be placed after a scientific name.[75] The authority is the name of the scientist or scientists who first validly published the name.[75] For example, in 1758 Linnaeus gave the Asian elephant the scientific name Elephas maximus, so the name is sometimes written as "Elephas maximus Linnaeus, 1758".[76] The names of authors are frequently abbreviated: the abbreviation L., for Linnaeus, is commonly used. In botany, there is, in fact, a regulated list of standard abbreviations (see list of botanists by author abbreviation).[77] The system for assigning authorities differs slightly between botany and zoology.[8] However, it is standard that if the genus of a species has been changed since the original description, the original authority's name is placed in parentheses.[78]
+
+Phenetics[edit]
+In phenetics, also known as taximetrics, or numerical taxonomy, organisms are classified based on overall similarity, regardless of their phylogeny or evolutionary relationships.[12] It results in a measure of evolutionary "distance" between taxa. Phenetic methods have become relatively rare in modern times, largely superseded by cladistic analyses, as phenetic methods do not distinguish common ancestral (or plesiomorphic) traits from new common (or apomorphic) traits.[79] However, certain phenetic methods, such as neighbor joining, have found their way into cladistics, as a reasonable approximation of phylogeny when more advanced methods (such as Bayesian inference) are too computationally expensive.[80]
+
+Databases[edit]
+Modern taxonomy uses database technologies to search and catalogue classifications and their documentation.[81] While there is no commonly used database, there are comprehensive databases such as the Catalogue of Life, which attempts to list every documented species.[82] The catalogue listed 1.64 million species for all kingdoms as of April 2016, claiming coverage of more than three quarters of the estimated species known to modern science.[83]
+
+See also[edit]
+Automated species identification
+Consortium for the Barcode of Life
+Consortium of European Taxonomic Facilities
+Genetypes
+Glossary of scientific naming
+Identification (biology)
+Incertae sedis
+Open Tree of Life
+Taxonomy (general)
+Type (biology)
+Virus classification
+Notes[edit]
+References[edit]
+Bibliography[edit]
+Stace, Clive A. (1989) [1980]. Plant taxonomy and biosystematics (2nd. ed.). Cambridge: Cambridge University Press. ISBN 978-0-521-42785-2. Retrieved 19 April 2015.CS1 maint: ref=harv (link)
+Datta, Subhash Chandra (1988). Systematic Botany (4 ed.). New Delhi: New Age International. ISBN 978-81-224-0013-7. Retrieved 25 January 2015.CS1 maint: ref=harv (link)
+Stuessy, Tod F. (2009). Plant Taxonomy: The Systematic Evaluation of Comparative Data. Columbia University Press. ISBN 978-0-231-14712-5. Retrieved 6 February 2014.CS1 maint: ref=harv (link)
+External links[edit]
+What is taxonomy? at the Natural History Museum London
+Taxonomy at NCBI the National Center for Biotechnology Information
+Taxonomy at UniProt the Universal Protein Resource
+ITIS the Integrated Taxonomic Information System
+CETaF the Consortium of European Taxonomic Facilities
+Wikispecies free species directory
+Biological classification.
+vte
+Linnaeus bibliography
+Systema Naturae (1735)
+Fundamenta Botanica (1736)
+Bibliotheca Botanica (1736)
+Musa Cliffortiania (1736)
+Critica Botanica (1737)
+Flora Lapponica (1737)
+Genera Plantarum (1737)
+Hortus Cliffortianus (1737)
+Classes Plantarum (1738)
+Flora Svecica (1745)
+Fauna Svecica (1746)
+Philosophia Botanica (1751)
+Species Plantarum (1753)
+Centuria Insectorum (1763)
+Mantissa Plantarum Altera (1771)
+Systema Vegetabilium (1774)
+Taxonomy (biology)
+Linnaean taxonomy (Linnaean classification)
+Botanical nomenclature
+Zoological nomenclature
+Binomial nomenclature
+Taxa named by Linnaeus‎
+Natural history
+History of biology
+History of botany
+Historical race concepts
+Adam Afzelius
+Andreas Berlin
+Johan Peter Falk
+Peter Forsskål
+Pehr Kalm
+Pehr Löfling
+Pehr Osbeck
+Daniel Rolander
+Göran Rothman
+Daniel Solander
+Anders Sparrman
+Carl Peter Thunberg
+Carl Linnaeus the Younger
+Elisabeth Christina von Linné
+Students of Linnaeus
+Pre-Linnaean botanists
+Gaspard Bauhin
+Johann Bauhin
+Peter Artedi
+Herman Boerhaave
+Johannes Burman
+George Clifford III
+Commemoration of Carl Linnaeus
+Expedition Linné
+Linnaea
+Linnaean Garden
+Linnaeite
+Linnaemya
+Linnaemyini
+7412 Linnaeus
+Linnaeus Arboretum
+The Linnaeus Museum
+Linnaeus University
+Linnaeus's Hammarby
+Linné (crater)
+Linnéa
+Linnean Medal
+Linnean Society of London
+Swedish Linnaeus Society
+Linnean Society of New South Wales
+Linnean Tercentenary Medal
+Linneus, Maine
+Linneus, Missouri
+ Wikiquote

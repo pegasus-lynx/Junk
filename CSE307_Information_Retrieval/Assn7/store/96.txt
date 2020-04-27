@@ -1,0 +1,334 @@
+Title : Bat-borne virus
+
+A bat-borne virus is any virus whose primary reservoir is any species of bat. The viruses include coronaviruses such as severe acute respiratory syndrome coronavirus (SARS-CoV) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); hantaviruses; lyssaviruses such as rabies virus and Australian bat lyssavirus; henipaviruses such as nipah virus and Hendra virus; Lassa virus; Ebola virus; and Marburg virus. Several bat-borne viruses are considered important emerging viruses.[1][2]
+
+Contents
+
+1 Bat viromes
+
+1.1 Bats compared to other viral reservoirs
+
+
+2 Coronaviruses
+
+2.1 Zoonotic
+2.2 Other
+
+
+3 Filoviruses
+
+3.1 Zoonotic
+3.2 Other
+
+
+4 Hantaviruses
+5 Lyssaviruses
+
+5.1 Zoonotic
+5.2 Other
+
+
+6 Orthomyxoviruses
+7 Paramyxoviruses
+
+7.1 Zoonotic
+7.2 Other
+
+
+8 Reoviruses
+
+8.1 Zoonotic
+8.2 Other
+
+
+9 Retroviruses
+10 Togaviruses
+11 See also
+12 References
+13 External links
+
+
+1.1 Bats compared to other viral reservoirs
+
+
+2.1 Zoonotic
+2.2 Other
+
+
+3.1 Zoonotic
+3.2 Other
+
+
+5.1 Zoonotic
+5.2 Other
+
+
+7.1 Zoonotic
+7.2 Other
+
+
+8.1 Zoonotic
+8.2 Other
+
+Bat viromes[edit]
+Bats are especially tolerant of viruses compared to terrestrial mammals.[3] A single bat can host several different kinds of viruses without becoming ill, though some like the rabies virus can cause illness in bats.[4] Most of the viruses harbored by bats are RNA viruses, though they are also known to have DNA viruses.[3] Bat-borne viruses can be transmitted to humans directly through saliva, feces, or blood. They can also be transmitted indirectly through intermediate animal hosts (e.g. camels, pigs), indirectly through intermediate blood-feeding arthropods, or indirectly through a contaminated environment used by the bats.[5]
+
+Some research indicates that bats' immune systems have allowed them to cope with a variety of viruses. A 2018 study found that bats have a dampened STING response compared to other mammals, which could allow them to respond to viral threats without over-responding. Additionally, bats lack several inflammasomes found in other mammals. While inflammation is an immune response to viruses, excessive inflammation is damaging to the body, and viruses like severe acute respiratory syndrome coronavirus (SARS-CoV) are known to kill humans by inducing excessive inflammation. The authors stated, "The nature of the weakened, but not entirely lost, functionality of STING may have profound impact for bats to maintain the balanced state of 'effective response' but not 'over response' against viruses."[3]
+
+Bats have also been shown to be more susceptible to reinfection with the same viruses, whereas other mammals, especially humans, have a greater propensity for developing varying degrees of immunity.[6][7] Their behavior and life history also make them "exquisitely suitable hosts of viruses and other disease agents", with long lifespans, the ability to enter torpor or hibernate, and their ability to traverse landscapes with daily and seasonal movement.[1]
+
+Bats compared to other viral reservoirs[edit]
+Bats and their viruses may be the subject of more research than viruses found in other mammal orders, an example of research bias. A 2015 review found that from 1999 to 2013, there were 300–1200 papers published about bat viruses annually, compared to 12–45 publications for marsupial viruses and only 1–9 studies for sloth viruses. The same review found that bats do not have significantly greater viral diversity than other mammal groups. Bats, rodents, and primates all harbored significantly more zoonotic viruses (which can be transmitted to humans) than other mammal groups, though the differences among the aforementioned three groups were not significant (bats have no more zoonotic viruses than rodents and primates).[8] A 2020 review of mammals and birds found that taxonomic groups did not have any impact on the probability of harboring zoonotic viruses. Instead, more diverse groups had greater viral diversity. Bat life history traits and immunity, while likely influential in determining bat viral communities, were not associated with a greater probability of viral spillover into humans.[9]
+
+Coronaviruses[edit]
+Zoonotic[edit]
+Several zoonotic coronaviruses are associated with bats, including severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome-related coronavirus (MERS-CoV).[10] Severe acute respiratory syndrome coronavirus 2 is another zoonotic coronavirus likely originating in bats.[11][12] SARS-CoV causes the disease severe acute respiratory syndrome (SARS) in humans. The first documented case of SARS was in November 2002 in Foshan, China.[10] It became an epidemic, affecting 28 countries around the world with 8,096 cases and 774 deaths.[10] The natural reservoir of SARS-CoV was identified as bats, with the Chinese rufous horseshoe bat considered a particularly strong candidate after a coronavirus was recovered from a colony that had 95% nucleotide sequence similarity to SARS-CoV.[10] There is uncertainty on whether or not animals like palm civets and raccoon dogs were intermediate hosts that facilitated the spread of the virus from bats to humans, or if humans acquired the virus directly from bats.[13][10]
+
+The first human case of Middle East respiratory syndrome (MERS) was in June 2012 in Jeddah, Saudi Arabia.[10] As of November 2019, 2,494 cases of MERS have been reported in twenty-seven countries, resulting in 858 fatalities.[14] It is believed that MERS-CoV originated in bats, though camels are likely the intermediate host through which humans became infected. Human-to-human transmission is possible, though does not easily occur.[15]
+
+In 2019, a food market that sold live wild game (called ye wei Chinese: 野味) (a "wet market") in Wuhan, China was linked to the outbreak of SARS-CoV-2.[16] Through genetic analyses, scientists initially found the virus resembles those typically found in bats.[17][18] Subsequent genetics studies suggest the virus may have been transmitted to people from pangolins, since the sequences of coronavirus from these animals have high similarity with SARS-CoV-2, and these species were sold in the market.[19][20] However, there are also concerns from the scientific community about the validity of the genetics technique used (codon usage bias).[21][22][23]
+
+Other[edit]
+Bats harbor a great diversity of coronaviruses, with sampling by the EcoHealth Alliance in China alone identifying about 400 new strains of coronavirus.[24] A study of coronavirus diversity harbored by bats in eastern Thailand revealed forty-seven coronaviruses.[25]
+
+Filoviruses[edit]
+Zoonotic[edit]
+Filoviridae is a family of virus containing two genera associated with bats: Marburgvirus and Ebolavirus, which contain the species that cause Marburg virus disease and Ebola virus disease, respectively. Though relatively few disease outbreaks are caused by filoviruses, they are of high concern due to their extreme virulence, or capacity to cause harm to their hosts. Filovirus outbreaks typically have high mortality rates in humans. Though the first filovirus was identified in 1967, it took more than twenty years to identify any natural reservoirs.[26]
+
+Ebola virus disease (EVD) is a relatively rare but life-threatening illness in humans, with an average mortality rate of 50% (though individual outbreaks may be as high as 90% mortality). The first outbreaks were in 1976 in South Sudan and Democratic Republic of the Congo.[27] The natural reservoirs of ebolaviruses are unknown.[28][29][30] However, some evidence indicates that megabats may be natural reservoirs.[26][27] Several megabat species have tested seropositive for antibodies against ebolaviruses, including the hammer-headed bat, Franquet's epauletted fruit bat, and little collared fruit bat.[26] Other possible reservoirs include non-human primates,[28] rodents, shrews, carnivores, and ungulates.[31] Definitively stating that fruit bats are natural reservoirs is problematic; as of 2017, researchers have been largely unable to isolate ebolaviruses or their viral RNA sequences from fruit bats. Additionally, bats typically have low level of ebolavirus-associated anitibodies, and seropositivity in bats is not strongly correlated to human outbreaks.[30]
+
+Marburg virus disease (MVD) was first identified in 1967 during simultaneous outbreaks in Marburg and Frankfurt in Germany, and Belgrade, Serbia. MVD is highly virulent, with an average human mortality rate of 50%, but as high as 88% for individual outbreaks.[32] MVD is caused by Marburg virus and the closely related Ravn virus, which was formerly considered synonymous with Marburg virus.[33] Marburg virus was first detected in the Egyptian fruit bat in 2007,[26] and is now recognized as the natural reservoir of the virus.[32] Marburg virus has been detected in Egyptian fruit bats in Gabon, Democratic Republic of the Congo, Kenya, and Uganda.[26] Spillover from Egyptian fruit bats occurs when humans spend prolonged time in mines or caves inhabited by the bats,[32] though the exact mechanism of transmission is unclear.[26] Human-to-human transmission occurs through direct contact with infected bodily fluids, including blood or semen, or indirectly through contact with bedding or clothing exposed to these fluids.[32]
+
+Other[edit]
+Lloviu virus, a kind of filovirus in the genus Cuevavirus, has been identified from the common bent-wing bat in Spain.[26] Another filovirus, Bombali ebolavirus, has been isolated from free-tailed bats, including the little free-tailed bat and the Angolan free-tailed bat.[34] Neither Lloviu virus nor Bombali ebolavirus is associated with illness in humans.[35][34] Genomic RNA associated with Mengla virus, though not the virus itself, has been identified from Rousettus bats in China.[34]
+
+Hantaviruses[edit]
+Hantaviruses, usually found in rodents and shrews, were discovered in two species of bats. The Mouyassué virus (MOUV) was isolated from banana pipistrelle bats captured near Mouyassué village in Cote d'Ivoire, West Africa. The Magboi virus was isolated from hairy slit-faced bats found near the Magboi River in Sierra Leone in 2011. They are single-stranded, negative sense, RNA viruses in the Bunyaviridae family.[36][37][1][38]
+
+Lyssaviruses[edit]
+Zoonotic[edit]
+Lyssaviruses include the rabies virus, Australian bat lyssavirus, and other related viruses, many of which are also harbored by bats. Unlike most other viruses in the family Rhabdoviridae, which are transmitted by arthropods, lyssaviruses are transmitted by mammals, most frequently through biting. All mammals are susceptible to lyssaviruses, though bats and carnivores are the most common natural reservoirs. The vast majority of human rabies cases are a result of the rabies virus, with only twelve other human cases attributed to other lyssaviruses as of 2015.[39] These rarer lyssaviruses associated with bats include Duvenhage lyssavirus (three human cases as of 2015, microbats as suspected reservoir); European bat 1 lyssavirus (one human case as of 2015, microbats as suspected reservoir); European bat 2 lyssavirus (two human cases as of 2015, microbats as suspected reservoir); and Irkut virus (one human case as of 2015, microbats as suspected reservoir).[39][40]
+
+After transmission has occurred, the average human is asymptomatic for two months, though the incubation period can be as short as a week or as long as several years.[39]
+Italian scientist Antonio Carini was the first to hypothesize that rabies virus could be transmitted by bats, which he did in 1911. This same conclusion was reached by Hélder Queiroz in 1934 and Joseph Lennox Pawan in 1936. Vampire bats were the first to be documented with rabies; in 1953, an insectivorous bat in Florida was discovered with rabies, making it the first documented occurrence in an insectivorous species outside the vampire bats' ranges.[41] Bats have an overall low prevalence of rabies virus, with a majority of surveys of apparently healthy individuals showing rabies incidence of 0.0–0.5%.[39] Sick bats are more likely to be submitted for rabies testing than apparently healthy bats, known as sampling bias,[42] with most studies reporting rabies incidence of 5–20% in sick or dead bats.[39] Rabies virus exposure can be fatal in bats, though it is likely that the majority of individuals do not develop the disease after exposure.[39] In non-bat mammals, exposure to the rabies virus almost always leads to death.[40]
+
+Bats are the most common source of rabies in humans in North and South America, Western Europe, and Australia. Many feeding guilds of bats may transmit rabies to humans, including insectivorous, frugivorous, nectarivorous, omnivorous, sanguivorous, and carnivorous species.[43] The common vampire bat is a source of human rabies in Central and South America, though the frequency at which humans are bitten is poorly understood.[44] Between 1993 and 2002, the majority of human rabies cases associated with bats in the Americas were the result of non-vampire bats.[40] In North America, about half of human rabies instances are cryptic, meaning that the patient has no known bite history.[39] While it has been speculated that rabies virus could be transmitted through aerosols, studies of the rabies virus have concluded that this is only feasible in limited conditions. These conditions include a very large colony of bats in a hot and humid cave with poor ventilation. While two human deaths in 1956 and 1959 had been tentatively attributed to aerosolization of the rabies virus after entering a cave with bats, "investigations of the 2 reported human cases revealed that both infections could be explained by means other than aerosol transmission".[45] It is instead generally thought that most instances of cryptic rabies are the result of an unknown bat bite.[39] Bites from a bat can be so small that they are not visible without magnification equipment, for example. Outside of bites, rabies virus exposure can also occur if infected fluids come in contact with a mucous membrane or a break in the skin. Rabies virus has also been transmitted when an infected human unknowingly dies of rabies, and their organs are transplanted to others.[45]
+
+Other[edit]
+Many bat lyssaviruses are not associated with infection in humans. These include Lagos bat lyssavirus, Shimoni bat lyssavirus, Khujand virus, Aravan virus, Bokeloh bat lyssavirus, West Caucasian bat lyssavirus, and Lleida bat lyssavirus.[40][39] Lagos bat lyssavirus, also known as Lagos bat virus (LBV), has been isolated from a megabat in sub-Saharan Africa.[39] This lyssavirus has four distinct lineages, all of which are found in the straw-colored fruit bat.[46]
+
+Orthomyxoviruses[edit]
+Orthomyxoviruses include influenza viruses. While birds are the primary reservoir for the genus influenza A, a few bat species in Central and South America have also tested positive for the viruses. These species include the little yellow-shouldered bat and the flat-faced fruit-eating bat. Bat populations tested in Guatemala and Peru had high seropositivity rates, which suggests that influenza A infections are common among bats in the New World.[47]
+
+Paramyxoviruses[edit]
+Zoonotic[edit]
+Paramyxoviridae is a family that includes several zoonotic viruses naturally found in bats. Two are in the genus Henipavirus—Hendra virus and Nipah virus. Hendra virus was first identified in 1994 in Hendra, Australia. Four different species of flying fox have tested positive for Hendra virus: the gray-headed flying fox, spectacled flying fox, and black flying fox.[48] Horses are the intermediate host between flying foxes and humans. Between 1994 and 2014, there were fifty-five outbreaks of Hendra virus in Australia, resulting in the death or euthanization of eighty-eight horses. Seven humans are known to have been infected by Hendra virus, with four fatalities.[49] Six of the seven infected humans were directly exposed to the blood or other fluids of sick or dead horses (three were veterinarians), while the seventh case was a veterinary nurse who had recently irrigated the nasal cavity of a horse not yet exhibiting symptoms. It is unclear how horses become infected with Hendra virus, though it is believed to occur following direct exposure to flying fox fluids. There is also evidence of horse-to-horse transmission. In late 2012, a vaccine was released to prevent infection in horses.[48] Vaccine uptake has been low, with an estimated 11–17% of Australian horses vaccinated by 2017.[50]
+
+The first human outbreak of Nipah virus was in 1998 in Malaysia.[49] It was determined that flying foxes were also the reservoir of the virus, with domestic pigs as the intermediate host between bats and humans. Outbreaks have also occurred in Bangladesh, India, Singapore, and the Philippines. In Bangladesh, the primary mode of transmission of Nipah virus to humans is through the consumption of date palm sap. Pots set out to collect the sap are contaminated with flying fox urine and feces, and the bats also lick the sap streams flowing into the pots. It has been speculated that the virus may also be transmitted to humans by eating fruit partially consumed by flying foxes, or by coming into contact with their urine, though no definitive evidence supports this.[51]
+
+An additional zoonotic paramyxovirus that bats harbor is Menangle virus, which was first identified at a hog farm in New South Wales, Australia. Flying foxes were once again identified as the natural reservoirs of the virus, with the black, spectacled, and gray-headed seropositive for the virus. Two employees of the hog farm became sick with flu-like illnesses, later shown to be a result of the virus.[49] Sosuga pararubulavirus is known to have infected one person—an American wildlife biologist who had conducted bat and rodent research in Uganda.[49] The Egyptian fruit bat later tested positive for the virus, indicating that it is potentially a natural reservoir.[52]
+
+Other[edit]
+Bats host several paramyxoviruses that are not known to affect humans. Bats are the reservoir of Cedar virus, a paramyxovirus first discovered in flying foxes South East Queensland.[49] The zoonotic potential of Cedar virus is unknown.[53] In Brazil in 1979, Mapuera virus was isolated from the saliva of the little yellow-shouldered bat. Mapuera virus has never been associated with disease in other animals or humans, but experimental exposure of mice to the virus resulted in fatality.[49] Tioman virus has been isolated from the urine of the small flying fox, which causes fever in some domestic pigs after exposure, but no other symptoms. Tukoko virus has been detected from Leschenault's rousette in China.[49] Bats have been suggested as the host of Porcine orthorubulavirus, though definitive evidence has not been collected.[49]
+
+Reoviruses[edit]
+Zoonotic[edit]
+While many reoviruses are not associated with illness in humans, the rotaviruses are highly virulent, causing diarrheal infections that kill hundreds of thousands of children each year in developing countries.[54] Some disease-causing reovirus species are associated with bats. One such virus is Melaka virus, which was linked to illness in a Malaysian man and his two children in 2006.[54][55] The man said that a bat had been in his home a week before he became ill, and the virus was closely related to other reoviruses linked to bats. Kampar virus was identified a few months later in another Malaysian man. Though he had no known contact with bats, Kampar virus is closely related to Melaka virus. Several other reovirus strains identified in ill humans are known as Miyazaki‐Bali/2007, Sikamat virus, and SI‐MRV01. No reoviruses linked to bats have caused death in humans.[54]
+
+Other[edit]
+Reoviruses include many viruses that do not cause disease in humans, including several found in bats. One reovirus species associated with bats is Nelson Bay orthoreovirus, sometimes called Pteropine orthoreovirus (PRV), which is an orthoreovirus; several virus strains of it have been identified in bats. The type species of Nelson Bay orthoreovirus is Nelson Bay virus (NBV), which was first identified in 1970 from the blood of a gray-headed flying fox in New South Wales, Australia. NBV was the first reovirus to be isolated from a bat species. Another Nelson Bay orthoreovirus associated with bats is Pulau virus, which was first identified from the small flying fox of Tioman Island in 2006. Other viruses include Broome virus from the little red flying fox of Broome, Western Australia; Xi River virus from Leschenault's rousette in Guangdong, China; and Cangyuan  virus also from Leschenault's rousette.[54]
+Several mammalian orthoreoviruses are associated with bats, including at least three from Germany and 19 from Italy. These were found in pipistrelles, the brown long-eared bat, and the whiskered bat.[54]
+
+Orbiviruses have been isolated from bats, including Ife virus from the straw-colored fruit bat, Japanaut  virus from the common blossom bat, and Fomédé  virus from Nycteris species.[54]
+
+Retroviruses[edit]
+Bats can be infected with retroviruses, including the gammaretrovirus found in horseshoe bats, Leschenault's rousette, and the greater false vampire bat. Several bat retroviruses have been identified that are similar to reticuloendotheliosis viruses found in birds. These retroviruses were found in mouse-eared bats, horseshoe bats, and flying foxes. The discovery of varied and distinct gammaretroviruses in bat genomes indicates that bats likely played important roles in their diversification. Bats also an extensive number of betaretroviruses, including within mouse-eared bats, horseshoe bats, and flying foxes. Bat betaretroviruses span the entire breadth of betaretrovirus diversity, similar to those of rodents, which may indicate that bats and rodents were primary reservoirs of the viruses. Betaretroviruses have infected bats for a majority of bat evolutionary history, since at least 36 million years ago.[56] Hepadnaviruses are also known to affect bats, with the tent-making bat, Noack's roundleaf bat, and the halcyon horseshoe bat known to harbor several. The hepadnovirus found in the tent-making bat, which is a New World species, was the closest relative of human hepadnoviruses.[56]
+
+Togaviruses[edit]
+Togaviruses include alphaviruses, which have been detected in bats. Alphaviruses cause encephalitis in humans. Alphaviruses that have been detected in bats include Venezuelan equine encephalitis virus, eastern equine encephalitis virus, and western equine encephalitis virus. Sindbis virus has been detected from horseshoe bats and roundleaf bats. Chikungunya virus has been isolated from Leschenault's rousette, the Egyptian fruit bat, Sundevall's roundleaf bat, the little free-tailed bat, and Scotophilus species.[47]
+
+See also[edit]
+
+Viruses portal
+Histoplasmosis
+References[edit]
+External links[edit]
+New York Dept. of Health: Bats and Rabies
+Centers for Disease Control and Prevention: Diseases spread by bats
+vte
+Arbovirus encephalitides: La Crosse encephalitis
+LACV
+Batai virus
+BATV
+Bwamba Fever
+BWAV
+California encephalitis
+CEV
+Jamestown Canyon encephalitis
+Tete virus
+Tahyna virus
+TAHV
+LACV
+BATV
+BWAV
+CEV
+TAHV
+Viral hemorrhagic fevers: Rift Valley fever
+RVFV
+Bunyamwera fever
+BUNV
+Ngari virus
+NRIV
+RVFV
+BUNV
+NRIV
+Arbovirus encephalitides: Japanese encephalitis
+JEV
+Australian encephalitis
+MVEV
+KUNV
+Saint Louis encephalitis
+SLEV
+Usutu virus
+West Nile fever
+WNV
+JEV
+MVEV
+KUNV
+SLEV
+WNV
+Viral hemorrhagic fevers: Dengue fever
+DENV-1-4
+Yellow fever
+YFV
+Zika fever
+Zika virus
+DENV-1-4
+YFV
+Zika virus
+Arbovirus encephalitides: Eastern equine encephalomyelitis
+EEEV
+Western equine encephalomyelitis
+WEEV
+Venezuelan equine encephalomyelitis
+VEEV
+Chikungunya
+CHIKV
+O'nyong'nyong fever
+ONNV
+Pogosta disease
+Sindbis virus
+Ross River fever
+RRV
+Semliki Forest virus
+EEEV
+WEEV
+VEEV
+CHIKV
+ONNV
+Sindbis virus
+RRV
+Banna virus encephalitis
+Viral hemorrhagic fevers: Bhanja virus
+Crimean–Congo hemorrhagic fever (CCHFV)
+Heartland virus
+Severe fever with thrombocytopenia syndrome (Huaiyangshan banyangvirus)
+Tete virus
+Arbovirus encephalitides: Tick-borne encephalitis
+TBEV
+Powassan encephalitis
+POWV
+Viral hemorrhagic fevers: Omsk hemorrhagic fever
+OHFV
+Kyasanur Forest disease
+KFDV
+AHFV
+Langat virus
+LGTV
+TBEV
+POWV
+OHFV
+KFDV
+AHFV
+LGTV
+Bourbon virus
+Colorado tick fever
+CTFV
+Kemerovo tickborne viral fever
+CTFV
+Adria virus (ADRV)
+Oropouche fever
+Oropouche virus
+Pappataci fever
+Toscana virus
+Sandfly fever Naples virus
+Oropouche virus
+Toscana virus
+Chandipura virus
+Viral hemorrhagic fevers: Lassa fever
+LASV
+Venezuelan hemorrhagic fever
+GTOV
+Argentine hemorrhagic fever
+JUNV
+Brazilian hemorrhagic fever
+SABV
+Bolivian hemorrhagic fever
+MACV
+LUJV
+CHPV
+LASV
+GTOV
+JUNV
+SABV
+MACV
+Hemorrhagic fever with renal syndrome
+DOBV
+HTNV
+PUUV
+SEOV
+AMRV
+Hantavirus pulmonary syndrome
+ANDV
+SNV
+DOBV
+HTNV
+PUUV
+SEOV
+AMRV
+ANDV
+SNV
+Murid gammaherpesvirus 4
+BDBV
+SUDV
+TAFV
+Marburg virus disease
+MARV
+RAVV
+Rabies
+ABLV
+MOKV
+DUVV
+LBV
+CHPV
+ABLV
+MOKV
+DUVV
+LBV
+Henipavirus encephalitis
+HeV
+NiV
+HeV
+NiV
+Macacine alphaherpesvirus 1
+Simian foamy virus
+HTLV-1
+HTLV-2
+Tanapox
+Yaba monkey tumor virus
+Rabies
+RABV
+Mokola virus
+RABV
+Monkeypox
+

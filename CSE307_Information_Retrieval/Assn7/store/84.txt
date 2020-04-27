@@ -1,0 +1,54 @@
+Title : Strain (biology)
+
+In biology, a strain is a genetic variant, a subtype or a culture within a biological species. Strains are often seen as inherently artificial concepts, characterized by a specific intent for genetic isolation.[1] This is most easily observed in microbiology where strains are derived from a single cell colony and are typically quarantined by the physical constraints of a Petri dish. Strains are also commonly referred to within virology, botany, and with rodents used in experimental studies.
+
+Contents
+
+1 Microbiology or virology
+
+1.1 Strain constructs
+
+
+2 Plants
+3 Rodents
+4 Insects
+5 See also
+6 References
+7 External links
+
+
+1.1 Strain constructs
+
+Microbiology or virology[edit]
+A strain is a genetic variant or subtype of a microorganism (e.g., virus or bacterium or fungus). For example, a "flu strain" is a certain biological form of the influenza or "flu" virus. These flu strains are characterized by their differing isoforms of surface proteins. New viral strains can be created due to mutation or swapping of genetic components when two or more viruses infect the same cell in nature.[2] These phenomena are known respectively as antigenic drift and antigenic shift. Microbial strains can also be differentiated by their genetic makeup using metagenomic methods to maximize resolution within species.[3] This has become a valuable tool to analyze the microbiome.
+
+Strain constructs[edit]
+Scientists have modified flu virus strains pandemic in humans in order to study their behavior. Funding for this research has been controversial as a result of safety concerns, and has been halted at times. However, this research continues today.[4][5]
+
+In biotechnology, microbial strains have been constructed to establish metabolic pathways suitable for treating a variety of applications.[6] Historically, a major effort of metabolic research has been devoted to the field of biofuel production.[7] Optimized strains of E. coli are typically used for this application. E. coli are also often used as a chassis for the expression of simple proteins. These strains, such as BL21, are genetically modified to minimize protease activity, hence enabling potential for high efficiency industrial scale protein production.[8] In the case of complex proteins including biologics, mammalian strains such as Chinese hamster ovary cell are used.
+
+Yeasts are the most common subjects of eukaryotic genetic modification, especially with respect to industrial fermentation.[9]
+
+E. coli is most common species for prokaryotic strain engineering. Scientists have succeeded in establishing viable minimal genomes from which new strains can be developed.[10] These minimal strains provide a near guarantee that experiments on genes outside the minimal framework will not be effected by non-essential pathways.
+
+Plants[edit]
+The term has no official ranking status in botany; the term refers to the collective descendants produced from a common ancestor that share a uniform morphological or physiological character.[11] A strain is a designated group of offspring that are either descended from a modified plant (produced by conventional breeding or by biotechnological means), or which result from genetic mutation.
+
+As an example, some rice strains are made by inserting new genetic material into a rice plant,[12] all the descendants of the genetically modified rice plant are a strain with unique genetic information that is passed on to later generations; the strain designation, which is normally a number or a formal name, covers all the plants that descend from the originally modified plant. The rice plants in the strain can be bred to other rice strains or cultivars, and if desirable plants are produced, these are further bred to stabilize the desirable traits; the stabilized plants that can be propagated and "come true" (remain identical to the parent plant) are given a cultivar name and released into production to be used by farmers.
+
+Rodents[edit]
+A laboratory mouse or rat strain is a group of animals that is genetically uniform. Strains are used in laboratory experiments. Mouse strains can be inbred, mutated, or genetically modified, while rat strains are usually inbred. A given inbred rodent population is considered genetically identical after 20 generations of sibling-mating. Many rodent strains have been developed for a variety of disease models, and they are also often used to test drug toxicity.[13][14][15]
+
+Insects[edit]
+The common fruit fly (Drosophila melanogaster) was among the first organisms used for genetic analysis, has a simple genome, and is very well understood. It has remained a popular model organism for many other reasons, like the ease of its breeding and maintenance, and the speed and volume of its reproduction. Various specific strains have been developed, including a flightless version with stunted wings (also used in the pet trade as live food for small reptiles and amphibians).
+
+See also[edit]
+Genetic isolate
+Clone (cell biology)
+Race (biology)
+References[edit]
+External links[edit]
+Coli Genetic Stock Center
+EcoliWiki E. coli strain index
+International Mouse Strain Resource (IMSR)
+Rat strain index

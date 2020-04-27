@@ -1,0 +1,133 @@
+Title : Natural reservoir
+
+In infectious disease ecology and epidemiology, a natural reservoir, also known as a disease reservoir or a reservoir of infection, is the population of organisms or the specific environment in which an infectious pathogen naturally lives and reproduces, or upon which the pathogen primarily depends for its survival. A reservoir is usually a living host of a certain species, such as an animal or a plant, inside of which a pathogen survives, often (though not always) without causing disease for the reservoir itself. By some definitions a reservoir may also be an environment external to an organism, such as a volume of contaminated air or water.[1][2]
+
+Because of the enormous variety of infectious microorganisms capable of causing disease, precise definitions for what constitutes a natural reservoir are numerous, various, and often conflicting. The reservoir concept applies only for pathogens capable of infecting more than one host population and only with respect to a defined target population – the population of organisms in which the pathogen causes disease. The reservoir is any population of organisms (or any environment) which harbors the pathogen and transmits it to the target population. Reservoirs may comprise one or more different species, may be the same or a different species as the target, and, in the broadest sense, may include vector species,[2] which are otherwise distinct from natural reservoirs. Significantly, species considered reservoirs for a given pathogen may not experience symptoms of disease when infected by the pathogen.
+
+Identifying the natural reservoirs of infectious pathogens has proven useful in treating and preventing large outbreaks of disease in humans and domestic animals, especially those diseases for which no vaccine exists. In principle, zoonotic diseases can be controlled by isolating or destroying the pathogen's reservoirs of infection. The mass culling of animals confirmed or suspected as reservoirs for human pathogens, such as birds that harbor avian influenza, has been effective at containing possible epidemics in many parts of the world; for other pathogens, such as the ebolaviruses, the identity of the presumed natural reservoir remains obscure.
+
+Contents
+
+1 Definition and terminology
+2 Types of reservoirs
+
+2.1 Human reservoirs
+2.2 Animal reservoirs
+
+2.2.1 Common animal reservoirs
+
+2.2.1.1 Bats
+2.2.1.2 Rats
+2.2.1.3 Mice
+2.2.1.4 Monkeys
+
+
+
+
+2.3 Environmental reservoirs
+
+
+3 Disease transmission
+
+3.1 Direct transmission
+3.2 Indirect transmission
+
+
+4 Implications for public health
+5 See also
+6 References
+
+
+2.1 Human reservoirs
+2.2 Animal reservoirs
+
+2.2.1 Common animal reservoirs
+
+2.2.1.1 Bats
+2.2.1.2 Rats
+2.2.1.3 Mice
+2.2.1.4 Monkeys
+
+
+
+
+2.3 Environmental reservoirs
+
+
+2.2.1 Common animal reservoirs
+
+2.2.1.1 Bats
+2.2.1.2 Rats
+2.2.1.3 Mice
+2.2.1.4 Monkeys
+
+
+
+
+2.2.1.1 Bats
+2.2.1.2 Rats
+2.2.1.3 Mice
+2.2.1.4 Monkeys
+
+
+3.1 Direct transmission
+3.2 Indirect transmission
+
+Definition and terminology[edit]
+The great diversity of infectious pathogens, their possible hosts, and the ways in which their hosts respond to infection has resulted in multiple definitions for "natural reservoir", many of which are conflicting or incomplete. In a 2002 conceptual exploration published in the CDC's Emerging Infectious Diseases, the natural reservoir of a given pathogen is defined as "one or more epidemiologically connected populations or environments in which the pathogen can be permanently maintained and from which infection is transmitted to the defined target population."[2] The target population is the population or species in which the pathogen causes disease; it is the population of interest because it suffers from disease when infected by the pathogen (for example, humans are the target population in most medical epidemiological studies).[3]
+
+A common criterion in other definitions distinguishes reservoirs from non-reservoirs by the degree to which the infected host shows symptoms of disease. By these definitions, a reservoir is a host that does not experience the symptoms of  disease when infected by the pathogen, whereas non-reservoirs show symptoms of the disease.[4] The pathogen still feeds, grows, and reproduces inside a reservoir host, but otherwise does not significantly affect its health; the relationship between pathogen and reservoir is more or less commensal, whereas in susceptible hosts that do suffer disease caused by the pathogen, the pathogen is considered parasitic.
+
+What further defines a reservoir for a specific pathogen is where it can be maintained and from where it can be transmitted. A "multi-host" organism is capable of having more than one natural reservoir.
+
+Types of reservoirs[edit]
+Natural reservoirs can be divided into three main types: human, animal (non-human), and environmental.[1]
+
+Human reservoirs[edit]
+Human reservoirs are human beings infected by pathogens that exist on or within the human body.[1] Poliomyelitis and smallpox exist exclusively within a human reservoir.[5] Humans can act as reservoirs for sexually transmitted diseases, measles, mumps, streptococcal infection, various respiratory pathogens, and the smallpox virus.[1]
+
+Animal reservoirs[edit]
+Animal (non-human) reservoirs consist of domesticated and wild animals infected by pathogens.[1][2] For example, the bacterium Vibrio cholerae, which causes cholera in humans, has natural reservoirs in copepods, zooplankton, and shellfish. Parasitic blood-flukes of the genus Schistosoma, responsible for schistosomiasis, spend part of their lives inside freshwater snails before completing their life cycles in vertebrate hosts.[7] Viruses of the taxon Ebolavirus, which causes Ebola virus disease, are thought to have a natural reservoir in bats or other animals exposed to the virus.[8] Other zoonotic diseases that have been transmitted from animals to humans include: rabies, blastomycosis, psittacosis, trichinosis, cat-scratch disease, histoplasmosis, coccidiomycosis and  salmonella.[9]
+
+Common animal reservoirs include: bats, rodents, cows, pigs, sheep, swine, rabbits, raccoons, dogs, other mammals.[1]
+
+Common animal reservoirs[edit]
+Numerous zoonotic diseases have been traced back to bats.[10] There are a couple theories that serve as possible explanations as to why bats carry so many viruses. One proposed theory is that there exist so many bat-borne illnesses because there exist a large amount of bat species and individuals. The second possibility is that something about bats' physiology make them especially good reservoir hosts.[10] Perhaps bats' "food choices, population structure, ability to fly, seasonal migration and daily movement patterns, torpor and hibernation, life span, and roosting behaviors" are responsible for making them especially suitable reservoir hosts.[11] Lyssaviruses (including the Rabies virus), Henipaviruses, Menangle and Tioman viruses, SARS-CoV-Like Viruses, and Ebola viruses have all been traced back to different species of bats.[11] Fruit bats in particular serve as the reservoir host for Nipah virus (NiV).[12]
+
+Rats are known to be the reservoir hosts for a number of zoonotic diseases. Norway rats were found to be infested with the  Lyme disease spirochetes.[13] In Mexico, rats are known carriers of Trypanosoma cruzi, which causes Chagas disease.[14]
+
+White-footed mice (Peromyscus leucopus) are one of the most important animal reservoirs for the Lyme disease spirochete (Borrelia burgdorferi).[15] Deer mice serve as reservoir hosts for Sin Nombre virus, which causes Hantavirus Pulmonary Syndrome (HPS).[16]
+
+The Zika virus originated from monkeys in Africa. In São José do Rio Preto and Belo Horizonte, Brazil the zika virus has been found in dead monkeys. Genome sequencing  has revealed the virus to be very similar to the type that infects humans.[17]
+
+Environmental reservoirs[edit]
+Environmental reservoirs include living and non-living reservoirs that harbor infectious pathogens outside the bodies of animals. These reservoirs may exist on land (plants and soil), in water, or in the air.[1] Pathogens found in these reservoirs are sometimes free-living. The bacteria Legionella pneumophila, a facultative intracellular parasite which causes Legionnaires' disease, and Vibrio cholerae, which causes cholera, can both exist as free-living parasites in certain water sources as well as in invertebrate animal hosts.[1][18]
+
+Disease transmission[edit]
+A disease reservoir acts as a transmission point between a pathogen and a susceptible host.[1] Transmission can occur directly or indirectly.
+
+Direct transmission[edit]
+Direct transmission can occur from direct contact or direct droplet spread. Direct contact transmission between two people can happen through skin contact, kissing, and sexual contact. Humans serving as disease reservoirs can be symptomatic (showing illness) or asymptomatic (not showing illness), act as disease carriers, and often spread illness unknowingly. Human carriers commonly transmit disease because they do not realize they are infected, and consequently take no special precautions to prevent transmission. Symptomatic persons who are aware of their illness are not as likely to transmit infection because they take precautions to reduce possible transmission of the disease and/or seek out treatment to prevent the spread of the disease.[1] Direct droplet spread is due to solid particles or liquid droplet suspended in air for some time. Droplet spread is considered the transmission of the pathogen to susceptible host within a meter of distance, they can spread from coughing, sneezing, and talking.
+
+Neisseria gonorrhoeae (Gonorrhea) is transmitted by sexual contact involving the penis, vagina, mouth, and anus through direct contact transmission.
+Bordetella pertussis (Pertussis) is transmitted by cough from human reservoir to susceptible host through direct droplet spread.
+
+Indirect transmission[edit]
+Indirect transmission can occur by airborne transmission, by vehicles (including fomites), and by vectors.
+
+Airborne transmission is different from direct droplet spread as it is defined as disease transmission that takes place over a distance larger than a meter. Pathogens that can be transmitted through airborne sources are carried by particles such as dust or dried residue (referred to as droplet nuclei).
+
+Vehicles such as food, water, blood and fomites can act as passive transmission points between reservoirs and susceptible hosts. Fomites are inanimate objects (doorknobs, medical equipment, etc.) that become contaminated by a reservoir source or someone/something that is a carrier. A vehicle, like a reservoir, may also be a favorable environment for the growth of an infectious agent, as coming into contact with a vehicle leads to its transmission.
+
+Vector transmission occurs most often from insect bites from mosquitoes, flies, fleas, and ticks. There are two sub-categories of vectors: mechanical (an insect transmits the pathogen to a host without the insect itself being affected) and biological (reproduction of the pathogen occurs within the vector before the pathogen is transmitted to a host). To give a few examples, Morbillivirus (measles) is transmitted from an infected human host to a susceptible host as they are transmitted by respiration through airborne transmission. Campylobacter (campylobacteriosis) is a common bacterial infection that is spread from human or non-human reservoirs by vehicles such as contaminated food and water. Plasmodium falciparum (malaria) can be transmitted from an infected mosquito, an animal (non-human) reservoir, to human host by biological vector transmission.
+
+Implications for public health[edit]
+LH Taylor found that 61% of all human pathogens are classified as zoonotic.[19] Thus, the identification of the natural reservoirs of pathogens prior to zoonosis would be incredibly useful from a public health standpoint. Preventive measures can be taken to lessen the frequency of outbreaks, such as vaccinating the animal sources of disease or preventing contact with reservoir host animals.[20]  In an effort to predict and prevent future outbreaks of zoonotic diseases, the U.S. Agency for International Development started the Emerging Pandemic Threats initiative in 2009. In alliance with University of California-Davis, EcoHealth Alliance, Metabiota Inc., Smithsonian Institution, and Wildlife Conservation Society with support from Columbia and Harvard universities, the members of the PREDICT project are focusing on the "detection and discovery of zoonotic diseases at the wildlife-human interface."[21] There are numerous other organizations around the world experimenting with different methods to predict and identify reservoir hosts. Researchers at the University of Glasgow created a machine learning algorithm that is designed to use "viral genome sequences to predict the likely natural host for a broad spectrum of RNA viruses, the viral group that most often jumps from animals to humans."[20]
+
+See also[edit]
+Fomite
+Host (biology)
+Refuge (ecology)
+Vector (epidemiology)
+Zoonosis
+References[edit]

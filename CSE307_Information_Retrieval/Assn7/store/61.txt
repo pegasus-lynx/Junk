@@ -1,0 +1,61 @@
+Title : Multiplier algebra
+
+In mathematics, the multiplier algebra, denoted by M(A), of a C*-algebra A is a unital C*-algebra which is the largest unital C*-algebra that contains A as an ideal in a "non-degenerate" way. It is the noncommutative generalization of Stone–Čech compactification. Multiplier algebras were introduced by Busby (1968).
+
+For example, if A is the C*-algebra of compact operators on a separable Hilbert space, M(A) is B(H), the C*-algebra of all bounded operators on H.
+
+Contents
+
+1 Definition
+2 Strict topology
+3 Commutative case
+4 Corona algebra
+5 References
+
+Definition[edit]
+An ideal I in a C*-algebra B is said to be essential if I ∩ J is non-trivial for all ideal J. An ideal I is  essential if and only if I⊥, the "orthogonal complement" of I in the Hilbert C*-module B is {0}.
+
+Let A be a C*-algebra. Its multiplier algebra M(A) is any C*-algebra satisfying the following universal property: for all C*-algebra D containing A as an ideal, there exists a unique *-homomorphism φ: D → M(A) such that φ extends the identity homomorphism on A and φ(A⊥) = {0}.
+
+Uniqueness up to isomorphism is specified by the universal property. When A is unital, M(A) = A. It also follows from the definition that for any D containing A as an essential ideal, the multiplier algebra M(A) contains D as a C*-subalgebra.
+
+The existence of M(A) can be shown in several ways.
+
+A double centralizer of a C*-algebra A is a pair (L, R) of bounded linear maps on A such that aL(b) = R(a)b for all a and b in A. This implies that ||L|| = ||R||. The set of double centralizers of A can be given a C*-algebra structure. This C*-algebra contains A as an essential ideal and can be identified as the multiplier algebra M(A). For instance, if A is the compact operators K(H) on a separable Hilbert space, then each x ∈ B(H) defines a double centralizer of A by simply multiplication from the left and right.
+
+Alternatively, M(A) can be obtained via representations. The following fact will be needed:
+
+Lemma. If I is an ideal in a C*-algebra B, then any faithful nondegenerate representation π of I can be extended uniquely to B.
+
+Now take any faithful nondegenerate representation π of A on a Hilbert space H. The above lemma, together with the universal property of the multiplier algebra, yields that M(A) is isomorphic to the idealizer of π(A) in B(H). It is immediate that M(K(H)) = B(H).
+
+Lastly, let E be a Hilbert C*-module and B(E) (resp. K(E)) be the adjointable (resp. compact) operators on E M(A) can be identified via a *-homomorphism of A into B(E). Something similar to the above lemma is true:
+
+Lemma. If I is an ideal in a C*-algebra B, then any faithful nondegenerate *-homomorphism π of I into  B(E)can be extended uniquely to B.
+
+Consequently, if π is a faithful nondegenerate *-homomorphism of A into B(E), then M(A) is isomorphic to the idealizer of π(A). For instance, M(K(E)) = B(E) for any Hilbert module E.
+
+The C*-algebra A is isomorphic to the compact operators on the Hilbert module A. Therefore, M(A) is the adjointable operators on A.
+
+Strict topology[edit]
+Consider the topology on M(A) specified by the seminorms {la, ra}a ∈ A, where
+
+The resulting topology is called the strict topology on M(A). A is strictly dense in M(A) .
+
+When A is unital, M(A) = A, and the strict topology coincides with the norm topology. For B(H) = M(K(H)), the strict topology is the σ-strong* topology. It follows from above that B(H) is complete in the σ-strong* topology.
+
+Commutative case[edit]
+Let X be a locally compact Hausdorff space, A = C0(X), the commutative C*-algebra of continuous functions that vanish at infinity. Then M(A) is Cb(X), the continuous bounded functions on X. By the Gelfand-Naimark theorem, one has the isomorphism of C*-algebras
+
+where Y is the spectrum of Cb(X). Y is in fact homeomorphic to the Stone–Čech compactification βX of X.
+
+Corona algebra[edit]
+The corona or corona algebra of A is the quotient M(A)/A.
+For example, the corona algebra of the algebra of compact operators on a Hilbert space is the Calkin algebra.
+
+The corona algebra is a noncommutative analogue of the corona set of a topological space.
+
+References[edit]
+B. Blackadar,  K-Theory for Operator Algebras, MSRI Publications, 1986.
+Busby, Robert C. (1968), "Double centralizers and extensions of C*-algebras" (PDF), Transactions of the American Mathematical Society, 132: 79–99, doi:10.2307/1994883, ISSN 0002-9947, JSTOR 1994883, MR 0225175
+Pedersen, Gert K. (2001) [1994], "Multipliers of C*-algebras",  in Hazewinkel, Michiel (ed.), Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4

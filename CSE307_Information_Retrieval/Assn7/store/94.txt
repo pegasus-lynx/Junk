@@ -1,0 +1,115 @@
+Title : Sequence homology
+
+Sequence homology is the biological homology between DNA, RNA, or protein sequences, defined in terms of shared ancestry in the evolutionary history of life. Two segments of DNA can have shared ancestry because of three phenomena: either a speciation event (orthologs), or a duplication event (paralogs), or else a horizontal (or lateral) gene transfer event (xenologs).[1]
+
+Homology among DNA, RNA, or proteins is typically inferred from their nucleotide or amino acid sequence similarity. Significant similarity is strong evidence that two sequences are related by evolutionary changes from a common ancestral sequence. Alignments of multiple sequences are used to indicate which regions of each sequence are homologous.
+
+Contents
+
+1 Identity, similarity, and conservation
+2 Orthology
+
+2.1 Databases of orthologous genes
+
+
+3 Paralogy
+
+3.1 Regulation
+3.2 Paralogous chromosomal regions
+
+
+4 Ohnology
+5 Xenology
+6 Homoeology
+7 Gametology
+8 See also
+9 References
+
+
+2.1 Databases of orthologous genes
+
+
+3.1 Regulation
+3.2 Paralogous chromosomal regions
+
+Identity, similarity, and conservation[edit]
+The term "percent homology" is often used to mean "sequence similarity." The percentage of identical residues (percent identity) or the percentage of residues conserved with similar physicochemical properties (percent similarity), e.g. leucine and isoleucine, is usually used to "quantify the homology." Based on the definition of homology specified above this terminology is incorrect since sequence similarity is the observation, homology is the conclusion. Sequences are either homologous or not.
+
+As with morphological and anatomical structures, sequence similarity might occur because of convergent evolution, or, as with shorter sequences, by chance, meaning that they are not homologous. Homologous sequence regions are also called conserved. This is not to be confused with conservation in amino acid sequences, where the amino acid at a specific position has been substituted with a different one that has functionally equivalent physicochemical properties.
+
+Partial homology can occur where a segment of the compared sequences has a shared origin, while the rest does not. Such partial homology may result from a gene fusion event.
+
+Orthology[edit]
+Homologous sequences are orthologous if they are inferred to be descended from the same ancestral sequence separated by a speciation event: when a species diverges into two separate species, the copies of a single gene in the two resulting species are said to be orthologous. Orthologs, or orthologous genes, are genes in different species that originated by vertical descent from a single gene of the last common ancestor. The term "ortholog" was coined in 1970 by the molecular evolutionist Walter Fitch.[3]
+
+For instance, the plant Flu regulatory protein is present both in Arabidopsis (multicellular higher plant) and Chlamydomonas (single cell green algae). The Chlamydomonas version is more complex: it crosses the membrane twice rather than once, contains additional domains and undergoes alternative splicing. However it can fully substitute the much simpler Arabidopsis protein, if transferred from algae to plant genome by means of genetic engineering. Significant sequence similarity and shared functional domains indicate that these two genes are orthologous genes,[4] inherited from the shared ancestor.
+
+Orthology is strictly defined in terms of ancestry. Given that the exact ancestry of genes in different organisms is difficult to ascertain due to gene duplication and genome rearrangement events, the strongest evidence that two similar genes are orthologous is usually found by carrying out phylogenetic analysis of the gene lineage. Orthologs often, but not always, have the same function.[5]
+
+Orthologous sequences provide useful information in taxonomic classification and phylogenetic studies of organisms. The pattern of genetic divergence can be used to trace the relatedness of organisms. Two organisms that are very closely related are likely to display very similar DNA sequences between two orthologs. Conversely, an organism that is further removed evolutionarily from another organism is likely to display a greater divergence in the sequence of the orthologs being studied.[citation needed]
+
+Databases of orthologous genes[edit]
+Given their tremendous importance for biology and bioinformatics, orthologous genes have been organized in several specialized databases that provide tools to identify and analyze orthologous gene sequences. These resources employ approaches that can be generally classified into those that use heuristic analysis of all pairwise sequence comparisons, and those that use phylogenetic methods. Sequence comparison methods were first pioneered in the COGs database in 1997.[6] These methods have been extended and automated in the following databases:
+
+eggNOG[7][8]
+GreenPhylDB[9][10] for plants
+InParanoid[11][12] focuses on pairwise ortholog relationships
+OHNOLOGS[13][14] is a repository of the genes retained from whole genome duplications in the vertebrate genomes including human and mouse.
+OMA[15]
+OrthoDB[16] appreciates that the orthology concept is relative to different speciation points by providing a hierarchy of orthologs along the species tree.
+OrthoInspector[17] is a repository of orthologous genes for 4753 organisms covering the three domains of life
+OrthologID[18][19]
+OrthoMaM[20][21][22] for mammals
+OrthoMCL[23][24]
+Roundup[25]
+Tree-based phylogenetic approaches aim to distinguish speciation from gene duplication events by comparing gene trees with species trees, as implemented in databases and software tools such as:
+
+LOFT[26]
+TreeFam[27][28]
+OrthoFinder[29]
+A third category of hybrid approaches uses both heuristic and phylogenetic methods to construct clusters and determine trees, for example:
+
+EnsemblCompara GeneTrees[30][31]
+HomoloGene[32]
+Ortholuge[33]
+Paralogy[edit]
+Paralogous genes are genes that are related via duplication events in the last common ancestor (LCA) of the species being compared. They result from the mutation of duplicated genes during separate speciation events. When descendants from the LCA share mutated homologs of the original duplicated genes then those genes are considered paralogs.[1]
+
+As an example, in the LCA, one gene (gene A) may get duplicated to make a separate similar gene (gene B), those two genes will continue to get passed to subsequent generations. During speciation, one environment will favor a mutation in gene A (gene A1), producing a new species with genes A1 and B. Then in a separate speciation event, one environment will favor a mutation in gene B (gene B1) giving rise to a new species with genes A and B1. The descendants’ genes A1 and B1 are paralogous to each other because they are homologs that are related via a duplication event in the last common ancestor of the two species.[1]
+
+Additional classifications of paralogs include alloparalogs (out-paralogs) and symparalogs (in-paralogs). Alloparalogs are paralogs that evolved from gene duplications that preceded the given speciation event. In other words, alloparalogs are paralogs that evolved from duplication events that happened in the LCA of the organisms being compared. The example above is an example alloparalogy. Symparalogs are paralogs that evolved from gene duplication of paralogous genes in subsequent speciation events. From the example above, if the descendant with genes A1 and B underwent another speciation event where gene A1 duplicated, the new species would have genes B, A1a, and A1b. In this example, genes A1a and A1b are symparalogs.[1]
+
+Paralogous genes can shape the structure of whole genomes and thus explain genome evolution to a large extent. Examples include the Homeobox (Hox) genes in animals. These genes not only underwent gene duplications within chromosomes but also whole genome duplications. As a result, Hox genes in most vertebrates are clustered across multiple chromosomes with the HoxA-D clusters being the best studied.[34]
+
+Another example are the globin genes which encode myoglobin and hemoglobin and are considered to be ancient paralogs. Similarly, the four known classes of hemoglobins (hemoglobin A, hemoglobin A2, hemoglobin B, and hemoglobin F) are paralogs of each other. While each of these proteins serves the same basic function of oxygen transport, they have already diverged slightly in function: fetal hemoglobin (hemoglobin F) has a higher affinity for oxygen than adult hemoglobin. Function is not always conserved, however. Human angiogenin diverged from ribonuclease, for example, and while the two paralogs remain similar in tertiary structure, their functions within the cell are now quite different.[citation needed]
+
+It is often asserted that orthologs are more functionally similar than paralogs of similar divergence, but several papers have challenged this notion.[35][36][37]
+
+Regulation[edit]
+Paralogs are often regulated differently, e.g. by having different tissue-specific expression patterns (see Hox genes). However, they can also be regulated differently on the protein level. For instance, Bacillus subtilis encodes two paralogues of glutamate dehydrogenase: GudB is constitutively transcribed whereas RocG is tightly regulated. In their active, oligomeric states, both enzymes show similar enzymatic rates. However, swaps of enzymes and promoters cause severe fitness losses, thus indicating promoter–enzyme coevolution. Characterization of the proteins shows that, compared to RocG, GudB's enzymatic activity is highly dependent on glutamate and pH.[38]
+
+Paralogous chromosomal regions[edit]
+Sometimes, large regions of chromosomes share gene content similar to other chromosomal regions within the same genome.[39] They are well characterised in the human genome, where they have been used as evidence to support the 2R hypothesis. Sets of duplicated, triplicated and quadruplicated genes, with the related genes on different chromosomes, are deduced to be remnants from genome or chromosomal duplications. A set of paralogy regions is together called a paralogon.[40] Well-studied sets of paralogy regions include regions of human chromosome 2, 7, 12 and 17 containing Hox gene clusters, collagen genes, keratin genes and other duplicated genes,[41] regions of human chromosomes 4, 5, 8 and 10 containing neuropeptide receptor genes, NK class homeobox genes and many more gene families,[42][43][44] and parts of human chromosomes 13, 4, 5 and X containing the ParaHox genes and their neighbors.[45] The Major histocompatibility complex (MHC) on human chromosome 6 has paralogy regions on chromosomes 1, 9 and 19.[46] Much of the human genome seems to be assignable to paralogy regions.[47]
+
+Ohnology[edit]
+Ohnologous genes are paralogous genes that have originated by a process of 2R whole-genome duplication. The name was first given in honour of Susumu Ohno by Ken Wolfe.[48] Ohnologues are useful for evolutionary analysis because all ohnologues in a genome have been diverging for the same length of time (since their common origin in the whole genome duplication). Ohnologues are also known to show greater association with cancers, dominant genetic disorders, and pathogenic copy number variations.[49][50][51][52][53]
+
+Xenology[edit]
+Homologs resulting from horizontal gene transfer between two organisms are termed xenologs. Xenologs can have different functions if the new environment is vastly different for the horizontally moving gene. In general, though, xenologs typically have similar function in both organisms. The term was coined by Walter Fitch.[3]
+
+Homoeology[edit]
+Homoeologous (also spelled homeologous) chromosomes or parts of chromosomes are those brought together following inter-species hybridization and allopolyploidization to form a hybrid genome, and whose relationship was completely homologous in an ancestral species. In allopolyploids, the homologous chromosomes within each parental sub-genome should pair faithfully during meiosis, leading to disomic inheritance; however in some allopolyploids, the homoeologous chromosomes of the parental genomes may be nearly as similar to one another as the homologous chromosomes, leading to tetrasomic inheritance (four chromosomes pairing at meiosis), intergenomic recombination, and reduced fertility.[citation needed]
+
+Gametology[edit]
+Gametology denotes the relationship between homologous genes on non-recombining, opposite sex chromosomes. The term was coined by García-Moreno and Mindell.[54] 2000. Gametologs result from the origination of genetic sex determination and barriers to recombination between sex chromosomes. Examples of gametologs include CHDW and CHDZ in birds.[54]
+
+See also[edit]
+Deep homology
+EggNOG (database)
+OrthoDB
+Orthologous MAtrix (OMA)
+Protein family
+Protein superfamily
+TreeFam
+Syntelog
+References[edit]

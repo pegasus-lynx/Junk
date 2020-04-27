@@ -1,0 +1,420 @@
+Title : Xbox 360 technical specifications
+
+The Xbox 360 technical specifications describe the various components of the Xbox 360 video game console. The console features a port on the top when vertical (left side when horizontal) to which a custom-housed hard disk drive unit can be attached in sizes of either 20, 60, 120, 250, 320, 500 GB[1]; and as of April 2015 all 2.5" SATA Hard Drives up to 2 TB[2][3], the user can use the format option from system settings to utilize the new HDD. Inside, the Xbox 360 uses the triple-core IBM designed Xenon as its CPU, with each core capable of simultaneously processing two threads, and can therefore operate on up to six threads at once.[4] Graphics processing is handled by the ATI Xenos, which has 10 MB of eDRAM.[5][6][7] Its main memory pool is 512 MB[8] in size.
+
+Contents
+
+1 Central processing unit
+2 CPU data streaming
+3 Graphics processing unit
+4 Memory and system bandwidth
+5 Audio and video
+6 DVD storage
+
+6.1 List of DVD drives
+
+
+7 Hard drive storage
+8 Networking
+9 Motherboards
+
+9.1 List of revisions
+
+
+10 Connectivity to accessories
+11 Physical appearance
+
+11.1 Power supply
+
+
+12 See also
+13 Notes
+14 References
+15 External links
+
+
+6.1 List of DVD drives
+
+
+9.1 List of revisions
+
+
+11.1 Power supply
+
+Central processing unit[edit]
+The Xbox 360 took a different approach to hardware compared to its predecessor. The XCPU, named Xenon at Microsoft and "Waternoose" at IBM, is a custom triple-core 64-bit PowerPC-based design by IBM. The CPU emphasized high floating point performance through multiple FPU and SIMD vector processors in each core.
+The SIMD vector processor (VMX128) was modified for the Xbox to include a dot-product instruction. The dot-product instruction took far less latency than discrete instructions. The VMX128 was also modified by the addition of direct 3D (D3D) compressed data format. This led to an approximate 50 percent savings in required band-width and memory footprint making the CPU having a theoretical peak performance of 115.2 GFLOPS, being capable of 9.6 billion dot products per second. Each core of the CPU was capable of simultaneous multithreading and was clocked at 3.2 GHz. However, to reduce CPU die size, complexity, cost, and power demands, the processor used in-order execution in contrast to the Intel Coppermine 128-based Pentium III used in the original Xbox, which used more complex out-of-order execution. The original chip used a 90 nm process, although a newer 65 nm process SOI revision was implemented on later models, which was in-turn superseded by a 45 nm combined CPU and GPU chip. A 21.6 GB/s front side bus, aggregated 10.8 GB/s upstream and downstream, connected Xenon with the graphics processor/northbridge. Xenon was equipped with an 8th way set associative 1 MB Level 2 cache on-die running at half CPU clock speed. This cache was shared amongst the three CPU cores.[9] Each core had separate L1 caches, each containing a two-way set associative 32-Kbyte L1 instruction cache and a four-way set associative 32-Kbyte L1 data cache. The write-through data cache did not allocate cache lines on writes. The CPU also contained ROM storing Microsoft private encrypted keys, used to decrypt game data. The heat sink implemented to cool the Xenon CPU was composed of aluminum fins with a copper base, and a heat pipe. Newer revisions, which had a smaller core, do not feature the heat pipe or copper base. The heat sink was cooled by two 70 mm fans at the rear of the console on original-style consoles, while a single fan mounted on the side of the consoles was used in Xbox 360 S consoles. There were several types of fan used in Xbox 360s, which were produced by Nidec, Sunon and Delta Electronics.
+
+CPU data streaming[edit]
+During read streaming into the CPU, a custom prefetch instruction, extended data cache block touch (xDCBT) prefetches data directly to the L1 data cache of the intended core, which skips putting the data in the L2 cache to avoid thrashing the L2 cache. Writes streaming from each core skip the L1 cache, due to its no-write allocation (avoids thrashing of high-bandwidth, transient, write-only data streams on the L1 cache), and goes directly to the L2 cache.
+The system allows for the GPU to directly read data produced by the CPU without going to main memory. In this specific case of data streaming, called Xbox procedural synthesis (XPS), the CPU is effectively a data decompressor, generating geometry on-the-fly for consumption by the GPU 3D core.[10]
+
+Graphics processing unit[edit]
+While the first Xbox's graphics processing unit was produced by Nvidia, the Xbox 360 had a chip designed by ATI called Xenos. The chip was developed under the name "C1" and "R500" was often used to refer to it.[11] The GPU package contains two separate silicon dies, each built on a 90 nm process with a clock speed of 500 MHz; the GPU proper, manufactured by TSMC and a 10 MB eDRAM daughter-die, manufactured by NEC. Thanks to the daughter die, the Xenos can do 4× MSAA, z-buffering, and alpha blending with no appreciable performance penalty on the GPU.[12] The GPU also houses additional capabilities typically separated into a motherboard chipset in PC systems, effectively replacing the northbridge chip. It has a theoretical peak of 240 GFLOPS. Due to the GPU frequently overheating in early motherboard models, Microsoft revised the GPU heat sink in order to eliminate thermal throttling.
+
+Memory and system bandwidth[edit]
+The console features 512 MB of GDDR3 RAM clocked at 700 MHz with an effective transmission rate of 1.4 GHz on a 128-bit bus. The memory is shared by the CPU and the GPU via the unified memory architecture. This memory is produced by either Samsung or Qimonda.
+
+According to Mark Rein of Epic Games, Microsoft had originally planned on using only 256 MB of RAM, but the decision to increase it was based on Epic's upcoming Gears of War title. Epic had been arguing for Microsoft to increase the memory for some time, and Tim Sweeney had sent Microsoft screenshots of what Gears would look like at 256 MB, and then at their proposed 512 MB. Shortly thereafter, Epic was the first studio told of new 512 MB size specification and claimed it cost them a billion dollars but felt it was better for gamers.[13]
+
+
+The Xbox 360 has an extensive amount of bandwidth in comparison to its competition;[14] however, this statistic includes the eDRAM logic to memory bandwidth, and not internal CPU bandwidths. The eDRAM internal logic to its internal memory bandwidth is 256 GB/s. The high bandwidth is used primarily for z-buffering, alpha blending, and antialiasing; it saves time and space on the GPU die. Between the eDRAM die and the GPU, data is transferred at 32 GB/s.[15] The memory interface bus has a bandwidth of 22.40 GB/s and the Southbridge a bandwidth of 0.5 GB/s.
+Audio and video[edit]
+All games made for the Xbox 360 are required to support at least Dolby Digital 5.1 surround sound. The console works with over 256 audio channels and 320 independent decompression channels using 32-bit processing for audio, with support for 48 kHz 16-bit sound. Sound files for games are encoded using Microsoft's XMA audio format. An MPEG-2 decoder is included for DVD video playback. VC-1 or WMV is used for streaming video and other video is compressed using VC-1 at non-HD NTSC and PAL resolutions or WMV HD. The Xbox 360 also supports H.263 and H.264 MPEG-4 videos. Unlike the original Xbox, voice communication is handled by the console, not by the game code, allowing for cross-game communication. There is no voice echo to game players on the same console; voice only goes to remote consoles.
+
+Initially there were no digital video outputs such as DVI or HDMI on the Xbox 360; instead, HD-quality output could only be produced over YPBPR component video (used by both the 3 RCA component cable and the Japanese D-terminal cable) and later VGA (via a software update). An HDMI port was introduced to the Xbox 360 by July 2007 with the introduction of the Elite model. All Xbox 360 SKUs currently manufactured feature an HDMI port. A wide array of SDTV and HDTV resolutions are supported by the console hardware;[16] up to 1080p after the October 2006 software upgrade.[17] While most games are rendered natively at 720p, the video from all games can be scaled by the hardware to whatever resolution the user has set in the console's settings; from 480i NTSC and 576i PAL all the way to 1080p HDTV.
+
+DVD storage[edit]
+Early production runs of the Xbox 360 are equipped with a 12x DVD drive, capable of a maximum read rate of 0.01585 GB/s.[18] The original production DVD drives were manufactured by both LG and Toshiba. Beginning in November 2006, a new model the BenQ VAD6038 was introduced, which is said to run faster than the previous models and, in addition, is much quieter.[19] There is a new drive by LiteOn.[20]
+
+Games are stored on standard dual-layer DVD-ROMs with 6.8 GB on the older XGD2 (Xbox Game Disc 2), but the newer XGD3 discs contain 7.8 GB of usable space available for game content.[21] The option to apply a regional lockout to games is available to publishers, although DVD region codes are always enforced for movies. Microsoft has implemented methods to prevent hacking through the drive. Later drive models have the external debug triggering removed and black hard glue added to cover all the chip and controller pins.[22] The drive is able to read both DVD±R and DVD±RW in addition to being able to play DVD-Video out of the box, unlike its predecessor, which required the purchase of an add-on remote. The system is also capable of playing standard CDs along with CD-R/RW, CD-DA, CD-ROM XA, CD-Extra, WMA-CD, MP3-CD, and JPEG Photo CD.[23] Some users reported problems with the disc drive, as when a user changes the console's orientation, the inserted disc may brush against the drive's pickup assembly and incur scratches to it.[24] The users manual advises against changing the console's position while there is a disc in the drive. Other users report experiencing disc scratching during normal horizontal usage.
+
+Announced at CES 2006 and first publicly shown at E3 2006, an external HD DVD drive was released in North America on November 7, 2006 (for US$199.99) and in Japan on November 17, 2006 (for ¥19,800). In the UK, France and Germany, the HD DVD drive was released for €199.99/£129.99.[25] The HD DVD drive was bundled for a limited time with an Xbox 360 Universal Media Remote, as well as an HD DVD copy of Peter Jackson's King Kong.[25] The drive plays HD DVD movies, although all Xbox 360 games will remain on the DVD format.[26] Microsoft had no plans to include an internal HD DVD player in future Xbox 360 designs.[27] The drive connects to the Xbox 360 via USB and contains two integrated USB ports on the rear. Games can not be played on the HD DVD drive. Microsoft has since discontinued the HD DVD add-on since the format was officially dropped by Toshiba.[28]
+
+List of DVD drives[edit]
+Hard drive storage[edit]
+The Xbox 360 uses standard 2.5" SATA hard disk drives (HDDs) held within custom enclosures. These units have a custom connector to facilitate connection to the Xbox 360 and the drives themselves feature custom firmware (making stand-alone drives incompatible). The drives are detachable, making it possible to move data from one console to another, and to upgrade the size of drive on a console. The hard drives themselves are manufactured by various companies, including Fujitsu, Seagate, Samsung, Hitachi and Western Digital. Certain Western Digital hard disk drives can be modified with a program called HDDHackr to be used with the Xbox 360.[29]
+
+The original Pro configuration of the system came with a 20 GB hard drive, which was also available to purchase separately (for the Core model, and later the Arcade model, which did not include a HDD). This was upgraded to 60 GB in September 2008, and the 60 GB HDD was also made available at retail. In April 2007, Microsoft released the Elite console, which included a black 120 GB HDD; a grey 120 GB drive was also later made available at retail. In November 2009, Microsoft released the "Super Elite" console, as a bundle with the highly anticipated game Call of Duty: Modern Warfare 2. This console was like the typical black Elite, but with Call of Duty graphics added and for the first time included a 250 GB hard drive (which holds up to 228 GB of data after system information is stored). This was followed by various other 250 GB special/limited edition bundles. No standard (non-special edition) configuration of the original console ever included a 250 GB drive, but they were later made available at retail.
+
+In June 2010, Microsoft announced a new version of the console, the Xbox 360 S, which used a new form factor for its 250 GB hard drives. As such, original style hard drives cannot be used in Xbox 360 S consoles, and vice versa, without modification. In June 2011, Microsoft announced a specially branded Gears of War 3 Limited Collector's Edition Xbox 360 S console to coincide with the launch of Gears of War 3. At 320 GB, the included hard drive is the largest available for/with the original Xbox 360 model.[30]
+
+In August 2014, Microsoft announced and released a new 500 GB hard drive for the Xbox 360 S console model,[31] currently the largest hard drive available for or with any Xbox 360 model.
+
+Approximately 7 GB of a 60 GB drive is reserved for system use (4 GB of that portion is reserved for game title caching and other hard drive specific elements in games that support the hard drive, and an additional 2 GB is reserved for use by the Xbox 360 backwards-compatibility software). This leaves just under 54 GB of free space, rounded down to 53 GB in the dashboard, for saving game files, Xbox Live Arcade downloadable content, and media files (such as music and video). Similar figures apply to other hard disk drive sizes.
+
+Other independent companies have manufactured 250 GB hard drives using hacked firmware since 2008. Many of these allegedly[by whom?] infringe trademarks of Microsoft, including the Microsoft logo, Xbox 360 logo, and the likeness of the removable hard disk drive design.[citation needed]
+
+Networking[edit]
+All versions of the Xbox 360 come with a built-in 10/100Mbit/s wired Ethernet network adapter. The Xbox 360 Wireless Adapter (identifiable as gray with one antenna) connects via a USB port and adds support for 802.11a and 802.11b/g Wi-Fi.[32] This was replaced by the Wireless N Adapter (black with two antennas), which added support for 802.11n on both the 2.4 GHz and 5 GHz bands. The original Xbox 360 model features a pair of notches on the rear of the console, above the USB socket, to which the adapter can be attached. Alternatively, a pair of fold-out feet on the adapter can be used to stand it up separately.
+
+The Xbox 360 S and Xbox 360 E consoles feature built-in support for 802.11b/g/n but on the 2.4 GHz band only. The Wireless and Wireless N Adapters can be used on these models to add support for the 5 GHz band (albeit the former losing support for 802.11n over 2.4 GHz) and will, in some cases, offer "... better range and bandwidth compared with the internal wireless feature ..."[33] If this adapter is connected, the internal wireless adapter is disabled. The S and E models lack the notches for the adapter.
+
+Motherboards[edit]
+Microsoft avoids outright announcements of new motherboard production runs and their subsequent appearance in the market in part due to uneven distribution causing buyer's remorse and to prevent purchaser delay.[34] However, several major (and many minor) motherboard revisions are introduced in an attempt to build systems more cheaply (and thus increase profits), and as a happy side effect, to allow them to run cooler while consuming less power. Note that there is no clear divide between the appearance of motherboard revisions in retail. Due to individual stock production, distribution and rotation, it may become difficult to find specific versions.[35]
+
+The power connectors on the back of these systems incorporate a "keying" system that will prevent plugging a (newer) lower-rated power supply into an older system (which needs more power).[36] The keying system does, however, allow older power supplies to be connected to newer systems, as this poses no problem. The initial motherboard version was known as "Xenon" and used a 203 watt power supply, and lacked an HDMI video port. Later models had an improved GPU heatsink. The "Zephyr" revision was a redesigned motherboard adding the HANA[1] and HDMI, but used the same 90 nm CPU as the Xenon. It did howerver, move to an 80 nm GPU and eDRAM, with an improved GPU heatsink. The "Falcon" incorporated a newer 65 nm CPU, and required less power so it came packaged with a 175 watt power supply. "Jasper" (released late November 2008) used both a 65 nm CPU and GPU, as well as 16, 256 or 512 MB of on-board flash memory. (This was to help run a then-recent Dashboard update. Without the addition of this internal memory, a hard disk drive or memory card is required.) The "Jasper" revision required even less power, and so the power supply was also reduced to 150 watts. The "Kronos" revision is a minor upgrade of the "Jasper", moving to a new "Kronos1" GPU with a 65 nm eDRAM, and adding a new Ring of Light/RF board called "XFreedom". Due to all dies now being at 65 nm, the GPU heatsink returned to the original one used on the "Xenon". Xbox 360 S introduced a new motherboard version called "Trinity" with a 45 nm integrated CPU, GPU, and eDRAM.[37] It consisted of 2 dies, one for the XCGPU, and one for the eDRAM. In 2011 a second model of the Xbox 360 S motherboard has been released known as "Corona" which integrates the HANA chip into the southbridge chip, and used either the traditional 16MB NAND, or a 4GB "Phison" eMMC. "Corona" was used in both the Xbox 360 S and Xbox 360 E. In August 2014, the "Winchester" model was released, with a new XCGPU. This chip removes the heatspreader and integrated the eDRAM into the main die on the XCGPU. This version also patches the Reset Glitch Hack.
+
+List of revisions[edit]
+Connectivity to accessories[edit]
+The Xbox 360 features three USB 2.0 ports (two on the front, one on the back).[23] The Xbox 360 S, however, has five USB 2.0 ports (two on the front, three in the back) along with a dedicated Kinect port. The Xbox 360 E has four ports (two on the front, two on the back) and a dedicated Kinect port. These are used for connection of accessories such as wired controllers, the wireless networking adapter, the Xbox Live Vision camera and USB storage devices. Although the number of wired controllers is limited by the number of ports, up to four may be used through the use of a USB hub.
+
+The Xbox 360 also features wireless connectivity of accessories via a proprietary 2.4 GHz radio system. This is mainly used to connect the official wireless controllers, but is also used for other devices such as the wireless racing wheel and wireless headsets. With the exception of some rhythm game controllers, and the Fanatec CSR wheel, this wireless connectivity is limited to first-party Microsoft accessories.
+
+The Xbox 360 can connect to Xbox Live over the Internet through a variety of networking interfaces.
+
+Original style consoles also have two front-mounted memory card slots for the system's proprietary Memory Unit. These can be used to transfer profile and game data from one Xbox 360 to another. Memory Units up to 512 MB are available from Microsoft. The "Arcade" model formerly came with a 256 MB Memory Unit, but with the Jasper motherboard revision of September 2008, the "Arcade" model began to include 256 MB of built-in flash memory. This was later increased to 512 MB. The memory card slots were replaced with USB ports on the newer Xbox 360 S models.
+
+The Universal Media Remote can be used to control several functions of the console, including the Windows Media Center functions if connected to the network. It communicates with the console via infrared through a receiver port on the front of the console.
+
+All standard controllers for the system feature a 2.5 mm headset jack to allow the use of wired headsets for voice chatting. They also feature a custom USB connector, which is currently only used for connection of the chatpad keyboard accessory.
+
+Various other accessories for the console exist, such as decorative faceplates to change the physical appearance of the console.
+
+Physical appearance[edit]
+The physical outline of the original style Xbox 360 is 31 by 8 by 26.8 centimetres (12.2 in × 3.1 in × 10.6 in)[39] and is similar in form factor to its predecessor. It is slightly slimmer in every dimension and is slightly concave, while the original Xbox was noticeably convex.
+
+It comes as standard in either black or white, with other colors available as special editions. It was designed by Astro Studios in cooperation with Hers Experimental Design Laboratory.[40] In June 2010 a redesign of the console, known as the Xbox 360 S,[41] was announced. This version of the console retains the same basic shape but is noticeably smaller and more angular than the original version. It comes as standard in either matte or glossy black; like its predecessor, other colors are available as special editions.
+
+The front of the console features a "ring of light" that displays four illuminated quadrants in either red or green (except the redesigned console which only has green lights). When the lights turn red, the console has encountered an error, with the number of sectors illuminated informing the user what category the error falls into. Since the redesign of the console removed the red LEDs, this error reporting system is no longer used.
+
+The original Xbox 360 weighs approximately 3.5 kilograms (7.7 lb),[39] about 350 grams heavier than the new Xbox. The new version weighs in at 2.9 kilograms (6.4 lb).[42]
+
+Power supply[edit]
+The console uses an external power supply with a 10 A/100–120 V or 5 A/220-230 V (AC) input and DC output rated at 203/175/150/130/115 W (depending on revision). An estimated 2 W of power are used while the older versions of console are in standby mode giving a yearly usage of approximately 17.5 kWh.[43] The new version uses around 0.5W while in standby.[42] Saving the console size and weight, the power supply displaces 1,300 cubic centimetres (79 cu in).[44] Xbox 360 power supplies are designed with keys in the plug to be forwards, but not backwards compatible. For example, a 203 watt supply would fit and work on a 175 watt console, but not the other way around.[38]
+
+See also[edit]
+Xbox 360 technical problems
+Notes[edit]
+References[edit]
+External links[edit]
+Official website
+Xbox Development Team Blog
+vte
+Controller
+Games
+World Collection
+Special limited edition consoles
+Technical specifications
+World Collection
+Launch
+Technical problems
+System software
+Applications
+Controller
+Accessories
+HD DVD Player
+Wireless Headset
+Wireless Racing Wheel
+Xbox Live Vision
+Games
+Backward compatible
+Kinect Fun Labs
+Technical specifications
+HD DVD Player
+Wireless Headset
+Wireless Racing Wheel
+Xbox Live Vision
+Backward compatible
+System software
+Applications
+Controller
+special editions
+Games
+Best-selling
+Xbox One X enhanced
+Backward compatible
+special editions
+Best-selling
+Xbox One X enhanced
+Backward compatible
+Xbox Series X
+Kinect
+Adaptive Controller
+Xbox Console Companion
+Platinum Hits
+Games for Windows
+games
+GFWL
+games
+Xbox on Windows
+games
+Microsoft SideWinder
+games
+games
+games
+Xbox on Windows Phone
+Zune games
+Avatars
+Games Store
+Xbox Live
+Arcade
+Indie Games
+Anywhere
+Xbox Game Pass
+xCloud
+Windows Games on Demand games
+Mixer
+MSN Games
+Game Room
+Games
+Arcade
+Indie Games
+Anywhere
+Games
+DirectX
+Xbox Development Kit
+XNA
+Game Studio
+ID@Xbox
+Game Studio
+OurColony
+Official Xbox Magazine
+Xbox Exhibition
+"X" Show
+Xbox Rewards
+Summer of Arcade
+343 Industries
+The Coalition
+Compulsion Games
+Double Fine
+InXile Entertainment
+Mojang
+Ninja Theory
+Obsidian Entertainment
+Playground Games
+Rare
+Turn 10 Studios
+Undead Labs
+vte
+History
+Outline
+Bill Gates
+Paul Allen
+John W. Thompson (Chairman)
+Satya Nadella (CEO)
+Charles Noski
+Helmut Panke
+John W. Stanton
+Reid Hoffman
+Sandi Peterson
+Penny Pritzker
+Charles Scharf
+Arne Sorenson
+Padmasree Warrior
+Satya Nadella (CEO)
+Scott Guthrie
+Amy Hood (CFO)
+Harry Shum
+Phil Spencer
+Joe Belfiore
+Richard Rashid (SVP)
+S. Somasegar (SVP)
+César Cernuda
+Azure Kinect
+HoloLens
+LifeCam
+LifeChat
+Surface
+Hub
+Go
+Laptop
+Pro
+Studio
+Duo
+Neo
+Xbox
+Hub
+Go
+Laptop
+Pro
+Studio
+Duo
+Neo
+Windows
+Xbox OS
+Office
+Office 365
+Servers
+Visual Studio
+Office 365
+BASIC
+VB.NET
+VBA
+VBScript
+Visual Basic
+C#
+F#
+PowerShell
+TypeScript
+VB.NET
+VBA
+VBScript
+Visual Basic
+Azure
+Bing
+Channel 9
+CodePlex
+Developer Network
+Docs
+MSN
+Mixer
+Office.com
+OneDrive
+Outlook.com
+Store
+TechNet
+Translator
+Build
+Ignite
+Inspire (formerly TechEd)
+MIX
+PDC
+WinHEC
+Engineering groups
+Mobile
+Skype unit
+Digital Crimes Unit
+Garage
+Press
+Research
+.NET Foundation
+Outercurve Foundation
+Xbox Game Studios
+Mobile
+Skype unit
+Microsoft Redmond campus
+Microsoft Algeria
+Microsoft Egypt
+Microsoft India
+Microsoft Japan
+Microsoft Theater
+Where do you want to go today? (1994)
+Champagne (2002)
+Mojave Experiment (2006)
+I'm a PC (2008)
+Scroogled (2012)
+Bundling of Microsoft Windows
+Clippy
+iLoo
+Internet Explorer
+Microsoft Bob
+_NSAKEY
+Windows
+XP
+Vista
+10
+XP
+Vista
+10
+Alcatel-Lucent v. Microsoft
+Apple v. Microsoft
+European Union Microsoft competition case
+Microsoft v. Lindows
+Microsoft v. MikeRoweSoft
+Microsoft v. Shah
+United States v. Microsoft (2001 antitrust case)
+Microsoft Ireland case
+6Wunderkinder
+Acompli
+Altamira Software
+AltspaceVR
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks
+Beam
+Bungie
+Calista Technologies
+Colloquis
+Connectix
+Consumers Software
+Danger
+Farecast
+FASA Studio
+Fast Search & Transfer
+Firefly
+Forethought
+GIANT Company Software
+GitHub
+GreenButton
+Groove Networks
+High Heat Major League Baseball
+Hotmail
+Jellyfish.com
+LinkedIn
+LinkExchange
+Lionhead Studios
+Maluuba
+Massive Incorporated
+Mobile Data Labs
+Mojang
+Nokia Devices and Services
+Onfolio
+Pando Networks
+Perceptive Pixel
+PlaceWare
+Powerset
+ProClarity
+Rare
+Revolution Analytics
+ScreenTonic
+Secure Islands
+Simplygon
+Skype
+Sunrise Atelier
+SwiftKey
+Winternals Software
+Teleo
+Telekinesys Research
+Tellme Networks
+Twisted Pixel Games
+Vermeer Technologies
+Visio Corporation
+Vivaty
+VoloMetrix
+VXtreme
+WebTV Networks
+Xamarin
+Yammer
+Yupi
+ Category

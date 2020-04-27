@@ -1,0 +1,161 @@
+Title : Corona discharge
+
+A corona discharge is an electrical discharge brought on by the ionization of a fluid such as air surrounding a conductor that is electrically charged. Spontaneous corona discharges occur naturally in high-voltage systems unless care is taken to limit the electric field strength. A corona will occur when the strength of the electric field (potential gradient) around a conductor is high enough to form a conductive region, but not high enough to cause electrical breakdown or arcing to nearby objects. It is often seen as a bluish glow in the air adjacent to pointed metal conductors carrying high voltages, and emits light by the same property as a gas discharge lamp.
+
+In many high voltage applications, corona is an unwanted side effect. Corona discharge from high voltage electric power transmission lines constitutes an economically significant waste of energy for utilities.  In high voltage equipment like Cathode Ray Tube televisions, radio transmitters, X-ray machines, and particle accelerators the current leakage caused by coronas can constitute an unwanted load on the circuit. In the air, coronas generate gases such as ozone (O3) and nitric oxide (NO), and in turn, nitrogen dioxide (NO2), and thus nitric acid (HNO3) if water vapor is present. These gases are corrosive and can degrade and embrittle nearby materials, and are also toxic to humans and the environment.
+
+Corona discharges can often be suppressed by improved insulation, corona rings, and making high voltage electrodes in smooth rounded shapes. However, controlled corona discharges are used in a variety of processes such as air filtration, photocopiers, and ozone generators.
+
+Contents
+
+1 Introduction
+2 Applications
+3 Problems
+4 Mechanism
+5 Positive coronas
+
+5.1 Properties
+5.2 Mechanism
+
+
+6 Negative coronas
+
+6.1 Properties
+6.2 Mechanism
+
+
+7 Electrical wind
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+5.1 Properties
+5.2 Mechanism
+
+
+6.1 Properties
+6.2 Mechanism
+
+Introduction[edit]
+A corona discharge is a process by which a current flows from an electrode with a high potential into a neutral fluid, usually air, by ionizing that fluid so as to create a region of plasma around the electrode. The ions generated eventually pass the charge to nearby areas of lower potential, or recombine to form neutral gas molecules.
+
+When the potential gradient (electric field) is large enough at a point in the fluid, the fluid at that point ionizes and it becomes conductive. If a charged object has a sharp point, the electric field strength around that point will be much higher than elsewhere. Air near the electrode can become ionized (partially conductive), while regions more distant do not. When the air near the point becomes conductive, it has the effect of increasing the apparent size of the conductor. Since the new conductive region is less sharp, the ionization may not extend past this local region. Outside this region of ionization and conductivity, the charged particles slowly find their way to an oppositely charged object and are neutralized.
+
+Along with the similar brush discharge, the corona is often called a "single-electrode discharge", as opposed to a "two-electrode discharge"; an electric arc.[1][2][3]  A corona only forms when the conductor is widely enough separated from conductors at the opposite potential that an arc cannot jump between them.  If the geometry and gradient are such that the ionized region continues to grow until it reaches another conductor at a lower potential, a low resistance conductive path between the two will be formed, resulting in an electric spark or electric arc, depending upon the source of the electric field.  If the source continues to supply current, a spark will evolve into a continuous discharge called an arc.
+
+Corona discharge only forms when the electric field (potential gradient) at the surface of the conductor exceeds a critical value, the dielectric strength or disruptive potential gradient of the fluid.  In air at atmospheric pressure, it is roughly 30 kilovolts per centimeter[1] but decreases with pressure, so Corona is more of a problem at high altitudes.[4]  Corona discharge usually forms at highly curved regions on electrodes, such as sharp corners, projecting points, edges of metal surfaces, or small diameter wires. The high curvature causes a high potential gradient at these locations so that the air breaks down and forms plasma there first.  On sharp points in air corona can start at potentials of 2 - 6 kV.[2]  In order to suppress corona formation, terminals on high voltage equipment are frequently designed with smooth large diameter rounded shapes like balls or toruses, and corona rings are often added to insulators of high voltage transmission lines.
+
+Coronas may be positive or negative. This is determined by the polarity of the voltage on the highly curved electrode. If the curved electrode is positive with respect to the flat electrode, it has a positive corona, if it is negative, it has a negative corona. (See below for more details.) The physics of positive and negative coronas are strikingly different. This asymmetry is a result of the great difference in mass between electrons and positively charged ions, with only the electron having the ability to undergo a significant degree of ionizing inelastic collision at common temperatures and pressures.
+
+An important reason for considering coronas is the production of ozone around conductors undergoing corona processes in air. A negative corona generates much more ozone than the corresponding positive corona.
+
+Applications[edit]
+Corona discharge has a number of commercial and industrial applications:
+
+Removal of unwanted electric charges from the surface of aircraft in flight and thus avoiding the detrimental effect of uncontrolled electrical discharge pulses on the performance of avionic systems
+Manufacture of ozone
+Sanitization of pool water
+In an electrostatic precipitator, removal of solid pollutants from a waste gas stream, or scrubbing particles from the air in air-conditioning systems
+Photocopying
+Air ionisers
+Production of photons for Kirlian photography to expose photographic film
+EHD thrusters, Lifters, and other ionic wind devices
+Nitrogen laser
+Ionization of a gaseous sample for subsequent analysis in a mass spectrometer or an ion mobility spectrometer
+Static charge neutralization, as applied through antistatic devices like ionizing bars.
+Refrigeration of electronic devices by forced convection.[5]
+Coronas can be used to generate charged surfaces, which is an effect used in electrostatic copying (photocopying). They can also be used to remove particulate matter from air streams by first charging the air, and then passing the charged stream through a comb of alternating polarity, to deposit the charged particles onto oppositely charged plates.
+
+The free radicals and ions generated in corona reactions can be used to scrub the air of certain noxious products, through chemical reactions, and can be used to produce ozone.
+
+Problems[edit]
+Coronas can generate audible and radio-frequency noise, particularly near electric power transmission lines. Therefore, power transmission equipment is designed to minimize the formation of corona discharge.
+
+Corona discharge is generally undesirable in:
+
+Electric power transmission, where it causes:
+Power loss
+Audible noise
+Electromagnetic interference
+Purple Glow
+Ozone production
+Insulation damage
+Possible distress in animals that are sensitive to ultraviolet light[6]
+Electrical components such as transformers, capacitors, electric motors, and generators:
+Corona can progressively damage the insulation inside these devices, leading to equipment failure.
+Elastomer items such as O-rings can suffer ozone cracking
+Plastic film capacitors operating at mains voltage can suffer progressive loss of capacitance as corona discharges cause local vaporization of the metallization[7]
+Power loss
+Audible noise
+Electromagnetic interference
+Purple Glow
+Ozone production
+Insulation damage
+Possible distress in animals that are sensitive to ultraviolet light[6]
+Corona can progressively damage the insulation inside these devices, leading to equipment failure.
+Elastomer items such as O-rings can suffer ozone cracking
+Plastic film capacitors operating at mains voltage can suffer progressive loss of capacitance as corona discharges cause local vaporization of the metallization[7]
+In many cases, coronas can be suppressed by corona rings, toroidal devices that serve to spread the electric field over a larger areas and decrease the field gradient below the corona threshold.
+
+Mechanism[edit]
+Corona discharge results when the electric field is strong enough to create a chain reaction: electrons in the air collide with atoms hard enough to ionize them, creating more free electrons which ionize more atoms.  The diagrams below illustrate at a microscopic scale the process which creates a corona in the air next to a pointed electrode carrying a high negative voltage with respect to ground.  The process is: 
+
+Thermodynamically, a corona is a very nonequilibrium process, creating a non-thermal plasma.  The avalanche mechanism does not release enough energy to heat the gas in the corona region generally and ionize it, as occurs in an electric arc or spark.   Only a small number of gas molecules take part in the electron avalanches and are ionized, having energies close to the ionization energy of 1–3 ev, the rest of the surrounding gas is close to ambient temperature.
+
+The onset voltage of corona or corona inception voltage (CIV) can be found with Peek's law (1929), formulated from empirical observations. Later papers derived more accurate formulas.
+
+Positive coronas[edit]
+Properties[edit]
+A positive corona is manifested as a uniform plasma across the length of a conductor. It can often be seen glowing blue/white, though many of the emissions are in the ultraviolet. The uniformity of the plasma is caused by the homogeneous source of secondary avalanche electrons described in the mechanism section, below. With the same geometry and voltages, it appears a little smaller than the corresponding negative corona, owing to the lack of a non-ionising plasma region between the inner and outer regions.
+
+A positive corona has a much lower density of free electrons compared to a negative corona;  perhaps a thousandth of the electron density, and a hundredth of the total number of electrons.
+However, the electrons in a positive corona are concentrated close to the surface of the curved conductor, in a region of the high potential gradient (and therefore the electrons have high energy), whereas in a negative corona many of the electrons are in the outer, lower-field areas. Therefore, if electrons are to be used in an application which requires high activation energy, positive coronas may support a greater reaction constant than corresponding negative coronas; though the total number of electrons may be lower, the number of very high energy electrons may be higher.
+
+Coronas are efficient producers of ozone in the air. A positive corona generates much less ozone than the corresponding negative corona, as the reactions which produce ozone are relatively low-energy. Therefore, the greater number of electrons of a negative corona leads to increased production.
+
+Beyond the plasma, in the unipolar region, the flow is of low-energy positive ions toward the flat electrode.
+
+Mechanism[edit]
+As with a negative corona, a positive corona is initiated by an exogenous ionization event in a region of a high potential gradient. The electrons resulting from the ionization are attracted toward the curved electrode, and the positive ions repelled from it. By undergoing inelastic collisions closer and closer to the curved electrode, further molecules are ionized in an electron avalanche.
+
+In a positive corona, secondary electrons, for further avalanches, are generated predominantly in the fluid itself, in the region outside the plasma or avalanche region. They are created by ionization caused by the photons emitted from that plasma in the various de-excitation processes occurring within the plasma after electron collisions, the thermal energy liberated in those collisions creating photons which are radiated into the gas. The electrons resulting from the ionization of a neutral gas molecule are then electrically attracted back toward the curved electrode, attracted into the plasma, and so begins the process of creating further avalanches inside the plasma.
+
+Negative coronas[edit]
+Properties[edit]
+A negative corona is manifested in a non-uniform corona, varying according to the surface features and irregularities of the curved conductor. It often appears as tufts of the corona at sharp edges, the number of tufts altering with the strength of the field. The form of negative coronas is a result of its source of secondary avalanche electrons (see below). It appears a little larger than the corresponding positive corona, as electrons are allowed to drift out of the ionizing region, and so the plasma continues some distance beyond it. The total number of electrons and electron density is much greater than in the corresponding positive corona. However, they are of predominantly lower energy, owing to being in a region of lower potential gradient. Therefore, whilst for many reactions, the increased electron density will increase the reaction rate, the lower energy of the electrons will mean that reactions which require higher electron energy may take place at a lower rate.
+
+Mechanism[edit]
+Negative coronas are more complex than positive coronas in construction. As with positive coronas, the establishing of a corona begins with an exogenous ionization event generating a primary electron, followed by an electron avalanche.
+
+Electrons ionized from the neutral gas are not useful in sustaining the negative corona process by generating secondary electrons for further avalanches, as the general movement of electrons in a negative corona is outward from the curved electrode. For negative corona, instead, the dominant process generating secondary electrons is the photoelectric effect, from the surface of the electrode itself. The work function of the electrons (the energy required to liberate the electrons from the surface) is considerably lower than the ionization energy of air at standard temperatures and pressures, making it a more liberal source of secondary electrons under these conditions. Again, the source of energy for the electron-liberation is a high-energy photon from an atom within the plasma body relaxing after excitation from an earlier collision. The use of ionized neutral gas as a source of ionization is further diminished in a negative corona by the high-concentration of positive ions clustering around the curved electrode.
+
+Under other conditions, the collision of the positive species with the curved electrode can also cause electron liberation.
+
+The difference, then, between positive and negative coronas, in the matter of the generation of secondary electron avalanches, is that in a positive corona they are generated by the gas surrounding the plasma region, the new secondary electrons travelling inward, whereas in a negative corona they are generated by the curved electrode itself, the new secondary electrons travelling outward.
+
+A further feature of the structure of negative coronas is that as the electrons drift outwards, they encounter neutral molecules and, with electronegative molecules (such as oxygen and water vapor), combine to produce negative ions. These negative ions are then attracted to the positive uncurved electrode, completing the 'circuit'.
+
+Electrical wind[edit]
+Ionized gases produced in a corona discharge are accelerated by the electric field, producing a movement of gas or electrical wind. The air movement associated with a discharge current of a few hundred microamperes can blow out a small candle flame within about 1 cm of a discharge point.  A pinwheel, with radial metal spokes and pointed tips bent to point along the circumference of a circle, can be made to rotate if energized by a corona discharge; the rotation is due to the differential electric attraction between the metal spokes and the space charge shield  region that surrounds the tips.[8]
+
+See also[edit]
+Alternating current
+Atmospheric pressure chemical ionization
+Crookes tube
+Dielectric barrier discharge
+Kirlian photography
+List of plasma physics articles
+St. Elmo's fire
+References[edit]
+Further reading[edit]
+Chen, Junhong (August 2002). "Direct-Current Corona Enhanced Chemical Reactions". University of Minnesota. Cite journal requires |journal= (help)
+Peek, F.W. (1929). Dielectric Phenomena in High Voltage Engineering. McGraw-Hill. ISBN 0-9726596-6-8.
+Loeb, Leonard (1965). Electrical Coronas Their Basic Physical Mechanisms. University of California Press. ASIN B0006BM4LG.
+Cobine, James D. (1941). Gaseous Conductors; Theory and Engineering Applications. McGraw-Hill or Dover reprints. ASIN B000B9PK7S.
+Takacs, J. (1972). "Corona Stabilizer for Van De Graaff Accelerators". Nuclear Instruments and Methods. 103 (3): 587–600. Bibcode:1972NucIM.103..587T. doi:10.1016/0029-554X(72)90019-5. ISSN 0029-554X.
+External links[edit]
+Blaze Labs Research – Information on corona properties and Peek's Law
+Additional information about corona, its effects, characteristics and preventative measures
+GND: 4165325-7

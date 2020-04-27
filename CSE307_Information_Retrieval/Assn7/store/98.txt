@@ -1,0 +1,488 @@
+Title : Pangolin
+
+
+
+
+
+Manis
+Phataginus
+Smutsia
+     Manis crassicaudata
+     Manis pentadactyla
+     Manis javanica
+     Manis culionensis
+     Phataginus tricuspis
+     Phataginus tetradactyla
+     Smutsia gigantea
+     Smutsia temminckii
+
+Pangolins, or scaly anteaters,[2] are mammals of the order Pholidota (from Ancient Greek φολῐ́ς, "horny scale"). The one extant family, Manidae, has three genera: Manis, Phataginus and Smutsia. Manis comprises the four species found in Asia, while Phataginus and Smutsia each include two species living in Sub-Saharan Africa.[3] These species range in size from 30 to 100 cm (12 to 39 in). A number of extinct pangolin species are also known.
+
+Pangolins have large, protective keratin scales covering their skin; they are the only known mammals with this feature. They live in hollow trees or burrows, depending on the species. Pangolins are nocturnal, and their diet consists of mainly ants and termites, which they capture using their long tongues. They tend to be solitary animals, meeting only to mate and produce a litter of one to three offspring, which they raise for about two years.
+
+Pangolins are threatened by poaching (for their meat and scales, which are used in Chinese traditional medicine for a variety of ailments including excessive anxiety and hysterical crying in children, women thought to be possessed by devils and ogres, malarial fever, and deafness[4]) and heavy deforestation of their natural habitats, and are the most trafficked mammals in the world.[5] As of January 2020[update], of the eight species of pangolin, three (Manis culionensis, M. pentadactyla and M. javanica) are listed as critically endangered, three (Phataginus tricuspis, Manis crassicaudata and Smutsia gigantea) are listed as endangered and two (Phataginus tetradactyla and Smutsia temminckii) are listed as vulnerable on the Red List of Threatened Species of the International Union for Conservation of Nature.[6]
+
+Contents
+
+1 Etymology
+2 Taxonomy
+3 Phylogeny
+
+3.1 Among placentals
+3.2 Among Manidae
+
+
+4 Description
+5 Behavior
+
+5.1 Diet
+5.2 Reproduction
+
+
+6 Threats
+7 Virology
+
+7.1 COVID-19 infection
+7.2 Pestivirus and Coltivirus
+
+
+8 Claims about medical efficacy
+9 Conservation
+
+9.1 Taiwan
+
+
+10 See also
+11 References
+12 External links
+
+
+3.1 Among placentals
+3.2 Among Manidae
+
+
+5.1 Diet
+5.2 Reproduction
+
+
+7.1 COVID-19 infection
+7.2 Pestivirus and Coltivirus
+
+
+9.1 Taiwan
+
+Etymology
+The name pangolin comes from the Malay word pengguling, meaning "one who rolls up".[7] However, the modern name in Standard Malay is tenggiling; whereas in Indonesian it is trenggiling; and in the Philippine languages it is goling, tanggiling, or balintong (with the same meaning).[8]
+
+The etymologies of the three generic names Manis (Linnaeus, 1758), Phataginus (Rafinesque, 1821), and Smutsia (Gray, 1865) are sometimes misunderstood.
+
+Carl Linnaeus (1758) invented the Neo-Latin generic name Manis apparently as a feminine singular form of the Latin masculine plural Manes, the Ancient Roman name for a type of spirit, after the animal's strange appearance.[9]
+
+Constantine Rafinesque (1821) formed the Neo-Latin generic name Phataginus from the French term phatagin, adopted by Count Buffon (1763) after the reported local name phatagin or phatagen used in the East Indies.
+
+The British naturalist John Edward Gray named Smutsia for the South African naturalist Johannes Smuts (1808–1869),[10][11] the first South African to write a treatise on mammals in 1832 (in which he described the species Manis temminckii).
+
+Taxonomy
+All species of living pangolin had been assigned to the genus Manis until the late 2000s, when research prompted the splitting of extant pangolins into three genera: Manis, Phataginus, and Smutsia.[3][12]
+
+Order Pholidota Weber, 1904
+Genus †Argyromanis Ameghino, 1904
+Species †Argyromanis patagonica
+Genus †Orthoarthrus Ameghino, 1904
+Species †Orthoarthrus mixtus
+Genus †Euromanis (Storch & Martin, 1994) Gaudin, Emry & Wible, 2009 [Eomanis krebsi Storch & Martin, 1994]
+Species †Euromanis krebsi
+Genus †Eurotamandua Storch, 1981
+Species †Eurotamandua joresi
+Suborder Eupholidota Gaudin, Emry & Wible, 2009
+Family †Eomanidae Storch, 2003
+Genus †Eomanis Storch, 1978
+Species †Eomanis waldi
+Superfamily Manoidea
+Family Patriomanidae Szalay & Schrenk 1998 sensu Gaudin, Emry & Pogue, 2006
+Genus †Cryptomanis Gaudin, Emry & Pogue, 2006
+Species †Cryptomanis gobiensis
+Genus †Patriomanis Emry, 1970
+Species †Patriomanis americana
+Family Manidae Gray, 1821
+Genus †Necromanis Filhol, 1893 [Leptomanis Filhol, 1893; Necrodasypus Filhol, 1893; Teutomanis Ameghino, 1905; Galliaetatus Ameghino, 1905]
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Subfamily Smutsiinae Gray, 1873 (African pangolins)
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Subfamily Maninae Gray, 1821
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Genus †Argyromanis Ameghino, 1904
+Species †Argyromanis patagonica
+Genus †Orthoarthrus Ameghino, 1904
+Species †Orthoarthrus mixtus
+Genus †Euromanis (Storch & Martin, 1994) Gaudin, Emry & Wible, 2009 [Eomanis krebsi Storch & Martin, 1994]
+Species †Euromanis krebsi
+Genus †Eurotamandua Storch, 1981
+Species †Eurotamandua joresi
+Suborder Eupholidota Gaudin, Emry & Wible, 2009
+Family †Eomanidae Storch, 2003
+Genus †Eomanis Storch, 1978
+Species †Eomanis waldi
+Superfamily Manoidea
+Family Patriomanidae Szalay & Schrenk 1998 sensu Gaudin, Emry & Pogue, 2006
+Genus †Cryptomanis Gaudin, Emry & Pogue, 2006
+Species †Cryptomanis gobiensis
+Genus †Patriomanis Emry, 1970
+Species †Patriomanis americana
+Family Manidae Gray, 1821
+Genus †Necromanis Filhol, 1893 [Leptomanis Filhol, 1893; Necrodasypus Filhol, 1893; Teutomanis Ameghino, 1905; Galliaetatus Ameghino, 1905]
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Subfamily Smutsiinae Gray, 1873 (African pangolins)
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Subfamily Maninae Gray, 1821
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Species †Argyromanis patagonica
+Species †Orthoarthrus mixtus
+Species †Euromanis krebsi
+Species †Eurotamandua joresi
+Family †Eomanidae Storch, 2003
+Genus †Eomanis Storch, 1978
+Species †Eomanis waldi
+Superfamily Manoidea
+Family Patriomanidae Szalay & Schrenk 1998 sensu Gaudin, Emry & Pogue, 2006
+Genus †Cryptomanis Gaudin, Emry & Pogue, 2006
+Species †Cryptomanis gobiensis
+Genus †Patriomanis Emry, 1970
+Species †Patriomanis americana
+Family Manidae Gray, 1821
+Genus †Necromanis Filhol, 1893 [Leptomanis Filhol, 1893; Necrodasypus Filhol, 1893; Teutomanis Ameghino, 1905; Galliaetatus Ameghino, 1905]
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Subfamily Smutsiinae Gray, 1873 (African pangolins)
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Subfamily Maninae Gray, 1821
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Genus †Eomanis Storch, 1978
+Species †Eomanis waldi
+Species †Eomanis waldi
+Family Patriomanidae Szalay & Schrenk 1998 sensu Gaudin, Emry & Pogue, 2006
+Genus †Cryptomanis Gaudin, Emry & Pogue, 2006
+Species †Cryptomanis gobiensis
+Genus †Patriomanis Emry, 1970
+Species †Patriomanis americana
+Family Manidae Gray, 1821
+Genus †Necromanis Filhol, 1893 [Leptomanis Filhol, 1893; Necrodasypus Filhol, 1893; Teutomanis Ameghino, 1905; Galliaetatus Ameghino, 1905]
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Subfamily Smutsiinae Gray, 1873 (African pangolins)
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Subfamily Maninae Gray, 1821
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Genus †Cryptomanis Gaudin, Emry & Pogue, 2006
+Species †Cryptomanis gobiensis
+Genus †Patriomanis Emry, 1970
+Species †Patriomanis americana
+Species †Cryptomanis gobiensis
+Species †Patriomanis americana
+Genus †Necromanis Filhol, 1893 [Leptomanis Filhol, 1893; Necrodasypus Filhol, 1893; Teutomanis Ameghino, 1905; Galliaetatus Ameghino, 1905]
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Subfamily Smutsiinae Gray, 1873 (African pangolins)
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Subfamily Maninae Gray, 1821
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Species †N. franconica (Quenstedt, 1886) [Lutra franconica Quenstedt, 1886]
+Species †N. parva Koenigswald, 1969
+Species †N. quercyi Filhol, 1893
+Species †N. galliae
+Genus Phataginus Rafinesque, 1821[3] [Phataginus Rafinesque, 1815 (nomen nudum); Triglochinopholis Fitzinger, 1872; Uromanis Pocock, 1924]
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Genus Smutsia Gray, 1865[3] (African ground pangolins)
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Tree pangolin (P. tricuspis (Rafinesque, 1821) Rafinesque, 1821)
+Long-tailed pangolin (P. tetradactyla (Linnaeus, 1766))
+Giant pangolin (S. gigantea (Illiger, 1815))
+Ground pangolin (S. temmincki (Smuts, 1832))
+Genus Manis Linnaeus, 1758 [Pholidotus Storr, 1780; Quaggelo Frisch, 1775; Pangolinus Rafinesque, 1821; Pangolinus Rafinesque, 1815 nomen nudum; Pangolin Gray, 1873; Phatages Sundevall, 1843] (Asiatic pangolins)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+†M. hungarica Kormos, 1934
+†M. lydekkeri Trouessart
+†M. paleojavanica Dubois, 1907)
+Subgenus (Manis) Linnaeus, 1758
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Subgenus (Paramanis) Pocock, 1924
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Indian pangolin (M. crassicaudata Gray, 1827)
+Chinese pangolin (M. pentadactyla Linnaeus, 1758)
+Sunda pangolin (M. javanica Desmarest, 1822)
+Philippine pangolin (M. culionensis de Elera, 1895)
+Phylogeny
+Among placentals
+The order Pholidota in the past was considered to be the sister taxon to Xenarthra (neotropical anteaters, sloths, and armadillos), but recent genetic evidence indicates their closest living relatives are the carnivorans, with which they form a clade termed either Ferae or Ostentoria.[13][14][15][16] Fossil groups like the creodonts[17] and palaeanodonts are even closer relatives to pangolins (the latter group being classified with pangolins in the clade Pholidotamorpha[12]). The split between carnivorans and pangolins is estimated to have occurred 79-87 Ma ago.[16][18]
+
+Euarchontoglires (primates, colugos, treeshrews, rodents, rabbits) 
+
+Eulipotyphla (hedgehogs, shrews, moles, solenodons) 
+
+Chiroptera (bats and flying foxes) 
+
+Pholidota (pangolins) 
+
+Carnivora (cats, hyenas, dogs, bears, seals, ...) 
+
+Perissodactyla (horses, tapirs, rhinos, ...) 
+
+Cetartiodactyla (camels, pigs, ruminants, hippos, whales, ...) 
+
+Among Manidae
+The first dichotomy in the phylogeny of extant Manidae separates Asian pangolins (Manis) from African pangolins (Smutsia and Phataginus). 
+Within the former, Manis pentadactyla is the sister group to a clade comprising M. crassicaudata and M. javanica. Within the latter, a split separates large taxa of genus Smutsia from small taxa of genus Phataginus.[18]
+
+  Manis pentadactyla
+
+  Manis crassicaudata
+
+  Manis javanica
+
+  Smutsia gigantea
+
+  Smutsia temminckii
+
+  Phataginus tetradactyla
+
+  Phataginus tricuspis
+
+  Carnivora
+
+Asian and African pangolins are thought to have diverged about 38-47 Ma ago.[16][18] Moreover, the basal position of Manis within Pholidota[16][19] suggests the group originated in Eurasia, consistent with their laurasiatherian phylogeny.[16]
+
+Description
+The physical appearance of a pangolin is marked by large hardened overlapping plate-like scales, which are soft on newborn pangolins, but harden as the animal matures.[20] They are made of keratin, the same material from which human fingernails and tetrapod claws are made, and are structurally and compositionally very different from the scales of reptiles.[21] The pangolin's scaled body is comparable in appearance to a pine cone. It can curl up into a ball when threatened, with its overlapping scales acting as armor, while it protects its face by tucking it under its tail. The scales are sharp, providing extra defense from predators.[22]
+
+Pangolins can emit a noxious-smelling chemical from glands near the anus, similar to the spray of a skunk.[23] They have short legs, with sharp claws which they use for burrowing into ant and termite mounds and for climbing.[24]
+
+The tongues of pangolins are extremely long and – like those of the giant anteater and the tube-lipped nectar bat – the root of the tongue is not attached to the hyoid bone, but is in the thorax between the sternum and the trachea.[25] Large pangolins can extend their tongues as much as 40 cm (16 in), with a diameter of only 0.5 cm (0.20 in).[26]
+
+Behavior
+Most pangolins are nocturnal animals[27] which use their well-developed sense of smell to find insects. The long-tailed pangolin is also active by day, while other species of pangolins spend most of the daytime sleeping, curled up into a ball.[26]
+
+Arboreal pangolins live in hollow trees, whereas the ground-dwelling species dig tunnels to a depth of 3.5 m (11 ft).[26]
+
+Some pangolins walk with their front claws bent under the foot pad, although they use the entire foot pad on their rear limbs. Furthermore, some exhibit a bipedal stance for some behaviour and may walk a few steps bipedally.[28] Pangolins are also good swimmers.[26]
+
+Diet
+Pangolins are insectivorous. Most of their diet consists of various species of ants and termites and may be supplemented by other insects, especially larvae. They are somewhat particular and tend to consume only one or two species of insects, even when many species are available to them. A pangolin can consume 140 to 200 g (4.9 to 7.1 oz) of insects per day.[29] Pangolins are an important regulator of termite populations in their natural habitats.[30]
+
+Pangolins have very poor vision, so they rely heavily on smell and hearing. Pangolins also lack teeth; therefore they have evolved other physical characteristics to help them eat ants and termites. Their skeletal structure is sturdy and they have strong front legs that are useful for tearing into termite mounds.[31] They use their powerful front claws to dig into trees, ground, and vegetation to find prey,[32] then proceed to use their long tongues to probe inside the insect tunnels and to retrieve their prey.
+
+The structure of their tongue and stomach is key to aiding pangolins in obtaining and digesting insects. Their saliva is sticky,[31] causing ants and termites to stick to their long tongues when they are hunting through insect tunnels. Without teeth, pangolins also lack the ability to chew;[33] however, while foraging, they ingest small stones (gastroliths) which accumulate in their stomachs to help to grind up ants.[34] This part of their stomach is called the gizzard, and it is also covered in keratinous spines.[35] These spines further aid in the grinding up and digestion of the pangolin's prey.
+
+Some species, such as the tree pangolin, use their strong, prehensile tails to hang from tree branches and strip away bark from the trunk, exposing insect nests inside.[36]
+
+Reproduction
+Pangolins are solitary and meet only to mate. Males are larger than females, weighing up to 40% more. While the mating season is not defined, they typically mate once each year, usually during the summer or autumn. Rather than the males seeking out the females, males mark their location with urine or feces and the females will find them. If there is competition over a female, the males will use their tails as clubs to fight for the opportunity to mate with her.[37]
+
+Gestation periods differ by species, ranging from roughly 70 to 140 days.[38] African pangolin females usually give birth to a single offspring at a time, but the Asiatic species may give birth to from one to three.[26] Weight at birth is 80 to 450 g (2.8 to 15.9 oz) and the average length is 150 mm (5.9 in). At the time of birth, the scales are soft and white. After several days, they harden and darken to resemble those of an adult pangolin. During the vulnerable stage, the mother stays with her offspring in the burrow, nursing it, and wraps her body around it if she senses danger. The young cling to the mother's tail as she moves about, although in burrowing species, they remain in the burrow for the first two to four weeks of life. At one month, they first leave the burrow riding on the mother's back. Weaning takes place around three months of age, at which stage the young begin to eat insects in addition to nursing. At two years of age, the offspring are sexually mature and are abandoned by the mother.[39]
+
+Threats
+Pangolins are in high demand for Chinese traditional medicine in southern China and Vietnam because their scales are believed to have medicinal properties. Their meat is also considered a delicacy.[41][42][43][44] 100,000 are estimated to be trafficked a year to China and Vietnam,[45] amounting to over one million over the past decade.[46][47] This makes it the most trafficked animal in the world.[46][48] This, coupled with deforestation, has led to a large decrease in the numbers of pangolins. Some species, such as Manis pentadactyla have become commercially extinct in certain ranges as a result of overhunting.[49] In November 2010, pangolins were added to the Zoological Society of London's list of evolutionarily distinct and endangered mammals.[50] All eight species of pangolin are assessed as threatened by the IUCN, while three are classified as critically endangered.[6] All pangolin species are currently listed under Appendix I of CITES which prohibits international trade, except when the product is intended for non-commercial purposes and a permit has been granted.[1]
+
+Pangolins are also hunted and eaten in Ghana and are one of the more popular types of bushmeat, while local healers use the pangolin as a source of traditional medicine.[51]
+
+Though pangolins are protected by an international ban on their trade, populations have suffered from illegal trafficking due to beliefs in East Asia that their ground-up scales can stimulate lactation or cure cancer or asthma.[53] In the past decade, numerous seizures of illegally trafficked pangolin and pangolin meat have taken place in Asia.[54][55][56][57] In one such incident in April 2013, 10,000 kg (11 short tons) of pangolin meat were seized from a Chinese vessel that ran aground in the Philippines.[58][59] In another case in August 2016, an Indonesian man was arrested after police raided his home and found over 650 pangolins in freezers on his property.[60] The same threat is reported in  Nigeria, where the animal is on the verge of extinction due to overexploitation.[61] The overexploitation comes from hunting pangolins for game meat and the reduction of their forest habitats due to deforestation caused by timber harvesting.[62] The pangolin are hunted as game meat for both medicinal purposes and food consumption.[62]
+
+Virology
+COVID-19 infection
+Nucleic acid sequences belonging to a specific receptor-binding domain (RBD) of viruses taken from pangolins were found to be a 99% match with SARS coronavirus 2 (SARS-CoV-2), the virus which causes COVID-19, and responsible for the 2019–20 coronavirus pandemic.[63][64] The working theory of researchers in Guangzhou, China, was that SARS-CoV-2 had originated in bats and, prior to infecting humans, was circulating among pangolins. The illicit Chinese trade of pangolins for use in traditional Chinese medicine was suggested as a vector for human transmission.[63][65] The discovery of multiple lineages of pangolin coronavirus and their similarity to SARS-CoV-2 indicate that pangolins are hosts for SARS-CoV-2-like coronaviruses. [66][67] However, whole-genome comparison found that the pangolin and human coronaviruses share only 90.3% of their RNA.[67] Ecologists worried that the early speculation about pangolins being the source may have led to mass slaughters, endangering the animals further, which was similar to what happened to  civets during the SARS outbreak.[67][68]
+
+Pestivirus and Coltivirus
+In 2020, two novel RNA viruses distantly related to pestiviruses and coltiviruses have been detected in the genomes of Manis javanica and Manis pentadactyla.[69] To refer to both sampling site and hosts, they were named Dongyang pangolin virus (DYPV) and Lishui pangolin virus (LSPV). The DYPV pestivirus was also identified in Amblyomma javanense nymph ticks from a diseased pangolin.[69]
+
+Claims about medical efficacy
+The medical powers of pangolin meat and scales claimed by traditional Chinese medicine are based on behavioral observations: they eat ants; they have long tongues, and they have scales that protect them. The Chinese name chuan shan jia (穿山甲) "penetrating-the-mountain scales") emphasizes the idea of penetration(穿)  or passing all the way through even massive obstructions such as mountains(山), plus the distinctive scales(甲)  which embody both penetration and protection and imply similar powers to penetrate blockages within the body and to give protection.[70]
+
+The first record of pangolin scales occurs in Ben Cao Jinji Zhu ("Variorum of Shennong's Classic of Materia Medica", 500 CE), which recommends pangolin scales for protection against ant bites; burning the scales is a cure for people crying hysterically during the night.[71]
+
+During the Tang dynasty, a recipe for expelling evil spirits with a formulation of scales, herbs, and minerals appeared in 682, and in 752 CE the idea that pangolin scales could also stimulate milk secretion in lactating women, one of the important uses today, was recommended in the Wai Tai Mi Yao ("Arcane Essentials from the Imperial Library").[71]
+
+In the Song dynasty, the notion of penetrating and clearing blockages was emphasized in the Taiping sheng hui fan  ("Formulas from Benevolent Sages Compiled During the Era of Peace and Tranquility"), compiled by Wang Huaiyin in 992.[71]
+
+Today, the main uses of pangolin scales are to unblock blood clots, promote blood circulation, and to help lactating women secrete milk. There are many other applications for treating gynecological diseases, and pills that contain powdered pangolin scales are used for treating blockages of the fallopian tubes to cure infertility.[71]
+
+The official pharmacopoeia of the People's Republic of China continues to include Chinese pangolin scales as an ingredient in TCM formulations, and there is a legal market for scales.[71]
+
+Conservation
+As a result of increasing threats to pangolins, mainly in the form of illegal, international trade in pangolin skin, scales, and meat, these species have received increasing conservation attention in recent years. As of January 2020[update], the IUCN considered all eight species of pangolin on its Red List of Threatened Species as threatened.[6] Also, the IUCN SSC Pangolin Specialist Group launched a global action plan to conserve pangolins, dubbed "Scaling up Pangolin Conservation" in July 2014. This action plan aims to improve all aspects of pangolin conservation with an added emphasis on combating poaching and trafficking of the animal, while educating communities in its importance.[46] Another suggested approach to fighting pangolin (and general wildlife) trafficking consists in "following the money" rather than "the animal", which aims to disrupt smugglers' profits by interrupting money flows. Financial intelligence gathering could thus become a key tool in protecting these animals, although this opportunity is often overlooked.[45] In 2018, a Chinese NGO launched the Counting Pangolins movement, calling for joint efforts to save the mammals from trafficking.[72][73][74] Wildlife conservation group TRAFFIC has identified 159 smuggling routes used by pangolin traffickers and aims to shut these down.[75]
+
+Many attempts have been made to reproduce pangolins in captivity, but due to their reliance on wide-ranging habitats and very particular diets, these attempts are often unsuccessful.[38][76] Pangolins have significantly decreased immune responses due to a genetic dysfunction, making them extremely fragile.[77] They are susceptible to diseases such as pneumonia and the development of ulcers in captivity, complications which can lead to an early death.[38] In addition, pangolins rescued from illegal trade often have a higher chance of being infected with parasites such as intestinal worms, further lessening their chance for rehabilitation and reintroduction to the wild.[38] Recently, researchers have been able to improve artificial pangolin habitats to allow for reproduction of pangolins, providing some hope for future reintroduction of these species into their natural habitats.[20]
+
+The idea of  farming pangolins to reduce the amount being illegally trafficked is being explored with little success.[78] The third Saturday in February is promoted as World Pangolin Day by the conservation NPO Annamiticus.[79]
+
+In 2017, Jackie Chan made a public service announcement called WildAid: Jackie Chan & Pangolins (Kung Fu Pangolin).[80]
+
+Taiwan
+Taiwan is one of the few conservation grounds for pangolins in the world after the country enacted the 1989 Wildlife Conservation Act.[81] The introduction of Wildlife Rehabilitation Centers in places like Luanshan (Yanping Township) in Taitung and Xiulin townships in Hualien became important communities for protecting pangolins and their habitats and has greatly improved the survival of pangolins. These centres work with local aboriginal tribes and forest police in the National Police Agency to prevent poaching, trafficking, and smuggling of pangolins, especially to black markets in China. These centers have also helped to reveal the causes of death and injury among Taiwan's pangolin population.[82]
+
+Today, Taiwan has the highest population density of pangolins in the world.[83]
+
+See also
+Pangolin trade
+Traditional Chinese medicine
+References
+External links
+ZSL Pangolin Conservation 
+Pangolin: Wildlife summary from the African Wildlife Foundation
+Tree of Life of Pholidota
+National Geographic video of a pangolin
+Proceedings of the Workshop on Trade and Conservation of Pangolins Native to South and Southeast Asia (PDF)
+The Phylogeny of Living and Extinct Pangolins (Mammalia, Pholidota) and Associated Taxa: A Morphology Based Analysis (PDF)
+Bromley, Victoria (Director/Producer), Young, Nora (Narrator/Host), Diekmann, Maria (2018). Nature: The World's Most Wanted Animal. United States: PBS.
+Coronavirus: Revenge of the Pangolins? The New York Times, March 6, 2020.
+vte
+Kingdom Animalia
+Phylum Chordata
+Subphylum Vertebrata
+(unranked) Amniota
+Monotremata (Platypus and echidnas)
+Paucituberculata (Shrew opossums)
+Didelphimorphia (Opossums)
+Microbiotheria (Monito del monte)
+Notoryctemorphia (Marsupial moles)
+Dasyuromorphia (Quolls and dunnarts)
+Peramelemorphia (Bilbies and bandicoots)
+Diprotodontia (Kangaroos and relatives)
+Cingulata (Armadillos)
+Pilosa (Anteaters and sloths)
+Afrosoricida (Tenrecs and golden moles)
+Macroscelidea (Elephant shrews)
+Tubulidentata (Aardvark)
+Hyracoidea (Hyraxes)
+Proboscidea (Elephants)
+Sirenia (Dugongs and manatees)
+Eulipotyphla (Hedgehogs, shrews, moles and relatives)
+Chiroptera (Bats)
+Pholidota (Pangolins)
+Carnivora (Dogs, cats and relatives)
+Perissodactyla (Horses, rhinoceroses and tapirs)
+Artiodactyla (Pigs, camels, hippos, deer, buffalo, gazelles, giraffes, whales and dolphins)
+Rodentia (Rats, guinea pigs, squirrels, beavers, chinchillas, porcupines, capybaras and relatives)
+Lagomorpha (Rabbits and pikas)
+Scandentia (Treeshrews)
+Dermoptera (Colugos)
+Primates (lorises, tarsiers, lemurs, monkeys, apes, humans)
+vte
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Infraclass: Eutheria
+Superorder: Laurasiatheria
+Indian pangolin (M. crassicaudata)
+Chinese pangolin (M. pentadactyla)
+Philippine pangolin (M. culionensis)
+Sunda pangolin (M. javanica)
+Giant pangolin (S. gigantea)
+Ground pangolin (S. temmincki)
+Tree pangolin (P. tricuspis)
+Long-tailed pangolin (P. tetradactyla)
+Wikidata: Q2191516
+Wikispecies: Pholidota
+ADW: Pholidota
+EoL: 1665
+EPPO: 1PHOLO
+Fossilworks: 43658
+GBIF: 796
+IRMNG: 11314
+ITIS: 180104
+MSW: 13900001
+NCBI: 9971
+BNF: cb133363480 (data)
+LCCN: sh88007005

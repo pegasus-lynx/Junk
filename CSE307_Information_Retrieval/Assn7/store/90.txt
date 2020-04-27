@@ -1,0 +1,1373 @@
+Title : Public Health Emergency of International Concern
+
+
+
+A Public Health Emergency of International Concern[1] is a formal declaration by the World Health Organization (WHO) of "an extraordinary event which is determined to constitute a public health risk to other States through the international spread of disease and to potentially require a coordinated international response", formulated when a situation arises that is "serious, sudden, unusual or unexpected", which "carries implications for public health beyond the affected state's national border" and "may require immediate international action".[2] Under the 2005 International Health Regulations (IHR), states have a legal duty to respond promptly to a PHEIC.[3] The declaration is publicized by an Emergency Committee (EC) made up of international experts operating under the IHR (2005),[4] which was developed following the SARS outbreak of 2002–03.[5]
+
+Since 2009 there have been six PHEIC declarations:[6] the 2009 H1N1 (or swine flu) pandemic, the 2014 polio declaration, the 2014 outbreak of Ebola in Western Africa, the 2015–16 Zika virus epidemic,[7] the ongoing 2018–20 Kivu Ebola epidemic,[8] and the ongoing 2019–20 coronavirus pandemic.[9] The recommendations are temporary and require reviews every three months.[2]
+
+SARS, smallpox, wild type poliomyelitis, and any new subtype of human influenza are automatically PHEICs and thus do not require an IHR decision to declare them as such.[10] A PHEIC is not confined to infectious diseases, and may cover an emergency caused by exposure to a chemical agent or radioactive material.[11] In any case within its ambit, it is a "call to action" and "last resort" measure.[12]
+
+Contents
+
+1 Background
+2 Definition
+3 Reporting a potential concern
+4 Emergency committee
+5 Declarations
+
+5.1 2009 swine flu declaration
+5.2 2014 polio declaration
+5.3 2014 Ebola declaration
+5.4 2016 Zika virus declaration
+5.5 2018–20 Kivu Ebola declaration
+5.6 2019 coronavirus pandemic (COVID-19)
+
+
+6 Response
+7 Non-declarations
+
+7.1 2013 MERS
+
+
+8 Non-infectious events
+9 See also
+10 References
+11 Further reading
+12 External links
+
+
+5.1 2009 swine flu declaration
+5.2 2014 polio declaration
+5.3 2014 Ebola declaration
+5.4 2016 Zika virus declaration
+5.5 2018–20 Kivu Ebola declaration
+5.6 2019 coronavirus pandemic (COVID-19)
+
+
+7.1 2013 MERS
+
+Background[edit]
+Multiple surveillance and response systems exist worldwide for the early detection and effective response to contain the spread of disease. Time delays still occur for two main reasons, however. The first is the delay between the first case and the confirmation of the outbreak by the healthcare system, allayed by good surveillance via data collection, evaluation, and organisation. The second is when there is a delay between the detection of the outbreak and widespread recognition and declaration of it as an international concern.[5] The declaration is promulgated by an Emergency Committee (EC) made up of international experts operating under the IHR (2005),[4] which was developed following the SARS outbreak of 2002/2003.[5] Between 2009 and 2016, there were four PHEIC declarations.[6] The fifth was the 2018–20 Kivu Ebola epidemic which was announced on 17 July 2019.[8] The sixth is the 2019–20 novel coronavirus pandemic.[9] Under the 2005 International Health Regulations (IHR), States have a legal duty to respond promptly to a PHEIC.[3]
+
+Definition[edit]
+
+PHEIC is defined as; 
+an extraordinary event which is determined to constitute a public health risk to other States through the international spread of disease and to potentially require a coordinated international response[13]
+This definition designates a public health crisis of potentially global reach and implies a situation that is "serious, sudden, unusual or unexpected", which may necessitate immediate international action.[13][14]
+
+It is a "call to action" and "last resort" measure.[12]
+
+Reporting a potential concern[edit]
+WHO Member States have 24 hours within which to report potential PHEIC events to the WHO.[10] It does not have to be a member State that reports a potential outbreak, hence reports to the WHO can also be received informally.[15]
+Under the IHR (2005), ways to detect, evaluate, notify and report events were ascertained by all countries in order to avoid PHEICs. The response to public health risks was also decided.[12]
+
+The IHR decision algorithm assists WHO Member States in deciding whether a potential PHEIC exists and the WHO should be notified. The WHO should be notified if any two of the four following questions are affirmed:[10]
+
+Is the public health impact of the event serious?
+Is the event unusual or unexpected?
+Is there a significant risk for international spread?
+Is there a significant risk for international travel or trade restrictions?
+The PHEIC criteria include a list of diseases that are always notifiable.[15] SARS, smallpox, wild type poliomyelitis and any new subtype of human influenza are always a PHEIC and do not require an IHR decision to declare them as such.[13]
+
+Quotidian epidemics which public attention do fulfill the criteria to be a PHEIC.[12] EC's were not convened for the cholera outbreak in Haiti, chemical weapons use in Syria or the Fukushima nuclear disaster in Japan, for example.[11][16]
+
+Further assessment is required for diseases which are prone to pandemics, including but not limited to cholera, pneumonic plague, yellow fever, and viral hemorrhagic fevers.[16]
+
+A declaration of a PHEIC may appear as an economic burden to the state facing the epidemic. Incentives to declare an epidemic are lacking and the PHEIC can be seen as placing limitations on trade in countries that are already struggling.[12]
+
+Emergency committee[edit]
+In order to declare a PHEIC, the WHO Director-General is required to take into account factors which include the risk to human health and international spread as well as advice from an internationally made up committee of experts, the IHR Emergency Committee (EC), one of which should be an expert nominated by the State within whose region the event arises.[2] Rather than being a standing committee, the EC is created ad hoc.[17]
+
+Until 2011, the names of IHR EC members were not publicly disclosed. These members are selected according to the disease in question and the nature of the event. The Director-General takes the EC's advice following their technical assessment of the crisis using legal criteria and a predetermined algorithm after a review of all available data on the event. Upon declaration, the EC then makes recommendations on what actions the Director-General and Member States should take to address the crisis.[17] The recommendations are temporary and require three-monthly reviews.[2]
+
+Declarations[edit]
+2009 swine flu declaration[edit]
+In the spring of 2009, a novel influenza A (H1N1) virus emerged. It was detected first in the United States and spread quickly across the US and the world.[18] On 26 April 2009,[19] more than one month after its first emergence,[5] the first PHEIC was declared when the H1N1 (or swine flu) pandemic was still in Phase Three.[3][20][21] On the same day, within three hours the WHO web site received almost two million visits, necessitating the pandemic's own dedicated pandemic influenza web site.[19] At the time H1N1 had been declared a PHEIC, it had so far occurred in only three countries.[5] Declaring H1N1 a PHEIC has therefore been argued as fueling public fear.[16] However, a 2013 study sponsored by the WHO estimated that although the H1N1 pandemic was similar in magnitude to seasonal influenza, it resulted in the loss of more life-years due to a shift toward mortality among persons less than 65 years of age.[22]
+
+2014 polio declaration[edit]
+The second PHEIC was the 2014 polio declaration, issued in May 2014 with the resurgence of wild polio after its near-eradication, deemed "an extraordinary event".[23][24]
+
+Global eradication was deemed to be at risk with small numbers of cases in Afghanistan, Pakistan, and Nigeria.[16]
+
+In October 2019, continuing cases of wild polio in Pakistan and Afghanistan, in addition to new vaccine-derived cases in Africa and Asia, was reviewed and remains a PHEIC.[25] It was extended on 11 December 2019.[26]
+
+2014 Ebola declaration[edit]
+Confirmed cases of Ebola were being reported in Guinea and Liberia in March 2014 and Sierra Leone by May 2014. On Friday, 8 August 2014, following the occurrence of Ebola in the United States and Europe and with the already intense transmission ongoing in three other countries for months,[12] the WHO declared its third PHEIC in response to the outbreak of Ebola in Western Africa.[27] Later, one review showed that a direct impact of this epidemic on America escalated a PHEIC declaration.[5] It was the first PHEIC in a resource-poor setting.[12]
+
+2016 Zika virus declaration[edit]
+On 1 February 2016, the WHO declared its fourth PHEIC in response to clusters of microcephaly and Guillain–Barré syndrome in the Americas, which at the time were suspected to be associated with the ongoing 2015–16 Zika virus epidemic.[28] Later research and evidence bore out these concerns; in April, the WHO stated that "there is scientific consensus that Zika virus is a cause of microcephaly and Guillain–Barré syndrome."[29]  This was the first time a PHEIC was declared for a mosquito‐borne disease.[16] This declaration was lifted on 18 November 2016.[30]
+
+2018–20 Kivu Ebola declaration[edit]
+In October 2018 and then later in April 2019, the WHO did not consider the 2018–20 Kivu Ebola epidemic to be a PHEIC.[31][32] The decision was controversial, with Michael Osterholm, director of the Center for Infectious Disease Research and Policy (CIDRAP) responding with disappointment and describing the situation as "an Ebola gas can sitting in DRC that's just waiting for a match to hit it",[33] while the WHO panel were unanimous that declaring it a PHEIC would not give any added benefit.[33] The advice against declaring a PHEIC in October 2018 and April 2019, despite the criteria for doing so appearing to be met on both occasions has led to the transparency of the IHR EC coming into question. The language used in the statements for the Kivu Ebola epidemic has been noted to be different. In October 2018, the EC stated "a PHEIC should not be declared at this time". However, in the 13 previously declined proposals for declaring a PHEIC, the resultant statements quoted "the conditions for a PHEIC are not currently met" and "does not constitute a PHEIC". In April 2019, they stated that "there is no added benefit to declaring a PHEIC at this stage", a notion that is not part of the PHEIC criteria laid down in the IHR.[17][34]
+
+After confirmed cases of Ebola in neighbouring Uganda in June 2019, Tedros Adhanom, the Director-General of the WHO, announced that the third meeting of a group of experts would be held on 14 June 2019 to assess whether the Ebola spread had become a PHEIC.[35][36] The conclusion was that while the outbreak was a health emergency in the Democratic Republic of the Congo (DRC) and the region, it does not meet all the three criteria for a PHEIC.[37] Despite the number of deaths reaching 1,405 by 11 June 2019 and 1,440 by 17 June 2019, the reason for not declaring a PHIEC was that the overall risk of international spread was deemed to be low, and the risk of damaging the economy of the DRC high.[38] Adhanom also stated that declaring a PHEIC would be an inappropriate way to raise money for the epidemic.[39] Following a visit to the DRC in July 2019, Rory Stewart, the UK's DfID minister, called for the WHO to declare it an emergency.[40]
+
+Acknowledging a high risk of spread to the capital of North Kivu, Goma, a call for a PHEIC declaration was published on 10 July 2019 in the Washington Post by Daniel Lucey and Ron Klain (the former US Ebola response coordinator). They stated that  "in the absence of a trajectory toward extinguishing the outbreak, the opposite path—severe escalation—remains possible. The risk of the disease moving into nearby Goma, Congo—a city of 1 million residents with an international airport—or crossing into the massive refugee camps in South Sudan is mounting. With a limited number of vaccine doses remaining, either would be a catastrophe".[41][42] Four days later, on 14 July 2019, a case of Ebola was confirmed in Goma, which has an international airport and a highly mobile population. Subsequently, the WHO announced a reconvening of a fourth EC meeting on 17 July 2019, when they officially announced it "a regional emergency, and by no means a global threat" and declared it as a PHEIC, without restrictions on trade or travel.[43][44] In response to the declaration, the president of the DRC, together with an expert committee led by a virologist, took responsibility for directly supervising action, while in protest of the declaration, health minister, Oly Ilunga Kalenga resigned.[45] A review of the PHEIC had been planned at a fifth meeting of the EC on 10 October 2019[46] and as of 18 October 2019, it continues to be a PHEIC.[8]
+
+2019 coronavirus pandemic (COVID-19)[edit]
+On 30 January 2020, the WHO declared the outbreak of COVID-19, centered on Wuhan in central China, a PHEIC.[9][47] On the date of the declaration, there were 7,818 cases confirmed globally, affecting 19 countries in five WHO regions.[48][49] Previously, the WHO had held EC meetings on 22 and 23 January 2020 regarding the coronavirus pandemic,[50][51][52] but it was determined that it was too early to declare a PHEIC  at that time given the lack of necessary data and the (then) scale of global impact.[53][54] The WHO recognized the spread of COVID-19 as a pandemic on 11 March 2020.[55] Europe, Iran, US, South Korea and Japan reported a surging of cases and the total number quickly passed China.[56]
+
+Response[edit]
+In 2018, an examination of the first four declarations (2009–2016) showed that the WHO was noted to be more effective in responding to international health emergencies, and that the international system in dealing with these emergencies was "robust".[7]
+
+Another review of the first four declarations, with the exception of wild polio, demonstrated that responses were varied. Severe outbreaks, or those that threatened larger numbers of people, did not receive a swift PHEIC declaration, and the study hypothesized that responses were quicker when American citizens were infected and when the emergencies did not coincide with holidays.[5]
+
+Non-declarations[edit]
+2013 MERS[edit]
+PHEIC was not invoked with the Middle Eastern Respiratory Syndrome (MERS) outbreak in 2013.[57][58] Originating in Saudi Arabia, MERS reached more than 24 countries and resulted in more than 580 deaths by 2015, although most cases were in hospital settings rather than sustained community spread. What constitutes a PHEIC has, as a result, been unclear.[11]
+
+Non-infectious events[edit]
+PHEIC are not confined to only infectious diseases. It may cover events caused by chemical agents or radioactive materials.[11]
+
+The emergence and spread of antimicrobial resistance may debatably constitute a PHEIC.[59][60][61]
+
+See also[edit]
+Biosecurity
+Disease X
+Notifiable disease
+Public health emergency (United States)
+State of emergency
+References[edit]
+Further reading[edit]
+Statement of the Twenty-Third IHR Emergency Committee Regarding the International Spread of Poliovirus. WHO 7 January 2020
+External links[edit]
+
+Politics portal
+Viruses portal
+International Health Regulations and Emergency Committees. www.who.int
+vte
+List of epidemics
+Plague of Athens (429–426 BC)
+Antonine Plague (165–180)
+Plague of Cyprian (250–266)
+Plague of Justinian (541–542)
+Roman Plague (590)
+Plague of Sheroe (627–628)
+Plague of 664 (664–689)
+Japanese smallpox (735–737)
+Sweating sickness (1485–1551)
+Mexican smallpox (1520)
+Cocoliztli Epidemic (1545–1548)
+London plague (1563–1564)
+Cocoliztli epidemic (1576–1580)
+Maltese plague (1592–1593)
+London plague (1592–1593)
+Italian plague (1629–1631)
+Massachusetts smallpox (1633)
+Great Plague of Seville (1647–1652)
+Naples Plague (1656)
+Great Plague of London (1665–1666)
+Maltese plague (1675–1676)
+Great Plague of Vienna (1679)
+Great Northern War plague (1710–1712)
+Great Plague of Marseille (1720–1722)
+Great Plague of 1738 (1738)
+Russian plague (1770–1772)
+Persian Plague (1772)
+N. American smallpox (1780–1782)
+Yellow fever (1793–1798)
+Ottoman plague (1812–1819)
+Maltese plague (1813–1814)
+Caragea's plague (1813)
+Groningen epidemic (1829)
+Great Plains smallpox (1837–1838)
+Typhus (1847–1848)
+Third cholera pandemic (1852–1860)
+Copenhagen cholera (1853)
+Broad Street cholera (1854)
+Fourth cholera pandemic (1863–1879)
+Fifth cholera pandemic (1881–1896)
+Manchurian plague (1910–1911)
+LA pneumonic plague (1924)
+Croydon typhoid (1937)
+Yugoslav smallpox (1972)
+London flu (1972–1973)
+Indian smallpox (1974)
+Surat plague (1994)
+Malaysian Nipah virus (1998–1999)
+Singaporean dengue (2005)
+Indian dengue (2006)
+Chikungunya outbreaks (2006)
+Pakistani dengue (2006)
+Iraqi cholera (2007)
+Zimbabwean cholera (2008–2009)
+Bolivian dengue (2009)
+Gujarat hepatitis (2009)
+W. African meningitis (2009–2010)
+Haiti cholera (2010–present)
+Pakistani dengue (2011)
+Dafur yellow fever (2012)
+MERS (2012)
+Swansea measles (2013)
+Western African Ebola (2013–2016)
+DR Congo Ebola (2014)
+Madagascan plague (2014)
+Odisha jaundice (2014)
+Polio declaration (2014)
+Indian swine flu (2015)
+MERS in South Korea (2015)
+Angolan yellow fever (2016)
+Yemeni cholera (2016–2020)
+Gorakhpur Japanese encephalitis (2017)
+MERS in Saudi Arabia (2018)
+Kerala Nipah virus (2018)
+Équateur province Ebola (2018)
+Kivu Ebola (2018–present)
+Madagascan measles (2018)
+Samoa measles (2019)
+Philippine measles (2019)
+Pacific NW measles (2019)
+New York measles (2019)
+Kuala Koh measles (2019)
+Tonga measles (2019)
+DRC measles (2019–2020)
+New Zealand measles (2019–2020)
+Black Death (1347–1351)
+First cholera pandemic (1816–1826)
+Second cholera pandemic (1829–1851)
+Third plague pandemic (1855–1960)
+1889 flu (1889–1890)
+Sixth cholera pandemic (1899–1923)
+Spanish flu (1918–1920)
+Asian flu (1957–1958)
+Seventh cholera pandemic (1961–1975)
+Hong Kong flu (1968–1969)
+AIDS (1981–present)
+SARS (2002–2004)
+Bird flu (2003–2005)
+Mumps (2009)
+Swine flu (2009–2010)
+MERS (2012–2015)
+Chikungunya (2013–2014)
+Zika (2015–2016)
+COVID-19 (2019–present)
+vte
+Zika virus
+Flaviviridae
+Transmission
+Vector
+Arbovirus
+Aedes
+Sexual
+Vertical
+Transfusion
+Pregnancy
+Brain development
+Coinfection
+Ziika Forest
+Flaviviridae
+Vector
+Arbovirus
+Aedes
+Sexual
+Vertical
+Transfusion
+Arbovirus
+Aedes
+Aedes
+Brain development
+Diagnosis
+RT-PCR
+MAC-ELISA
+PRNT
+Treatment
+Possible links
+Microcephaly
+Guillain–Barré syndrome
+Meningoencephalitis
+Encephalitis
+Uveitis
+Arthrogryposis
+Maculopathy
+Thrombocytopenia
+IFITM3
+Sofosbuvir
+NDE1
+RT-PCR
+MAC-ELISA
+PRNT
+Microcephaly
+Guillain–Barré syndrome
+Meningoencephalitis
+Encephalitis
+Uveitis
+Arthrogryposis
+Maculopathy
+Thrombocytopenia
+IFITM3
+Sofosbuvir
+NDE1
+Zika virus outbreak timeline
+2007 in Yap Islands
+2013–2014 in Oceania
+2015–present
+2007 in Yap Islands
+2013–2014 in Oceania
+2015–present
+Public health
+Mosquito net
+Mosquito control
+Wolbachia
+Genetically modified mosquitos
+Sterile insect technique
+Ovitrap
+Attractive toxic sugar baits
+DDT
+Zika vaccine
+Contraception
+Mosquito net
+Mosquito control
+Wolbachia
+Genetically modified mosquitos
+Sterile insect technique
+Ovitrap
+Attractive toxic sugar baits
+DDT
+Wolbachia
+Genetically modified mosquitos
+Sterile insect technique
+Ovitrap
+Attractive toxic sugar baits
+DDT
+Global Research Collaboration for Infectious Disease Preparedness
+Global Virus Network
+Pan American Health Organization
+Centers for Disease Control and Prevention
+European Centre for Disease Prevention and Control
+Uganda Virus Research Institute
+Institut Louis-Malardé
+Oswaldo Cruz Foundation (Fiocruz)
+Bernhard Nocht Institute for Tropical Medicine
+Public Health Emergency of International Concern
+Diseases of poverty
+Epidemiology
+vte
+SARS-CoV-2 (virus)
+COVID-19 (disease)
+2019
+November–December
+2020
+January
+February
+March
+Pandemic chronology
+Responses
+April
+Pandemic chronology
+Responses
+November–December
+January
+February
+March
+Pandemic chronology
+Responses
+April
+Pandemic chronology
+Responses
+Pandemic chronology
+Responses
+Pandemic chronology
+Responses
+Algeria
+Angola
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cameroon
+Canary Islands
+Cape Verde
+Central African Republic
+Ceuta
+Chad
+Democratic Republic of the Congo
+Republic of the Congo
+Djibouti
+Egypt
+Equatorial Guinea
+Eritrea
+Eswatini
+Ethiopia
+Gabon
+Gambia
+Ghana
+Guinea
+Guinea-Bissau
+Ivory Coast
+Kenya
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Mayotte
+Melilla
+Morocco
+Mozambique
+Namibia
+Niger
+Nigeria
+Réunion
+Rwanda
+São Tomé and Príncipe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+Somaliland
+South Africa
+South Sudan
+Sudan
+Tanzania
+Togo
+Tunisia
+Uganda
+Western Sahara
+Zambia
+Zimbabwe
+Somaliland
+Kazakhstan
+Kyrgyzstan
+Russia
+North Asia
+Tajikistan
+Turkmenistan
+Uzbekistan
+North Asia
+Hong Kong
+Japan
+North Korea
+South Korea
+Macau
+Mongolia
+Taiwan
+Henan
+Hubei
+Inner Mongolia
+Liaoning
+Shanghai
+Sichuan
+Tibet
+ Xinjiang
+Afghanistan
+timeline
+Bangladesh
+Bhutan
+Maldives
+Nepal
+Pakistan
+timeline
+Sri Lanka
+timeline
+timeline
+Brunei
+Cambodia
+East Timor
+Indonesia
+timeline
+Laos
+Malaysia
+Sabah
+Sarawak
+Myanmar
+Singapore
+Thailand
+Nonthaburi
+Vietnam
+timeline
+Sabah
+Sarawak
+Nonthaburi
+Armenia
+Azerbaijan (Artsakh)
+Bahrain
+Georgia (Abkhazia)
+Iran
+Iraq
+timeline
+Israel
+Jordan
+Kuwait
+Lebanon
+Northern Cyprus
+Oman
+Palestine
+Qatar
+Saudi Arabia
+Syria
+Turkey
+timeline
+United Arab Emirates
+Yemen
+timeline
+timeline
+Albania
+Andorra
+Azerbaijan
+Belarus
+Bosnia and Herzegovina
+timeline
+Faroe Islands
+Georgia
+Guernsey
+Iceland
+Isle of Man
+Jersey
+Kazakhstan
+Kosovo
+Liechtenstein
+North Macedonia
+Moldova
+Transnistria
+Monaco
+Montenegro
+Norway
+Russia
+Crimea
+Sevastopol
+San Marino
+Serbia
+Switzerland
+Turkey
+timeline
+Ukraine
+Crimea
+Sevastopol
+Donetsk
+Luhansk
+Vatican City
+timeline
+Transnistria
+Crimea
+Sevastopol
+timeline
+Crimea
+Sevastopol
+Donetsk
+Luhansk
+(timeline)
+England
+London
+Northern Ireland
+Scotland
+Wales
+Overseas territories
+Akrotiri and Dhekelia
+Gibraltar
+London
+Akrotiri and Dhekelia
+Gibraltar
+Austria
+Belgium
+Bulgaria
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+Åland Islands
+France
+Guadeloupe
+French Guiana
+Réunion
+Martinique
+Mayotte
+Saint Martin
+Germany
+North Rhine-Westphalia
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+timeline
+Asturias
+Canary Islands
+Ceuta
+Community of Madrid
+Melilla
+Sweden
+timeline
+Åland Islands
+Guadeloupe
+French Guiana
+Réunion
+Martinique
+Mayotte
+Saint Martin
+North Rhine-Westphalia
+timeline
+Asturias
+Canary Islands
+Ceuta
+Community of Madrid
+Melilla
+timeline
+Belize
+Bermuda
+Costa Rica
+El Salvador
+Guatemala
+Greenland
+Honduras
+Mexico
+Nicaragua
+Panama
+Saint Pierre and Miquelon
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Nova Scotia
+Ontario
+Prince Edward Island
+Quebec
+Montreal
+Saskatchewan
+Montreal
+Anguilla
+Antigua and Barbuda
+Aruba
+Bahamas
+Barbados
+British Virgin Islands
+Cayman Islands
+Cuba
+Curaçao
+Dominica
+Dominican Republic
+Grenada
+Guadeloupe
+Haiti
+Jamaica
+Martinique
+Montserrat
+Caribbean Netherlands
+Bonaire
+Saba
+Sint Eustatius
+Puerto Rico
+Saint Barthélemy
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Sint Maarten
+Saint Vincent and the Grenadines
+Trinidad and Tobago
+Turks and Caicos Islands
+U.S. Virgin Islands
+Bonaire
+Saba
+Sint Eustatius
+timeline
+local government response
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Guam
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+Nassau County
+New York City
+Suffolk County
+Westchester County
+North Carolina
+North Dakota
+Northern Mariana Islands
+Ohio
+Columbus
+Oklahoma
+Oregon
+Portland
+Pennsylvania
+Philadelphia
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+U.S. Virgin Islands
+Utah
+Vermont
+Virginia
+Washington
+Washington, D.C.
+West Virginia
+Wisconsin
+Wyoming
+timeline
+local government response
+Nassau County
+New York City
+Suffolk County
+Westchester County
+Columbus
+Portland
+Philadelphia
+Australia
+Easter Island
+Fiji
+French Polynesia
+Guam
+Hawaii
+New Caledonia
+New Zealand
+Northern Mariana Islands
+Papua New Guinea
+Argentina
+Brazil
+Bolivia
+Chile
+Easter Island
+Colombia
+Ecuador
+Falkland Islands
+French Guiana
+Guyana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela
+Easter Island
+Antarctica
+Cruise ships
+Diamond Princess
+Naval ships
+Charles de Gaulle
+USS Theodore Roosevelt
+Diamond Princess
+Charles de Gaulle
+USS Theodore Roosevelt
+Arts and cultural heritage
+Cinema
+Disney
+Education
+Events affected
+Music industry
+Performing arts
+Public venues and institutions closed
+Sports
+Television
+Video games
+Gender
+Hospitals
+Human rights
+Legal
+Abortion in the United States
+Crime
+Domestic violence
+Prisons
+LGBT community
+Long-term care facilities
+Public transport
+Religion
+Social media
+Social stigma
+Strikes
+Xenophobia and racism
+Abortion in the United States
+Crime
+Domestic violence
+Prisons
+Aviation
+Cannabis industry
+Coronavirus recession
+Financial markets
+Food industry
+Meat industry in the United States
+Restaurant industry in the United States
+Global stock market crash
+Oil price war
+Tourism
+Travel restrictions
+Meat industry in the United States
+Restaurant industry in the United States
+Journalism
+Media coverage
+Misinformation
+Wikipedia's response
+Politics
+Domestic responses
+Criticism of response
+Legislation
+United States protests
+Environment
+International relations
+European Union
+Military
+Science and technology
+Charitable activity
+Domestic responses
+Criticism of response
+Legislation
+United States protests
+European Union
+Evacuations
+Falsified medical products
+Mental health
+Shortages
+Ventilator
+Open-source ventilator
+Extracorporeal membrane oxygenation
+Raise the line
+Ventilator
+Open-source ventilator
+Extracorporeal membrane oxygenation
+Pandemic Severity Assessment Framework
+Public Health Emergency of International Concern
+Non-pharmaceutical interventions
+Social distancing
+Measures
+Face masks
+Flatten the curve
+Disease testing
+Coronavirus apps
+Workplace hazard controls
+Surveillance
+Curfews and lockdowns
+Measures
+Gender
+Pregnancy
+Treatment research
+Drug repurposing research
+Drug development
+Vaccine research
+Hospital ships
+Central Hospital of Wuhan
+Dabie Mountain Regional Medical Centre
+Fangcang Hospitals
+Huoshenshan Hospital
+Wuhan Jinyintan Hospital
+Leishenshan Hospital
+Xinjia Express Hotel
+Kemayoran Athletes Village
+Malaysia Agro Exposition Park Serdang
+Canberra Coronavirus Field Hospital
+Coalition for Epidemic Preparedness Innovations
+World Health Organization
+Wuhan Institute of Virology (China)
+Coronavirus Disease Mitigation Acceleration Task Force (Indonesia)
+White House Coronavirus Task Force (United States)
+Coronavirus Tech Handbook
+Inter-Agency Task Force on Emerging Infectious Diseases (Philippines)
+PM CARES Fund (India)
+SAARC COVID-19 Emergency Fund (India)
+COVID-19 Solidarity Response Fund
+MusiCares COVID-19 Relief Fund
+Imperial College COVID-19 Response Team (UK)
+SAGE (UK)
+National Cabinet of Australia
+National COVID-19 Coordination Commission (Australia)
+UN COVID-19 Supply Chain Task Force (WHO)
+PREPARE (European Union)
+Ai Fen
+Li Wenliang
+Liu Wen
+Corona Rintawan
+Xie Linka
+Zhang Wenhong
+ Roberto Burioni
+Christian Drosten
+Neil Ferguson
+George F. Gao
+Guan Yi
+Kentaro Iwata
+Li Lanjuan
+W. Ian Lipkin
+Ma Xiaowei
+Shi Zhengli
+Wang Chen
+Wang Guangfa
+Yuen Kwok-yung
+Zeng Guang
+Zhong Nanshan
+Tedros Adhanom (Director-General of the World Health Organization)
+Bruce Aylward (Team lead of WHO-China COVID-19 mission)
+Maria Van Kerkhove (Technical Lead for COVID-19 response)
+Michael J. Ryan (Executive Director of the WHO Health Emergencies Programme)
+Deborah Birx (United States)
+Ashley Bloomfield (New Zealand)
+Angelo Borrelli (Italy)
+Jaap van Dissel (the Netherlands)
+Chen Shih-chung (Taiwan)
+Francisco Duque III (Philippines)
+Anthony Fauci (United States)
+Jung Eun-kyeong (South Korea)
+Fahrettin Koca (Turkey)
+Li Keqiang (China)
+Doni Monardo (Indonesia)
+Noor Hisham Abdullah (Malaysia)
+Fernando Simón (Spain)
+Anders Tegnell (Sweden)
+Theresa Tam (Canada)
+Chen Qiushi
+Brett Crozier
+Fang Fang
+Li Zehua
+Qiu Menghuang
+Ren Zhiqiang
+Cases, deaths, recoveries by country
+Daily data by country
+Case fatality rate by country
+WHO situation report
+World map by countries: confirmed per capita
+China
+Hospital beds by country
+Lockdowns
+Mainland China
+Worldwide
+China
+Mainland China
+Worldwide
+Algeria
+chart
+Burkina Faso
+chart
+Burundi
+chart
+Cameroon
+chart
+Egypt
+chart
+Eswatini
+chart
+Ethiopia
+chart
+Ghana
+chart
+Ivory Coast
+chart
+Kenya
+chart
+Malawi
+chart
+Mali
+chart
+Mauritania
+chart
+Mauritius
+chart
+Morocco
+chart
+Nigeria
+chart
+Senegal
+chart
+South Africa
+chart
+Tanzania
+chart
+Togo
+chart
+Tunisia
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+Argentina
+chart
+Bolivia
+chart
+Brazil
+chart
+Canada
+by province
+chart
+Chile
+chart
+Colombia
+chart
+Costa Rica
+chart
+Dominican Republic
+chart
+Ecuador
+chart
+El Salvador
+chart
+Mexico
+chart
+Nicaragua
+chart
+Panama
+chart
+Paraguay
+chart
+United States
+by state
+chart
+Venezuela
+chart
+chart
+chart
+chart
+by province
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by state
+chart
+chart
+Afghanistan
+chart
+Azerbaijan
+chart
+Bangladesh
+chart
+Brunei
+chart
+Cambodia
+chart
+summary
+Mainland China
+aggregate
+chart
+Georgia
+chart
+Hong Kong
+chart
+India
+chart
+summary
+testing
+Indonesia
+chart
+Iran
+chart
+Iraq
+chart
+Israel
+chart
+Japan
+chart
+ship
+Jordan
+chart
+South Korea
+chart
+Kuwait
+chart
+Kyrgyzstan
+chart
+Laos
+chart
+Lebanon
+chart
+Malaysia
+chart
+Myanmar
+chart
+Oman
+chart
+Pakistan
+chart
+Palestine
+chart
+Philippines
+chart
+summary
+areas of quarantine
+Qatar
+chart
+Russia/North Asia
+chart
+Saudi Arabia
+chart
+Singapore
+chart
+Sri Lanka
+chart
+Syria
+chart
+Taiwan
+chart
+Thailand
+chart
+Turkey
+by province
+chart
+United Arab Emirates
+chart
+Vietnam
+chart
+Yemen
+chart
+chart
+chart
+chart
+chart
+chart
+summary
+aggregate
+chart
+chart
+chart
+chart
+summary
+testing
+chart
+chart
+chart
+chart
+chart
+ship
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+summary
+areas of quarantine
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by province
+chart
+chart
+chart
+chart
+Albania
+chart
+Armenia
+chart
+Austria
+chart
+Belarus
+chart
+Belgium
+chart
+Bosnia and Herzegovina
+chart
+Bulgaria
+chart
+Croatia
+chart
+Cyprus
+chart
+Czech Republic
+chart
+Denmark
+chart
+Estonia
+chart
+Finland
+chart
+France
+chart
+Germany
+chart
+Greece
+chart
+Hungary
+chart
+Iceland
+chart
+Ireland
+chart
+Italy
+chart
+Kosovo
+chart
+Latvia
+chart
+Lithuania
+chart
+Luxembourg
+chart
+Malta
+chart
+Moldova
+chart
+Montenegro
+chart
+Netherlands
+chart
+Norway
+chart
+Poland
+chart
+Portugal
+chart
+Romania
+chart
+Russia
+chart
+San Marino
+chart
+Serbia
+chart
+Slovakia
+by region
+chart
+Slovenia
+chart
+Spain
+chart
+Asturias
+Community of Madrid
+Sweden
+chart
+Switzerland
+chart
+Turkey
+by province
+chart
+Ukraine
+chart
+United Kingdom
+Scotland
+chart
+Vatican City
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+chart
+by region
+chart
+chart
+chart
+Asturias
+Community of Madrid
+Asturias
+Community of Madrid
+chart
+chart
+by province
+chart
+chart
+Scotland
+chart
+chart
+Australia
+chart
+by state/territory
+Fiji
+chart
+French Polynesia
+chart
+New Caledonia
+chart
+New Zealand
+chart
+chart
+by state/territory
+chart
+chart
+chart
+chart
+ Category
+ Portal
+ WikiProject

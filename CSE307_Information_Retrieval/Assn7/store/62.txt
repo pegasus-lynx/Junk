@@ -1,0 +1,71 @@
+Title : Graph operations
+
+Graph operations produce new graphs from initial ones. They may be separated into the following major categories.  
+
+Contents
+
+1 Unary operations
+
+1.1 Elementary operations
+1.2 Advanced operations
+
+
+2 Binary operations
+3 Notes
+
+
+1.1 Elementary operations
+1.2 Advanced operations
+
+Unary operations[edit]
+Unary operations create a new graph from a single initial graph.
+
+Elementary operations[edit]
+Elementary operations or editing operations, which are also known as graph edit operations, create a new graph from one initial one by a simple local change, such as addition or deletion of a vertex or of an edge, merging and splitting of vertices, edge contraction, etc.
+The graph edit distance between a pair of graphs is the minimum number of elementary operations required to transform one graph into the other.
+
+Advanced operations[edit]
+Advanced operations create a new graph from one initial one by a complex changes, such as:
+
+transpose graph;
+complement graph;
+line graph;
+graph minor;
+graph rewriting;
+power of graph;
+dual graph;
+medial graph;
+quotient graph;
+Y-Δ transform;
+Mycielskian.
+Binary operations[edit]
+Binary operations create a new graph from two initial graphsG1 = (V1, E1) and G2 = (V2, E2), such as:
+
+graph union: G1 ∪ G2.  There are two definitions.  In the most common one, the disjoint union of graphs, the union is assumed to be disjoint.  Less commonly (though more consistent with the general definition of union in mathematics) the union of two graphs is defined as the graph (V1 ∪ V2, E1 ∪ E2).
+graph intersection: G1 ∩ G2 = (V1 ∩ V2, E1 ∩ E2);[1]
+graph join: graph with all the edges that connect the vertices of the first graph with the vertices of the second graph. It is a commutative operation (for unlabelled graphs);[2]
+graph products based on the cartesian product of the vertex sets:
+cartesian graph product: it is a commutative and associative operation (for unlabelled graphs),[2]
+lexicographic graph product (or graph composition): it is an associative (for unlabelled graphs) and non-commutative operation,[2]
+strong graph product: it is a commutative and associative operation (for unlabelled graphs),
+tensor graph product (or direct graph product, categorical graph product, cardinal graph product, Kronecker graph product): it is a commutative and associative operation (for unlabelled graphs),
+zig-zag graph product;[3]
+graph product based on other products:
+rooted graph product: it is an associative operation (for unlabelled but rooted graphs),
+corona graph product: it is a non-commutative operation;[4]
+series-parallel graph composition:
+parallel graph composition: it is a commutative operation (for unlabelled graphs),
+series graph composition: it is a non-commutative operation,
+source graph composition: it is a commutative operation (for unlabelled graphs);
+Hajós construction.
+cartesian graph product: it is a commutative and associative operation (for unlabelled graphs),[2]
+lexicographic graph product (or graph composition): it is an associative (for unlabelled graphs) and non-commutative operation,[2]
+strong graph product: it is a commutative and associative operation (for unlabelled graphs),
+tensor graph product (or direct graph product, categorical graph product, cardinal graph product, Kronecker graph product): it is a commutative and associative operation (for unlabelled graphs),
+zig-zag graph product;[3]
+rooted graph product: it is an associative operation (for unlabelled but rooted graphs),
+corona graph product: it is a non-commutative operation;[4]
+parallel graph composition: it is a commutative operation (for unlabelled graphs),
+series graph composition: it is a non-commutative operation,
+source graph composition: it is a commutative operation (for unlabelled graphs);
+Notes[edit]

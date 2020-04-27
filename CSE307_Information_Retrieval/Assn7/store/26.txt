@@ -1,0 +1,172 @@
+Title : Corona (solitaire)
+
+Corona is a relatively long and difficult solitaire game using two decks. The object of the game is to move all of the cards to the Foundations.
+
+Layout[edit]
+Corona has eight Foundations that build up in suit from Ace to King.
+
+Here is an example:  Ace♥, 2♥, 3♥, 4♥...
+
+There are twelve Tableau Piles that build down in suit.
+
+Here is an example:  10♦, 9♦, 8♦, 7♦...
+
+The Deck deals out one card at a time.
+
+
+
+
+
+Corona Layout
+
+
+
+
+Corona Layout
+
+Rules[edit]
+Only one card on can be moved at a time, and this is the top card on each Tableau Pile or the single card being dealt.  These cards can be played onto the Foundations or onto other Tableau Piles.  The card being dealt from the Deck automatically fills the empty spaces in the Tableau Piles).  Only one pass through the Deck is allowed.  Corona is won once all cards have been moved to the Foundations.
+
+See also[edit]
+List of solitaires
+Glossary of solitaire
+vte
+Amazons
+Betsy Ross
+Birthday
+The Clock
+Clock Patience
+Contradance
+Leoni's Own
+Precedence
+Quadrille
+Carpet
+Eagle Wing
+Four Seasons
+Golf
+Grand Duchess
+King's/Queen's Audience
+Matrimony
+Moojub
+Odd and Even
+Patriarchs
+Pyramid
+Royal Cotillion
+Royal Rendezvous
+Sultan
+Windmill
+Batsford
+Big Ben
+British Constitution
+British Square
+Congress
+Corona
+Deuces
+Diplomat
+Emperor
+Following
+Fortune's Favor
+Gargantua
+Herring-Bone
+Klondike
+Napoleon at St Helena
+Napoleon's Square
+Red and Black
+Westcliff
+Acme
+Alhambra
+American Toad
+Backbone
+Canfield
+Casket
+Crazy Quilt
+Duchess
+Gate
+The Plot
+Queen of Italy
+Seven Devils
+Accordion
+Aces Up
+Baroness
+Decade
+Eight Cards
+Elevens
+Good Thirteen
+Herz zu Herz
+Hit or Miss
+Narcotic
+Royal Flush
+Royal Marriage
+Travellers
+Interregnum
+Picture Gallery
+Royal Parade
+Tournament
+Virginia Reel
+Babette
+British Blockade
+Labyrinth
+Calculation
+Colorado
+Colours
+Cribbage Square Solitaire
+Frog
+Imaginary Thirteen
+Jubilee
+Poker squares
+Puss in the Corner
+Sir Tommy
+Agnes
+Algerian
+Blockade
+Box Kite
+Bristol
+Four Corners
+Heads And Tails
+Intelligence
+Martha
+Miss Milligan
+Mount Olympus
+Pyramide
+St. Helena
+Stonewall
+Yukon
+Zodiac
+German Patience
+Rouge et Noir
+Scorpion
+Simple Simon
+Spider
+Archway
+Black Hole
+Crescent
+Intrigue
+Stalactites
+Baker's Dozen
+Baker's Game
+Beleaguered Castle
+Bisley
+Capricieuse
+Eight Off
+Flower Garden
+Fortress
+FreeCell
+Grandfather's Clock
+House in the Woods
+King Albert
+La Belle Lucie
+Mrs. Mop
+Päckchen
+Penguin
+Persian
+Russian
+Seahaven Towers
+Shamrocks
+Fourteen Out
+Gaps
+Gay Gordons
+Maze
+Nestor
+Double Klondike
+Nerts/Pounce/Racing demon
+Russian Bank

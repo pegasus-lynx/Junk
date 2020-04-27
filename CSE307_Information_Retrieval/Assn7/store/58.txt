@@ -1,0 +1,492 @@
+Title : Rotifer
+
+
+
+Eurotatoria
+Bdelloidea
+Monogononta
+Pararotatoria
+Seisonidae
+and See text.
+Bdelloidea
+Monogononta
+Seisonidae
+The rotifers (from Latin rota “wheel” and -fer “bearing”), commonly called wheel animals or wheel animalcules,[1] make up a phylum (Rotifera) of microscopic and near-microscopic pseudocoelomate animals.
+
+They were first described by Rev. John Harris in 1696, and other forms were described by Antonie van Leeuwenhoek in 1703.[2] Most rotifers are around 0.1–0.5 mm long (although their size can range from 50 μm to over 2 mm),[1] and are common in freshwater environments throughout the world with a few saltwater species.
+
+Some rotifers are free swimming and truly planktonic, others move by inchworming along a substrate, and some are sessile, living inside tubes or gelatinous holdfasts that are attached to a substrate. About 25 species are colonial (e.g., Sinantherina semibullata), either sessile or planktonic. Rotifers are an important part of the freshwater zooplankton, being a major foodsource and with many species also contributing to the decomposition of soil organic matter.[3] Most species of the rotifers are cosmopolitan, but there are also some endemic species, like Cephalodella vittata to Lake Baikal.[4] Recent barcoding evidence, however, suggests that some 'cosmopolitan' species, such as Brachionus plicatilis, B. calyciflorus, Lecane bulla, among others, are actually species complexes.[5][6]
+
+In some recent treatments, rotifers are placed with acanthocephalans in a larger clade called Syndermata.
+
+Contents
+
+1 Taxonomy and naming
+
+1.1 Etymology
+
+
+2 Anatomy
+
+2.1 Digestive system
+2.2 Nervous system
+2.3 Biology
+
+
+3 Feeding
+4 Reproduction and life cycle
+
+4.1 Loss of sexual reproduction system
+4.2 Resting eggs
+4.3 Anhydrobiosis
+
+
+5 Predators
+6 Genome size
+7 Gallery
+8 References
+9 External links
+
+
+1.1 Etymology
+
+
+2.1 Digestive system
+2.2 Nervous system
+2.3 Biology
+
+
+4.1 Loss of sexual reproduction system
+4.2 Resting eggs
+4.3 Anhydrobiosis
+
+Taxonomy and naming[edit]
+Rev. John Harris first described the rotifers (in particular a bdelloid rotifer) in 1696 as "an animal like a large maggot which could contract itself into a spherical figure and then stretch itself out again; the end of its tail appeared with a forceps like that of an earwig".[2] In 1702, Antonie van Leeuwenhoek gave a detailed description of Rotifer vulgaris and subsequently described Melicerta ringens and other species.[7] He was also the first to publish observations of the revivification of certain species after drying. Other forms were described by other observers, but it wasn't until the publication of Christian Gottfried Ehrenberg's Die Infusionsthierchen als vollkommene Organismen in 1838 that the rotifers were recognized as being multicellular animals.[7]
+
+About 2200 species of rotifers have been described. Their taxonomy is currently in a state of flux. One treatment places them in the phylum Rotifera, with three classes: Seisonidea, Bdelloidea and Monogononta.[8] The largest group is the Monogononta, with about 1500 species, followed by the Bdelloidea, with about 350 species. There are only two known genera with three species of Seisonidea.[9]
+
+The Acanthocephala, previously considered to be a separate phylum, have been demonstrated to be modified rotifers. The exact relationship to other members of the phylum has not yet been resolved.[10] One possibility is that the Acanthocephala are closer to the Bdelloidea and Monogononta than to the Seisonidea; the corresponding names and relationships are shown in the cladogram below.
+
+Seisonida
+
+Bdelloidea
+
+Monogononta
+
+Acanthocephala
+
+The Rotifera, strictly speaking, are confined to the Bdelloidea and the Monogononta. Rotifera, Acanthocephala and Seisonida make up a clade called Syndermata.[11]
+
+Etymology[edit]
+The word rotifer is derived from a Neo-Latin word meaning "wheel-bearer",[12] due to the corona around the mouth that in concerted sequential motion resembles a wheel (though the organ does not actually rotate).
+
+Anatomy[edit]
+Rotifers have bilateral symmetry and a variety of different shapes. The body of a rotifer is divided into a head, trunk, and foot, and is typically somewhat cylindrical. There is a well-developed cuticle, which may be thick and rigid, giving the animal a box-like shape, or flexible, giving the animal a worm-like shape; such rotifers are respectively called loricate and illoricate. Rigid cuticles are often composed of multiple plates, and may bear spines, ridges, or other ornamentation. Their cuticle is nonchitinous and is formed from sclerotized proteins.
+
+The most distinctive feature of rotifers is the presence of a ciliated structure, called the corona, on the head. In the more primitive species, this forms a simple ring of cilia around the mouth from which an additional band of cilia stretches over the back of the head. In the great majority of rotifers, however, this has evolved into a more complex structure.
+
+Modifications to the basic plan of the corona include alteration of the cilia into bristles or large tufts, and either expansion or loss of the ciliated band around the head. In genera such as Collotheca, the corona is modified to form a funnel surrounding the mouth. In many species, such as those in the genus Testudinella, the cilia around the mouth have disappeared, leaving just two small circular bands on the head. In the bdelloids, this plan is further modified, with the upper band splitting into two rotating wheels, raised up on a pedestal projecting from the upper surface of the head.[13]
+
+The trunk forms the major part of the body, and encloses most of the internal organs. The foot projects from the rear of the trunk, and is usually much narrower, giving the appearance of a tail. The cuticle over the foot often forms rings, making it appear segmented, although the internal structure is uniform. Many rotifers can retract the foot partially or wholly into the trunk. The foot ends in from one to four toes, which, in sessile and crawling species, contain adhesive glands to attach the animal to the substratum. In many free-swimming species, the foot as a whole is reduced in size, and may even be absent.[13]
+
+Digestive system[edit]
+The coronal cilia create a current that sweeps food into the mouth. The mouth opens into a characteristic chewing pharynx (called the mastax), sometimes via a ciliated tube, and sometimes directly. The pharynx has a powerful muscular wall and contains tiny, calcified, jaw-like structures called trophi, which are the only fossilizable parts of a rotifer. The shape of the trophi varies between different species, depending partly on the nature of their diet. In suspension feeders, the trophi are covered in grinding ridges, while in more actively carnivorous species, they may be shaped like forceps to help bite into prey. In some ectoparasitic rotifers, the mastax is adapted to grip onto the host, although, in others, the foot performs this function instead.[13]
+
+Behind the mastax lies an oesophagus, which opens into a stomach where most of the digestion and absorption occurs. The stomach opens into a short intestine that terminates in a cloaca on the posterior dorsal surface of the animal. Up to seven salivary glands are present in some species, emptying to the mouth in front of the oesophagus, while the stomach is associated with two gastric glands that produce digestive enzymes.[13]
+
+A pair of protonephridia open into a bladder that drains into the cloaca. These organs expel water from the body, helping to maintain osmotic balance.[13]
+
+Nervous system[edit]
+Rotifers have a small brain, located just above the mastax, from which a number of nerves extend throughout the body. The number of nerves varies among species, although the nervous system usually has a simple layout. Close to the brain lies a retrocerebral organ, consisting of two glands either side of a medial sac. The sac drains into a duct that divides into two before opening through pores on the uppermost part of the head. The function of the retrocerebral organ is unclear.[13][14]
+
+The nervous system comprises about 25% of the roughly 1,000 cells in a rotifer.[14]
+
+Rotifers typically possess one or two pairs of short antennae and up to five eyes. The eyes are simple in structure, sometimes with just a single photoreceptor cell. In addition, the bristles of the corona are sensitive to touch, and there are also a pair of tiny sensory pits lined by cilia in the head region.[13]
+
+Biology[edit]
+The coronal cilia pull the animal, when unattached, through the water.
+
+Like many other microscopic animals, adult rotifers frequently exhibit eutely—they have a fixed number of cells within a species, usually on the order of 1,000.
+
+Bdelloid rotifer genomes contain two or more divergent copies of each gene, suggesting a long-term asexual evolutionary history.[15] For example, four copies of hsp82 are found. Each is different and found on a different chromosome excluding the possibility of homozygous sexual reproduction.
+
+Feeding[edit]
+Rotifers eat particulate organic detritus, dead bacteria, algae, and protozoans. They eat particles up to 10 micrometres in size. Like crustaceans, rotifers contribute to nutrient recycling. For this reason, they are used in fish tanks to help clean the water, to prevent clouds of waste matter. Rotifers affect the species composition of algae in ecosystems through their choice in grazing. Rotifers may be in competition with cladocera and copepods for planktonic food sources.
+
+Reproduction and life cycle[edit]
+Rotifers are dioecious and reproduce sexually or parthenogenetically. They are sexually dimorphic, with the females always being larger than the males. In some species, this is relatively mild, but in others the female may be up to ten times the size of the male. In parthenogenetic species, males may be present only at certain times of the year, or absent altogether.[13]
+
+The female reproductive system consists of one or two ovaries, each with a vitellarium gland that supplies the eggs with yolk. Together, each ovary and vitellarium form a single syncitial structure in the anterior part of the animal, opening through an oviduct into the cloaca.[13]
+
+Males do not usually have a functional digestive system, and are therefore short-lived, often being sexually fertile at birth. They have a single testicle and sperm duct, associated with a pair of glandular structures referred to as prostates (unrelated to the vertebrate prostate). The sperm duct opens into a gonopore at the posterior end of the animal, which is usually modified to form a penis. The gonopore is homologous to the cloaca of females, but in most species has no connection to the vestigial digestive system, which lacks an anus.[13]
+
+The phylum Rotifera encloses three classes that reproduce by three different mechanisms: Seisonidea only reproduce sexually; Bdelloidea reproduce exclusively by asexual parthenogenesis; Monogononta reproduce alternating these two mechanisms ("cyclical parthenogenesis" or "heterogony").[16] Parthenogenesis (amictic phase) dominates the monogonont life cycle, promoting fast population growth and colonization. In this phase males are absent and amictic females produce diploid eggs by mitosis which develop parthenogenetically into females that are clones of their mothers.[16] Some amictic females can generate mictic females that will produce haploid eggs by meiosis. Mixis (meiosis) is induced by different types of stimulus depending on species. Haploid eggs develop into haploid dwarf males if they are not fertilized and into diploid “resting eggs” (or “diapausing eggs”) if they are fertilized by males.
+
+Fertilization is internal. The male either inserts his penis into the female's cloaca or uses it to penetrate her skin, injecting the sperm into the body cavity. The egg secretes a shell, and is attached either to the substratum, nearby plants, or the female's own body. A few species, such as members of the Rotaria, are ovoviviparous, retaining the eggs inside their body until they hatch.[13]
+
+Most species hatch as miniature versions of the adult. Sessile species, however, are born as free-swimming larvae, which closely resemble the adults of related free-swimming species. Females grow rapidly, reaching their adult size within a few days, while males typically do not grow in size at all.[13]
+
+The life span of monogonont females varies from two days to about three weeks.
+
+Loss of sexual reproduction system[edit]
+‘Ancient asexuals’: Bdelloid rotifers are assumed to have reproduced without sex for many millions of years. Males are absent within the species, and females reproduce only by parthenogenesis.
+
+Recent transitions: Loss of sexual reproduction can be inherited in a simple Mendelian fashion in the monogonont rotifer Brachionus calyciflorus: This species can normally switch between sexual and asexual reproduction (cyclical parthenogenesis), but occasionally gives rise to purely asexual lineages (obligate parthenogens). These lineages are unable to reproduce sexually due to being homozygous for a recessive allele.[17]
+
+Resting eggs[edit]
+Resting eggs enclose an embryo encysted in a three layered shell that protects it from external stressors.[18][19] They are able to remain dormant for several decades and can resist adverse periods (e.g., pond desiccation or presence of antagonists).[20][21] When favourable conditions return and after an obligatory period of diapause which varies among species, resting eggs hatch releasing diploid amictic females that enter into the asexual phase of the life cycle.[16][22]
+
+Anhydrobiosis[edit]
+Bdelloid rotifer females cannot produce resting eggs, but many can survive prolonged periods of adverse conditions after desiccation. This facility is termed anhydrobiosis, and organisms with these capabilities are termed anhydrobionts. Under drought conditions, bdelloid rotifers contract into an inert form and lose almost all body water; when rehydrated they resume activity within a few hours. Bdelloids can survive the dry state for long periods, with the longest well-documented dormancy being nine years. While in other anhydrobionts, such as the brine shrimp, this desiccation tolerance is thought to be linked to the production of trehalose, a non-reducing disaccharide (sugar), bdelloids apparently cannot synthesise trehalose. In bdelloids, a major cause of the resistance to desiccation, as well as resistance to ionizing radiation, is a highly efficient mechanism for repairing the DNA double-strand breaks induced by these agents.[23] This repair mechanism likely involves mitotic recombination between homologous DNA regions.[23]
+
+Predators[edit]
+Rotifers fall prey to many animals, such as copepods, fish (e.g. herring, salmon), bryozoa, comb jellies, jellyfish, starfish, and tardigrade.[24]
+
+Genome size[edit]
+The genome size of a bdelloid rotifer, Adineta vaga, was reported to be around 244 Mb.[25] The genomes of Monogononts seem to be significantly smaller than those of Bdelloids. In Monogononta the nuclear DNA content (2C) in eight different species of four different genera ranged almost fourfold, from 0.12 to 0.46 pg.[26] Haploid "1C" genome sizes in Brachionus species range at least from 0.056 to 0.416 pg.[27]
+
+Gallery[edit]
+
+
+
+
+Pair of Lepadella Rotifers, from pond water in Northeast US.
+
+
+
+
+Pair of Lepadella Rotifers, from pond water in Northeast US.
+
+References[edit]
+Jersabek, C. D. & Leitner, M. F.2013: The Rotifer World Catalog. World Wide Web electronic publication. [1]
+External links[edit]
+Rotifer World Catalog, by Jersabek, C.D. & Leitner M.F.
+Introduction to the Rotifera
+Rotifers
+Tree of Life Web Project
+Rotifer Videos
+Detailed description of Rotifers
+The Rotifers, by Robert Abernathy, on Project Gutenberg
+"Rotifera" . Encyclopædia Britannica (11th ed.). 1911.
+vte
+Porifera (sponges)
+Ctenophora (comb jellies)
+Placozoa (Trichoplax)
+Cnidaria (jellyfish and relatives)
+Xenacoelomorpha
+Xenoturbellida (Xenoturbella)
+Acoelomorpha
+acoels
+nemertodermatids
+Xenoturbellida (Xenoturbella)
+Acoelomorpha
+acoels
+nemertodermatids
+acoels
+nemertodermatids
+(see below↓)
+Chordata
+lancelets
+tunicates
+Vertebrata/Craniata
+lancelets
+tunicates
+Vertebrata/Craniata
+Echinodermata (starfish and relatives)
+Hemichordata
+acorn worms
+pterobranchs
+acorn worms
+pterobranchs
+Kinorhyncha (mud dragons)
+Priapulida (penis worms)
+Nematoda (roundworms)
+Nematomorpha (horsehair worms)
+Loricifera (corset animals)
+Onychophora (velvet worms)
+Arthropoda (arthropods)
+Tardigrada (waterbears)
+Chaetognatha (arrow worms)
+Gnathostomulida (jaw worms)
+Micrognathozoa (Limnognathia)
+Syndermata
+Rotifera (wheel animals)
+Acanthocephala (thorny-headed worms)
+Rotifera (wheel animals)
+Acanthocephala (thorny-headed worms)
+Orthonectida
+Dicyemida or Rhombozoa
+Monoblastozoa (Salinella)†
+Platyhelminthes (flatworms)
+Gastrotricha (hairybacks)
+Cycliophora (Symbion)
+Annelida (ringed worms)
+Sipuncula ‡
+Mollusca (molluscs)
+Nemertea (ribbon worms)
+Entoprocta or Kamptozoa
+Ectoprocta (moss animals)
+Brachiopoda (lamp shells)
+Phoronida (horseshoe worms)
+Sponges
+Hexactinellid
+Demosponge
+Calcareous
+Homoscleromorpha
+Cnidarians
+Anthozoa inc. corals
+Hexacorallia
+Octocorallia
+Medusozoa inc. jellyfish
+Myxozoa
+Vertebrates
+Jawless fish
+Cartilaginous fish
+Bony fish
+Amphibians
+Reptiles
+Birds
+Mammals
+Echinoderms
+Sea lilies
+Asterozoa inc. starfish
+Echinozoa
+Nematodes
+Chromadorea
+Enoplea
+Secernentea
+Arthropods
+Chelicerates/Arachnids
+Myriapods
+Crustaceans
+Hexapods/Insects
+Platyhelminths
+Turbellaria
+Trematoda
+Monogenea
+Cestoda
+Bryozoans
+Phylactolaemata
+Stenolaemata
+Gymnolaemata
+Annelids
+Polychaetes
+Clitellata
+Echiura
+Sipuncula
+Molluscs
+Gastropods
+Cephalopods
+Bivalves
+Chitons
+Tusk shells
+Hexactinellid
+Demosponge
+Calcareous
+Homoscleromorpha
+Anthozoa inc. corals
+Hexacorallia
+Octocorallia
+Medusozoa inc. jellyfish
+Myxozoa
+Hexacorallia
+Octocorallia
+Jawless fish
+Cartilaginous fish
+Bony fish
+Amphibians
+Reptiles
+Birds
+Mammals
+Sea lilies
+Asterozoa inc. starfish
+Echinozoa
+Chromadorea
+Enoplea
+Secernentea
+Chelicerates/Arachnids
+Myriapods
+Crustaceans
+Hexapods/Insects
+Turbellaria
+Trematoda
+Monogenea
+Cestoda
+Phylactolaemata
+Stenolaemata
+Gymnolaemata
+Polychaetes
+Clitellata
+Echiura
+Sipuncula
+Gastropods
+Cephalopods
+Bivalves
+Chitons
+Tusk shells
+vte
+Acidobacteria
+Actinobacteria
+Aquificae
+Bacteroidetes
+Chlamydiae
+Chlorobi
+Chloroflexi
+Chrysiogenetes
+Cyanobacteria
+Deferribacteres
+Deinococcus–Thermus
+Dictyoglomi
+Fibrobacteres
+Firmicutes
+Fusobacteria
+Gemmatimonadetes
+Nitrospirae
+Planctomycetes
+Proteobacteria
+Spirochaetes
+Thermodesulfobacteria
+Thermomicrobia
+Thermotogae
+Verrucomicrobia
+Crenarchaeota
+Euryarchaeota
+Korarchaeota
+Nanoarchaeota
+Archaeal Richmond Mine acidophilic nanoorganisms
+Heterokontophyta
+Haptophyta
+Cryptophyta
+Ciliophora
+Apicomplexa
+Dinoflagellata
+Euglenozoa
+Percolozoa
+Metamonada
+Radiolaria
+Foraminifera
+Cercozoa
+Rhodophyta
+Glaucophyta
+Amoebozoa
+Chytridiomycota
+Blastocladiomycota
+Neocallimastigomycota
+Glomeromycota
+Zygomycota
+Ascomycota
+Basidiomycota
+Chlorophyta
+Charophyta
+Marchantiophyta
+Anthocerotophyta
+Moss
+Lycopodiophyta
+Pteridophyta
+Cycadophyta
+Ginkgophyta
+Pinophyta
+Gnetophyta
+Flowering plant
+Sponge
+Ctenophora
+Placozoa
+Cnidaria
+Xenacoelomorpha
+Chordata
+Hemichordata
+Echinodermata
+Chaetognatha
+Kinorhyncha
+Loricifera
+Priapulida
+Nematoda
+Nematomorpha
+Onychophora
+Tardigrada
+Arthropoda
+Flatworm
+Gastrotricha
+Orthonectida
+Dicyemida
+Rotifera
+Acanthocephala
+Gnathostomulida
+Micrognathozoa
+Cycliophora
+Nemertea
+Phoronida
+Bryozoa
+Entoprocta
+Brachiopoda
+Mollusca
+Annelida
+vte
+Bacteria
+Ciliate
+Giardia
+Infusoria
+Protist
+Protozoa
+Rotifer
+Volvox
+Spermatozoa (sperm cells)
+Red blood cells
+Crystals in gouty tophi
+Animalcule
+Bacteriology
+Protozoology
+Protistology
+Spontaneous generation
+Preformationism
+Microscopic discovery of microorganisms
+Microscopic scale
+History of biology
+History of microbiology
+Natural history
+Optical microscopy
+History of microscopy
+History of the microscope
+Invention of the optical microscope
+Timeline of microscope technology
+Golden Age of Dutch science and technology
+Science and technology in the Dutch Republic
+Royal Society
+Scientific Revolution
+Age of Reason
+Clifford Dobell (Leeuwenhoek scholar)
+Brian J. Ford (Leeuwenhoek scholar)
+Galileo Galilei
+Regnier de Graaf
+Robert Hooke (author of Micrographia)
+Nicolaas Hartsoeker
+Nicolas Steno
+Jan Swammerdam
+Johannes Vermeer
+Antoni van Leeuwenhoek Ziekenhuis
+Leeuwenhoek (crater)
+Leeuwenhoek Lecture
+Leeuwenhoek Medal
+Antonie van Leeuwenhoek (journal)
+Leeuwenhoeckia
+Levenhookia
+Leeuwenhoekiella
+List of people considered father or mother of a scientific field
+1 First observed, described, and studied by van Leeuwenhoek.
+ Category
+Wikidata: Q180148
+Wikispecies: Rotifera
+ADW: Rotifera
+EoL: 6851
+EPPO: 1ROTIP
+Fauna Europaea: 12167
+Fauna Europaea (new): 7b6f75e7-8a13-433c-aca4-2ec935a57181
+Fossilworks: 67114
+GBIF: 91
+iNaturalist: 126917
+IRMNG: 196
+ITIS: 58239
+NCBI: 10190
+uBio: 4333491
+WoRMS: 14260
+

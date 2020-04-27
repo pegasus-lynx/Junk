@@ -1,0 +1,138 @@
+Title : Positive-sense single-stranded RNA virus
+
+
+
+Nidovirales
+Picornavirales
+Tymovirales
+Unassigned Families
+Alphatetraviridae
+Alvernaviridae
+Astroviridae
+Barnaviridae
+Benyviridae
+Bromoviridae
+Caliciviridae
+Carmotetraviridae
+Closteroviridae
+Flaviviridae
+Hepeviridae
+Leviviridae
+Luteoviridae
+Narnaviridae
+Nodaviridae
+Permutotetraviridae
+Potyviridae
+Sarthroviridae
+Solemoviridae
+Solinviviridae
+Togaviridae
+Tombusviridae
+Virgaviridae
+Unassigned Genera
+Albetovirus
+Aumaivirus
+Blunervirus
+Cilevirus
+Higrevirus
+Idaeovirus
+Ourmiavirus
+Papanivirus
+Polemovirus
+Sinaivirus
+Virtovirus
+Alphatetraviridae
+Alvernaviridae
+Astroviridae
+Barnaviridae
+Benyviridae
+Bromoviridae
+Caliciviridae
+Carmotetraviridae
+Closteroviridae
+Flaviviridae
+Hepeviridae
+Leviviridae
+Luteoviridae
+Narnaviridae
+Nodaviridae
+Permutotetraviridae
+Potyviridae
+Sarthroviridae
+Solemoviridae
+Solinviviridae
+Togaviridae
+Tombusviridae
+Virgaviridae
+Unassigned Genera
+Albetovirus
+Aumaivirus
+Blunervirus
+Cilevirus
+Higrevirus
+Idaeovirus
+Ourmiavirus
+Papanivirus
+Polemovirus
+Sinaivirus
+Virtovirus
+Albetovirus
+Aumaivirus
+Blunervirus
+Cilevirus
+Higrevirus
+Idaeovirus
+Ourmiavirus
+Papanivirus
+Polemovirus
+Sinaivirus
+Virtovirus
+A positive-sense single-stranded RNA virus (or (+)ssRNA virus) is a virus that uses positive sense single stranded RNA as its genetic material. Single stranded RNA viruses are classified as positive or negative depending on the sense or polarity of the RNA. The positive-sense viral RNA genome can serve as messenger RNA and can be translated into protein in the host cell. Positive-sense ssRNA viruses belong to Group IV in the Baltimore classification.[1] Positive-sense RNA viruses account for a large fraction of known viruses, including many pathogens such as the hepacivirus C, West Nile virus, dengue virus, SARS and MERS coronaviruses, and SARS-CoV-2[2] as well as less clinically serious pathogens such as the rhinoviruses that cause the common cold.[3][4][5]
+
+Contents
+
+1 Replication
+2 Recombination
+3 Genome
+4 Taxonomic distribution
+
+4.1 Bacteria
+4.2 Eukaryotes
+
+
+5 See also
+6 References
+
+
+4.1 Bacteria
+4.2 Eukaryotes
+
+Replication[edit]
+Positive-sense ssRNA viruses have genetic material that can function both as a genome and as messenger RNA; it can be directly translated into protein in the host cell by host ribosomes.[6] The first proteins to be expressed after infection serve genome replication functions; they recruit the positive-strand viral genome to viral replication complexes formed in association with intracellular membranes. These complexes contain proteins of both viral and host cell origin, and may be associated with the membranes of a variety of organelles—often the rough endoplasmic reticulum, but also including membranes derived from mitochondria, vacuoles, the Golgi apparatus, chloroplasts, peroxisomes, plasma membranes, autophagosomal membranes, and novel cytoplasmic compartments.[3] The replication of the positive-sense ssRNA genome proceeds through double-stranded RNA intermediates, and the purpose of replication in these membranous invaginations may be the avoidance of cellular response to the presence of dsRNA. In many cases subgenomic RNAs are also created during replication.[6] After infection, the entirety of the host cell's translation machinery may be diverted to the production of viral proteins as a result of the very high affinity for ribosomes of the viral genome's internal ribosome entry site (IRES) elements; in some viruses, such as poliovirus and rhinoviruses, normal protein synthesis is further disrupted by viral proteases degrading components required to initiate translation of cellular mRNA.[5]
+
+All positive-sense ssRNA virus genomes encode RNA-dependent RNA polymerase (RdRP), a viral protein that synthesizes RNA from an RNA template. Host cell proteins recruited by positive-sense ssRNA viruses during replication include RNA-binding proteins, chaperone proteins, and membrane remodeling and lipid synthesis proteins, which collectively participate in exploiting the cell's secretory pathway for viral replication.[3]
+
+Recombination[edit]
+Numerous positive-sense (+)RNA viruses can undergo genetic recombination when at least two viral genomes are present in the same host cell.[7] The capability for recombination among (+)ssRNA virus pathogens of humans is common.  RNA recombination appears to be a major driving force in determining genome architecture and the course of viral evolution among Picornaviridae (e.g. poliovirus).[8]  In the Retroviridae (e.g. HIV), genome damage  appears to be avoided during reverse transcription by strand switching, a form of recombination.[9][10][11] Recombination occurs in the Coronaviridae (e.g. SARS).[12] Recombination in RNA viruses appears to be an adaptation for coping with genome damage.[7]  Recombination can also occur infrequently between (+)ssRNA viruses of the same species but of divergent lineages. The resulting recombinant viruses may sometimes cause an outbreak of infection in humans, as in the case of SARS and MERS.[12]
+
+(+)ssRNA viruses are common in plants. In tombusviruses and carmoviruses RNA recombination occurs frequently during replication.[13] The ability of the RNA-dependent RNA polymerase of these viruses to switch RNA templates suggests a copy choice model of RNA recombination that may be an adaptive mechanism for coping with damage in the viral genome.[13]  Other (+)ssRNA viruses of plants have also been reported to be capable of recombination, such as Brom mosaic bromovirus[14] and Sindbis virus.[15]
+
+Genome[edit]
+The genome of a positive-sense ssRNA virus usually contains relatively few genes, usually between three and ten, including an RdRP.[3] Coronaviruses have the largest known RNA genomes, between 27 and 32 kilobases in length, and likely possess replication proofreading mechanisms in the form of an exoribonuclease within nonstructural protein 14.[16]
+
+Taxonomic distribution[edit]
+The (+)ssRNA viruses are classified into three orders—the Nidovirales, Picornavirales, and Tymovirales—and 33 families, of which 20 are not assigned to an order. A broad range of hosts can be infected by (+)ssRNA viruses, including bacteria (the Leviviridae), eukaryotic microorganisms, plants, invertebrates, and vertebrates.[17] No examples have been described that infect archaea, whose virome is generally much less well-characterized.[17][18]
+
+Bacteria[edit]
+Among known (+)ssRNA viruses, only the Leviviridae are bacteriophages (that is, viruses that infect bacteria). Known leviviruses infect enterobacteria. Phage with RNA genomes are relatively rare and poorly understood, with only one other recognized group—a family of double-stranded RNA viruses called the Cystoviridae. However, metagenomics has led to the identification of numerous additional novel examples.[19]
+
+Eukaryotes[edit]
+Positive-sense ssRNA viruses are the most common type of plant virus.[20] Members of the (+)ssRNA picornavirus group are also extremely abundant—to the point of "unexpected dominance"—in marine viruses characterized by metagenomics. These viruses likely infect single-celled eukaryotes.[21]
+
+There are eight families of (+)ssRNA viruses that infect vertebrates, of which four are unenveloped (Picornaviridae, Astroviridae, Caliciviridae, and Hepeviridae) and four are enveloped (Flaviviridae, Togaviridae, Arteriviridae, and Coronaviridae). All but the arterivirus family contain at least one human pathogen; arteriviruses are known only as animal pathogens.[5] Many pathogenic (+)ssRNA viruses are arthropod-borne viruses (also called arboviruses)—that is, transmitted by and capable of replicating in biting insects which then transfer the pathogen to animal hosts. Recent metagenomics studies have also identified large numbers of RNA viruses whose host range is specific to insects.[22]
+
+See also[edit]
+Double-stranded RNA virus
+Negative-sense single-stranded RNA virus
+Sense (molecular biology)
+References[edit]

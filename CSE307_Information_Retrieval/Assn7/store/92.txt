@@ -1,0 +1,202 @@
+Title : Severe acute respiratory syndrome-related coronavirus
+
+
+
+SARS-CoV
+ SARS-CoV-2
+ Bat SARS-like coronavirus WIV1
+ Numerous other bat strains
+
+SARS coronavirus
+SARS-related coronavirus
+Severe acute respiratory syndrome coronavirus[1]
+Severe acute respiratory syndrome-related coronavirus (SARS-CoV or SARSr-CoV)[note 1] is a species of coronavirus that infects humans, bats and certain other mammals.[2][3] It is an enveloped positive-sense single-stranded RNA virus that enters its host cell by binding to the angiotensin-converting enzyme 2 (ACE2) receptor.[4] It is a member of the genus Betacoronavirus and subgenus Sarbecoronavirus.[5][6]
+
+Two strains of the virus have caused outbreaks of severe respiratory diseases in humans: severe acute respiratory syndrome coronavirus (SARS-CoV or SARS-CoV-1), which caused the 2002–2004 outbreak of severe acute respiratory syndrome (SARS), and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is causing 
+the 2019–20 pandemic of coronavirus disease 2019 (COVID-19).[7][8] There are hundreds of other strains of SARS-CoV, all of which are only known to infect non-human species: bats are a major reservoir of many strains of SARS-related coronaviruses, and several strains have been identified in palm civets, which were likely ancestors of SARS-CoV.[7][9]
+
+The SARS-related coronavirus was one of several viruses identified by the World Health Organization (WHO) in 2016 as a likely cause of a future epidemic in a new plan developed after the Ebola epidemic for urgent research and development before and during an epidemic towards diagnostic tests, vaccines and medicines. The prediction came to pass with the 2019–20 coronavirus pandemic.[10][11]
+
+Contents
+
+1 Classification
+2 Genome
+3 Morphology
+4 Life cycle
+
+4.1 Attachment and entry
+4.2 Genome translation
+4.3 Replication and transcription
+4.4 Assembly and release
+
+
+5 See also
+6 Notes
+7 References
+8 Further reading
+9 External links
+
+
+4.1 Attachment and entry
+4.2 Genome translation
+4.3 Replication and transcription
+4.4 Assembly and release
+
+Classification[edit]
+SARS-related coronavirus is a member of the genus Betacoronavirus (group 2) and subgenus Sarbecovirus (subgroup B).[12]  Sarbecoviruses, unlike embecoviruses or alphacoronaviruses, only have one papain-like proteinase (PLpro) instead of two in the open reading frame ORF1.[13] SARSr-CoV was determined to be an early split-off from the betacoronaviruses based on a set of conserved domains that it shares with the group.[14][15]
+
+Bats serve as the main host reservoir for the SARS-related coronavirus. The virus has coevolved in the bat host reservoir over a long period of time.[16] Only recently have strains of SARS-related coronavirus evolved and made the cross-species jump from bats to humans, as in the case of the strains SARS-CoV and SARS-CoV-2.[17][18] Both of these strains descended from a single ancestor but made the cross-species jump into humans separately. SARS-CoV-2 is not a direct descendant of SARS-CoV.[7]
+
+Genome[edit]
+The SARS-related coronavirus is an enveloped, positive-sense, single-stranded RNA virus. Its genome is about 30 kb, which is one of the largest among RNA viruses. The virus has 14 open reading frames which overlap in some cases.[19] The genome has a 5′ methylated cap and a 3′ polyadenylated tail.[20] There are 265 nucleotides in the 5'UTR and 342 nucleotides in the 3'UTR.[19]
+
+The 5' methylated cap and 3' polyadenylated tail allows the positive-sense RNA genome to be directly translated by the host cell's ribosome on viral entry.[21] SARSr-CoV is similar to other coronaviruses in that its genome expression starts with translation by the host cell's ribosomes of its initial two large overlapping open reading frames (ORFs), 1a and 1b, both of which produce polyproteins.[19]
+
+The functions of several of the viral proteins are known.[25] ORFs 1a and 1b encode the replicase/transcriptase polyprotein, and later ORFs 2, 4, 5, and 9a encode, respectively, the four major structural proteins: spike, envelope, membrane, and nucleocapsid.[26] The later ORFs also encode for eight unique proteins (orf3a to orf9b), known as the accessory proteins, many with no known homologues. The different functions of the accessory proteins are not well understood.[25]
+
+Morphology[edit]
+The morphology of the SARS-related coronavirus is characteristic of the coronavirus family as a whole. The viruses are large pleomorphic spherical particles with bulbous surface projections that form a corona around the particles in electron micrographs.[27] The size of the virus particles is in the 80–90 nm range. The envelope of the virus in electron micrographs appears as a distinct pair of electron dense shells.[28]
+
+The viral envelope consists of a lipid bilayer where the membrane (M), envelope (E) and spike (S) proteins are anchored.[29] The spike proteins provide the virus with its bulbous surface projections. The spike protein's interaction with its complement host cell receptor is central in determining the tissue tropism, infectivity, and species range of the virus.[30][31]
+
+Inside  the envelope, there is the nucleocapsid, which is formed from multiple copies of the nucleocapsid (N) protein, which are bound to the positive-sense single-stranded (~30 kb) RNA genome in a continuous beads-on-a-string type conformation.[32][33] The lipid bilayer envelope, membrane proteins, and nucleocapsid protect the virus  when it is outside the host.[34]
+
+Life cycle[edit]
+SARS-related coronavirus follows the replication strategy typical of all coronaviruses.[20][35][36]
+
+Attachment and entry[edit]
+The attachment of the SARS-related coronavirus to the host cell is mediated by the spike protein and its receptor.[37] The spike protein receptor binding domain (RBD) recognizes and attaches to the angiotensin-converting enzyme 2 (ACE2) receptor.[4] Following attachment, the virus can enter the host cell by two different paths. The path the virus takes depends on the host protease available to cleave and activate the receptor-attached spike protein.[38]
+
+The first path the SARS coronavirus can take to enter the host cell is by endocytosis and uptake of the virus in an endosome. The receptor-attached spike protein is then activated by the host's pH-dependent cysteine protease cathepsin L. Activation of the receptor-attached spike protein causes a conformational change, and the subsequent fusion of the viral envelope with the endosomal wall.[38]
+
+Alternatively, the virus can enter the host cell directly by proteolytic cleavage of the receptor-attached spike protein by the host's TMPRSS2 or TMPRSS11D serine proteases at the cell surface.[39][40] In the SARS coronavirus, the activation of the C-terminal part of the spike protein triggers the fusion of the viral envelope with the host cell membrane by inducing conformational changes which are not fully understood.[41]
+
+Genome translation[edit]
+After fusion the nucleocapsid passes into the cytoplasm, where the viral genome is released.[37] The genome acts as a messenger RNA, and the cell's ribosome translates two-thirds of the genome, which corresponds to the open reading frame ORF1a and ORF1b, into two large overlapping polyproteins, pp1a and pp1ab. 
+
+The larger polyprotein pp1ab is a result of a -1 ribosomal frameshift caused by a slippery sequence (UUUAAAC) and a downstream RNA pseudoknot at the end of open reading frame ORF1a.[43] The ribosomal frameshift allows for the continuous translation of ORF1a followed by ORF1b.[44]
+
+The polyproteins contain their own proteases,  PLpro and 3CLpro, which cleave the polyproteins at different specific sites. The cleavage of polyprotein pp1ab yields 16 nonstructural proteins (nsp1 to nsp16). Product proteins include various replication  proteins such as RNA-dependent RNA polymerase (RdRp), RNA helicase, and exoribonuclease (ExoN).[44]
+
+Replication and transcription[edit]
+A number of the nonstructural replication proteins coalesce to form a multi-protein replicase-transcriptase complex (RTC).[44] The main replicase-transcriptase protein is the RNA-dependent RNA polymerase (RdRp). It is directly involved in the replication and transcription of RNA from an RNA strand. The other nonstructural proteins in the complex assist in the replication and transcription process.[42]
+
+The protein nsp15 is a 3'-5' exoribonuclease which provides extra fidelity to the replication process. The exoribonuclease provides a proofreading function to the complex which the RNA-dependent RNA polymerase lacks. Similarly, proteins nsp7 and nsp8 form a hexadecameric sliding clamp as part of the complex which greatly increases the processivity of the RNA-dependent RNA polymerase.[42] The coronaviruses require the increased fidelity and processivity during RNA synthesis because of the relatively large genome size in comparison to other RNA viruses.[45]
+
+One of the main functions of the replicase-transcriptase complex is to transcribe the viral genome. RdRp directly mediates the synthesis of  negative-sense subgenomic RNA molecules from the positive-sense genomic RNA. This is followed by the transcription of these negative-sense subgenomic RNA molecules to their corresponding positive-sense mRNAs.[46]
+
+The other important function of the replicase-transcriptase complex is to replicate the viral genome. RdRp directly mediates the synthesis of negative-sense genomic RNA from the positive-sense genomic RNA. This is followed by the replication of positive-sense genomic RNA from the negative-sense genomic RNA.[46]
+
+The replicated positive-sense genomic RNA becomes the genome of the progeny viruses. The various smaller mRNAs are transcripts from the last third of the virus genome which follows the reading frames ORF1a and ORF1b. These mRNAs are translated into the four structural proteins (S, E, M, and N) that will become part of the progeny virus particles and also eight other accessory proteins (orf3 to orf9b) which assist the virus.[47]
+
+Assembly and release[edit]
+RNA translation occurs  inside the endoplasmic reticulum. The viral structural proteins S,  E and M  move along the secretory pathway into the Golgi intermediate compartment. There, the M proteins direct most protein-protein interactions required for assembly of viruses following its binding to the nucleocapsid.[48]
+
+Progeny viruses are released from the host cell by exocytosis through secretory vesicles.[48]
+
+See also[edit]
+
+Coronavirus disease 2019 portal
+SARS-like coronavirus WIV1 (SL-CoV-WIV1)
+Notes[edit]
+References[edit]
+Further reading[edit]
+Peiris JS, Lai ST, Poon LL, Guan Y, Yam LY, Lim W,  et al. (April 2003). "Coronavirus as a possible cause of severe acute respiratory syndrome". Lancet. 361 (9366): 1319–25. doi:10.1016/s0140-6736(03)13077-2. PMID 12711465.
+Rota PA, Oberste MS, Monroe SS, Nix WA, Campagnoli R, Icenogle JP,  et al. (May 2003). "Characterization of a novel coronavirus associated with severe acute respiratory syndrome". Science. 300 (5624): 1394–9. Bibcode:2003Sci...300.1394R. doi:10.1126/science.1085952. PMID 12730500.
+Marra MA, Jones SJ, Astell CR, Holt RA, Brooks-Wilson A, Butterfield YS,  et al. (May 2003). "The Genome sequence of the SARS-associated coronavirus". Science. 300 (5624): 1399–404. Bibcode:2003Sci...300.1399M. doi:10.1126/science.1085953. PMID 12730501.
+Snijder EJ, Bredenbeek PJ, Dobbe JC, Thiel V, Ziebuhr J, Poon LL,  et al. (August 2003). "Unique and conserved features of genome and proteome of SARS-coronavirus, an early split-off from the coronavirus group 2 lineage". Journal of Molecular Biology. 331 (5): 991–1004. CiteSeerX 10.1.1.319.7007. doi:10.1016/S0022-2836(03)00865-9. PMID 12927536.
+Yount B, Roberts RS, Lindesmith L, Baric RS (August 2006). "Rewiring the severe acute respiratory syndrome coronavirus (SARS-CoV) transcription circuit: engineering a recombination-resistant genome". Proceedings of the National Academy of Sciences of the United States of America. 103 (33): 12546–51. Bibcode:2006PNAS..10312546Y. doi:10.1073/pnas.0605438103. PMC 1531645. PMID 16891412.
+Thiel V, ed. (2007). Coronaviruses: Molecular and Cellular Biology (1st ed.). Caister Academic Press. ISBN 978-1-904455-16-5.
+Enjuanes L, Sola I, Zúñiga S, Almazán F (2008). "Coronavirus Replication and Interaction with Host".  In Mettenleiter TC, Sobrino F (eds.). Animal Viruses: Molecular Biology. Caister Academic Press. ISBN 978-1-904455-22-6.
+External links[edit]
+WHO press release identifying and naming the SARS virus
+The SARS virus genetic map
+Science special on the SARS virus (free content: no registration required)
+McGill University SARS Resources at the Wayback Machine (archived 1 March 2005)
+U.S. Centers for Disease Control and Prevention (CDC) SARS home
+World Health Organization on alert
+vte
+Severe acute respiratory syndrome coronavirus
+Severe acute respiratory syndrome-related coronavirus
+2002–2004 SARS outbreak
+Outbreak among healthcare workers
+List of medical professionals who died
+Air China Flight 112
+SARS conspiracy theory
+Outbreak among healthcare workers
+List of medical professionals who died
+Air China Flight 112
+Zhong Nanshan
+Ab Osterhaus
+Joanna Tse
+Carlo Urbani
+Jiang Yanyong
+Plague City: SARS in Toronto
+Molson Canadian Rocks for Toronto
+1:99 Concert
+Contagion
+Coronavirus
+Global alert
+Health in China
+MERS-CoV
+SARS-CoV-2
+vte
+HIV
+AIDS
+AIDS
+Poliovirus
+Poliomyelitis
+Post-polio syndrome
+HTLV-I
+Tropical spastic paraparesis
+Poliomyelitis
+Post-polio syndrome
+Tropical spastic paraparesis
+Cytomegalovirus
+Cytomegalovirus retinitis
+HSV
+Herpes of the eye
+Cytomegalovirus retinitis
+Herpes of the eye
+CBV
+Pericarditis
+Myocarditis
+Pericarditis
+Myocarditis
+Epstein–Barr virus
+EBV infection/Infectious mononucleosis
+Cytomegalovirus
+EBV infection/Infectious mononucleosis
+IV: SARS coronavirus
+Severe acute respiratory syndrome
+MERS coronavirus
+Middle East respiratory syndrome
+SARS coronavirus 2
+Coronavirus disease 2019
+Severe acute respiratory syndrome
+Middle East respiratory syndrome
+Coronavirus disease 2019
+V: Orthomyxoviridae: Influenza virus A/B/C/D
+Influenza/Avian influenza
+Influenza/Avian influenza
+V, Paramyxoviridae: Human parainfluenza viruses
+Parainfluenza
+Human orthopneumovirus
+hMPV
+Parainfluenza
+MuV
+Mumps
+Cytomegalovirus
+Cytomegalovirus esophagitis
+Mumps
+Cytomegalovirus esophagitis
+CBV
+BK virus
+MuV
+Mumps
+Mumps
+Wikidata: Q278567
+Wikispecies: Severe acute respiratory syndrome-related coronavirus
+EoL: 11621416
+IRMNG: 11460764
+NCBI: 694009

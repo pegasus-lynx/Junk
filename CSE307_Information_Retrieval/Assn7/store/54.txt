@@ -1,0 +1,280 @@
+Title : Corona (satellite)
+
+The Corona[1] program was a series of American strategic reconnaissance satellites produced and operated by the Central Intelligence Agency Directorate of Science & Technology with substantial assistance from the U.S. Air Force. The Corona satellites were used for photographic surveillance of the Soviet Union (USSR), the People's Republic of China, and other areas beginning in June 1959 and ending in May 1972.
+
+Contents
+
+1 History and costs
+2 Design staff
+3 Technology
+
+3.1 Recovery
+3.2 Launch
+3.3 Corona launches with system types
+
+
+4 Discoverer
+5 ELINT subsatellites
+6 Declassification
+7 Launches
+8 Photo gallery
+9 See also
+10 In popular culture
+11 References
+12 External links
+
+
+3.1 Recovery
+3.2 Launch
+3.3 Corona launches with system types
+
+History and costs[edit]
+CORONA started under the name "DISCOVERER" as part of the WS-117L satellite reconnaissance and protection program of the US Air Force in 1956. The WS-117L was based on recommendations and designs from the RAND Corporation.[2] The United States Air Force credits the Onizuka Air Force Station (then called Sunnyvale Air Force Station) as being the "birthplace of the CORONA program".[3] In May 1958, the Department of Defense directed the transfer of the WS-117L program to Advanced Research Projects Agency (ARPA). In FY1958, WS-117L was funded by the USAF at a level of US$108.2 million (inflation adjusted US$0.96 billion in 2020). For DISCOVERER, the Air Force and ARPA spent a combined sum of US$132.3 million in FY1959 (inflation adjusted US$1.16 billion in 2020) and US$101.2 million in FY1960 (inflation adjusted US$0.87 billion in 2020).[4] According to John N. McMahon, the total cost of the CORONA program amounted to $US 850 million.[5]
+
+The CORONA project was pushed forward rapidly following the shooting down of a U-2 spy plane over the Soviet Union on 1 May 1960.[6]
+
+Design staff[edit]
+Minoru S. "Sam" Araki [de], Francis J. Madden [de], Edward A. Miller [de], James W. Plummer, and Don H. Schoessler [de] are responsible for the design, development, and operation of CORONA, the first space-based Earth observation systems. As a result, they were awarded Charles Stark Draper Prize in 2005.
+
+Technology[edit]
+The Corona satellites used special 70 millimeter film with a 24-inch (610 mm) focal length camera.[7] Manufactured by Eastman Kodak, the film was initially 0.0003 inches (7.6 μm) thick, with a resolution of 170 lines per 0.04 inches (1.0 mm) of film.[8][9] The contrast was 2-to-1.[8] (By comparison, the best aerial photography film produced in World War II could produce just 50 lines per mm (1250 per inch) of film.)[8] The acetate-based film was later replaced with a polyester-based film stock that was more durable in Earth orbit.[10] The amount of film carried by the satellites varied over time. Initially, each satellite carried 8,000 feet (2,400 m) of film for each camera, for a total of 16,000 feet (4,900 m) of film.[8] But a reduction in the thickness of the film stock allowed more film to be carried.[10] In the fifth generation, the amount of film carried was doubled to 16,000 feet (4,900 m) of film for each camera for a total of 32,000 feet (9,800 m) of film. This was accomplished by a reduction in film thickness and with additional film capsules.[11] Most of the film shot was black and white. Infrared film was used on mission 1104, and color film on missions 1105 and 1008. Color film proved to have lower resolution, and so was never used again.[12]
+
+The cameras were manufactured by the Itek Corporation.[13] A 12-inch (30 cm), f/5 triplet lens was designed for the cameras.[14] Each lens was 7 inches (18 cm) in diameter.[8] They were quite similar to the Tessar lenses developed in Germany by Zeiss.[15] The cameras themselves were initially 5 feet (1.5 m) long, but later extended to 9 feet (2.7 m) in length.[16] Beginning with the KH-4 satellites, these lenses were replaced with Petzval f/3.5 lens.[12] The lenses were panoramic, and moved through a 70° arc perpendicular to the direction of the orbit.[8] A panoramic lens was chosen because it could obtain a wider image. Although the best resolution was only obtained in the center of the image, this could be overcome by having the camera sweep automatically ("reciprocate") back and forth across 70° of arc.[17] The lens on the camera was constantly rotating, to counteract the blurring effect of the satellite moving over the planet.[12]
+
+The first Corona satellites had a single camera, but a two-camera system was quickly implemented.[18] The front camera was tilted 15° aft, and the rear camera tilted 15° forward, so that a stereoscopic image could be obtained.[8] Later in the program, the satellite employed three cameras.[18] The third camera was employed to take "index" photographs of the objects being stereographically filmed.[19]  The J-3 camera system, first deployed in 1967, placed the camera in a drum.  This "rotator camera" (or drum) moved back and forth, eliminating the need to move the camera itself on a reciprocating mechanism.[20] The drum permitted the use of up to two filters and as many as four different exposure slits, greatly improving the variability of images that Corona could take.[21] The first cameras could resolve images on the ground down to 40 feet (12 m) in diameter. Improvements in the imaging system were rapid, and the KH-3 missions could see objects 10 feet (3.0 m) in diameter. Later missions would be able to resolve objects just 5 feet (1.5 m) in diameter.[22] A single mission was completed with a 1 foot (0.30 m) resolution but the limited field of view was determined to be detrimental to the mission.[citation needed] 3 feet (0.91 m) resolution was found to be the optimum resolution for quality of image and field of view.
+
+The initial Corona missions suffered from mysterious border fogging and bright streaks which appeared irregularly on the returned film.  Eventually, a team of scientists and engineers from the project and from academia (among them Luis Alvarez, Sidney Beldner, Malvin Ruderman, Arthur Glines,[23] and Sidney Drell) determined that electrostatic discharges (called corona discharges) caused by some of the components of the cameras were exposing the film.[24][25] Corrective measures included better grounding of the components, improved film rollers that did not generate static electricity, improved temperature controls, and a cleaner internal environment.[25] Although improvements were made to reduce the corona, the final solution was to load the film canisters with a full load of film and then feed the unexposed film through the camera onto the take-up reel with no exposure. This unexposed film was then processed and inspected for corona. If none was found or the corona observed was within acceptable levels, the canisters were certified for use and loaded with fresh film for a launch mission.
+
+The first satellites in the program orbited at altitudes 100 miles (160 km) above the surface of the Earth, although later missions orbited even lower at 75 miles (121 km).[12] Originally, CORONA satellites were designed to spin along their main axis so that the satellite would remain stable.  Cameras would take photographs only when pointed at the Earth.  The Itek camera company, however, proposed to stabilize the satellite along all three axes—keeping the cameras permanently pointed at the earth.[15] Beginning with the KH-3 version of the satellite, a horizon camera took images of several key stars.[19] A sensor used the satellite's side thruster rockets to align the rocket with these "index stars," so that it was correctly aligned with the Earth and the cameras pointed in the right direction.[26] Beginning in 1967, two horizon cameras were used. This system was known as the Dual Improved Stellar Index Camera (DISIC).[21]
+
+Satellites were calibrated using the Corona Satellite Calibration Targets located outside of Casa Grande, Arizona. The targets consisted of concrete arrows located in and to the south of the city, and helped to calibrate the cameras of the satellites.[27][28][29]
+
+Recovery[edit]
+Film was retrieved from orbit via a reentry capsule (nicknamed "film bucket"), designed by General Electric, which separated from the satellite and fell to Earth.[30] After the fierce heat of reentry was over, the heat shield surrounding the vehicle was jettisoned at 60,000 feet (18 km) and parachutes deployed.[31] The capsule was intended to be caught in mid-air by a passing airplane[32] towing an airborne claw which would then winch it aboard, or it could land at sea.[33] A salt plug in the base would dissolve after two days, allowing the capsule to sink if it was not picked up by the United States Navy.[34] After Reuters reported on a reentry vehicle's accidental landing and discovery by Venezuelan farmers in mid-1964, capsules were no longer labeled "SECRET" but offered a reward in eight languages for their return to the United States.[35] Beginning with flight number 69, a two-capsule system was employed.[24] This also allowed the satellite to go into passive (or "zombie") mode, shutting down for as many as 21 days before taking images again.[11] Beginning in 1963, another improvement was "Lifeboat", a battery-powered system that allowed for ejection and recovery of the capsule in case power failed.[36][37] The film was processed at Eastman Kodak's Hawkeye facility in Rochester, New York.[38]
+
+The CORONA film bucket was later adapted for the KH-7 GAMBIT satellites, which took higher resolution photos.
+
+Launch[edit]
+CORONA were launched by a Thor-Agena rocket, which used a Thor first stage and an Agena as the second stage of the rocket lifting the CORONA into orbit.
+
+The first attempted launch in the program took place on January 21, 1959 at Vandenberg AFB's LC-75. As the Agena was being loaded with fuel (the Thor was still empty at this point), someone decided to conduct a test of the launch computer sequencer. The result was that the Agena accidentally received a signal that staging had taken place and to begin booster separation. As everyone in the blockhouse watched in dismay, the ullage rockets on the outside of the Agena began firing and the internal fuel pumps began spinning up for engine start. A quick-thinking member of the blockhouse crew then pressed a button on his control console to send a shutdown signal to the booster. Although potential disaster had been averted, the Agena now had nothing except gravity holding it onto the Thor and the risk of the stage falling to the ground, rupturing, and spilling its corrosive nitric acid/UDMH propellant load existed. In addition, the heat from the ullage rockets could potentially ignite the propellants in the stage. Pad crews had to wait several hours for the batteries in the Agena to run down before they could begin dismantling the launch vehicle. The Thor sustained minor damage and was sent back to Douglas for refurbishment, but the Agena had had nitric acid spilled down its exterior and was deemed unsafe to fly. In any case, it was one of the first Agena stages produced and lacked some technical refinements made to newer models. It ended up being used at Lockheed for training purposes.
+
+Discoverer 1 was a test of the performance capabilities of the propulsion and guidance system of the booster and satellite. It was launched on a Thor-Agena A rocket on 28 January 1959 at 21:49:16 GMT from Vandenberg Air Force Base in California. After first stage burnout at 28529 km/h, the rocket coasted to an orbital altitude where the second stage guidance system-oriented the spacecraft by means of pneumatic nitrogen jets. The second stage engine ignited when the correct attitude was achieved, putting the spacecraft into a polar orbit where it remained until re-entry on 17 March 1959. Discoverer 1 became the first man-made object ever put into a polar orbit. The difficulty was encountered receiving signals after launch, but the satellite broadcast intermittently later in the flight.[39]
+
+Shortly after the launch of Discoverer 1, an East German radio station attacked the US for "launching a military satellite without giving prior warning to any nation whose territory it might pass over", while it was in fact just a test payload with no reconnaissance capability that had not actually made it into orbit. 
+
+Discoverer 2 (14 April 1959) carried a recovery capsule for the first time and was also the first satellite to be placed into polar orbit. The main bus performed well, but the capsule recovery failed. It apparently came down near Svalbard, Norway, but was never found. Rumors persist that the Soviets recovered the capsule themselves, but there is no evidence of this and in any case, there would have been little information they could have gained from the small test payload. At this early phase, program planners were not even sure if the Thor/Agena had enough lift capacity to orbit a camera package. It is more likely that Discoverer 2's capsule sank into the ocean.
+
+Discoverer 3 was scheduled for launch on June 1. This satellite carried a biological payload with four black mice, the only one flown in the Corona program. The initial attempt miscarried when the mice poisoned themselves gnawing on Krylon paint inside the capsule, but a replacement batch was launched two days later. They never made it orbit however; the Agena suffered a guidance malfunction and sent the mice and spacecraft into the Pacific Ocean.
+
+Discoverer 4 (June 25) failed to orbit when the Agena engine underperformed and the capsule could not attain orbital velocity.
+
+Discoverer 5 (August 13) accidentally sent its capsule into a higher orbit where it remained until November 1961.
+
+Discoverer 6 (August 19) suffered a retrorocket failure that prevented the deorbit of the capsule.
+
+Discoverer 7 (November 7) experienced an attitude control malfunction in orbit, once again preventing capsule recovery.
+
+Discoverer 8 (November 20) was put into an incorrect orbit by the launch vehicle, again preventing capsule recovery.
+
+Discoverer 9 (February 4, 1960) ended up in the Pacific Ocean when the Thor cut off too early.
+
+Discoverer 10 (February 19) failed when the Thor suffered a control malfunction and was destroyed by Range Safety Officer just under a minute into launch.
+
+Discoverer 11 (April 15) suffered another attitude control malfunction in orbit.
+
+Discoverer 12 (June 29) failed to orbit due to an attitude control problem with the Agena.
+
+Discoverer 13 (August 10) managed a full successful capsule recovery for the first time. This was the first recovery of a man-made object from space, beating the Soviet Korabl Sputnik 2 by nine days.  Discoverer XIII is now on display in the "Milestones of Flight" hall in the Smithsonian Air and Space Museum in Washington, D.C.
+
+Discoverer 14 (August 18) carried a camera package for the first time. The cameras operated properly and the capsule was recovered from the Pacific Ocean 1-1/2 days after launch.
+
+Discoverer 15 (September 13) managed to successfully deorbit its capsule, but it sank into the Pacific Ocean and was not recovered.
+
+In 1963, the KH-4 system was introduced with dual cameras and the program now made completely secret. The Discoverer label was dropped and all launches became classified. Because of the increased satellite mass, the basic Thor-Agena vehicle was enhanced by the addition of three Castor solid-fueled strap-on motors. On February 28, 1963, the first Thrust Augmented Thor lifted from VAFB's LC-75 carrying the first KH-4 satellite. The launch of the new and unproven booster went awry as one SRB failed to ignite. Eventually the dead weight of the strap-on motor dragged the Thor off its flight path, leading to a Range Safety destruct. It was suspected that a technician had not attached an umbilical on the SRB properly. Although some failures continued to occur during the next few years, the reliability rate of the program significantly improved with KH-4.[36][40] Maneuvering rockets were also added to the satellite beginning in 1963.  These were different from the attitude stabilizing thrusters which had been incorporated from the beginning of the program.  Corona orbited in very low orbits to enhance resolution of its camera system.  But at perigee (the lowest point in the orbit), Corona endured drag from the Earth's atmosphere.  In time, this could cause its orbit to decay and force the satellite to re-enter the atmosphere prematurely.  The new maneuvering rockets were designed to boost Corona into a higher orbit, and lengthen the mission time even if low perigees were used.[41] For use during unexpected crises, the National Reconnaissance Office (NRO) kept a Corona in "R-7" status, meaning ready for launch in seven days. By the summer of 1965, NRO was able to maintain Corona for launch within one day.[42]
+
+The procurement and maintenance of the Corona satellites were managed by the Central Intelligence Agency, which used cover arrangements lasting from April 1958 to 1969 to get access to the Palo Alto plant of the Hiller Helicopter Corporation for the production.[43] At this facility, the rocket's second stage Agena, the cameras, film cassettes, and re-entry capsule were assembled and tested before shipment to Vandenberg Air Force Base.[44] In 1969, assembly duties were relocated to the Lockheed facilities in Sunnyvale, California.[45] (The NRO was worried that, as Corona was phased out, skilled technicians worried about their jobs would quit the program—leaving Corona without staff. The move to Sunnyvale ensured that enough skilled staff would be available.)
+
+The decisions regarding what to photograph were made by the Corona Target Program. Corona satellites were placed into near-polar orbits.[22] This software, run by an on-board computer, was programmed to operate the cameras based on the intelligence targets to be imaged, the weather, the satellite's operational status, and what images the cameras had already captured.[46] Ground control for Corona satellites was initially conducted from Stanford Industrial Park, an industrial park on Page Mill Road in Palo Alto, California. It was later moved to Sunnyvale Air Force Base near Sunnyvale, California.[47]
+
+Corona launches with system types[edit]
+The Corona satellites were designated KH-1, KH-2, KH-3, KH-4, KH-4A and KH-4B. KH stood for "Key Hole" or "Keyhole" (Code number 1010),[48] with the name being an analogy to the act of spying into a person's room by peering through their door's keyhole.  The incrementing number indicated changes in the surveillance instrumentation, such as the change from single-panoramic to double-panoramic cameras. The "KH" naming system was first used in 1962 with KH-4 and the earlier numbers were retroactively applied. There were 144 Corona satellites launched, of which 102 returned usable photographs.
+
+Below is a list of Corona launches, as compiled by the United States Geological Survey.[49] This table lists government's designation of each type of satellite (C, C-prime, J-1, etc.), the resolution of the camera, and a description of the camera system.
+
+*(The stray "quote marks" are the original designations of the first three generations of cameras.)
+
+Discoverer[edit]
+The first dozen or more CORONA satellites and their launches were cloaked with disinformation as being part of a space technology development program called the DISCOVERER program. The first test launches for the CORONA / DISCOVERER were carried out early in 1959. The first CORONA launch containing a camera was carried out in June 1959 with the cover name Discoverer 4. This was a 750 kilogram satellite launched by a Thor-Agena rocket.
+
+The return capsule of the Discoverer 13 mission, which launched 10 August 1960, was successfully recovered the next day.[50] This was the first time that any object had been recovered successfully from orbit. After the mission of Discoverer 14, launched on 18 August 1960, its film bucket was successfully retrieved two days later by a C-119 Flying Boxcar transport plane. This was the first successful return of photographic film from orbit. In comparison, Sputnik 5 was launched into orbit on 19 August 1960, one day after the launch of Discoverer 14. Sputnik 5 was a biosatellite that took into orbit the two Soviet space dogs, Belka and Strelka, and then safely returned them to the Earth.[51]
+
+At least two launches of DISCOVERER were used to test satellites for the Missile Defense Alarm System (MIDAS), an early missile-launch-detection program that used infrared cameras to detect the heat signature of rockets launching to orbit.[citation needed]
+
+The last launch under the DISCOVERER cover name was Discoverer 38 on 26 February 1962. Its bucket was successfully recovered in midair during the 65th orbit (the 13th recovery of a bucket; the ninth one in midair).[52] Following this last use of the DISCOVERER name, the remaining launches of CORONA satellites were entirely TOP SECRET. The last CORONA launch was on 25 May 1972. The project ended when CORONA was replaced by the KH-9 Hexagon program. The best sequence of CORONA missions was from 1966 to 1971, when there were 32 consecutive successful missions, including film recoveries.
+
+An alternative program to the CORONA program was named SAMOS. This program included several types of satellite which used a different photographic method. This involved capturing an image on photographic film, developing the film aboard the satellite and then scanning the image electronically. The image was then transmitted via telemetry to ground stations. The SAMOS E-1 and SAMOS E-2 satellite programs used this system, but they were not able to take very many pictures and then relay them to the ground stations each day. Two later versions of the SANOS program, such as the E-5 and the E-6, used the bucket-return approach, but neither of these programs carried out any successful missions.
+
+ELINT subsatellites[edit]
+Nine of the KH-4A and KH-4B missions included ELINT subsatellites, which were launched into a higher orbit.[53][54]
+
+Declassification[edit]
+The CORONA program was officially classified top secret until 1992. Then, on February 22, 1995, the photos taken by the CORONA satellites, and also by two contemporary programs (ARGON and KH-6 LANYARD) were declassified under an Executive Order signed by President Bill Clinton.[55]  The further review by photo experts of the "obsolete broad-area film-return systems other than CORONA" mandated by President Clinton's order led to the declassification in 2002 of the photos from the KH-7 and the KH-9 low-resolution cameras.[56]
+
+The declassified imagery has since been used by a team of scientists from the Australian National University to locate and explore ancient habitation sites, pottery factories, megalithic tombs, and Palaeolithic archaeological remains in northern Syria.[57][58]  Similarly, scientists at Harvard have used the imagery to identify prehistoric traveling routes in Mesopotamia.[59][60]
+
+The CORONA Digital Atlas of the Middle East Project hosts a large number of KH-4B imagery where users can view and download spatially corrected images.[61]
+
+Launches[edit]
+Photo gallery[edit]
+
+
+
+
+AF Sat Ctrl Facility during recovery ops
+
+
+
+
+
+
+CORONA re-entry parameters
+
+
+
+
+
+
+"A Point in Time: The CORONA Story" - a documentary movie about the first in history project of spy satellites. Created by the CIA and NRO in 1995 to commemorate declassification of CORONA project.
+
+
+
+
+
+
+
+
+
+AF Sat Ctrl Facility during recovery ops
+
+CORONA re-entry parameters
+
+"A Point in Time: The CORONA Story" - a documentary movie about the first in history project of spy satellites. Created by the CIA and NRO in 1995 to commemorate declassification of CORONA project.
+
+See also[edit]
+KH-5 ARGON, KH-6 LANYARD, KH-7 GAMBIT, KH-8
+SAMOS
+KH-9 Hexagon "Big Bird"
+KH-10 DORIAN or Manned Orbital Laboratory
+KH-11, KH-12, KH-13.
+Satellite imagery
+Cold War
+Zenit
+Richard M. Bissell, Jr.
+In popular culture[edit]
+The 1963 thriller novel Ice Station Zebra and its 1968 film adaptation were inspired, in part, by news accounts from April 17, 1959, about a missing experimental Corona satellite capsule (Discoverer II) that inadvertently landed near Spitzbergen on April 13. While Soviet agents may have recovered the vehicle,[44][68] it is more likely that the capsule landed in water and sank.[35] The Corona program is also mentioned in the video-game Call of Duty: Black Ops 2.
+
+References[edit]
+Notes
+
+Bibliography
+
+Burrows, William E. This New Ocean: The Story of the First Space Age. New York: Random House, 1998.
+Chun, Clayton K.S. Thunder Over the Horizon: From V-2 rockets to Ballistic Missiles. Westport: Praeger Security International, 2006.
+Collins, Martin. After Sputnik: 50 Years of the Space Age. New York: Smithsonian Books/HarperCollins, 2007.
+"Corona." Mission and Spacecraft Library. Jet Propulsion Laboratory.  National Aeronautics and Space Administration. No date. Accessed 2012-60-06.
+Day, Dwayen A.; Logsdon, John M.; and Latell, Brian, eds. Eye in the Sky: The Story of the Corona Spy Satellites.  Washington, D.C.: Smithsonian Institution Press, 1998. ISBN 978-1560988304
+"Discoverer/Corona: First U.S. Reconnaissance Satellite. National Air and Space Museum. Smithsonian Institution. 2002. Accessed 2012-06-06.
+Drell, Sidney D. "Physics and U.S. National Security." Reviews of Modern Physics. 71:2 (1999), p. S460-S470.
+Drell, Sidney D. "Reminiscences of Work on National Reconnaissance." in Nuclear Weapons, Scientists, and the Post-Cold War Challenge: Selected Papers on Arms Control. Sidney D. Drell, ed. Hackensack, N.J.: World Scientific, 2007.
+Jensen, John R. Remote Sensing of the Environment: An Earth Resource Perspective. Upper Saddle River, N.J.: Pearson Prentice Hall, 2007.
+Kramer, Herbert J. Observation of the Earth and Its Environment: Survey of Missions and Sensors. Berlin: Springer, 2002.
+Lewis, Jonathan E. Spy Capitalism: Itek and the CIA. New Haven, Conn.: Yale University Press, 2002.
+Monmonier, Mark S. Spying With Maps: Surveillance Technologies and the Future of Privacy. Chicago: University of Chicago Press, 2004.
+National Aeronautics and Space Administration.  Societal Impact of Spaceflight. Washington, D.C.: NASA, 2009.
+Olsen, Richard C. Remote Sensing From Air and Space. Bellingham, Wash.: SPIE Press, 2007.
+Peebles, Curtis. The Corona Project: America's First Spy Satellites. Annapolis, Md.: Naval Institute Press, 1997.
+Ruffner, Kevin C., ed. Corona: America's First Satellite Program. New York : Morgan James, 1995.
+Smith, F. Dow. "The Design and Engineering of Corona's Optics." in CORONA: Between the Sun & the Earth: The First NRO Reconnaissance Eye in Space. Robert McDonald, ed. Bethesda, Md.: ASPRS, 1997.
+Taubman, Phil. Secret Empire: Eisenhower, the CIA, and the Hidden Story of America’s Space Espionage. New York: Simon & Schuster, 2003. ISBN 0-684-85699-9
+Yenne, Bill. Secret Gadgets and Strange Gizmos: High-Tech (and Low-Tech) Innovations of the U.S. Military. Grand Rapids, Mich.: Publishers Group Worldwide, 2006.
+External links[edit]
+US Geological Survey Satellite Images: Photographic imagery from the CORONA, ARGON and LANYARD satellites (1959 to 1972).
+Corona page at NRO
+GlobalSecurity.org: Imagery Intelligence
+A Point in Time: The Corona Story  is available for free download at the Internet Archive
+Swords into Ploughshares: Archaeological Applications of CORONA Satellite Imagery in the Near East
+vte
+Corona
+Argon
+Lanyard
+Gambit 1
+Gambit 3
+Hexagon
+Kennen/Crystal
+Misty
+EIS
+Samos
+Quill
+Lacrosse/Onyx
+FIA-R
+Canyon
+Chalet/Vortex
+Mercury
+Poppy
+NOSS
+Rhyolite/Aquacade
+Magnum/Orion
+Mentor
+Jumpseat
+Trumpet
+Samos-F
+Poppy
+Bernie
+SDS
+SLDCOM
+STEX
+GeoLITE
+USA-193
+Colony
+RPP
+KH-1 Corona
+KH-2 Corona
+KH-3 Corona
+KH-4A Corona
+KH-4B Corona
+KH-5 Argon
+KH-6 Lanyard
+KH-7 Gambit
+KH-8 Gambit 3
+KH-9 Hexagon
+KH-10 Dorian
+Samos
+KH-11 Kennen
+Misty
+Enhanced Imaging System
+Quill
+Lacrosse
+FIA
+GRAB
+Poppy
+White Cloud
+Samos-F
+Jumpseat
+Trumpet
+Canyon
+Magnum
+Mentor (Orion)
+Mercury
+Rhyolite/Aquacade
+Vortex
+FORTE
+GPS
+DMSP
+Vela
+MIDAS
+DSP
+SBIRS
+STSS
+MiTEx
+USA-193

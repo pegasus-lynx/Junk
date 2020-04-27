@@ -1,0 +1,51 @@
+Title : Legibility Group
+
+The Legibility Group is a series of serif typefaces created by the American Mergenthaler Linotype Company and intended for use in newspapers on Linotype's hot metal typesetting system. They were developed in-house by Linotype's design team, led by Chauncey H. Griffith, and released from 1922, when the first member, Ionic No. 5, appeared.[1][2][3][4]
+
+Griffith's aim with the Legibility Group typefaces was to create a design with more body than the rather spindly Didone typefaces previously standard in newspaper printing.[5] To this end, the designs have low contrast in stroke weight, wide open counters and ball terminals, intended to make the letters clearly distinguishable even when printed on poor-quality newsprint paper. 
+
+The Legibility Group typefaces were extremely popular and remained used by many newspapers worldwide throughout the metal type period and beyond; many other newspaper typefaces from other foundries such as Intertype were created based on their design. A notable exception is Monotype's Times New Roman, which was created to take advantage of the unusually high standard of printing of the Times in the 1930s.[a] In 1972, British printing manager Allen Hutt commented that "the majority of the world's newspapers are typeset in one or another of the traditional Linotype 'Legibility Group', and most of the rest in their derivatives."[1]
+
+Contents
+
+1 Typefaces
+2 Design style
+3 Notes
+4 References
+
+4.1 Bibliography
+
+
+5 External links
+
+
+4.1 Bibliography
+
+Typefaces[edit]
+The family became a large group due to the creation of slightly different designs for different printing conditions, such as levels of inking used in different newspaper production processes and versions with different x-heights.[6][b] Linotype carried out a survey of optometrists as part of their research process.[8]
+
+Ionic No. 5 — the first in the family and extremely successful. Sometimes criticised for having too high an x-height, making lower-case letters very wide and reducing the difference between an "n" and an "h".[9] Bitstream Inc.'s News 701 typeface is an unofficial digitisation.
+Textype — similar but with a lower x-height, giving a more delicate structure with more contrast between letters with and without ascenders.[5]
+Excelsior — reduced x-height and intended for rubber-roller presses. Linotype has described its use as most common "in Europe, where newspaper columns are wide."[10][11]
+Opticon — heavier, to compensate for printing that deliberately underinks to favour halftones.[12]
+Paragon — lighter, to compensate for newspapers that deliberately overink to favour text and headlines.[12]
+Corona[c] — condensed and large on the body.[13] Walter Tracy praised it for carrying "the design of newspaper types to a new level."[5]
+Although not part of the family, Linotype marketed its sans-serif family Metro and slab serif face Memphis as effective complements for headings.[12]
+
+Design style[edit]
+The Legibility Group faces resemble the "modern" or Didone faces of the nineteenth century, with ball terminals, a curled leg on the "R" and a looped "Q". However, stroke contrast is limited and the apertures are held wide open to clearly differentiate letters. 
+
+As the name "Ionic No. 5" suggests, the "legibility group" typefaces resembled slab serif typefaces of the nineteenth century, variously called "Clarendon" or "Ionic", but it is modified from these to have a build suitable for body text.[14] Hutt suggests that the design was based on the popular family of the name Ionic from Miller & Richard and copies from other foundries, slightly bolder than was considered normal for body text during the late nineteenth century.[15] G. Willem Ovink, however, has argued that a more direct influence (although not on the italic) was American Type Founders' Century Expanded, also a Didone face with reduced contrast, but that Linotype were unwilling to admit any influence from a competitor's work and so chose a name suggesting a more distant inspiration.[16]
+
+Notes[edit]
+References[edit]
+Bibliography[edit]
+Miklavčič, Mitja (2006). Three chapters in the development of clarendon /ionic typefaces (PDF) (Thesis). University of Reading. Archived from the original (PDF) on November 25, 2011. Retrieved 6 October 2014.
+Consuegra, David. American Type Design & Designers. Allworth Communications, Inc.: 2004. ISBN 1-58115-320-1, ISBN 978-1-58115-320-0
+Hutt, Allen. Changing Newspaper: Typographic Trends in Britain and America 1622–1972. Gordon Fraser.: 1973. ISBN 0-900406-22-4, ISBN 978-0-900406-22-5
+Macmillan, Neil. An A-Z of Type Designers. Yale University Press.: 2006. ISBN 0-300-11151-7, ISBN 978-0-300-11151-4
+External links[edit]
+Excelsior Font Family — by Chauncey H. Griffith
+Font Designer — Chauncey H. Griffith
+Advertisement in the UK Daily Mirror promoting the changeover to using Ionic
+Linotype advertisement explaining the design's structure

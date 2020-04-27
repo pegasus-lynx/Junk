@@ -1,0 +1,13 @@
+Title : Corona poling
+
+Corona poling is a technique in optoelectronics.  
+
+Corona discharge is a partial breakdown of air, usually at atmospheric pressure, and is initiated by a discharge in an inhomogeneous electric field (see Figure 1). Corona discharge has been used to pole films of electro-optic materials to enhance their electro-optic properties. 
+
+Although corona poling can be performed at room temperature, poling at elevated temperature has several advantages. For example, raising the temperature in a polymer guest-host system close to its glass-rubber transition temperature before poling increases the mobility of the guest molecules and allows rotation to occur during poling. If during poling the temperature is lowered well below the transition temperature, the guest molecules are fixed in their new orientation.
+
+
+
+
+
+vte
