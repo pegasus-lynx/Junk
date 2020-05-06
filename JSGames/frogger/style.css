@@ -1,0 +1,32 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 220px;
+  width: 220px;
+  border-style: solid;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.ending-block {
+  background-color: rebeccapurple;
+}
+
+.starting-block {
+  background-color: cadetblue;
+}
+
+.frog {
+  background-color: forestgreen;
+}
+
+.o1 {
+  background-color: lightskyblue;
+}
+
+.o0 {
+  background-color: lightgray;
+}
