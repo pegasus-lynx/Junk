@@ -1,0 +1,16 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 240px;
+  width: 240px;
+  border-style: solid;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.block {
+  background-color: cadetblue;
+}
