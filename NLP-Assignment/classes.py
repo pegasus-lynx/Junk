@@ -30,6 +30,9 @@ class User(object):
         if self.password == password:
             return True
 
+    def get_pk(self):
+        return self.uid
+
 
 
 class Student(User):
@@ -37,7 +40,7 @@ class Student(User):
     student_ids = 0
 
     def __init__(self, name, email_id, password):
-        super.__init__(name, email_id, password, self.STUDENT)
+        super(Student, self).__init__(name, email_id, password, self.STUDENT)
         self.sid = self.student_ids
         self.student_ids += 1
 
@@ -73,12 +76,16 @@ class Student(User):
     def is_course_registered(self, sem, database):
         pass
 
+    def get_pk(self):
+        return self.sid
+
+
 class Professor(User):
 
     professor_ids = 0
 
     def __init__(self, name, email_id, password):
-        super.__init__(name, email_id, password, self.PROFESSOR)
+        super(Professor, self).__init__(name, email_id, password, self.PROFESSOR)
         self.pid = self.professor_ids
         self.professor_ids += 1
 
@@ -96,6 +103,10 @@ class Professor(User):
     def get_classes(self):
         pass
 
+    def get_pk(self):
+        return self.pid
+
+
 class Institute(User):
 
     _instance = False
@@ -106,7 +117,7 @@ class Institute(User):
             print("There is already an instance. Another cannot be created.")
             return
 
-        super.__init__("IIT(BHU)", "official@iitbhu.ac.in", "######", self.INSTITUTE)
+        super(Institute, self).__init__("IIT(BHU)", "official@iitbhu.ac.in", "######", self.INSTITUTE)
         self._instance = True
 
     def prepare_exam_schedule(self):
@@ -115,12 +126,15 @@ class Institute(User):
     def prepare_time_table(self):
         pass
 
+    def get_pk(self):
+        return 0
+
 class Department(User):
     
     dept_ids = 0
     
     def __init__(self, name, email, password):
-        super.__init__(name, email, password, self.DEPARTMENT)
+        super(Department, self).__init__(name, email, password, self.DEPARTMENT)
         self.did = self.dept_ids
         self.dept_ids += 1
 
@@ -142,6 +156,9 @@ class Department(User):
 
     def prepare_exam_schedule(self):
         pass
+
+    def get_pk(self):
+        return self.did
 
 
 
@@ -178,6 +195,9 @@ class Course(object):
     def add_student(self, database, sid):
         pass
 
+    def get_pk(self):
+        return self.cid
+
 
 class Classes(object):
     
@@ -203,6 +223,9 @@ class Classes(object):
 
     def get_prof(self, database):
         return database["professors"][self.prof_id].name
+
+    def get_pk(self):
+        return self.clid
 
 class Hostel(object):
     
@@ -235,10 +258,15 @@ class Hostel(object):
             database["students"][sid].hostel = self.hid
             self.left -= 1
 
+    def get_pk(self):
+        return self.hid
+
 #  Classes for Storage
 
 class Record(object):
     
+    record_ids = 0
+
     def __init__(self, student_id, sem):
         self.rid = self.record_ids
         self.record_ids += 1
@@ -254,23 +282,43 @@ class Record(object):
     def verify(self):
         self.verified = True
 
+    def get_pk(self):
+        return self.rid
+
 class StudentRegistration(Record):
     
+    student_reg_ids = 0
+
     def __init__(self, student_id, sem, fees):
-        super.__init__(student_id, sem)
+        super(Record, self).__init__(student_id, sem)
         self.fee_detail = fees
+
+        self.srid = self.student_reg_ids
+        self.student_reg_ids += 1
 
     def verify(self, database):
         pass  
+
+    def get_pk(self):
+        return self.srid
         
 
 class CourseRegistration(Record):
+
+    course_reg_ids = 0
     
-    def __init__(self, course_ids):
+    def __init__(self, student_id, sem, course_ids):
+        super(CourseRegistration, self).__init__(student_id, sem)
         self.course_ids = course_ids
+
+        self.crid = self.course_reg_ids
+        self.course_reg_ids += 1
 
     def is_complete(self):
         return self.is_verified()
 
     def verify(self, database):
         pass
+
+    def get_pk(self):
+        return self.crid
