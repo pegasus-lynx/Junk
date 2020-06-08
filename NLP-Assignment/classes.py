@@ -1,15 +1,17 @@
 
 # Classes for Interaction
 
-STUDENT   = 3
-PROFESSOR = 2
-DEPARTMENT = 1
-INSTITUTE = 0
+
 
 
 class User(object):
     
     user_ids = 0
+
+    STUDENT   = 3
+    PROFESSOR = 2
+    DEPARTMENT = 1
+    INSTITUTE = 0    
     
     def __init__(self, name, email_id, password, role):
         
@@ -21,9 +23,10 @@ class User(object):
         self.password = password
         self.dob = None
 
-        self.role = STUDENT
+        self.role = self.STUDENT
 
     def _verify_password(self, password):
+        print("Works")
         if self.password == password:
             return True
 
@@ -34,7 +37,7 @@ class Student(User):
     student_ids = 0
 
     def __init__(self, name, email_id, password):
-        super.__init__(name, email_id, password, STUDENT)
+        super.__init__(name, email_id, password, self.STUDENT)
         self.sid = self.student_ids
         self.student_ids += 1
 
@@ -75,7 +78,7 @@ class Professor(User):
     professor_ids = 0
 
     def __init__(self, name, email_id, password):
-        super.__init__(name, email_id, password, PROFESSOR)
+        super.__init__(name, email_id, password, self.PROFESSOR)
         self.pid = self.professor_ids
         self.professor_ids += 1
 
@@ -103,7 +106,7 @@ class Institute(User):
             print("There is already an instance. Another cannot be created.")
             return
 
-        super.__init__("IIT(BHU)", "official@iitbhu.ac.in", "######", INSTITUTE)
+        super.__init__("IIT(BHU)", "official@iitbhu.ac.in", "######", self.INSTITUTE)
         self._instance = True
 
     def prepare_exam_schedule(self):
@@ -117,7 +120,7 @@ class Department(User):
     dept_ids = 0
     
     def __init__(self, name, email, password):
-        super.__init__(name, email, password, DEPARTMENT)
+        super.__init__(name, email, password, self.DEPARTMENT)
         self.did = self.dept_ids
         self.dept_ids += 1
 
@@ -148,11 +151,11 @@ class Course(object):
         self.cid = course_id
         self.name = name
 
-        self.offered_by = INSTITUTE
+        self.offered_by = self.INSTITUTE
         self.dept = None
 
         if dept:
-            self.offered_by = DEPARTMENT
+            self.offered_by = self.DEPARTMENT
             self.dept = dept_id
         
         
