@@ -1,12 +1,12 @@
 from classes import *
 
-class Database(item):
+class Database(object):
     
     _instance = False
     _tables = None
 
     _table_names = ["user", "student", "professor", "department", "institute", 
-                    "record", "student_registration", "course_registration"
+                    "record", "student_reg", "course_reg"
                     "hostel", "course", "classes"]
 
     _table_pk_names = {
@@ -14,8 +14,9 @@ class Database(item):
         "professor": "pid", "hostel": "hid",
         "institute": "iid", "record": "rid",
         "classes": "clid", "course": "cid",
-        "student_registration": "srid",
-        "course_registration": "crid",
+        "student_reg": "srid",
+        "course_reg": "crid",
+        "department": "did"
     }
 
     def __init__(self):
@@ -28,7 +29,7 @@ class Database(item):
     def create_tables(self):
         tables = dict()
 
-        for table in table_names:
+        for table in self._table_names:
             tables[table] = dict()
 
         return tables
@@ -119,7 +120,7 @@ class Database(item):
         pass
 
     def can_add(self, table, pk):
-        if self.exists(table):
+        if self.exists(table, pk):
             return False
         return True
 
