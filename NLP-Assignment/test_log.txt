@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.2, pytest-5.4.2, py-1.8.1, pluggy-0.13.1
+rootdir: /home/parzival/Repos/Junk/NLP-Assignment
+collected 25 items
+
+test_unit.py .........................                                   [100%]
+
+============================== 25 passed in 0.16s ==============================

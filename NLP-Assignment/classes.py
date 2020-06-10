@@ -151,7 +151,7 @@ class System(object):
         
         
         ret = course.add_class(self._database, prof, timings)
-        if not ret:
+        if ret == False:
             print("Class can not be added. Timngs clash.")
             return False
     
@@ -200,8 +200,10 @@ class User(object):
             ret = database.update("user", self)
         except Exception as e:
             print("The operation ended abruptly.")
-            self.password = old_password
             ret = False
+
+        if ret == False:
+            self.password = old_password
 
         return ret
 
@@ -274,7 +276,7 @@ class Student(User):
 
     def register(self, database, sem, fees_detail):
 
-        if len(fees_detail) != 10 and not fees_detail.startswith("DU"):
+        if len(fees_detail) != 10 or not fees_detail.startswith("DU"):
             return False
 
         reg = StudentRegistration(self.sid, sem, fees_detail)
@@ -283,7 +285,7 @@ class Student(User):
 
     def is_registered(self, database, sem):
         flag = False
-        for pk, obj in database._tables["student_reg"].values:
+        for pk, obj in database._tables["student_reg"].items():
             if obj.sem == sem and obj.sid == self.sid:
                 if obj.verified == 1:
                     flag = True
@@ -291,7 +293,7 @@ class Student(User):
 
     def is_course_registered(self, database, sem):
         flag = False
-        for pk, obj in database._tables["course_reg"].values():
+        for pk, obj in database._tables["course_reg"].items():
             if obj.sem == sem and obj.sid == self.sid:
                 if obj.verified == 1:
                     flag = True
@@ -429,7 +431,7 @@ class Institute(User):
         courses = []
         course_regs = list(database._tables["course_reg"].values())
 
-        regs = [x for x in course_regs if x.verifed == 0]
+        regs = [x for x in course_regs if x.verified == 0]
 
         for reg in regs:
             valid = True
@@ -467,8 +469,6 @@ class Department(User):
         self.did = Department._dept_ids
         Department._dept_ids += 1
 
-        print(self.did, self._dept_ids)
-
         self.name = ""
         self.hod  = None
         self.phone = None
@@ -492,10 +492,10 @@ class Department(User):
 
     def verify_student_registrations(self, database):
         student_regs = list(database._tables["student_reg"].values())
-        regs = [x for x in student_regs if x.verifed == 0]
+        regs = [x for x in student_regs if x.verified == 0]
 
         for reg in regs:
-            if reg.fees is not None:
+            if reg.fee_detail is not None and len(reg.fee_detail) == 10:
                 reg.verified = Record.PASSED
 
         database.update_batch("student_reg", regs)
@@ -616,7 +616,7 @@ class Classes(object):
 
         self.strength += 1
         student.classes.append(self.clid)
-        database.update(self, "student", student)
+        database.update("student", student)
         return True
 
     def add_students(self, database, sids):
@@ -716,9 +716,8 @@ class StudentRegistration(Record):
     _student_reg_ids = 0
 
     def __init__(self, student_id, sem, fees):
-        super(Record, self).__init__(student_id, sem)
+        super(StudentRegistration, self).__init__(student_id, sem)
         self.fee_detail = fees
-        self.verified = True
 
         self.srid = StudentRegistration._student_reg_ids
         StudentRegistration._student_reg_ids += 1
