@@ -1,7 +1,6 @@
 
 # Classes for object creation and storage in database
 
-# Constraint Checks in next iteration
 class System(object):
     
     _instance = False
@@ -15,46 +14,149 @@ class System(object):
         self._instance = True
 
     def add_student(self, name, email_id, password, dept_id):
+        
+        if not self._database.exists("department", dept_id):
+            print("Department does not exist.")
+            return False
+
+        emails = [x.email_id for x in self._database._tables["user"].values()]
+        if email_id in emails:
+            print("Email-Id already exists.")
+            return False
+
         student = Student(name, email_id, password, dept_id)
-        user = User(nanme, email_id, password, User.STUDENT)
+        user = User(name, email_id, password, User.STUDENT)
         user.uid = student.uid
-        self._database.add("user", user)
-        self._database.add("student", student)
+
+        if self._database.can_add("user", user.uid) and self._database.can_add("student", student.sid):
+            self._database.add("user", user)
+            self._database.add("student", student)
+            return True
+        return False
 
     def add_professor(self, name, email_id, password, dept_id):
+
+        if not self._database.exists("department", dept_id):
+            print("Department does not exist.")
+            return False
+
+        emails = [x.email_id for x in self._database._tables["user"].values()]
+        if email_id in emails:
+            print("Email-Id already exists.")
+            return False
+
         professor = Professor(name, email_id, password, dept_id)
         user = User(name, email_id, password, User.PROFESSOR)
         user.uid = professor.uid
-        self._database.add("user", user)
-        self._database.add("professor", professor)
+
+        if self._database.can_add("user", user.uid) and self._database.can_add("professor", professor.pid):
+            self._database.add("user", user)
+            self._database.add("professor", professor)
+            return True
+
+        return False
 
     def add_course(self, course_id, name, term, dept_id=None, convenor=None):
+        cids = list(self._database._tables["course"].keys()) 
+        if course_id in cids:
+            print("Course ID already exsits")
+            return False
+
+        if convenor is not None:
+            if not self._database.exists("professor", convenor):
+                print("No such professor")
+                return False
+
+        if dept_id is not None:
+            if not self._database.exists("department", dept_id):
+                print("Department does not exist.")
+                return False
+            
         course = Course(course_id, name, term, dept_id, convenor)
-        self._database.add("course", course)
+        if self._database.can_add("course", course.cid):
+            self._database.add("course", course)
+            return True
+
+        return False
 
     def add_institute(self):
+
+        if len(self._database._tables["institute"].keys()) > 0:
+            print("Cannot instantiate Institute again.")
+            return False
+
+        emails = [x.email_id for x in self._database._tables["user"].values()]
+
         institute = Institute()
+
+        if institute.email_id in emails:
+            print("Email-Id already exists.")
+            return False
+
         user = User(institute.name, institute.email_id, institute.password, User.INSTITUTE)
         user.uid = institute.uid
-        self._database.add("user", user)
-        self._database.add("institute", institute)
+
+        if self._database.can_add("user", user.uid) and self._database.can_add("institute", institute.get_pk()):
+            self._database.add("user", user)
+            self._database.add("institute", institute)
+            return True
+
+        return False
 
     def add_department(self, name, email_id, password):
+
+        emails = [x.email_id for x in self._database._tables["user"].values()]
+        if email_id in emails:
+            print("Email-Id already exists.")
+            return False
+
         dept = Department(name, email_id, password)
         user = User(name, email_id, password, User.DEPARTMENT)
         user.uid = dept.uid
-        self._database.add("user", user)
-        self._database.add("department", dept)
+
+        if self._database.can_add("user", user.uid) and self._database.can_add("department", dept.did): 
+            self._database.add("user", user)
+            self._database.add("department", dept)
+            return True
+
+        return False
 
     def add_hostel(self, hostel_name, capacity, warden=None):
+        
+        if warden is not None:
+            if not self._database.exists("professor", warden):
+                print("No such professor")
+                return False
+        
         hostel = Hostel(hostel_name, capacity, warden)
-        self._database.add("hostel", hostel)
+
+        if self._database.can_add("hostel", hostel.get_pk()):
+            self._database.add("hostel", hostel)
+            return True
+
+        return False
 
     def add_classes(self, course_id, prof_id, timings):
+
+        if not self._database.exists("course", course_id):
+            print("No such course exists")
+            return False
+
+        if not self._database.exists("professor", prof_id):
+            print("No such professor exists")
+            return False
+
         course = self._database.find_by_pk("course", course_id)
         prof = self._database.find_by_pk("professor", prof_id)
-        course.add_class(self._database, prof, timings)
+        
+        
+        ret = course.add_class(self._database, prof, timings)
+        if not ret:
+            print("Class can not be added. Timngs clash.")
+            return False
+    
         self._database.update("course", course)
+        return True
 
 class User(object):
     
@@ -86,18 +188,23 @@ class User(object):
     def change_password(self, database, old_password, new_password):
         if not self._verify_password(old_password):
             print("The old password is incorrect.")
-            return
+            return False
         
         if len(new_password) < 4:
             print("Password to small. Cannot be changed.")
-            return
+            return False
 
+        ret = None
         try:
             self.password = new_password
-            database.update(self._table_name, self)
+            ret = database.update("user", self)
         except Exception as e:
             print("The operation ended abruptly.")
             self.password = old_password
+            ret = False
+
+        return ret
+
     
     def get_pk(self):
         return self.uid
@@ -149,12 +256,30 @@ class Student(User):
         return names
 
     def course_registration(self, database, sem, course_ids):
+
+        flag = True
+        for pk in course_ids:
+            if not database.exists("course", pk):
+                flag = False
+                break
+
+        if not flag:
+            print("All courses not available.")
+            return False
+
         creg = CourseRegistration(self.sid, sem, course_ids)
-        database.add("course_reg", creg)
+        ret = database.add("course_reg", creg)
+        return ret
+
 
     def register(self, database, sem, fees_detail):
+
+        if len(fees_detail) != 10 and not fees_detail.startswith("DU"):
+            return False
+
         reg = StudentRegistration(self.sid, sem, fees_detail)
-        database.add("student_reg", reg)
+        ret = database.add("student_reg", reg)
+        return ret
 
     def is_registered(self, database, sem):
         flag = False
@@ -348,8 +473,17 @@ class Department(User):
         self.hod  = None
         self.phone = None
 
-    def set_hod(self, prof):
+    def set_hod(self, database, prof):
+        if not database.exists("professor", prof.get_pk()):
+            print("Professor not in database.")
+            return False
+
+        if self.did != prof.dept:
+            print("Professor is not of the same department")
+            return False
+
         self.hod = prof.pid
+        return True
 
     def get_hod(self, database):
         if self.hod:
@@ -398,8 +532,20 @@ class Course(object):
         database.add("classes", cclass)
         self.classes.append(cclass.clid)
 
-    def set_convenor(self, prof):
+    def set_convenor(self, database, prof):
+        if not database.exists("professor", prof.get_pk()):
+            print("Professor not in database.")
+            return False
+
+
+        if self.dept is not None:
+            if self.dept != prof.dept:
+                print("Professor is not in the same department")
+                return False
+
         self.convenor = prof.pid
+        database.update("course", self)
+        return True
         
     def get_convenor(self, database):
         if self.convenor:
@@ -434,13 +580,34 @@ class Classes(object):
         if timings is not None:
             self.timings = timings
 
-    def set_timings(self, timings):
+    def set_timings(self, database, timings):
+
+        if len(timings) != 5:
+            print("Must be a list of len 5")
+            return False
+
+        valid = True
+        for val in timings:
+            if val[0] == val[1] and val[0] != 0:
+                valid = False
+                break
+
+        if not valid:
+            print("For no class the tuple should be '(0,0)'")
+            return False
+
         self.timings = timings
+        return True
 
     def get_timings(self):
         return self.timings
 
     def add_student(self, database, sid):
+
+        if not database.exists("student", sid):
+            print("Student not in database")
+            return False
+
         student = database.find_by_pk("student",sid)
 
         if student is None:
@@ -488,8 +655,13 @@ class Hostel(object):
         
         self.warden = warden
 
-    def set_warden(self, prof):
+    def set_warden(self, database, prof):
+        if not database.exists("professor", prof.get_pk()):
+            print("Professor not in database.")
+            return False
+
         self.warden = prof.pid
+        return True
 
     def get_warden(self, database):
         if self.warden:

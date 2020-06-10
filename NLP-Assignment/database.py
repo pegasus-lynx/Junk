@@ -6,7 +6,7 @@ class Database(object):
     _tables = None
 
     _table_names = ["user", "student", "professor", "department", "institute", 
-                    "record", "student_reg", "course_reg"
+                    "record", "student_reg", "course_reg",
                     "hostel", "course", "classes"]
 
     _table_pk_names = {
@@ -34,6 +34,10 @@ class Database(object):
 
         return tables
 
+    def clear(self):
+        for table in self._table_names:
+            self._tables[table] = dict()
+
     def load(self, filename):
         pass
 
@@ -43,9 +47,10 @@ class Database(object):
         if not self.can_add(table, pk):
             print("Instance with {} : {} exists".format(
                 self._table_pk_names[table], pk))
-            return
+            return False
 
         self._tables[table][pk] = item
+        return True
 
     def update(self, table, item):
         pk = item.get_pk()
@@ -53,9 +58,10 @@ class Database(object):
         if not self.can_update(table, pk):
             print("Instance with the {} : {} does not exists".format(
                 self._table_pk_names[table], pk))
-            return
+            return False
 
         self._tables[table][pk] = item
+        return True
 
     def remove(self, table, item):
         pk = item.get_pk()
@@ -63,9 +69,10 @@ class Database(object):
         if not self.can_remove(table, pk):
             print("Instance with {} : {} does not exist".format(
                         self._table_pk_names[table], pk))
-            return
+            return False
 
         del self._tables[table][pk]
+        return True
 
     def add_batch(self, table, items):
         pks  = [item.get_pk() for item in items]
@@ -75,10 +82,12 @@ class Database(object):
             p = mask.index(False)
             print("Instance with {} : {} exists".format(
                 self._table_pk_names[table], pks[p]))
-            return
+            return False
 
         for item in items:
             self.add(table, item)
+
+        return True
 
     def update_batch(self, table, items):
         pks  = [item.get_pk() for item in items]
@@ -88,10 +97,12 @@ class Database(object):
             p = mask.index(False)
             print("Instance with {} : {} does not exist".format(
                 self._table_pk_names[table], pks[p]))
-            return
+            return False
 
         for item in items:
             self.update(table, item)
+
+        return True
 
     def remove_batch(self, table, items):
         pks  = [item.get_pk() for item in items]
@@ -101,15 +112,17 @@ class Database(object):
             p = mask.index(False)
             print("Instance with {} : {} does not exist".format(
                 self._table_pk_names[table], pks[p]))
-            return
+            return False
 
         for item in items:
             self.remove(table, item)
 
+        return True
+
     def find_by_pk(self, table, pk):
         if not self.exists(table, pk):
             print("The object doesn't exist in the database.")
-            return
+            return None
 
         return self._tables[table][pk]
 
@@ -138,3 +151,4 @@ class Database(object):
         if pk in self._tables[table].keys():
             return True
         return False
+
